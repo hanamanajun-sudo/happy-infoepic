@@ -17,5 +17,8 @@
     "@astrojs/sitemap": "^3.7.3",
     "astro": "^6.4.2",
     "rehype-slug": "^6.0.0"
+  },
+  "devDependencies": {
+    "wrangler": "^4.107.0"
   }
 }
