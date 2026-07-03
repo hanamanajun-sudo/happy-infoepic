@@ -1,0 +1,151 @@
+---
+export interface Props {
+  title: string;
+  url: string;
+}
+const { title, url } = Astro.props;
+const encodedUrl = encodeURIComponent(url);
+const encodedTitle = encodeURIComponent(title);
+---
+<div class="share-bar">
+  <span class="share-label">공유하기</span>
+
+  <!-- 링크 복사 -->
+  <button class="share-btn share-copy" id="copyBtn" aria-label="링크 복사" data-url={url}>
+    <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
+      <rect x="9" y="9" width="13" height="13" rx="2"/><path d="M5 15H4a2 2 0 01-2-2V4a2 2 0 012-2h9a2 2 0 012 2v1"/>
+    </svg>
+    <span>링크 복사</span>
+  </button>
+
+  <!-- 트위터/X -->
+  <a class="share-btn share-twitter"
+     href={`https://twitter.com/intent/tweet?text=${encodedTitle}&url=${encodedUrl}`}
+     target="_blank" rel="noopener" aria-label="X(트위터)에 공유">
+    <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="currentColor">
+      <path d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-5.214-6.817L4.99 21.75H1.68l7.73-8.835L1.254 2.25H8.08l4.713 6.231zm-1.161 17.52h1.833L7.084 4.126H5.117z"/>
+    </svg>
+    <span>X</span>
+  </a>
+
+  <!-- 모바일 공유 (Web Share API) -->
+  <button class="share-btn share-native" id="nativeShareBtn" aria-label="공유하기"
+          data-title={title} data-url={url} hidden>
+    <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
+      <circle cx="18" cy="5" r="3"/><circle cx="6" cy="12" r="3"/><circle cx="18" cy="19" r="3"/>
+      <path d="M8.59 13.51l6.83 3.98M15.41 6.51l-6.82 3.98"/>
+    </svg>
+    <span>공유하기</span>
+  </button>
+</div>
+
+<div id="copyToast" class="copy-toast" aria-live="polite" hidden>링크가 복사됐습니다!</div>
+
+<style>
+.share-bar {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  flex-wrap: wrap;
+  margin-top: 2.5rem;
+  padding-top: 1.5rem;
+  border-top: 1px solid var(--color-border);
+  max-width: var(--content-max);
+}
+
+.share-label {
+  font-size: 0.85rem;
+  font-weight: 600;
+  color: var(--color-text-muted);
+  margin-right: 0.25rem;
+}
+
+.share-btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.35rem;
+  padding: 0.45rem 0.9rem;
+  border-radius: 999px;
+  font-size: 0.82rem;
+  font-weight: 600;
+  cursor: pointer;
+  border: 1px solid var(--color-border);
+  background: var(--color-bg-card);
+  color: var(--color-text);
+  text-decoration: none;
+  transition: background 0.15s, border-color 0.15s, color 0.15s;
+}
+
+.share-btn:hover {
+  background: var(--color-primary);
+  border-color: var(--color-primary);
+  color: #fff;
+}
+
+.share-twitter { color: #000; }
+.share-twitter:hover { background: #000; border-color: #000; color: #fff; }
+
+.share-native { color: var(--color-text); }
+.share-native:hover { background: var(--color-secondary); border-color: var(--color-secondary); color: #fff; }
+
+.copy-toast {
+  position: fixed;
+  bottom: 1.5rem;
+  left: 50%;
+  transform: translateX(-50%);
+  background: var(--color-primary);
+  color: #fff;
+  padding: 0.6rem 1.25rem;
+  border-radius: 999px;
+  font-size: 0.875rem;
+  font-weight: 500;
+  z-index: 9999;
+  box-shadow: var(--shadow-md);
+  animation: fadeInUp 0.2s ease;
+}
+
+@keyframes fadeInUp {
+  from { opacity: 0; transform: translateX(-50%) translateY(8px); }
+  to   { opacity: 1; transform: translateX(-50%) translateY(0); }
+}
+</style>
+
+<script>
+const copyBtn = document.getElementById('copyBtn');
+const toast = document.getElementById('copyToast');
+const nativeBtn = document.getElementById('nativeShareBtn');
+
+// Show native share button only if Web Share API is supported
+if (navigator.share) {
+  nativeBtn?.removeAttribute('hidden');
+}
+
+copyBtn?.addEventListener('click', async () => {
+  const url = copyBtn.dataset.url ?? window.location.href;
+  try {
+    await navigator.clipboard.writeText(url);
+  } catch {
+    const ta = document.createElement('textarea');
+    ta.value = url;
+    document.body.appendChild(ta);
+    ta.select();
+    document.execCommand('copy');
+    document.body.removeChild(ta);
+  }
+  if (toast) {
+    toast.removeAttribute('hidden');
+    setTimeout(() => toast.setAttribute('hidden', ''), 2500);
+  }
+});
+
+nativeBtn?.addEventListener('click', async () => {
+  try {
+    await navigator.share({
+      title: nativeBtn.dataset.title,
+      url: nativeBtn.dataset.url ?? window.location.href,
+    });
+  } catch (e) {
+    // User cancelled — no action needed
+  }
+});
+</script>

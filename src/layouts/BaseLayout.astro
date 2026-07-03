@@ -1,0 +1,90 @@
+---
+import Header from '../components/Header.astro';
+import Footer from '../components/Footer.astro';
+import '../styles/global.css';
+
+export interface Props {
+  title: string;
+  description?: string;
+  canonical?: string;
+  ogImage?: string;
+  type?: 'website' | 'article';
+  publishedTime?: string;
+  tags?: string[];
+}
+
+const {
+  title,
+  description = '오늘의 해피를 기록하다 — 라이프스타일, 문화연예, 꿀팁, 맛집까지 큐레이션하는 해피로그',
+  canonical,
+  ogImage = '/og-default.png',
+  type = 'website',
+  publishedTime,
+  tags = [],
+} = Astro.props;
+
+const siteUrl = 'https://happy.infoepic.com';
+const canonicalUrl = canonical ? `${siteUrl}${canonical}` : `${siteUrl}${Astro.url.pathname}`;
+const ogImageUrl = ogImage.startsWith('http') ? ogImage : `${siteUrl}${ogImage}`;
+const fullTitle = title === '해피로그' ? title : `${title} | 해피로그`;
+---
+<!doctype html>
+<html lang="ko">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+
+  <title>{fullTitle}</title>
+  <meta name="description" content={description} />
+  <link rel="canonical" href={canonicalUrl} />
+
+  <!-- Open Graph -->
+  <meta property="og:type" content={type} />
+  <meta property="og:title" content={fullTitle} />
+  <meta property="og:description" content={description} />
+  <meta property="og:url" content={canonicalUrl} />
+  <meta property="og:image" content={ogImageUrl} />
+  <meta property="og:site_name" content="해피로그" />
+  <meta property="og:locale" content="ko_KR" />
+  {type === 'article' && publishedTime && (
+    <meta property="article:published_time" content={publishedTime} />
+  )}
+  {tags.map(tag => (
+    <meta property="article:tag" content={tag} />
+  ))}
+
+  <!-- Twitter Card -->
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:title" content={fullTitle} />
+  <meta name="twitter:description" content={description} />
+  <meta name="twitter:image" content={ogImageUrl} />
+
+  <!-- Favicon -->
+  <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+
+  <slot name="head" />
+
+  <!--
+    Google Analytics / AdSense: happy.infoepic.com은 game.infoepic.com과 별도의
+    GA4 속성 / AdSense 계정을 써야 하므로, 실제 측정 ID를 발급받기 전까지는
+    스크립트를 비워둡니다. (game.infoepic의 ID를 그대로 쓰면 다른 사이트로
+    트래픽이 잘못 집계되고 AdSense 정책 위반 소지가 있음)
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-XXXXXXXXXX"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', 'G-XXXXXXXXXX');
+    </script>
+    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-XXXXXXXXXXXXXXXX"
+       crossorigin="anonymous"></script>
+  -->
+</head>
+<body>
+  <Header />
+  <main id="main">
+    <slot />
+  </main>
+  <Footer />
+</body>
+</html>

@@ -1,0 +1,326 @@
+@import url('https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/variable/pretendardvariable-dynamic-subset.css');
+@import url('https://fonts.googleapis.com/css2?family=Do+Hyeon&family=Gaegu:wght@400;700&display=swap');
+
+:root {
+  /* ── Brand: "디지털 다이어리" 컨셉 — 크림 종이 위 형광펜 스티커 ── */
+  --color-bg: #FFF8EE;
+  --color-bg-card: #FFFFFF;
+  --color-paper: #FFFCF6;
+
+  --color-primary: #FF4F81;      /* 핫핑크 — 메인 포인트 */
+  --color-primary-dark: #E8386A;
+  --color-secondary: #FFC93C;    /* 선명한 옐로 — 서브 포인트 */
+  --color-accent: #6C5CE7;       /* 바이올렛 — 강조 */
+  --color-mint: #06D6A0;
+
+  --color-text: #2B2118;
+  --color-text-muted: #8A7C6D;
+  --color-border: #F0E3D2;
+  --color-tag-bg: #FFF1DA;
+  --color-tag-text: #B5651D;
+
+  /* 6개 대분류 형광펜 컬러 */
+  --cat-culture: #FF4F81;   /* 문화&연예 트렌드 */
+  --cat-disaster: #FF6B4A;  /* 재난 백과 */
+  --cat-life: #FFC93C;      /* 라이프 트렌드 */
+  --cat-tips: #06D6A0;      /* 꿀팁&정보 백과사전 */
+  --cat-travel: #FF9F45;    /* 여행&맛집 트렌드 */
+  --cat-pet: #9B8CFF;       /* 반려동물 백과 */
+  --cat-etc: #B0A695;       /* 미분류 */
+
+  --font-display: 'Do Hyeon', 'Pretendard Variable', sans-serif;
+  --font-hand: 'Gaegu', 'Pretendard Variable', cursive;
+  --font-sans: 'Pretendard Variable', Pretendard, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+
+  --radius-sm: 0.4rem;
+  --radius-md: 0.85rem;
+  --radius-lg: 1.4rem;
+  --radius-xl: 2rem;
+
+  --shadow-sm: 0 2px 8px rgba(43,33,24,0.06);
+  --shadow-md: 0 8px 24px rgba(43,33,24,0.1);
+  --shadow-sticker: 0 3px 0 rgba(43,33,24,0.12);
+
+  --container-max: 1160px;
+  --content-max: 740px;
+}
+
+*, *::before, *::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+html {
+  font-size: 16px;
+  scroll-behavior: smooth;
+}
+
+body {
+  font-family: var(--font-sans);
+  background-color: var(--color-bg);
+  background-image:
+    radial-gradient(rgba(255,79,129,0.07) 1.4px, transparent 1.4px),
+    radial-gradient(rgba(108,92,231,0.06) 1.4px, transparent 1.4px);
+  background-size: 28px 28px;
+  background-position: 0 0, 14px 14px;
+  color: var(--color-text);
+  line-height: 1.7;
+  -webkit-font-smoothing: antialiased;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+}
+
+/* ── Container ─────────────────────────── */
+.container {
+  width: 100%;
+  max-width: var(--container-max);
+  margin-inline: auto;
+  padding-inline: 1rem;
+}
+
+@media (min-width: 768px) {
+  .container { padding-inline: 1.5rem; }
+}
+
+/* ── Sticker / washi-tape decorative bits ── */
+.washi-tape {
+  position: relative;
+}
+
+.washi-tape::before {
+  content: '';
+  position: absolute;
+  top: -0.6rem;
+  left: 1.5rem;
+  width: 3.2rem;
+  height: 1.1rem;
+  background: repeating-linear-gradient(
+    -45deg,
+    var(--color-secondary),
+    var(--color-secondary) 6px,
+    #ffe08a 6px,
+    #ffe08a 12px
+  );
+  opacity: 0.85;
+  transform: rotate(-4deg);
+  border-radius: 2px;
+  box-shadow: 0 1px 3px rgba(43,33,24,0.15);
+}
+
+/* ── Post content typography ────────────── */
+.post-content {
+  font-size: 1.02rem;
+  line-height: 1.85;
+  color: var(--color-text);
+}
+
+.post-content p {
+  margin-bottom: 1.25rem;
+}
+
+.post-content h2 {
+  font-family: var(--font-display);
+  font-size: 1.55rem;
+  font-weight: 400;
+  color: var(--color-primary-dark);
+  margin: 2.2rem 0 1rem;
+  padding-bottom: 0.5rem;
+  border-bottom: 3px dashed var(--color-secondary);
+  scroll-margin-top: 5rem;
+}
+
+.post-content h3 {
+  font-family: var(--font-display);
+  font-size: 1.25rem;
+  font-weight: 400;
+  color: var(--color-accent);
+  margin: 1.6rem 0 0.75rem;
+  scroll-margin-top: 5rem;
+}
+
+.post-content h4 {
+  font-size: 1.1rem;
+  font-weight: 700;
+  margin: 1.25rem 0 0.5rem;
+  scroll-margin-top: 5rem;
+}
+
+.post-content figure {
+  margin: 1.5rem auto;
+  text-align: center;
+}
+
+.post-content figure img {
+  border-radius: var(--radius-md);
+  margin-inline: auto;
+  box-shadow: var(--shadow-sm);
+  border: 6px solid #fff;
+  outline: 1px solid var(--color-border);
+}
+
+/* Tistory imageblock alignment classes */
+.post-content figure.imageblock.alignCenter {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.post-content figure.imageblock.floatLeft {
+  float: left;
+  margin: 0.25rem 1.25rem 1rem 0;
+  max-width: 50%;
+}
+
+.post-content figure.imageblock.floatRight {
+  float: right;
+  margin: 0.25rem 0 1rem 1.25rem;
+  max-width: 50%;
+}
+
+.post-content p:has(+ p:not(:has(figure.imageblock.float))) {
+  clear: both;
+}
+
+.post-content .contents_style::after {
+  content: '';
+  display: table;
+  clear: both;
+}
+
+.post-content figcaption {
+  font-size: 0.85rem;
+  color: var(--color-text-muted);
+  margin-top: 0.4rem;
+}
+
+.post-content a {
+  color: var(--color-primary-dark);
+  text-decoration: underline;
+  text-decoration-color: var(--color-secondary);
+  text-decoration-thickness: 2px;
+  text-underline-offset: 3px;
+}
+
+.post-content a:hover {
+  color: var(--color-accent);
+}
+
+.post-content ul, .post-content ol {
+  padding-left: 1.5rem;
+  margin-bottom: 1.25rem;
+}
+
+.post-content li {
+  margin-bottom: 0.35rem;
+}
+
+.post-content blockquote {
+  font-family: var(--font-hand);
+  font-size: 1.1rem;
+  border-left: 4px solid var(--color-primary);
+  background: #FFF1DA;
+  padding: 0.9rem 1.35rem;
+  border-radius: 0 var(--radius-md) var(--radius-md) 0;
+  margin: 1.4rem 0;
+  transform: rotate(-0.3deg);
+}
+
+.post-content table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-bottom: 1.5rem;
+  font-size: 0.9rem;
+  overflow-x: auto;
+  display: block;
+  border-radius: var(--radius-sm);
+}
+
+.post-content th, .post-content td {
+  padding: 0.6rem 0.9rem;
+  border: 1px solid var(--color-border);
+  text-align: left;
+}
+
+.post-content th {
+  background: var(--color-primary);
+  color: #fff;
+  font-weight: 700;
+}
+
+.post-content tr:nth-child(even) td {
+  background: rgba(255,79,129,0.03);
+}
+
+/* ── Tags ──────────────────────────────── */
+.tag {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.2rem;
+  background: var(--color-tag-bg);
+  color: var(--color-tag-text);
+  font-size: 0.8rem;
+  font-weight: 600;
+  padding: 0.25rem 0.7rem;
+  border-radius: 999px;
+  border: 1px solid rgba(181,101,29,0.15);
+  transition: transform 0.15s, background 0.15s;
+}
+
+.tag:hover {
+  background: #FFE3B3;
+  transform: translateY(-2px) rotate(-2deg);
+}
+
+/* ── Category badge (per-category sticker colors) ── */
+.category-badge {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.3rem;
+  font-size: 0.75rem;
+  font-weight: 700;
+  padding: 0.3rem 0.75rem;
+  border-radius: 999px;
+  color: #fff;
+  background: var(--cat-color, var(--color-accent));
+}
+
+/* ── YouTube embed ──────────────────────── */
+.video-wrap {
+  position: relative;
+  padding-bottom: 56.25%;
+  height: 0;
+  overflow: hidden;
+  border-radius: var(--radius-md);
+  margin: 1.5rem 0;
+  max-width: var(--content-max);
+  border: 6px solid #fff;
+  box-shadow: var(--shadow-sm);
+}
+
+.video-wrap iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+
+/* ── Utility ────────────────────────────── */
+.visually-hidden {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  overflow: hidden;
+  clip: rect(0,0,0,0);
+  white-space: nowrap;
+}

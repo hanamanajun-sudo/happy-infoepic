@@ -1,0 +1,225 @@
+---
+import BaseLayout from './BaseLayout.astro';
+import TOC from '../components/TOC.astro';
+import Icons from '../components/Icons.astro';
+import ShareButtons from '../components/ShareButtons.astro';
+import RelatedPosts from '../components/RelatedPosts.astro';
+import { topCategory, categoryDef, categoryHref } from '../lib/categories';
+
+export interface Props {
+  title: string;
+  description?: string;
+  date: string;
+  category?: string;
+  tags?: string[];
+  thumbnail?: string;
+  slug: string;
+  numericId: number;
+}
+
+const { title, description, date, category, tags = [], thumbnail, slug, numericId } = Astro.props;
+
+const formattedDate = new Date(date).toLocaleDateString('ko-KR', {
+  year: 'numeric', month: 'long', day: 'numeric',
+});
+const isoDate = new Date(date).toISOString();
+const canonical = `/entry/${slug}/`;
+const categoryTop = topCategory(category);
+const cat = categoryDef(categoryTop);
+const siteUrl = 'https://happy.infoepic.com';
+
+const postUrl = `${siteUrl}${canonical}`;
+
+const jsonLd = JSON.stringify([
+  {
+    '@context': 'https://schema.org',
+    '@type': 'BlogPosting',
+    headline: title,
+    description: description || '',
+    image: thumbnail ? `${siteUrl}${thumbnail}` : `${siteUrl}/og-default.png`,
+    datePublished: isoDate,
+    dateModified: isoDate,
+    author: { '@type': 'Organization', name: '해피로그', url: siteUrl },
+    publisher: {
+      '@type': 'Organization',
+      name: '해피로그',
+      url: siteUrl,
+      logo: { '@type': 'ImageObject', url: `${siteUrl}/favicon.svg` },
+    },
+    mainEntityOfPage: { '@type': 'WebPage', '@id': postUrl },
+    keywords: tags.join(', '),
+  },
+  {
+    '@context': 'https://schema.org',
+    '@type': 'BreadcrumbList',
+    itemListElement: [
+      { '@type': 'ListItem', position: 1, name: '홈', item: siteUrl },
+      ...(categoryTop ? [{ '@type': 'ListItem', position: 2, name: categoryTop, item: `${siteUrl}${categoryHref(category)}` }] : []),
+      { '@type': 'ListItem', position: categoryTop ? 3 : 2, name: title, item: postUrl },
+    ],
+  },
+]);
+---
+<BaseLayout
+  title={title}
+  description={description}
+  canonical={canonical}
+  ogImage={thumbnail}
+  type="article"
+  publishedTime={isoDate}
+  tags={tags}
+>
+  <script type="application/ld+json" set:html={jsonLd} slot="head" />
+
+  <article class="post-container">
+    <div class="container">
+      <!-- Breadcrumb -->
+      <nav class="breadcrumb" aria-label="경로">
+        <a href="/"><Icons name="home" size={14} /> 홈</a>
+        <Icons name="chevron-right" size={13} />
+        {categoryTop
+          ? <a href={`${categoryHref(category)}/`}>{categoryTop}</a>
+          : <span>전체</span>
+        }
+        <Icons name="chevron-right" size={13} />
+        <span class="current">{title}</span>
+      </nav>
+
+      <!-- Post header -->
+      <header class="post-header">
+        {categoryTop && (
+          <a href={`${categoryHref(category)}/`} class="category-badge" style={`--cat-color: var(--${cat.color})`}>
+            {categoryTop}
+          </a>
+        )}
+        <h1 class="post-title">{title}</h1>
+        <div class="post-meta">
+          <span class="meta-date">
+            <Icons name="calendar" size={14} />
+            <time datetime={isoDate}>{formattedDate}</time>
+          </span>
+          {tags.length > 0 && (
+            <div class="meta-tags">
+              <Icons name="hashtag" size={14} />
+              {tags.map(tag => (
+                <span class="tag">{tag}</span>
+              ))}
+            </div>
+          )}
+        </div>
+      </header>
+
+      {thumbnail && (
+        <div class="post-thumbnail">
+          <img src={thumbnail} alt={title} width="740" loading="eager" />
+        </div>
+      )}
+
+      <!-- Table of Contents (client-side, reads from rehype-slug IDs) -->
+      <TOC />
+
+      <!-- Content -->
+      <div class="post-content">
+        <slot />
+      </div>
+
+      <!-- Share buttons -->
+      <ShareButtons title={title} url={postUrl} />
+
+      <!-- Related posts -->
+      <RelatedPosts currentSlug={slug} category={category} />
+    </div>
+  </article>
+</BaseLayout>
+
+<style>
+.post-container {
+  padding-block: 2rem 4rem;
+}
+
+.breadcrumb {
+  display: flex;
+  align-items: center;
+  gap: 0.35rem;
+  font-size: 0.82rem;
+  color: var(--color-text-muted);
+  margin-bottom: 1.5rem;
+  flex-wrap: wrap;
+}
+
+.breadcrumb a {
+  display: flex;
+  align-items: center;
+  gap: 0.2rem;
+  color: var(--color-text-muted);
+  transition: color 0.15s;
+}
+
+.breadcrumb a:hover {
+  color: var(--color-primary);
+}
+
+.breadcrumb .current {
+  color: var(--color-text);
+  font-weight: 500;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  max-width: 200px;
+}
+
+.post-header {
+  margin-bottom: 1.5rem;
+}
+
+.post-title {
+  font-family: var(--font-display);
+  font-size: clamp(1.6rem, 4.2vw, 2.3rem);
+  font-weight: 400;
+  line-height: 1.35;
+  color: var(--color-text);
+  margin: 0.6rem 0 1rem;
+}
+
+.post-meta {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 0.75rem;
+  font-size: 0.85rem;
+  color: var(--color-text-muted);
+}
+
+.meta-date {
+  display: flex;
+  align-items: center;
+  gap: 0.3rem;
+}
+
+.meta-tags {
+  display: flex;
+  align-items: center;
+  gap: 0.35rem;
+  flex-wrap: wrap;
+}
+
+.post-thumbnail {
+  margin-bottom: 1.5rem;
+  border-radius: var(--radius-lg);
+  overflow: hidden;
+  max-width: var(--content-max);
+  border: 6px solid #fff;
+  outline: 2px solid var(--color-text);
+  box-shadow: var(--shadow-sticker);
+  transform: rotate(-0.6deg);
+}
+
+.post-thumbnail img {
+  width: 100%;
+  height: auto;
+}
+
+.post-content {
+  max-width: var(--content-max);
+}
+</style>

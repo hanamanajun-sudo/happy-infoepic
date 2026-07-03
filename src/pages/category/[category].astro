@@ -1,0 +1,122 @@
+---
+import { getCollection } from 'astro:content';
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import PostCard from '../../components/PostCard.astro';
+import Icons from '../../components/Icons.astro';
+import { ALL_CATEGORIES, categoryBySlug, topCategory } from '../../lib/categories';
+
+export async function getStaticPaths() {
+  const allPosts = await getCollection('posts');
+  return ALL_CATEGORIES.map(cat => ({
+    params: { category: cat.slug },
+    props: {
+      cat,
+      posts: allPosts
+        .filter(p => {
+          const top = topCategory(p.data.category);
+          return cat.slug === 'etc' ? !top : top === cat.label;
+        })
+        .sort((a, b) => new Date(b.data.date).getTime() - new Date(a.data.date).getTime()),
+    },
+  })).filter(entry => entry.props.posts.length > 0);
+}
+
+const { category } = Astro.params;
+const { cat, posts } = Astro.props;
+const tilts = [-2, 1, -1, 2, -1.5, 1.5];
+---
+<BaseLayout
+  title={`${cat.label} 카테고리`}
+  description={`${cat.label} 관련 해피로그 기록 모음`}
+  canonical={`/category/${category}/`}
+>
+  <section class="cat-detail">
+    <div class="container">
+      <nav class="breadcrumb" aria-label="경로">
+        <a href="/"><Icons name="home" size={14} /> 홈</a>
+        <Icons name="chevron-right" size={13} />
+        <a href="/category/"><Icons name="folder" size={14} /> 카테고리</a>
+        <Icons name="chevron-right" size={13} />
+        <span>{cat.label}</span>
+      </nav>
+
+      <h1 class="page-title" style={`--cat-color: var(--${cat.color})`}>
+        {cat.label}
+        <span class="post-count">{posts.length}개</span>
+      </h1>
+
+      <div class="posts-grid">
+        {posts.map((post, i) => (
+          <PostCard
+            title={post.data.title}
+            slug={post.data.slug}
+            date={post.data.date}
+            category={post.data.category}
+            description={post.data.description}
+            thumbnail={post.data.thumbnail}
+            numericId={post.data.numericId}
+            rotate={tilts[i % tilts.length]}
+          />
+        ))}
+      </div>
+    </div>
+  </section>
+</BaseLayout>
+
+<style>
+.cat-detail { padding-block: 2rem 4rem; }
+
+.breadcrumb {
+  display: flex;
+  align-items: center;
+  gap: 0.35rem;
+  font-size: 0.82rem;
+  color: var(--color-text-muted);
+  margin-bottom: 1.5rem;
+  flex-wrap: wrap;
+}
+
+.breadcrumb a {
+  display: flex;
+  align-items: center;
+  gap: 0.2rem;
+  color: var(--color-text-muted);
+  transition: color 0.15s;
+}
+
+.breadcrumb a:hover { color: var(--color-primary); }
+
+.page-title {
+  display: inline-flex;
+  align-items: baseline;
+  gap: 0.6rem;
+  font-family: var(--font-display);
+  font-size: 1.9rem;
+  font-weight: 400;
+  color: var(--cat-color, var(--color-text));
+  margin-bottom: 2rem;
+  padding-bottom: 0.4rem;
+  border-bottom: 3px dashed var(--cat-color, var(--color-secondary));
+}
+
+.post-count {
+  font-family: var(--font-sans);
+  font-size: 0.95rem;
+  font-weight: 600;
+  color: var(--color-text-muted);
+}
+
+.posts-grid {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 1.5rem;
+}
+
+@media (min-width: 600px) {
+  .posts-grid { grid-template-columns: repeat(2, 1fr); }
+}
+
+@media (min-width: 1024px) {
+  .posts-grid { grid-template-columns: repeat(3, 1fr); }
+}
+</style>

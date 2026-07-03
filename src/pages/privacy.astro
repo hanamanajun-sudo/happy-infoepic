@@ -1,0 +1,104 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+const today = new Date().toLocaleDateString('ko-KR', { year: 'numeric', month: 'long', day: 'numeric' });
+---
+<BaseLayout
+  title="개인정보처리방침"
+  description="해피로그 개인정보처리방침 — 수집하는 정보, 사용 목적, 제3자 제공 안내"
+  canonical="/privacy/"
+>
+  <article class="privacy-page">
+    <div class="container">
+      <h1>개인정보처리방침</h1>
+      <p class="updated">최종 업데이트: {today}</p>
+
+      <p>해피로그(이하 "본 사이트")은 방문자의 개인정보를 중요하게 생각하며, 아래와 같이 개인정보처리방침을 운영합니다.</p>
+
+      <h2>1. 수집하는 정보</h2>
+      <p>본 사이트는 별도의 회원가입이나 로그인 기능이 없으며, 방문자로부터 직접 개인정보를 수집하지 않습니다. 다만, 아래의 제3자 서비스가 방문자 정보를 수집할 수 있습니다.</p>
+
+      <h2>2. 제3자 서비스</h2>
+      <h3>Google Analytics (구글 애널리틱스)</h3>
+      <p>사이트 방문 통계 분석을 위해 Google Analytics를 사용할 수 있습니다. Google Analytics는 쿠키를 사용하여 방문자의 사이트 이용 행태를 익명으로 수집합니다. 수집된 정보는 Google의 개인정보처리방침에 따라 처리됩니다.</p>
+      <ul>
+        <li>Google 개인정보처리방침: <a href="https://policies.google.com/privacy" target="_blank" rel="noopener">https://policies.google.com/privacy</a></li>
+        <li>Google Analytics 거부 방법: <a href="https://tools.google.com/dlpage/gaoptout" target="_blank" rel="noopener">Google Analytics 옵트아웃</a></li>
+      </ul>
+
+      <h3>Google AdSense (구글 애드센스)</h3>
+      <p>본 사이트는 Google AdSense를 통한 광고를 게재할 수 있습니다. Google AdSense는 쿠키를 사용하여 관심 기반 광고를 제공합니다. 자세한 내용은 Google의 <a href="https://policies.google.com/technologies/ads" target="_blank" rel="noopener">광고 정책</a>을 참고하세요.</p>
+
+      <h2>3. 쿠키(Cookie)</h2>
+      <p>본 사이트는 자체적인 쿠키를 사용하지 않습니다. 단, 위에 명시된 제3자 서비스는 각각의 정책에 따라 쿠키를 사용할 수 있습니다. 브라우저 설정에서 쿠키를 거부할 수 있으나, 일부 서비스 기능이 제한될 수 있습니다.</p>
+
+      <h2>4. 외부 링크</h2>
+      <p>본 사이트는 외부 사이트로의 링크를 포함할 수 있습니다. 외부 사이트의 개인정보 처리 방식에 대해서는 책임을 지지 않으며, 해당 사이트의 개인정보처리방침을 직접 확인하시기 바랍니다.</p>
+
+      <h2>5. 개인정보처리방침 변경</h2>
+      <p>본 개인정보처리방침은 법령 또는 서비스 변경에 따라 업데이트될 수 있습니다. 변경 시 본 페이지에 최신 내용을 반영합니다.</p>
+
+      <h2>6. 문의</h2>
+      <p>개인정보 관련 문의는 이메일로 연락해 주세요: <a href="mailto:hanamanajun@gmail.com">hanamanajun@gmail.com</a></p>
+    </div>
+  </article>
+</BaseLayout>
+
+<style>
+.privacy-page {
+  padding-block: 2.5rem 5rem;
+}
+
+.privacy-page .container {
+  max-width: 740px;
+}
+
+.privacy-page h1 {
+  font-size: 1.75rem;
+  font-weight: 700;
+  color: var(--color-primary);
+  margin-bottom: 0.5rem;
+}
+
+.updated {
+  font-size: 0.85rem;
+  color: var(--color-text-muted);
+  margin-bottom: 2rem;
+}
+
+.privacy-page h2 {
+  font-size: 1.2rem;
+  font-weight: 700;
+  color: var(--color-primary);
+  margin: 2rem 0 0.75rem;
+  padding-bottom: 0.4rem;
+  border-bottom: 2px solid var(--color-border);
+}
+
+.privacy-page h3 {
+  font-size: 1rem;
+  font-weight: 600;
+  margin: 1.25rem 0 0.5rem;
+}
+
+.privacy-page p {
+  line-height: 1.8;
+  margin-bottom: 0.75rem;
+  color: var(--color-text);
+}
+
+.privacy-page ul {
+  padding-left: 1.5rem;
+  margin-bottom: 1rem;
+}
+
+.privacy-page li {
+  margin-bottom: 0.35rem;
+  line-height: 1.7;
+}
+
+.privacy-page a {
+  color: var(--color-primary-dark);
+  text-decoration: underline;
+  text-underline-offset: 2px;
+}
+</style>

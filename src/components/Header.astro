@@ -1,0 +1,174 @@
+---
+import Icons from './Icons.astro';
+
+const navItems = [
+  { href: '/', label: '홈', icon: 'home' as const },
+  { href: '/category/', label: '카테고리', icon: 'folder' as const },
+];
+
+const { pathname } = Astro.url;
+---
+<header class="site-header">
+  <div class="container header-inner">
+    <a href="/" class="logo" aria-label="해피로그 홈">
+      <span class="logo-mark">
+        <Icons name="sparkle" size={20} />
+      </span>
+      <span class="logo-text">해피<strong>로그</strong></span>
+    </a>
+
+    <nav class="nav-desktop" aria-label="주 메뉴">
+      {navItems.map(item => (
+        <a href={item.href} class:list={['nav-link', { active: pathname === item.href }]}>
+          <Icons name={item.icon} size={16} />
+          {item.label}
+        </a>
+      ))}
+    </nav>
+
+    <button class="menu-toggle" id="menuToggle" aria-label="메뉴 열기" aria-expanded="false">
+      <Icons name="menu" size={22} />
+    </button>
+  </div>
+
+  <nav class="nav-mobile" id="mobileNav" aria-label="모바일 메뉴" hidden>
+    <div class="container">
+      {navItems.map(item => (
+        <a href={item.href} class="nav-mobile-link">
+          <Icons name={item.icon} size={18} />
+          {item.label}
+        </a>
+      ))}
+    </div>
+  </nav>
+</header>
+
+<style>
+.site-header {
+  position: sticky;
+  top: 0;
+  z-index: 100;
+  background: var(--color-paper);
+  color: var(--color-text);
+  border-bottom: 3px solid var(--color-text);
+  box-shadow: 0 2px 0 rgba(43,33,24,0.04);
+}
+
+.header-inner {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  height: 3.75rem;
+}
+
+.logo {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  color: var(--color-text);
+  font-family: var(--font-display);
+  font-size: 1.3rem;
+  font-weight: 400;
+  transition: transform 0.2s;
+}
+
+.logo:hover { transform: rotate(-2deg) scale(1.02); }
+
+.logo-mark {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 2rem;
+  height: 2rem;
+  border-radius: 50%;
+  background: var(--color-primary);
+  color: #fff;
+  transform: rotate(-8deg);
+}
+
+.logo-text strong {
+  color: var(--color-primary);
+}
+
+.nav-desktop {
+  display: none;
+  align-items: center;
+  gap: 0.3rem;
+}
+
+@media (min-width: 768px) {
+  .nav-desktop { display: flex; }
+  .menu-toggle { display: none; }
+}
+
+.nav-link {
+  display: flex;
+  align-items: center;
+  gap: 0.35rem;
+  padding: 0.45rem 0.9rem;
+  border-radius: 999px;
+  font-size: 0.9rem;
+  font-weight: 600;
+  color: var(--color-text-muted);
+  transition: background 0.15s, color 0.15s, transform 0.15s;
+}
+
+.nav-link:hover,
+.nav-link.active {
+  background: var(--color-secondary);
+  color: var(--color-text);
+  transform: rotate(-1deg);
+}
+
+.menu-toggle {
+  background: none;
+  border: none;
+  color: var(--color-text);
+  cursor: pointer;
+  padding: 0.4rem;
+  border-radius: var(--radius-sm);
+  display: flex;
+  align-items: center;
+}
+
+.menu-toggle:hover {
+  background: var(--color-secondary);
+}
+
+.nav-mobile {
+  background: var(--color-paper);
+  border-top: 1px dashed var(--color-border);
+  padding-block: 0.5rem;
+}
+
+.nav-mobile-link {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  padding: 0.65rem 0.5rem;
+  color: var(--color-text);
+  font-weight: 600;
+  font-size: 0.95rem;
+  border-radius: var(--radius-md);
+  transition: background 0.15s;
+}
+
+.nav-mobile-link:hover {
+  background: var(--color-secondary);
+}
+</style>
+
+<script>
+const toggle = document.getElementById('menuToggle');
+const nav = document.getElementById('mobileNav');
+toggle?.addEventListener('click', () => {
+  const isHidden = nav?.hasAttribute('hidden');
+  if (isHidden) {
+    nav?.removeAttribute('hidden');
+    toggle.setAttribute('aria-expanded', 'true');
+  } else {
+    nav?.setAttribute('hidden', '');
+    toggle.setAttribute('aria-expanded', 'false');
+  }
+});
+</script>

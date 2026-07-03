@@ -1,0 +1,125 @@
+---
+import { getCollection } from 'astro:content';
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import Icons from '../../components/Icons.astro';
+import { ALL_CATEGORIES, categoryDef, topCategory } from '../../lib/categories';
+
+const allPosts = await getCollection('posts');
+
+const countByLabel = new Map<string, number>();
+for (const post of allPosts) {
+  const top = topCategory(post.data.category);
+  const label = categoryDef(top).label === '미분류' && !top ? '미분류' : (top || '미분류');
+  countByLabel.set(label, (countByLabel.get(label) ?? 0) + 1);
+}
+
+const categories = ALL_CATEGORIES
+  .map(c => ({ ...c, count: countByLabel.get(c.label) ?? 0 }))
+  .filter(c => c.count > 0);
+---
+<BaseLayout
+  title="카테고리"
+  description="해피로그의 모든 카테고리 — 문화&연예, 라이프, 꿀팁&정보, 여행&맛집, 반려동물까지"
+  canonical="/category/"
+>
+  <section class="cat-page">
+    <div class="container">
+      <h1 class="page-title">
+        <Icons name="folder" size={22} />
+        카테고리
+      </h1>
+      <div class="cat-grid">
+        {categories.map(cat => (
+          <a href={`/category/${cat.slug}/`} class="cat-card" style={`--cat-color: var(--${cat.color})`}>
+            <div class="cat-icon"><Icons name="sparkle" size={24} /></div>
+            <div class="cat-info">
+              <span class="cat-name">{cat.label}</span>
+              <span class="cat-count">{cat.count}개 기록</span>
+            </div>
+            <Icons name="arrow-right" size={16} class="cat-arrow" />
+          </a>
+        ))}
+      </div>
+    </div>
+  </section>
+</BaseLayout>
+
+<style>
+.cat-page { padding-block: 2.5rem 4rem; }
+
+.page-title {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  font-family: var(--font-display);
+  font-size: 1.9rem;
+  font-weight: 400;
+  color: var(--color-text);
+  margin-bottom: 2rem;
+}
+
+.cat-grid {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 1rem;
+}
+
+@media (min-width: 600px) {
+  .cat-grid { grid-template-columns: repeat(2, 1fr); }
+}
+
+@media (min-width: 900px) {
+  .cat-grid { grid-template-columns: repeat(3, 1fr); }
+}
+
+.cat-card {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  padding: 1.15rem 1.3rem;
+  background: var(--color-bg-card);
+  border: 2px solid var(--color-text);
+  border-radius: var(--radius-lg);
+  box-shadow: var(--shadow-sticker);
+  transition: transform 0.2s, box-shadow 0.2s;
+}
+
+.cat-card:hover {
+  transform: translateY(-3px) rotate(-0.5deg);
+  box-shadow: 0 5px 0 rgba(43,33,24,0.14);
+}
+
+.cat-icon {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 2.75rem;
+  height: 2.75rem;
+  border-radius: 50%;
+  background: var(--cat-color, var(--color-accent));
+  color: #fff;
+  flex-shrink: 0;
+}
+
+.cat-info {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  gap: 0.15rem;
+}
+
+.cat-name {
+  font-weight: 700;
+  color: var(--color-text);
+}
+
+.cat-count {
+  font-size: 0.8rem;
+  color: var(--color-text-muted);
+}
+
+.cat-arrow {
+  color: var(--color-text-muted);
+  flex-shrink: 0;
+}
+</style>

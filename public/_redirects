@@ -1,0 +1,6 @@
+# Cloudflare Pages redirects
+# Trailing slash은 canonical 태그로 처리 (Pages 내부 동작과 충돌 방지)
+
+# Legacy sitemap/rss → new sitemap
+/sitemap.xml  /sitemap-index.xml  301
+/rss          /sitemap-index.xml  301

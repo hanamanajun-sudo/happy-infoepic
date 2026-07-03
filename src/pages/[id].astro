@@ -1,0 +1,27 @@
+---
+// Numeric ID redirect: /12 → /entry/[slug]
+import { getCollection } from 'astro:content';
+
+export async function getStaticPaths() {
+  const posts = await getCollection('posts');
+  return posts.map(post => ({
+    params: { id: String(post.data.numericId) },
+    props: { slug: post.data.slug, title: post.data.title },
+  }));
+}
+
+const { slug, title } = Astro.props;
+const targetUrl = `/entry/${encodeURIComponent(slug)}/`;
+---
+<!doctype html>
+<html lang="ko">
+<head>
+  <meta charset="utf-8" />
+  <meta http-equiv="refresh" content={`0; url=${targetUrl}`} />
+  <link rel="canonical" href={`https://happy.infoepic.com/entry/${slug}/`} />
+  <title>{title} | 해피로그</title>
+</head>
+<body>
+  <p>이동 중... <a href={targetUrl}>{title}</a></p>
+</body>
+</html>

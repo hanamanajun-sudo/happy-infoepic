@@ -1,0 +1,85 @@
+---
+// Client-side TOC — reads IDs injected by rehype-slug at build time
+// Works for both Markdown ## headings and raw HTML <h2>/<h3> tags
+---
+<nav class="toc" id="toc-nav" aria-label="목차" style="display:none">
+  <div class="toc-header">
+    <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><path d="M3 6h18M3 12h12M3 18h8"/></svg>
+    목차
+  </div>
+  <ol class="toc-list" id="toc-list"></ol>
+</nav>
+
+<script>
+  (function () {
+    const content = document.querySelector('.post-content');
+    const nav = document.getElementById('toc-nav');
+    const list = document.getElementById('toc-list');
+    if (!content || !nav || !list) return;
+
+    const valid = Array.from(content.querySelectorAll('h2, h3')).filter(h => h.id);
+    if (valid.length < 2) return;
+
+    valid.forEach(h => {
+      const li = document.createElement('li');
+      li.className = h.tagName === 'H3' ? 'toc-item toc-h3' : 'toc-item';
+      const a = document.createElement('a');
+      a.href = `#${h.id}`;
+      a.textContent = h.textContent.trim();
+      li.appendChild(a);
+      list.appendChild(li);
+    });
+
+    nav.style.display = '';
+  })();
+</script>
+
+<style>
+.toc {
+  background: var(--color-bg);
+  border: 1px solid var(--color-border);
+  border-left: 3px solid var(--color-secondary);
+  border-radius: var(--radius-md);
+  padding: 1rem 1.25rem;
+  margin-bottom: 2rem;
+  font-size: 0.9rem;
+}
+
+.toc-header {
+  display: flex;
+  align-items: center;
+  gap: 0.4rem;
+  font-weight: 700;
+  color: var(--color-primary);
+  margin-bottom: 0.75rem;
+}
+
+.toc-list {
+  list-style: none;
+  display: flex;
+  flex-direction: column;
+  gap: 0.25rem;
+}
+
+.toc-item a {
+  color: var(--color-text-muted);
+  transition: color 0.15s;
+  display: block;
+  padding: 0.15rem 0;
+  line-height: 1.4;
+}
+
+.toc-item a:hover {
+  color: var(--color-primary);
+}
+
+.toc-h3 {
+  padding-left: 1rem;
+  font-size: 0.85rem;
+}
+
+.toc-h3 a::before {
+  content: '└ ';
+  color: var(--color-border);
+}
+</style>
