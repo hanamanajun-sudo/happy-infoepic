@@ -6,7 +6,7 @@ const today = new Date().toLocaleDateString('ko-KR', { year: 'numeric', month: '
 
 <BaseLayout
   title="해피로그 소개"
-  description="해피로그는 '오늘의 해피를 기록하다'는 슬로건 아래, 라이프스타일·문화연예·꿀팁·여행·반려동물 정보를 큐레이션하는 블로그입니다."
+  description="해피로그는 '오늘의 해피를 기록하다'는 슬로건 아래, 두 기록자(해피와 로그)가 함께하는 라이프스타일 큐레이션 블로그입니다."
   canonical="/about/"
 >
   <article class="about-page">
@@ -16,11 +16,37 @@ const today = new Date().toLocaleDateString('ko-KR', { year: 'numeric', month: '
         해피로그 소개
       </h1>
 
-      <section class="about-section">
-        <h2>✏️ 해피로그는?</h2>
-        <p>해피로그(Happy Log)는 <strong>'오늘의 해피를 기록하다'</strong>는 슬로건 아래 운영하는 개인 큐레이션 블로그입니다.</p>
-        <p>라이프스타일, 문화&middot;연예 트렌드, 생활 꿀팁, 여행&middot;맛집, 반려동물 정보까지 — 일상에서 발견한 즐거움과 유용한 정보를 기록하고 공유합니다.</p>
-      </section>
+      <!-- Character Intro -->
+      <div class="characters-intro">
+        <p class="characters-lead">해피로그에는 <strong>두 명의 기록자</strong>가 있습니다.</p>
+
+        <div class="character-card character-happy">
+          <div class="char-icon">🎀</div>
+          <div class="char-content">
+            <h2 class="char-name">해피</h2>
+            <p class="char-role">트렌드와 재미를 쫓는 큐레이터</p>
+            <p class="char-desc">새로운 영화, 드라마, 맛집 소식을 가장 먼저 찾아와요. 문화·연예, 여행·맛집 이야기를 즐겨 기록합니다.</p>
+            <div class="char-tags">
+              <span class="char-tag" style="--cat-color: var(--cat-culture)">문화&amp;연예</span>
+              <span class="char-tag" style="--cat-color: var(--cat-travel)">여행&amp;맛집</span>
+            </div>
+          </div>
+        </div>
+
+        <div class="character-card character-log">
+          <div class="char-icon">📋</div>
+          <div class="char-content">
+            <h2 class="char-name">로그</h2>
+            <p class="char-role">실용 정보를 정리하는 수집가</p>
+            <p class="char-desc">살면서 써먹는 꿀팁과 생활 정보라면 못 참아요. 여러분이 검색하지 않아도 될 수 있게, 미리 모아둡니다.</p>
+            <div class="char-tags">
+              <span class="char-tag" style="--cat-color: var(--cat-tips)">꿀팁&amp;정보</span>
+              <span class="char-tag" style="--cat-color: var(--cat-life)">라이프</span>
+              <span class="char-tag" style="--cat-color: var(--cat-pet)">반려동물</span>
+            </div>
+          </div>
+        </div>
+      </div>
 
       <section class="about-section">
         <h2>📂 카테고리 안내</h2>
@@ -106,6 +132,110 @@ const today = new Date().toLocaleDateString('ko-KR', { year: 'numeric', month: '
 .page-title :global(.icon) {
   color: var(--color-primary);
 }
+
+/* ── Characters ── */
+.characters-intro {
+  margin-top: 2rem;
+}
+
+.characters-lead {
+  font-size: 1.1rem;
+  font-weight: 600;
+  color: var(--color-text);
+  margin-bottom: 1.25rem;
+  padding-bottom: 0.75rem;
+  border-bottom: 2px dashed var(--color-primary);
+}
+
+.characters-lead strong {
+  color: var(--color-primary);
+}
+
+.character-card {
+  display: flex;
+  gap: 1.1rem;
+  padding: 1.25rem;
+  margin-bottom: 1rem;
+  background: var(--color-bg-card);
+  border: 2px solid var(--color-text);
+  border-radius: var(--radius-lg);
+  box-shadow: var(--shadow-sticker);
+  transition: transform 0.2s;
+}
+
+.character-card:hover {
+  transform: translateY(-2px);
+}
+
+.character-happy {
+  transform: rotate(-0.5deg);
+}
+
+.character-log {
+  transform: rotate(0.5deg);
+}
+
+.char-icon {
+  font-size: 2.5rem;
+  line-height: 1;
+  flex-shrink: 0;
+  width: 3.5rem;
+  height: 3.5rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: var(--color-secondary);
+  border-radius: 50%;
+  border: 2px solid var(--color-text);
+}
+
+.character-log .char-icon {
+  background: var(--color-mint);
+}
+
+.char-content {
+  flex: 1;
+}
+
+.char-name {
+  font-family: var(--font-display);
+  font-size: 1.3rem;
+  font-weight: 400;
+  color: var(--color-primary-dark);
+  margin-bottom: 0.1rem;
+}
+
+.char-role {
+  font-size: 0.82rem;
+  font-weight: 600;
+  color: var(--color-text-muted);
+  margin-bottom: 0.5rem;
+}
+
+.char-desc {
+  font-size: 0.92rem;
+  line-height: 1.6;
+  color: var(--color-text);
+  margin-bottom: 0.6rem;
+}
+
+.char-tags {
+  display: flex;
+  gap: 0.35rem;
+  flex-wrap: wrap;
+}
+
+.char-tag {
+  display: inline-block;
+  font-size: 0.72rem;
+  font-weight: 700;
+  padding: 0.2rem 0.6rem;
+  border-radius: 999px;
+  color: #fff;
+  background: var(--cat-color, var(--color-accent));
+}
+
+/* ── About sections ── */
 .about-section {
   margin-top: 2.5rem;
 }
