@@ -6,14 +6,14 @@ tags: ["추석선물세트"]
 slug: "올해-마스크-추석선물세트-인기-3만원-대-추천"
 numericId: 396
 description: "이시국에 선물세트로 이것만큼 실용적인것 없고 이것만큼 반가운것 없을듯 하다."
-thumbnail: "/images/entry/올해-마스크-추석선물세트-인기-3만원-대-추천/img.png"
+thumbnail: "/images/396/img.png"
 ---
 
 <div class="contents_style">
 <p>이시국에 선물세트로 이것만큼 실용적인것 없고 이것만큼 반가운것 없을듯 하다. </p>
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/entry/올해-마스크-추석선물세트-인기-3만원-대-추천/img.png"/>
+<img src="/images/396/img.png"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -24,7 +24,7 @@ thumbnail: "/images/entry/올해-마스크-추석선물세트-인기-3만원-대
 
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/entry/올해-마스크-추석선물세트-인기-3만원-대-추천/img.jpg"/>
+<img src="/images/396/img.jpg"/>
 
 <figcaption></figcaption>
 </figure></p>

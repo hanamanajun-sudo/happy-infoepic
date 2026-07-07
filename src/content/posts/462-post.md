@@ -6,13 +6,13 @@ tags: []
 slug: "강원도-경치-좋은-카페-설경-산-파노라마-원탑"
 numericId: 462
 description: "강원도의 사계절이 모두 아름다운 울산바위가 보이는 곳 카페"
-thumbnail: "/images/entry/강원도-경치-좋은-카페-설경-산-파노라마-원탑/img_20230210125314_f5a5a495.gif"
+thumbnail: "/images/462/img_20230210125314_f5a5a495.gif"
 ---
 
 <div class="contents_style">
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/entry/강원도-경치-좋은-카페-설경-산-파노라마-원탑/img_20230210125314_f5a5a495.gif"/>
+<img src="/images/462/img_20230210125314_f5a5a495.gif"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -32,7 +32,7 @@ thumbnail: "/images/entry/강원도-경치-좋은-카페-설경-산-파노라마
 <p>델피노 라는 리조트에 있는 카페 입니다. </p>
 <p><figure class="imageblock alignCenter" height="312" width="500">
 
-<img height="312" src="/images/entry/강원도-경치-좋은-카페-설경-산-파노라마-원탑/edited_resort_map.jpg" width="500"/>
+<img height="312" src="/images/462/edited_resort_map.jpg" width="500"/>
 
 <figcaption>강원도 설악 델피노 리조트</figcaption>
 </figure></p>
@@ -50,7 +50,7 @@ thumbnail: "/images/entry/강원도-경치-좋은-카페-설경-산-파노라마
 
 <p><figure class="imageblock alignCenter" height="300" width="600">
 
-<img height="300" src="/images/entry/강원도-경치-좋은-카페-설경-산-파노라마-원탑/dmFaci_202211041032409201_1.jpg" width="600"/>
+<img height="300" src="/images/462/dmFaci_202211041032409201_1.jpg" width="600"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -58,14 +58,14 @@ thumbnail: "/images/entry/강원도-경치-좋은-카페-설경-산-파노라마
 
 <p><figure class="imageblock alignCenter" height="300" width="600">
 
-<img height="300" src="/images/entry/강원도-경치-좋은-카페-설경-산-파노라마-원탑/dmFaci_202211041032408210.jpg" width="600"/>
+<img height="300" src="/images/462/dmFaci_202211041032408210.jpg" width="600"/>
 
 <figcaption></figcaption>
 </figure></p>
 
 <p><figure class="imageblock alignCenter" height="300" width="600">
 
-<img height="300" src="/images/entry/강원도-경치-좋은-카페-설경-산-파노라마-원탑/dmFaci_202211041032410362.jpg" width="600"/>
+<img height="300" src="/images/462/dmFaci_202211041032410362.jpg" width="600"/>
 
 <figcaption></figcaption>
 </figure></p>

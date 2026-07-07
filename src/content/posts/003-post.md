@@ -6,13 +6,13 @@ tags: ["짜장면"]
 slug: "외국인에게-알려주는-짜장면-1편"
 numericId: 3
 description: "중식이 소울 푸드? 라고 의아해 할 수 있지만 이를 부정할 수 없는 결정적인"
-thumbnail: "/images/entry/외국인에게-알려주는-짜장면-1편/img.png"
+thumbnail: "/images/3/img.png"
 ---
 
 <div class="contents_style">
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/entry/외국인에게-알려주는-짜장면-1편/img.png"/>
+<img src="/images/3/img.png"/>
 
 <figcaption></figcaption>
 </figure></p>

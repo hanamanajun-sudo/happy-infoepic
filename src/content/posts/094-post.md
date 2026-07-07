@@ -6,7 +6,7 @@ tags: ["우한", "우한폐렴"]
 slug: "우한-폐렴을-피해-일본으로-탈출-하는-상황"
 numericId: 94
 description: "우한 폐렴을 피해 탈출조가 있다는 일본의 보도 입니다."
-thumbnail: "/images/entry/우한-폐렴을-피해-일본으로-탈출-하는-상황/img.jpg"
+thumbnail: "/images/94/img.jpg"
 ---
 
 <div class="contents_style">
@@ -20,7 +20,7 @@ thumbnail: "/images/entry/우한-폐렴을-피해-일본으로-탈출-하는-상
 
 <p><figure class="imageblock alignCenter" width="600">
 
-<img src="/images/entry/우한-폐렴을-피해-일본으로-탈출-하는-상황/img.jpg" width="600"/>
+<img src="/images/94/img.jpg" width="600"/>
 
 <figcaption></figcaption>
 </figure></p>

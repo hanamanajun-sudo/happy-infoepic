@@ -6,7 +6,7 @@ tags: ["코로나", "코로나19", "마스크요일제", "마스크대리구메"
 slug: "마스크-대리구매-부모-보호자-대신-구매-방법"
 numericId: 211
 description: "마스크로 곤란함이 계속 되고 있는 가운데 정부가 공급할 수 있는 마스크의 80%를"
-thumbnail: "/images/entry/마스크-대리구매-부모-보호자-대신-구매-방법/img.png"
+thumbnail: "/images/211/img.png"
 ---
 
 <div class="contents_style">
@@ -35,7 +35,7 @@ thumbnail: "/images/entry/마스크-대리구매-부모-보호자-대신-구매-
 
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/entry/마스크-대리구매-부모-보호자-대신-구매-방법/img.png"/>
+<img src="/images/211/img.png"/>
 
 <figcaption></figcaption>
 </figure></p>

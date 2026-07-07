@@ -6,7 +6,7 @@ tags: ["몰카", "우한", "유튜버", "비슷해보이즈"]
 slug: "동대구역-우한-몰카-유튜버-정체-놀라운-6분의-해명"
 numericId: 105
 description: "전세계적으로 중국발 신종 코로나 바이러스 (aka 우한폐렴)로 인해 감염에 대한"
-thumbnail: "/images/entry/동대구역-우한-몰카-유튜버-정체-놀라운-6분의-해명/img.jpg"
+thumbnail: "/images/105/img.jpg"
 ---
 
 <div class="contents_style">
@@ -16,7 +16,7 @@ thumbnail: "/images/entry/동대구역-우한-몰카-유튜버-정체-놀라운-
 <h2><span style="background-color: #ffc1c8;"><b>동대구역 우한 폐렴 몰카 내용</b></span></h2>
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/entry/동대구역-우한-몰카-유튜버-정체-놀라운-6분의-해명/img.jpg"/>
+<img src="/images/105/img.jpg"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -50,7 +50,7 @@ thumbnail: "/images/entry/동대구역-우한-몰카-유튜버-정체-놀라운-
 
 <p><figure class="imageblock alignCenter" width="500">
 
-<img src="/images/entry/동대구역-우한-몰카-유튜버-정체-놀라운-6분의-해명/img.png" width="500"/>
+<img src="/images/105/img.png" width="500"/>
 
 <figcaption></figcaption>
 </figure></p>

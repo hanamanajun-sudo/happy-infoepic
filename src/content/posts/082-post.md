@@ -6,7 +6,7 @@ tags: ["스타벅스", "한정상품", "방탄소년단"]
 slug: "스타벅스-BTS-상품-가격-출시일-정보-모음"
 numericId: 82
 description: "스타벅스가 BTS의 콜라보레이션 음료, 푸드, MD가 출시 된다고 해요."
-thumbnail: "/images/entry/스타벅스-BTS-상품-가격-출시일-정보-모음/img.jpg"
+thumbnail: "/images/82/img.jpg"
 ---
 
 <div class="contents_style">
@@ -24,7 +24,7 @@ thumbnail: "/images/entry/스타벅스-BTS-상품-가격-출시일-정보-모음
 <p><span style="color: #666666;">✓</span>블루밍 퍼플 뱅쇼 - 6,100원</p>
 <p><figure class="imageblock alignLeft" width="500">
 
-<img src="/images/entry/스타벅스-BTS-상품-가격-출시일-정보-모음/img.jpg" width="500"/>
+<img src="/images/82/img.jpg" width="500"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -40,7 +40,7 @@ thumbnail: "/images/entry/스타벅스-BTS-상품-가격-출시일-정보-모음
 
 <p><figure class="imageblock alignLeft" width="500">
 
-<img src="/images/entry/스타벅스-BTS-상품-가격-출시일-정보-모음/img_1.jpg" width="500"/>
+<img src="/images/82/img_1.jpg" width="500"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -54,14 +54,14 @@ thumbnail: "/images/entry/스타벅스-BTS-상품-가격-출시일-정보-모음
 <p>small - 43,000원 / large - 48,000원</p>
 <p><figure class="imageblock alignLeft" width="500">
 
-<img src="/images/entry/스타벅스-BTS-상품-가격-출시일-정보-모음/img_2.jpg" width="500"/>
+<img src="/images/82/img_2.jpg" width="500"/>
 
 <figcaption></figcaption>
 </figure></p>
 <p><b><span style="color: #666666;">✓ 본 차이나 머그 370ml - 24,000원</span></b><span style="color: #666666;"></span></p>
 <p><figure class="imageblock alignLeft" width="500">
 
-<img src="/images/entry/스타벅스-BTS-상품-가격-출시일-정보-모음/img_3.jpg" width="500"/>
+<img src="/images/82/img_3.jpg" width="500"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -69,14 +69,14 @@ thumbnail: "/images/entry/스타벅스-BTS-상품-가격-출시일-정보-모음
 <p><span style="color: #666666;"><span style="color: #666666;">✓ 리얼 골드 스타 글라스 500ml - 26,000원</span></span></p>
 <p><figure class="imageblock alignLeft" width="500">
 
-<img src="/images/entry/스타벅스-BTS-상품-가격-출시일-정보-모음/img_4.jpg" width="500"/>
+<img src="/images/82/img_4.jpg" width="500"/>
 
 <figcaption></figcaption>
 </figure></p>
 <p><span style="color: #666666;">✓ 퍼플 태슬 키 체인 - 26,000원</span></p>
 <p><figure class="imageblock alignLeft" width="500">
 
-<img src="/images/entry/스타벅스-BTS-상품-가격-출시일-정보-모음/img_5.jpg" width="500"/>
+<img src="/images/82/img_5.jpg" width="500"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -86,7 +86,7 @@ thumbnail: "/images/entry/스타벅스-BTS-상품-가격-출시일-정보-모음
 <p>(선착순 소진)</p>
 <p><figure class="imageblock alignLeft" width="500">
 
-<img src="/images/entry/스타벅스-BTS-상품-가격-출시일-정보-모음/img_6.jpg" width="500"/>
+<img src="/images/82/img_6.jpg" width="500"/>
 
 <figcaption></figcaption>
 </figure></p>

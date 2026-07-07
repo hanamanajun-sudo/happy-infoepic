@@ -6,13 +6,13 @@ tags: []
 slug: "외국인에게-알려주는-순대-순대의-효능"
 numericId: 18
 description: "떡볶이와 같이 길거리 또는 가게에서 간단하고 싸게 먹을 수 있는 대표 분식 메뉴이다."
-thumbnail: "/images/entry/외국인에게-알려주는-순대-순대의-효능/102508_1.jpg"
+thumbnail: "/images/18/102508_1.jpg"
 ---
 
 <div class="contents_style">
 <h3 style="text-align: center; clear: none; float: none;"><br/></h3><h3 style="text-align: center; clear: none; float: none;"><figure class="imageblock alignCenter" filemime="image/jpeg" filename="102508_1.jpg" height="228" width="400">
 
-<img filemime="image/jpeg" filename="102508_1.jpg" height="228" src="/images/entry/외국인에게-알려주는-순대-순대의-효능/102508_1.jpg" width="400"/>
+<img filemime="image/jpeg" filename="102508_1.jpg" height="228" src="/images/18/102508_1.jpg" width="400"/>
 
 <figcaption></figcaption>
 </figure></h3><h3><br/></h3><h3>[순대는 무엇으로 만들어진 걸까?]
@@ -71,7 +71,7 @@ mso-bidi-font-family:"맑은 고딕";mso-bidi-theme-font:minor-latin'><span styl
 따라 순대를 추가로 주기도 한다.</p>
 <h3> <figure class="imageblock alignCenter" filemime="image/jpeg" filename="1.jpg" height="223" style="text-align: center; font-size: 13px;" width="400">
 
-<img filemime="image/jpeg" filename="1.jpg" height="223" src="/images/entry/외국인에게-알려주는-순대-순대의-효능/1.jpg" style="text-align: center; font-size: 13px;" width="400"/>
+<img filemime="image/jpeg" filename="1.jpg" height="223" src="/images/18/1.jpg" style="text-align: center; font-size: 13px;" width="400"/>
 
 <figcaption></figcaption>
 </figure></h3><h3>

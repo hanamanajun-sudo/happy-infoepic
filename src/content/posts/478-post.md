@@ -6,7 +6,7 @@ tags: ["픽사"]
 slug: "픽사-역대-애니-영화-리스트20242025년"
 numericId: 478
 description: "애들과 함께 보려고 픽사 애니메이션 리스트를 작성합니다. 저도 재미있게 볼수 있는 작품들이 많이 있고 어린이들에게도 웃음과 감동을 줄수 있는 작품이 많이 있는 픽사를 좋아합니다."
-thumbnail: "/images/entry/픽사-역대-애니-영화-리스트20242025년/c27ea481-3d61-433d-9aed-8b3136c14926.jpg"
+thumbnail: "/images/478/c27ea481-3d61-433d-9aed-8b3136c14926.jpg"
 ---
 
 <div class="contents_style">
@@ -14,7 +14,7 @@ thumbnail: "/images/entry/픽사-역대-애니-영화-리스트20242025년/c27ea
 
 <p><figure class="imageblock alignCenter" height="400" width="400">
 
-<img height="400" src="/images/entry/픽사-역대-애니-영화-리스트20242025년/c27ea481-3d61-433d-9aed-8b3136c14926.jpg" width="400"/>
+<img height="400" src="/images/478/c27ea481-3d61-433d-9aed-8b3136c14926.jpg" width="400"/>
 
 <figcaption>copilot이 '픽사 역대 애니리스트'라는 주제로 만들어준 이미지</figcaption>
 </figure></p>

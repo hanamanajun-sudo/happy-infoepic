@@ -6,13 +6,13 @@ tags: ["고윤정"]
 slug: "고윤정-정보-모음-과거프로필사진소속사인스타-주소"
 numericId: 90
 description: "배우 고윤정의 프로필과 과거 사진, 학력, 소속사, 인스타그램 주소까지 모든 정보를 꼼꼼하게 하나로 정리했습니다. 서울여자대학교 현대미술과 출신의 떠오르는 신예 배우 고윤정의 성장 과정과 주요 작품 활동을 지금 바로 확인해보세요."
-thumbnail: "/images/entry/고윤정-정보-모음-과거프로필사진소속사인스타-주소/img.png"
+thumbnail: "/images/90/img.png"
 ---
 
 <div class="contents_style">
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/entry/고윤정-정보-모음-과거프로필사진소속사인스타-주소/img.png"/>
+<img src="/images/90/img.png"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -34,12 +34,12 @@ thumbnail: "/images/entry/고윤정-정보-모음-과거프로필사진소속사
 <p>웹툰 '달빛 조각사' OST 뮤직비디오의 여주인공으로 출연하였는데</p>
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/entry/고윤정-정보-모음-과거프로필사진소속사인스타-주소/img_1.png"/>
+<img src="/images/90/img_1.png"/>
 
 <figcaption></figcaption>
 </figure><figure class="imageblock alignCenter">
 
-<img src="/images/entry/고윤정-정보-모음-과거프로필사진소속사인스타-주소/img_2.png"/>
+<img src="/images/90/img_2.png"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -48,7 +48,7 @@ thumbnail: "/images/entry/고윤정-정보-모음-과거프로필사진소속사
 
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/entry/고윤정-정보-모음-과거프로필사진소속사인스타-주소/img_3.png"/>
+<img src="/images/90/img_3.png"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -93,37 +93,37 @@ thumbnail: "/images/entry/고윤정-정보-모음-과거프로필사진소속사
 <h2><span style="background-color: #f6e199;"><b>고윤정 사진 모음 (실물 느낌)</b></span></h2>
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/entry/고윤정-정보-모음-과거프로필사진소속사인스타-주소/img_4.png"/>
+<img src="/images/90/img_4.png"/>
 
 <figcaption></figcaption>
 </figure><figure class="imageblock alignCenter">
 
-<img src="/images/entry/고윤정-정보-모음-과거프로필사진소속사인스타-주소/img_5.png"/>
+<img src="/images/90/img_5.png"/>
 
 <figcaption></figcaption>
 </figure><figure class="imageblock alignCenter">
 
-<img src="/images/entry/고윤정-정보-모음-과거프로필사진소속사인스타-주소/img_6.png"/>
+<img src="/images/90/img_6.png"/>
 
 <figcaption></figcaption>
 </figure><figure class="imageblock alignCenter">
 
-<img src="/images/entry/고윤정-정보-모음-과거프로필사진소속사인스타-주소/img_7.png"/>
+<img src="/images/90/img_7.png"/>
 
 <figcaption></figcaption>
 </figure><figure class="imageblock alignCenter">
 
-<img src="/images/entry/고윤정-정보-모음-과거프로필사진소속사인스타-주소/img_8.png"/>
+<img src="/images/90/img_8.png"/>
 
 <figcaption></figcaption>
 </figure><figure class="imageblock alignCenter">
 
-<img src="/images/entry/고윤정-정보-모음-과거프로필사진소속사인스타-주소/img_9.png"/>
+<img src="/images/90/img_9.png"/>
 
 <figcaption></figcaption>
 </figure><figure class="imageblock alignCenter">
 
-<img src="/images/entry/고윤정-정보-모음-과거프로필사진소속사인스타-주소/img_10.png"/>
+<img src="/images/90/img_10.png"/>
 
 <figcaption></figcaption>
 </figure></p>

@@ -6,7 +6,7 @@ tags: ["프렌치토스트", "프렌치토스트레시피"]
 slug: "NHK-프렌치-토스트-인생-꿀팁"
 numericId: 390
 description: "NHK [프렌치토스트를 만들 때 우유와 계란을 섞은 액체에 빵을 담그게 되는데"
-thumbnail: "/images/entry/NHK-프렌치-토스트-인생-꿀팁/img.png"
+thumbnail: "/images/390/img.png"
 ---
 
 <div class="contents_style">
@@ -14,7 +14,7 @@ thumbnail: "/images/entry/NHK-프렌치-토스트-인생-꿀팁/img.png"
 <h2><b>NHK 프렌치 토스트 좋아하는 사람에게 인생꿀팁</b></h2>
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/entry/NHK-프렌치-토스트-인생-꿀팁/img.png"/>
+<img src="/images/390/img.png"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -28,7 +28,7 @@ thumbnail: "/images/entry/NHK-프렌치-토스트-인생-꿀팁/img.png"
 <h2>밑에는 알려준 조리방법대로 프렌치토스트 만든 후기</h2>
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/entry/NHK-프렌치-토스트-인생-꿀팁/img_1.png"/>
+<img src="/images/390/img_1.png"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -36,7 +36,7 @@ thumbnail: "/images/entry/NHK-프렌치-토스트-인생-꿀팁/img.png"
 
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/entry/NHK-프렌치-토스트-인생-꿀팁/img_2.png"/>
+<img src="/images/390/img_2.png"/>
 
 <figcaption></figcaption>
 </figure></p>

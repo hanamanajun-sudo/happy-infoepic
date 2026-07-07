@@ -6,7 +6,7 @@ tags: ["VR", "다큐"]
 slug: "MBC-휴먼-다큐멘터리-너를-만났다-방송-다시보기내용후기"
 numericId: 117
 description: "VR특집이라고 하길래 신기술에 대한 이야기 인가 하고"
-thumbnail: "/images/entry/MBC-휴먼-다큐멘터리-너를-만났다-방송-다시보기내용후기/img.png"
+thumbnail: "/images/117/img.png"
 ---
 
 <div class="contents_style">
@@ -20,7 +20,7 @@ thumbnail: "/images/entry/MBC-휴먼-다큐멘터리-너를-만났다-방송-다
 <hr contenteditable="false">
 <p><figure class="imageblock alignCenter" width="600">
 
-<img src="/images/entry/MBC-휴먼-다큐멘터리-너를-만났다-방송-다시보기내용후기/img.png" width="600"/>
+<img src="/images/117/img.png" width="600"/>
 
 <figcaption></figcaption>
 </figure></p>

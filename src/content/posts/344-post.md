@@ -6,7 +6,7 @@ tags: ["BlackoutTuesday", "BlackLivesMatter"]
 slug: "Blackouttuesday-동참-국내외-연예인-누구-Black-Lives-Matter"
 numericId: 344
 description: "해시태그가 SNS를 타고 세계 곳곳에 퍼지고 있어요."
-thumbnail: "/images/entry/Blackouttuesday-동참-국내외-연예인-누구-Black-Lives-Matter/img.jpg"
+thumbnail: "/images/344/img.jpg"
 ---
 
 <div class="contents_style">
@@ -23,7 +23,7 @@ thumbnail: "/images/entry/Blackouttuesday-동참-국내외-연예인-누구-Blac
 <p><span style="background-color: #dddddd;">슬리피, 이하이, 보아, 타이거JK, 엠버, 세븐, 제시</span></p>
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/entry/Blackouttuesday-동참-국내외-연예인-누구-Black-Lives-Matter/img.jpg"/>
+<img src="/images/344/img.jpg"/>
 
 <figcaption></figcaption>
 </figure></p>

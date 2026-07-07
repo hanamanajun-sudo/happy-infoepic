@@ -6,7 +6,7 @@ tags: ["긴급재난지원금"]
 slug: "긴급재난-지원금핵심-정보대상금액지급-수단"
 numericId: 291
 description: "기준은 없습니다.소득 기준 이런것 없이 모두 받을 수 있어요."
-thumbnail: "/images/entry/긴급재난-지원금핵심-정보대상금액지급-수단/img.png"
+thumbnail: "/images/291/img.png"
 ---
 
 <div class="contents_style">
@@ -24,7 +24,7 @@ thumbnail: "/images/entry/긴급재난-지원금핵심-정보대상금액지급-
 <p>1회 만 받을 수 있어요.</p>
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/entry/긴급재난-지원금핵심-정보대상금액지급-수단/img.png"/>
+<img src="/images/291/img.png"/>
 
 <figcaption></figcaption>
 </figure></p>

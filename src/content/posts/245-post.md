@@ -6,7 +6,7 @@ tags: ["이니스프리", "할인정보", "이니스프리할인"]
 slug: "이니스프리-50세일-정보2020년-3월-할인"
 numericId: 245
 description: "이니스프리에서 할인 행사 정보가 있어서 갖고 왔어요."
-thumbnail: "/images/entry/이니스프리-50세일-정보2020년-3월-할인/img.png"
+thumbnail: "/images/245/img.png"
 ---
 
 <div class="contents_style">
@@ -21,12 +21,12 @@ thumbnail: "/images/entry/이니스프리-50세일-정보2020년-3월-할인/img
 <h4><b>이니스프리 50% 할인 되고 있는 품목</b></h4>
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/entry/이니스프리-50세일-정보2020년-3월-할인/img.png"/>
+<img src="/images/245/img.png"/>
 
 <figcaption></figcaption>
 </figure><figure class="imageblock alignCenter">
 
-<img src="/images/entry/이니스프리-50세일-정보2020년-3월-할인/img_1.png"/>
+<img src="/images/245/img_1.png"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -38,12 +38,12 @@ thumbnail: "/images/entry/이니스프리-50세일-정보2020년-3월-할인/img
 <p>할인 적용받고 있는 전체 상품이 550개 정도되고 있어요. </p>
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/entry/이니스프리-50세일-정보2020년-3월-할인/img_2.png"/>
+<img src="/images/245/img_2.png"/>
 
 <figcaption></figcaption>
 </figure><figure class="imageblock alignCenter">
 
-<img src="/images/entry/이니스프리-50세일-정보2020년-3월-할인/img_3.png"/>
+<img src="/images/245/img_3.png"/>
 
 <figcaption></figcaption>
 </figure></p>

@@ -6,7 +6,7 @@ tags: ["구해줘홈즈", "구해줘홈즈예고편"]
 slug: "구해줘홈즈예비-신혼부부예고편"
 numericId: 279
 description: "구해줘홈즈 54회 예비 신혼부부 편의 흥미로운 예고편과 방송 정보 그리고 하이라이트를 미리 소개합니다. 새신랑 새신부의 꿈꾸는 첫 러브하우스 찾기 이야기가 펼쳐질 이번 회의 기대 포인트와 방송 하이라이트를 미리 확인해보세요."
-thumbnail: "/images/entry/구해줘홈즈예비-신혼부부예고편/img.png"
+thumbnail: "/images/279/img.png"
 ---
 
 <div class="contents_style">
@@ -17,12 +17,12 @@ thumbnail: "/images/entry/구해줘홈즈예비-신혼부부예고편/img.png"
 <h2><span style="color: #333333;"><b>구해줘 홈즈 예비 신혼부부 예고편 (사진)</b></span></h2>
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/entry/구해줘홈즈예비-신혼부부예고편/img.png"/>
+<img src="/images/279/img.png"/>
 
 <figcaption>출처:MBC '구해줘! 홈즈 예고편</figcaption>
 </figure><figure class="imageblock alignCenter">
 
-<img src="/images/entry/구해줘홈즈예비-신혼부부예고편/img_1.png"/>
+<img src="/images/279/img_1.png"/>
 
 <figcaption>출처:MBC '구해줘! 홈즈 예고편</figcaption>
 </figure></p>

@@ -6,7 +6,7 @@ tags: ["갓치킨순위"]
 slug: "치킨-순위-Best-14-치킨갤에서-선정"
 numericId: 405
 description: "치킨갤에서 선정한치킨 순위 베스트 14"
-thumbnail: "/images/entry/치킨-순위-Best-14-치킨갤에서-선정/제목을_입력해주세요_-001_20_1.png"
+thumbnail: "/images/405/제목을_입력해주세요_-001_20_1.png"
 ---
 
 <div class="contents_style">
@@ -18,7 +18,7 @@ thumbnail: "/images/entry/치킨-순위-Best-14-치킨갤에서-선정/제목을
 
 <p><figure class="imageblock alignCenter" height="400" width="400">
 
-<img height="400" src="/images/entry/치킨-순위-Best-14-치킨갤에서-선정/제목을_입력해주세요_-001_20_1.png" width="400"/>
+<img height="400" src="/images/405/제목을_입력해주세요_-001_20_1.png" width="400"/>
 
 <figcaption>치킨 브랜드 순위 2022년 자료 업데이트</figcaption>
 </figure></p>
@@ -27,14 +27,14 @@ thumbnail: "/images/entry/치킨-순위-Best-14-치킨갤에서-선정/제목을
 <p>1. BBQ 황금 올리브치킨</p>
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/entry/치킨-순위-Best-14-치킨갤에서-선정/20200821_BBQ_네고왕할인이벤트_썸네일6종_480X480_px_3차_황올.png"/>
+<img src="/images/405/20200821_BBQ_네고왕할인이벤트_썸네일6종_480X480_px_3차_황올.png"/>
 
 <figcaption></figcaption>
 </figure></p>
 <p>2. BHC 뿌링클</p>
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/entry/치킨-순위-Best-14-치킨갤에서-선정/blob.jpg"/>
+<img src="/images/405/blob.jpg"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -42,7 +42,7 @@ thumbnail: "/images/entry/치킨-순위-Best-14-치킨갤에서-선정/제목을
 <p>3. 네네치킨 오리엔탈파닭</p>
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/entry/치킨-순위-Best-14-치킨갤에서-선정/blob_1.jpg"/>
+<img src="/images/405/blob_1.jpg"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -51,7 +51,7 @@ thumbnail: "/images/entry/치킨-순위-Best-14-치킨갤에서-선정/제목을
 <p>4. 교촌치킨 레드콤보</p>
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/entry/치킨-순위-Best-14-치킨갤에서-선정/blob_2.jpg"/>
+<img src="/images/405/blob_2.jpg"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -59,7 +59,7 @@ thumbnail: "/images/entry/치킨-순위-Best-14-치킨갤에서-선정/제목을
 <p>5. 페리카나 양념치킨</p>
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/entry/치킨-순위-Best-14-치킨갤에서-선정/blob_3.jpg"/>
+<img src="/images/405/blob_3.jpg"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -67,7 +67,7 @@ thumbnail: "/images/entry/치킨-순위-Best-14-치킨갤에서-선정/제목을
 <p>6. 굽네치킨 고추바사삭</p>
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/entry/치킨-순위-Best-14-치킨갤에서-선정/blob_4.jpg"/>
+<img src="/images/405/blob_4.jpg"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -78,7 +78,7 @@ thumbnail: "/images/entry/치킨-순위-Best-14-치킨갤에서-선정/제목을
 <p>7. 호식이두마리치킨 매운간장치킨</p>
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/entry/치킨-순위-Best-14-치킨갤에서-선정/blob_5.jpg"/>
+<img src="/images/405/blob_5.jpg"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -86,7 +86,7 @@ thumbnail: "/images/entry/치킨-순위-Best-14-치킨갤에서-선정/제목을
 <p>8. BHC 맛초킹</p>
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/entry/치킨-순위-Best-14-치킨갤에서-선정/blob_6.jpg"/>
+<img src="/images/405/blob_6.jpg"/>
 
 <figcaption></figcaption>
 </figure></p>

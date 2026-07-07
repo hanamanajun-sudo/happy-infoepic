@@ -6,13 +6,13 @@ tags: ["배꼽", "배꼽냄새"]
 slug: "배꼽-냄새-원인과-없애는-방법-5가지"
 numericId: 39
 description: "배꼽 냄새가 나거나 가려운 경우 어떻게 하면 좋을까요?"
-thumbnail: "/images/entry/배꼽-냄새-원인과-없애는-방법-5가지/clifford-photography-CyiAeXXPH2A-unsplash_2.jpg"
+thumbnail: "/images/39/clifford-photography-CyiAeXXPH2A-unsplash_2.jpg"
 ---
 
 <div class="contents_style">
 <p><figure class="imageblock alignLeft" width="500">
 
-<img src="/images/entry/배꼽-냄새-원인과-없애는-방법-5가지/clifford-photography-CyiAeXXPH2A-unsplash_2.jpg" width="500"/>
+<img src="/images/39/clifford-photography-CyiAeXXPH2A-unsplash_2.jpg" width="500"/>
 
 <figcaption></figcaption>
 </figure></p>

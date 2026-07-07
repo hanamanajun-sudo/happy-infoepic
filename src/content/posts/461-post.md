@@ -6,7 +6,7 @@ tags: ["선물추천"]
 slug: "5만원대-선물-추천-집들이-중요한날-남자-여자"
 numericId: 461
 description: "지인, 남자 친구, 여자 친구에게 줄 생일 선물, 기념일, 가족이나 직장 동료의 집들이, 친척, 친구 방문, 졸업, 취직, 승진 축하 선물 등 중요한 날에 선물 해야할 날은 정말 많아요."
-thumbnail: "/images/entry/5만원대-선물-추천-집들이-중요한날-남자-여자/KFoidU.webp"
+thumbnail: "/images/461/KFoidU.webp"
 ---
 
 <div class="contents_style">
@@ -28,7 +28,7 @@ thumbnail: "/images/entry/5만원대-선물-추천-집들이-중요한날-남자
 <h3><span style="background-color: #9feec3;">포트넘앤메이슨</span></h3>
 <p><figure class="imageblock alignCenter" height="375" width="400">
 
-<img height="375" src="/images/entry/5만원대-선물-추천-집들이-중요한날-남자-여자/KFoidU.webp" width="400"/>
+<img height="375" src="/images/461/KFoidU.webp" width="400"/>
 
 <figcaption></figcaption>
 </figure></p>

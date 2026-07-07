@@ -6,13 +6,13 @@ tags: ["김밥"]
 slug: "외국인들에게-알려주는-김밥-이야기-1탄"
 numericId: 16
 description: "한국에서 김밥은 분식집에서 싸게 맛있게 간단하게 먹을 수 있는 음식이다."
-thumbnail: "/images/entry/외국인들에게-알려주는-김밥-이야기-1탄/img.jpg"
+thumbnail: "/images/16/img.jpg"
 ---
 
 <div class="contents_style">
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/entry/외국인들에게-알려주는-김밥-이야기-1탄/img.jpg"/>
+<img src="/images/16/img.jpg"/>
 
 <figcaption></figcaption>
 </figure></p>

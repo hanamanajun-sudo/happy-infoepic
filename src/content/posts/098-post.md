@@ -6,7 +6,7 @@ tags: ["손희찬", "씨름돌"]
 slug: "손희찬-사진-프로필-총-모음키-나이-인스타-등"
 numericId: 98
 description: "손희찬은한국인 아버지와 일본인 어머니 사이에서 태어난 혼혈이라고 해요."
-thumbnail: "/images/entry/손희찬-사진-프로필-총-모음키-나이-인스타-등/img.png"
+thumbnail: "/images/98/img.png"
 ---
 
 <div class="contents_style">
@@ -41,39 +41,39 @@ thumbnail: "/images/entry/손희찬-사진-프로필-총-모음키-나이-인스
 <h2><span style="background-color: #f6e199;"><b>손희찬 사진 모음</b></span></h2>
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/entry/손희찬-사진-프로필-총-모음키-나이-인스타-등/img.png"/>
+<img src="/images/98/img.png"/>
 
 <figcaption>손희찬 선수 사진 (출처: 손희찬 인스타그램)</figcaption>
 </figure></p>
 
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/entry/손희찬-사진-프로필-총-모음키-나이-인스타-등/img_1.png"/>
+<img src="/images/98/img_1.png"/>
 
 <figcaption>손희찬 선수 사진 (출처: 손희찬 인스타그램) </figcaption>
 </figure><figure class="imageblock alignCenter">
 
-<img src="/images/entry/손희찬-사진-프로필-총-모음키-나이-인스타-등/img_2.png"/>
+<img src="/images/98/img_2.png"/>
 
 <figcaption>손희찬 선수 사진 (출처: 손희찬 인스타그램) </figcaption>
 </figure><figure class="imageblock alignCenter">
 
-<img src="/images/entry/손희찬-사진-프로필-총-모음키-나이-인스타-등/img_3.png"/>
+<img src="/images/98/img_3.png"/>
 
 <figcaption>손희찬 선수 사진 (출처: 손희찬 인스타그램) </figcaption>
 </figure><figure class="imageblock alignCenter">
 
-<img src="/images/entry/손희찬-사진-프로필-총-모음키-나이-인스타-등/img_4.png"/>
+<img src="/images/98/img_4.png"/>
 
 <figcaption>손희찬 선수 사진 (출처: 손희찬 인스타그램) </figcaption>
 </figure><figure class="imageblock alignCenter">
 
-<img src="/images/entry/손희찬-사진-프로필-총-모음키-나이-인스타-등/img_5.png"/>
+<img src="/images/98/img_5.png"/>
 
 <figcaption>손희찬 선수 사진 (출처: 손희찬 인스타그램) </figcaption>
 </figure><figure class="imageblock alignCenter">
 
-<img src="/images/entry/손희찬-사진-프로필-총-모음키-나이-인스타-등/img_6.png"/>
+<img src="/images/98/img_6.png"/>
 
 <figcaption>손희찬 선수 사진 (출처: 손희찬 인스타그램) </figcaption>
 </figure></p>
@@ -81,34 +81,34 @@ thumbnail: "/images/entry/손희찬-사진-프로필-총-모음키-나이-인스
 <h3><b>손희찬 등근육</b></h3>
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/entry/손희찬-사진-프로필-총-모음키-나이-인스타-등/img_7.png"/>
+<img src="/images/98/img_7.png"/>
 
 <figcaption>손희찬 선수 사진 (출처: 손희찬 인스타그램) </figcaption>
 </figure><figure class="imageblock alignCenter">
 
-<img src="/images/entry/손희찬-사진-프로필-총-모음키-나이-인스타-등/img_8.png"/>
+<img src="/images/98/img_8.png"/>
 
 <figcaption>손희찬 선수 사진 (출처: 손희찬 인스타그램) </figcaption>
 </figure></p>
 <p><b><span style="background-color: #c1bef9;">손희찬 시합 움짤</span></b></p>
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/entry/손희찬-사진-프로필-총-모음키-나이-인스타-등/img.gif"/>
+<img src="/images/98/img.gif"/>
 
 <figcaption></figcaption>
 </figure><figure class="imageblock alignCenter">
 
-<img src="/images/entry/손희찬-사진-프로필-총-모음키-나이-인스타-등/img_1.gif"/>
+<img src="/images/98/img_1.gif"/>
 
 <figcaption></figcaption>
 </figure><figure class="imageblock alignCenter">
 
-<img src="/images/entry/손희찬-사진-프로필-총-모음키-나이-인스타-등/img_2.gif"/>
+<img src="/images/98/img_2.gif"/>
 
 <figcaption></figcaption>
 </figure><figure class="imageblock alignCenter">
 
-<img src="/images/entry/손희찬-사진-프로필-총-모음키-나이-인스타-등/img_3.gif"/>
+<img src="/images/98/img_3.gif"/>
 
 <figcaption></figcaption>
 </figure></p>

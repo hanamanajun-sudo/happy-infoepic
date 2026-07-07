@@ -6,7 +6,7 @@ tags: ["산불감시탑"]
 slug: "미국-국립공원-산불-감시탑-감시원-정보-급료-생활방식"
 numericId: 441
 description: "인터넷 커뮤니티에 돌아다니는 미국 국립공원 산불 감시탑 감시원 알바에 대한 글을 보았다."
-thumbnail: "/images/entry/미국-국립공원-산불-감시탑-감시원-정보-급료-생활방식/220px-LookoutCharley01.jfif"
+thumbnail: "/images/441/220px-LookoutCharley01.jfif"
 ---
 
 <div class="contents_style">
@@ -49,7 +49,7 @@ thumbnail: "/images/entry/미국-국립공원-산불-감시탑-감시원-정보-
 
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/entry/미국-국립공원-산불-감시탑-감시원-정보-급료-생활방식/220px-LookoutCharley01.jfif"/>
+<img src="/images/441/220px-LookoutCharley01.jfif"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -60,7 +60,7 @@ thumbnail: "/images/entry/미국-국립공원-산불-감시탑-감시원-정보-
 <p>캘리포니아주 로스앤젤레스 카운티 베터 마운틴 화재 감시탑</p>
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/entry/미국-국립공원-산불-감시탑-감시원-정보-급료-생활방식/220px-VetterLookout01.jpg"/>
+<img src="/images/441/220px-VetterLookout01.jpg"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -68,7 +68,7 @@ thumbnail: "/images/entry/미국-국립공원-산불-감시탑-감시원-정보-
 <p>위스콘신 주 산불감시탑</p>
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/entry/미국-국립공원-산불-감시탑-감시원-정보-급료-생활방식/7becc838-d17d-4e25-b59b-531a4e1af8c9-bill-fumelle-photography.jpg"/>
+<img src="/images/441/7becc838-d17d-4e25-b59b-531a4e1af8c9-bill-fumelle-photography.jpg"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -77,7 +77,7 @@ thumbnail: "/images/entry/미국-국립공원-산불-감시탑-감시원-정보-
 <p>몬태나주 산불 감시탑</p>
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/entry/미국-국립공원-산불-감시탑-감시원-정보-급료-생활방식/i6y12t6ra6k91.jpg"/>
+<img src="/images/441/i6y12t6ra6k91.jpg"/>
 
 <figcaption>산불감시탑 미국 몬태나주</figcaption>
 </figure></p>
@@ -85,7 +85,7 @@ thumbnail: "/images/entry/미국-국립공원-산불-감시탑-감시원-정보-
 <p>애리조나주 콜코드 마운틴 산불 감시탑</p>
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/entry/미국-국립공원-산불-감시탑-감시원-정보-급료-생활방식/rmeppy7gllj91.jpg"/>
+<img src="/images/441/rmeppy7gllj91.jpg"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -93,7 +93,7 @@ thumbnail: "/images/entry/미국-국립공원-산불-감시탑-감시원-정보-
 <p>플로리다 산불 감시탑</p>
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/entry/미국-국립공원-산불-감시탑-감시원-정보-급료-생활방식/chxmhh16a5k91.jpg"/>
+<img src="/images/441/chxmhh16a5k91.jpg"/>
 
 <figcaption></figcaption>
 </figure></p>

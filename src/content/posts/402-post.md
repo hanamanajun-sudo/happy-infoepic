@@ -6,7 +6,7 @@ tags: ["송승헌", "유역비"]
 slug: "유역비-나이-뮬란-과거-남친-송승헌과-결별-이유시위-관련"
 numericId: 402
 description: "디즈니 애니메이션의 실사화 영화 제작 시리즈 뮬란에서"
-thumbnail: "/images/entry/유역비-나이-뮬란-과거-남친-송승헌과-결별-이유시위-관련/75244476_579167832884411_1237288371143606564_n.jpg"
+thumbnail: "/images/402/75244476_579167832884411_1237288371143606564_n.jpg"
 ---
 
 <div class="contents_style">
@@ -14,7 +14,7 @@ thumbnail: "/images/entry/유역비-나이-뮬란-과거-남친-송승헌과-결
 <p>히로인 역을 맡은 사람이 바로 유역비 이다. </p>
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/entry/유역비-나이-뮬란-과거-남친-송승헌과-결별-이유시위-관련/75244476_579167832884411_1237288371143606564_n.jpg"/>
+<img src="/images/402/75244476_579167832884411_1237288371143606564_n.jpg"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -36,7 +36,7 @@ thumbnail: "/images/entry/유역비-나이-뮬란-과거-남친-송승헌과-결
 
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/entry/유역비-나이-뮬란-과거-남친-송승헌과-결별-이유시위-관련/65309869_359539148077604_2908386665261820682_n.jpg"/>
+<img src="/images/402/65309869_359539148077604_2908386665261820682_n.jpg"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -65,7 +65,7 @@ thumbnail: "/images/entry/유역비-나이-뮬란-과거-남친-송승헌과-결
 <p>교제 했고 공개 연애를 했다. </p>
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/entry/유역비-나이-뮬란-과거-남친-송승헌과-결별-이유시위-관련/01_10340393_1.jpg"/>
+<img src="/images/402/01_10340393_1.jpg"/>
 
 <figcaption>영화 제3의 사랑 촬영현장</figcaption>
 </figure></p>
@@ -73,7 +73,7 @@ thumbnail: "/images/entry/유역비-나이-뮬란-과거-남친-송승헌과-결
 <p>헤어진 것이 알려졌다. </p>
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/entry/유역비-나이-뮬란-과거-남친-송승헌과-결별-이유시위-관련/30000528923_700.jpg"/>
+<img src="/images/402/30000528923_700.jpg"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -81,7 +81,7 @@ thumbnail: "/images/entry/유역비-나이-뮬란-과거-남친-송승헌과-결
 
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/entry/유역비-나이-뮬란-과거-남친-송승헌과-결별-이유시위-관련/87324673_2652685188340500_7003006644445655435_n.jpg"/>
+<img src="/images/402/87324673_2652685188340500_7003006644445655435_n.jpg"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -97,7 +97,7 @@ thumbnail: "/images/entry/유역비-나이-뮬란-과거-남친-송승헌과-결
 <p>아무래도 언어도 다르고 국적도 다르고 유명인이다 보니</p>
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/entry/유역비-나이-뮬란-과거-남친-송승헌과-결별-이유시위-관련/1445597566562a117e3936c.jpg"/>
+<img src="/images/402/1445597566562a117e3936c.jpg"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -109,14 +109,14 @@ thumbnail: "/images/entry/유역비-나이-뮬란-과거-남친-송승헌과-결
 <p>2017년 뮬란 오디션에 1000명의 경쟁자를 제치고 뮬란역에 캐스팅 되었다. </p>
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/entry/유역비-나이-뮬란-과거-남친-송승헌과-결별-이유시위-관련/75225513_478137916152373_5705454290073772804_n.jpg"/>
+<img src="/images/402/75225513_478137916152373_5705454290073772804_n.jpg"/>
 
 <figcaption></figcaption>
 </figure></p>
 <p>2017년 11월 발표, 이로서 월드스타에 등극한것과 다름 없다. </p>
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/entry/유역비-나이-뮬란-과거-남친-송승헌과-결별-이유시위-관련/89382543_250556205955854_8301904552119513758_n.jpg"/>
+<img src="/images/402/89382543_250556205955854_8301904552119513758_n.jpg"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -126,7 +126,7 @@ thumbnail: "/images/entry/유역비-나이-뮬란-과거-남친-송승헌과-결
 <p>이 발언으로 해외에서 비난을 받기도 했다. </p>
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/entry/유역비-나이-뮬란-과거-남친-송승헌과-결별-이유시위-관련/daddaf.png"/>
+<img src="/images/402/daddaf.png"/>
 
 <figcaption></figcaption>
 </figure></p>

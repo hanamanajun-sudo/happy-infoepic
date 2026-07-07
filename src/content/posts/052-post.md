@@ -6,13 +6,13 @@ tags: ["DVF", "다이앤", "랩드레스"]
 slug: "다이앤-본-퍼스텐버그-브랜드-소개-스타벅스-콜라보-그녀는-누구-DIANE-VON-FURSTENBERG"
 numericId: 52
 description: "다이앤 본 퍼스텐버그 DVF 그녀는 누구?"
-thumbnail: "/images/entry/다이앤-본-퍼스텐버그-브랜드-소개-스타벅스-콜라보-그녀는-누구-DIANE-VON-FURSTENBERG/img.png"
+thumbnail: "/images/52/img.png"
 ---
 
 <div class="contents_style">
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/entry/다이앤-본-퍼스텐버그-브랜드-소개-스타벅스-콜라보-그녀는-누구-DIANE-VON-FURSTENBERG/img.png"/>
+<img src="/images/52/img.png"/>
 
 <figcaption>다이앤 본 퍼스텐버그 DVF 그녀는 누구?</figcaption>
 </figure></p>

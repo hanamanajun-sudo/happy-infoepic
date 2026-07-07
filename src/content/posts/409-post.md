@@ -6,7 +6,7 @@ tags: []
 slug: "장동윤-데뷔-전-뉴스-영상-SBS"
 numericId: 409
 description: "장동윤이 식스센스에 출연했는데 데뷔전 스토리를 이야기 해서"
-thumbnail: "/images/entry/장동윤-데뷔-전-뉴스-영상-SBS/img.png"
+thumbnail: "/images/409/img.png"
 ---
 
 <div class="contents_style">
@@ -15,7 +15,7 @@ thumbnail: "/images/entry/장동윤-데뷔-전-뉴스-영상-SBS/img.png"
 
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/entry/장동윤-데뷔-전-뉴스-영상-SBS/img.png"/>
+<img src="/images/409/img.png"/>
 
 <figcaption>장동윤 데뷔 전 뉴스 영상 (SBS)</figcaption>
 </figure></p>
@@ -27,7 +27,7 @@ thumbnail: "/images/entry/장동윤-데뷔-전-뉴스-영상-SBS/img.png"
 </figure>
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/entry/장동윤-데뷔-전-뉴스-영상-SBS/img.jpg"/>
+<img src="/images/409/img.jpg"/>
 
 <figcaption>장동윤 데뷔 전 뉴스 영상 (SBS)</figcaption>
 </figure></p>

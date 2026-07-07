@@ -6,13 +6,13 @@ tags: ["철분", "철분결핍"]
 slug: "철분-부족-증상-그리고-눈으로-확인-가능한-증상들"
 numericId: 20
 description: "혹시철분 부족이 아닌가 걱정하고 있나요?여기 철분 부족할 때에 나타나는"
-thumbnail: "/images/entry/철분-부족-증상-그리고-눈으로-확인-가능한-증상들/img.jpg"
+thumbnail: "/images/20/img.jpg"
 ---
 
 <div class="contents_style">
 <p><figure class="imageblock alignCenter" height="275" width="413">
 
-<img height="275" src="/images/entry/철분-부족-증상-그리고-눈으로-확인-가능한-증상들/img.jpg" width="413"/>
+<img height="275" src="/images/20/img.jpg" width="413"/>
 
 <figcaption></figcaption>
 </figure></p>

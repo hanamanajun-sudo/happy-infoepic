@@ -6,7 +6,7 @@ tags: ["부산폭우", "부산상황", "부산"]
 slug: "부산-폭우로-물난리-상황-홍수-피해-영상-모음"
 numericId: 384
 description: "현재 부산이 폭우로 인해 물난리가 각 지역에서 나고 있어 제보가 올라오고 있는 상황이에요."
-thumbnail: "/images/entry/부산-폭우로-물난리-상황-홍수-피해-영상-모음/img.png"
+thumbnail: "/images/384/img.png"
 ---
 
 <div class="contents_style">
@@ -16,22 +16,22 @@ thumbnail: "/images/entry/부산-폭우로-물난리-상황-홍수-피해-영상
 <h2><b>부산 폭우 상황 </b></h2>
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/entry/부산-폭우로-물난리-상황-홍수-피해-영상-모음/img.png"/>
+<img src="/images/384/img.png"/>
 
 <figcaption></figcaption>
 </figure><figure class="imageblock alignCenter">
 
-<img src="/images/entry/부산-폭우로-물난리-상황-홍수-피해-영상-모음/img_1.png"/>
+<img src="/images/384/img_1.png"/>
 
 <figcaption></figcaption>
 </figure><figure class="imageblock alignCenter">
 
-<img src="/images/entry/부산-폭우로-물난리-상황-홍수-피해-영상-모음/img_2.png"/>
+<img src="/images/384/img_2.png"/>
 
 <figcaption></figcaption>
 </figure><figure class="imageblock alignCenter">
 
-<img src="/images/entry/부산-폭우로-물난리-상황-홍수-피해-영상-모음/img.gif"/>
+<img src="/images/384/img.gif"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -104,12 +104,12 @@ thumbnail: "/images/entry/부산-폭우로-물난리-상황-홍수-피해-영상
 <h2><b>부산 재난 문자 공유</b></h2>
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/entry/부산-폭우로-물난리-상황-홍수-피해-영상-모음/img_3.png"/>
+<img src="/images/384/img_3.png"/>
 
 <figcaption></figcaption>
 </figure><figure class="imageblock alignCenter">
 
-<img src="/images/entry/부산-폭우로-물난리-상황-홍수-피해-영상-모음/img_4.png"/>
+<img src="/images/384/img_4.png"/>
 
 <figcaption></figcaption>
 </figure></p>

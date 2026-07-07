@@ -6,7 +6,7 @@ tags: ["MBTI", "글램", "연애능력치테스트", "mbti연애유형"]
 slug: "나의-연애-유형-MBTI-테스트-하기"
 numericId: 362
 description: "현재 실검 1위에 머무르며 인기를 얻고 있는"
-thumbnail: "/images/entry/나의-연애-유형-MBTI-테스트-하기/이미지_008.png"
+thumbnail: "/images/362/이미지_008.png"
 ---
 
 <div class="contents_style">
@@ -17,7 +17,7 @@ thumbnail: "/images/entry/나의-연애-유형-MBTI-테스트-하기/이미지_0
 
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/entry/나의-연애-유형-MBTI-테스트-하기/이미지_008.png"/>
+<img src="/images/362/이미지_008.png"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -27,7 +27,7 @@ thumbnail: "/images/entry/나의-연애-유형-MBTI-테스트-하기/이미지_0
 
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/entry/나의-연애-유형-MBTI-테스트-하기/이미지_009.png"/>
+<img src="/images/362/이미지_009.png"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -35,14 +35,14 @@ thumbnail: "/images/entry/나의-연애-유형-MBTI-테스트-하기/이미지_0
 
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/entry/나의-연애-유형-MBTI-테스트-하기/이미지_010.png"/>
+<img src="/images/362/이미지_010.png"/>
 
 <figcaption></figcaption>
 </figure></p>
 <p>조용한 분위기를 참지 못함 ㅠㅠ 이것도 병이야</p>
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/entry/나의-연애-유형-MBTI-테스트-하기/이미지_011.png"/>
+<img src="/images/362/이미지_011.png"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -51,7 +51,7 @@ thumbnail: "/images/entry/나의-연애-유형-MBTI-테스트-하기/이미지_0
 
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/entry/나의-연애-유형-MBTI-테스트-하기/이미지_012.png"/>
+<img src="/images/362/이미지_012.png"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -59,7 +59,7 @@ thumbnail: "/images/entry/나의-연애-유형-MBTI-테스트-하기/이미지_0
 
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/entry/나의-연애-유형-MBTI-테스트-하기/이미지_013.png"/>
+<img src="/images/362/이미지_013.png"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -67,7 +67,7 @@ thumbnail: "/images/entry/나의-연애-유형-MBTI-테스트-하기/이미지_0
 
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/entry/나의-연애-유형-MBTI-테스트-하기/이미지_014.png"/>
+<img src="/images/362/이미지_014.png"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -76,7 +76,7 @@ thumbnail: "/images/entry/나의-연애-유형-MBTI-테스트-하기/이미지_0
 
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/entry/나의-연애-유형-MBTI-테스트-하기/이미지_015.png"/>
+<img src="/images/362/이미지_015.png"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -84,7 +84,7 @@ thumbnail: "/images/entry/나의-연애-유형-MBTI-테스트-하기/이미지_0
 
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/entry/나의-연애-유형-MBTI-테스트-하기/이미지_016.png"/>
+<img src="/images/362/이미지_016.png"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -92,7 +92,7 @@ thumbnail: "/images/entry/나의-연애-유형-MBTI-테스트-하기/이미지_0
 
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/entry/나의-연애-유형-MBTI-테스트-하기/이미지_017.png"/>
+<img src="/images/362/이미지_017.png"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -101,7 +101,7 @@ thumbnail: "/images/entry/나의-연애-유형-MBTI-테스트-하기/이미지_0
 
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/entry/나의-연애-유형-MBTI-테스트-하기/이미지_018.png"/>
+<img src="/images/362/이미지_018.png"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -109,7 +109,7 @@ thumbnail: "/images/entry/나의-연애-유형-MBTI-테스트-하기/이미지_0
 
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/entry/나의-연애-유형-MBTI-테스트-하기/이미지_019.png"/>
+<img src="/images/362/이미지_019.png"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -118,7 +118,7 @@ thumbnail: "/images/entry/나의-연애-유형-MBTI-테스트-하기/이미지_0
 
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/entry/나의-연애-유형-MBTI-테스트-하기/이미지_020.png"/>
+<img src="/images/362/이미지_020.png"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -126,7 +126,7 @@ thumbnail: "/images/entry/나의-연애-유형-MBTI-테스트-하기/이미지_0
 
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/entry/나의-연애-유형-MBTI-테스트-하기/이미지_021.png"/>
+<img src="/images/362/이미지_021.png"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -134,7 +134,7 @@ thumbnail: "/images/entry/나의-연애-유형-MBTI-테스트-하기/이미지_0
 
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/entry/나의-연애-유형-MBTI-테스트-하기/이미지_022.png"/>
+<img src="/images/362/이미지_022.png"/>
 
 <figcaption></figcaption>
 </figure></p>

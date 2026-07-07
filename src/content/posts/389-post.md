@@ -6,7 +6,7 @@ tags: ["재난영화", "그린란드"]
 slug: "영화-그린란드-GreenLand-운석-충돌-재난-영화-소개-예고편"
 numericId: 389
 description: "오랜만에 재난영화가 나온다. 코로나 영향도 있었지만 그것 보다 재난영화 자체가"
-thumbnail: "/images/entry/영화-그린란드-GreenLand-운석-충돌-재난-영화-소개-예고편/img.jpg"
+thumbnail: "/images/389/img.jpg"
 ---
 
 <div class="contents_style">
@@ -35,7 +35,7 @@ thumbnail: "/images/entry/영화-그린란드-GreenLand-운석-충돌-재난-영
 <p>아래 시골 마을에 사는 중산층 평범한 가족 이야기에서 시작</p>
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/entry/영화-그린란드-GreenLand-운석-충돌-재난-영화-소개-예고편/img.jpg"/>
+<img src="/images/389/img.jpg"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -46,7 +46,7 @@ thumbnail: "/images/entry/영화-그린란드-GreenLand-운석-충돌-재난-영
 
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/entry/영화-그린란드-GreenLand-운석-충돌-재난-영화-소개-예고편/img_1.jpg"/>
+<img src="/images/389/img_1.jpg"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -55,28 +55,28 @@ thumbnail: "/images/entry/영화-그린란드-GreenLand-운석-충돌-재난-영
 <p><span style="color: #333333;">당황하는 이웃 주민들</span></p>
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/entry/영화-그린란드-GreenLand-운석-충돌-재난-영화-소개-예고편/img_2.jpg"/>
+<img src="/images/389/img_2.jpg"/>
 
 <figcaption></figcaption>
 </figure></p>
 <p>도시 위에서 바라본 도시는 핵폭발이 일어난 것 처럼 불바다가 되고 </p>
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/entry/영화-그린란드-GreenLand-운석-충돌-재난-영화-소개-예고편/img_3.jpg"/>
+<img src="/images/389/img_3.jpg"/>
 
 <figcaption></figcaption>
 </figure></p>
 <p>우주에서도 보이는 운석 충돌 위치와 거대한 충돌 구름</p>
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/entry/영화-그린란드-GreenLand-운석-충돌-재난-영화-소개-예고편/img_4.jpg"/>
+<img src="/images/389/img_4.jpg"/>
 
 <figcaption></figcaption>
 </figure></p>
 <p>이 장면을 실시간으로 보며 충격에 빠진다.</p>
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/entry/영화-그린란드-GreenLand-운석-충돌-재난-영화-소개-예고편/img_5.jpg"/>
+<img src="/images/389/img_5.jpg"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -84,7 +84,7 @@ thumbnail: "/images/entry/영화-그린란드-GreenLand-운석-충돌-재난-영
 <p>타고 있는 것 처럼 보인다.</p>
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/entry/영화-그린란드-GreenLand-운석-충돌-재난-영화-소개-예고편/img_6.jpg"/>
+<img src="/images/389/img_6.jpg"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -92,14 +92,14 @@ thumbnail: "/images/entry/영화-그린란드-GreenLand-운석-충돌-재난-영
 <p>사람들은 탈출을 하기 위해 공군 비행장으로 몰려간다</p>
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/entry/영화-그린란드-GreenLand-운석-충돌-재난-영화-소개-예고편/img_7.jpg"/>
+<img src="/images/389/img_7.jpg"/>
 
 <figcaption></figcaption>
 </figure></p>
 <p>생존을 하기 위한 유일한 희망은 그린란드에 있는 벙커</p>
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/entry/영화-그린란드-GreenLand-운석-충돌-재난-영화-소개-예고편/img_8.jpg"/>
+<img src="/images/389/img_8.jpg"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -109,28 +109,28 @@ thumbnail: "/images/entry/영화-그린란드-GreenLand-운석-충돌-재난-영
 
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/entry/영화-그린란드-GreenLand-운석-충돌-재난-영화-소개-예고편/img_9.jpg"/>
+<img src="/images/389/img_9.jpg"/>
 
 <figcaption></figcaption>
 </figure></p>
 <p><span style="color: #333333;">전세계 도시에 떨어지는 운석의 파편들</span></p>
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/entry/영화-그린란드-GreenLand-운석-충돌-재난-영화-소개-예고편/img_10.jpg"/>
+<img src="/images/389/img_10.jpg"/>
 
 <figcaption></figcaption>
 </figure></p>
 <p>가족은 점점 더 필사적 벙커를 향한다.</p>
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/entry/영화-그린란드-GreenLand-운석-충돌-재난-영화-소개-예고편/img_11.jpg"/>
+<img src="/images/389/img_11.jpg"/>
 
 <figcaption></figcaption>
 </figure></p>
 <p>거대한 운석이 다시 충돌</p>
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/entry/영화-그린란드-GreenLand-운석-충돌-재난-영화-소개-예고편/img.png"/>
+<img src="/images/389/img.png"/>
 
 <figcaption></figcaption>
 </figure></p>

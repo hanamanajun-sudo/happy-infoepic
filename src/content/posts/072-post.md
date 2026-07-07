@@ -6,13 +6,13 @@ tags: ["펭수", "프사"]
 slug: "펭수-이미지-사진-모음-프사-인스타-주소"
 numericId: 72
 description: "펭수 프로필 사진과 다양한 짤방 이미지를 한곳에 모아 편하게 다운로드할 수 있도록 정리했습니다. 귀여운 펭수 사진 컬렉션으로 프로필 사진이나 SNS 짤방 자료로 사용하기 좋은 여러 가지 이미지들을 골라서 사용하세요. 펭수 인스타그램 주소와 최신 소식도 함께 확인 가능합니다."
-thumbnail: "/images/entry/펭수-이미지-사진-모음-프사-인스타-주소/img.jpg"
+thumbnail: "/images/72/img.jpg"
 ---
 
 <div class="contents_style">
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/entry/펭수-이미지-사진-모음-프사-인스타-주소/img.jpg"/>
+<img src="/images/72/img.jpg"/>
 
 <figcaption>이건 제가 사용하고 있는 프사</figcaption>
 </figure></p>
@@ -22,72 +22,72 @@ thumbnail: "/images/entry/펭수-이미지-사진-모음-프사-인스타-주소
 
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/entry/펭수-이미지-사진-모음-프사-인스타-주소/img_1.jpg"/>
+<img src="/images/72/img_1.jpg"/>
 
 <figcaption>펭수 이미지 사진 짤방 모음 (프사용)</figcaption>
 </figure><figure class="imageblock alignCenter">
 
-<img src="/images/entry/펭수-이미지-사진-모음-프사-인스타-주소/img_2.jpg"/>
+<img src="/images/72/img_2.jpg"/>
 
 <figcaption>펭수 이미지 사진 짤방 모음 (프사용)</figcaption>
 </figure><figure class="imageblock alignCenter">
 
-<img src="/images/entry/펭수-이미지-사진-모음-프사-인스타-주소/img_3.jpg"/>
+<img src="/images/72/img_3.jpg"/>
 
 <figcaption>펭수 이미지 사진 짤방 모음 (프사용)</figcaption>
 </figure><figure class="imageblock alignCenter">
 
-<img src="/images/entry/펭수-이미지-사진-모음-프사-인스타-주소/img_4.jpg"/>
+<img src="/images/72/img_4.jpg"/>
 
 <figcaption>펭수 이미지 사진 짤방 모음 (프사용)</figcaption>
 </figure><figure class="imageblock alignCenter">
 
-<img src="/images/entry/펭수-이미지-사진-모음-프사-인스타-주소/img_5.jpg"/>
+<img src="/images/72/img_5.jpg"/>
 
 <figcaption>펭수 이미지 사진 짤방 모음 (프사용)</figcaption>
 </figure><figure class="imageblock alignCenter">
 
-<img src="/images/entry/펭수-이미지-사진-모음-프사-인스타-주소/img_1.png"/>
+<img src="/images/72/img_1.png"/>
 
 <figcaption>펭수 이미지 사진 짤방 모음 (프사용)</figcaption>
 </figure><figure class="imageblock alignCenter">
 
-<img src="/images/entry/펭수-이미지-사진-모음-프사-인스타-주소/img_2.png"/>
+<img src="/images/72/img_2.png"/>
 
 <figcaption>펭수 이미지 사진 짤방 모음 (프사용)</figcaption>
 </figure><figure class="imageblock alignCenter">
 
-<img src="/images/entry/펭수-이미지-사진-모음-프사-인스타-주소/img_6.jpg"/>
+<img src="/images/72/img_6.jpg"/>
 
 <figcaption>펭수 이미지 사진 짤방 모음 (프사용)</figcaption>
 </figure><figure class="imageblock alignCenter">
 
-<img src="/images/entry/펭수-이미지-사진-모음-프사-인스타-주소/img_3.png"/>
+<img src="/images/72/img_3.png"/>
 
 <figcaption>펭수 이미지 사진 짤방 모음 (프사용)</figcaption>
 </figure><figure class="imageblock alignCenter">
 
-<img src="/images/entry/펭수-이미지-사진-모음-프사-인스타-주소/img_7.jpg"/>
+<img src="/images/72/img_7.jpg"/>
 
 <figcaption>펭수 이미지 사진 짤방 모음 (프사용)</figcaption>
 </figure><figure class="imageblock alignCenter">
 
-<img src="/images/entry/펭수-이미지-사진-모음-프사-인스타-주소/img_8.jpg"/>
+<img src="/images/72/img_8.jpg"/>
 
 <figcaption>펭수 이미지 사진 짤방 모음 (프사용)</figcaption>
 </figure><figure class="imageblock alignCenter">
 
-<img src="/images/entry/펭수-이미지-사진-모음-프사-인스타-주소/img_9.jpg"/>
+<img src="/images/72/img_9.jpg"/>
 
 <figcaption>펭수 이미지 사진 짤방 모음 (프사용)</figcaption>
 </figure><figure class="imageblock alignCenter">
 
-<img src="/images/entry/펭수-이미지-사진-모음-프사-인스타-주소/img_10.jpg"/>
+<img src="/images/72/img_10.jpg"/>
 
 <figcaption>펭수 이미지 사진 짤방 모음 (프사용)</figcaption>
 </figure><figure class="imageblock alignCenter">
 
-<img src="/images/entry/펭수-이미지-사진-모음-프사-인스타-주소/img_11.jpg"/>
+<img src="/images/72/img_11.jpg"/>
 
 <figcaption>펭수 이미지 사진 짤방 모음 (프사용)</figcaption>
 </figure></p>
@@ -105,7 +105,7 @@ thumbnail: "/images/entry/펭수-이미지-사진-모음-프사-인스타-주소
 <p>펭귄은 못난다고 누가 그랬습니까?</p>
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/entry/펭수-이미지-사진-모음-프사-인스타-주소/img.png"/>
+<img src="/images/72/img.png"/>
 
 <figcaption></figcaption>
 </figure></p>

@@ -6,13 +6,13 @@ tags: ["광화문", "블루보틀"]
 slug: "블루보틀-5호점-광화문-위치-오픈일-정보-모음"
 numericId: 86
 description: "뉴스를 보니 블루보틀 5호점이 광화문에 들어온다는 소식을 뉴스에서 봤어요."
-thumbnail: "/images/entry/블루보틀-5호점-광화문-위치-오픈일-정보-모음/img.jpg"
+thumbnail: "/images/86/img.jpg"
 ---
 
 <div class="contents_style">
 <p><figure class="imageblock alignCenter" width="600">
 
-<img src="/images/entry/블루보틀-5호점-광화문-위치-오픈일-정보-모음/img.jpg" width="600"/>
+<img src="/images/86/img.jpg" width="600"/>
 
 <figcaption></figcaption>
 </figure></p>

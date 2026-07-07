@@ -6,13 +6,13 @@ tags: ["떡볶이"]
 slug: "외국인에게-알려주는-떡볶이-2편-떡볶이의-종류와-친구들"
 numericId: 12
 description: "일반적인 떡:손가락 길이의 대표적이며 일반적인 떡"
-thumbnail: "/images/entry/외국인에게-알려주는-떡볶이-2편-떡볶이의-종류와-친구들/img.jpg"
+thumbnail: "/images/12/img.jpg"
 ---
 
 <div class="contents_style">
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/entry/외국인에게-알려주는-떡볶이-2편-떡볶이의-종류와-친구들/img.jpg"/>
+<img src="/images/12/img.jpg"/>
 
 <figcaption></figcaption>
 </figure></p>

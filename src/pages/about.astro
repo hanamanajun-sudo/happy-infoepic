@@ -71,12 +71,14 @@ const today = new Date().toLocaleDateString('ko-KR', { year: 'numeric', month: '
       </section>
 
       <section class="about-section">
-        <h2>📧 연락처</h2>
-        <p>블로그 관련 문의는 아래 이메일로 보내주세요.</p>
-        <p class="contact-email">
-          <Icons name="external-link" size={16} />
-          <a href="mailto:hanamanajun@gmail.com">hanamanajun@gmail.com</a>
-        </p>
+        <h2>📧 문의</h2>
+        <p>블로그 관련 문의는 아래로 연락주세요.</p>
+        <div class="contact-list">
+          <div class="contact-item">
+            <span class="contact-label">광고·제휴 문의</span>
+            <span class="contact-value">카카오톡 검색 <strong>@infoepic</strong></span>
+          </div>
+        </div>
       </section>
 
       <p class="updated">최종 업데이트: {today}</p>
@@ -164,6 +166,33 @@ const today = new Date().toLocaleDateString('ko-KR', { year: 'numeric', month: '
   color: var(--color-primary-dark);
   text-decoration: underline;
   text-underline-offset: 2px;
+}
+.contact-list {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+}
+.contact-item {
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+  padding: 0.75rem 1rem;
+  background: var(--color-bg-card);
+  border-radius: var(--radius-md);
+  border: 1px solid var(--color-border);
+}
+.contact-label {
+  font-size: 0.82rem;
+  font-weight: 600;
+  color: var(--color-text-muted);
+  min-width: 6rem;
+}
+.contact-value {
+  font-size: 0.95rem;
+  color: var(--color-text);
+}
+.contact-value strong {
+  color: var(--color-primary);
 }
 .updated {
   margin-top: 2.5rem;

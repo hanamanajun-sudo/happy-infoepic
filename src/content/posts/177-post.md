@@ -6,13 +6,13 @@ tags: ["넷플릭스"]
 slug: "넷플릭스-장르-별-보기-방법내가-필요해-만든-주소-모음"
 numericId: 177
 description: "넷플릭스(Netflix)로 영화 많이 보는데 불편한게 있네요."
-thumbnail: "/images/entry/넷플릭스-장르-별-보기-방법내가-필요해-만든-주소-모음/img.jpg"
+thumbnail: "/images/177/img.jpg"
 ---
 
 <div class="contents_style">
 <p><figure class="imageblock alignCenter" width="400">
 
-<img src="/images/entry/넷플릭스-장르-별-보기-방법내가-필요해-만든-주소-모음/img.jpg" width="400"/>
+<img src="/images/177/img.jpg" width="400"/>
 
 <figcaption></figcaption>
 </figure></p>

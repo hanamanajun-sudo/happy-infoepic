@@ -6,7 +6,7 @@ tags: ["떡볶이"]
 slug: "외국인에게-알려주는-떡볶이-3편-인기-있는-떡볶이-가게들"
 numericId: 13
 description: "-신당동:떡볶이를 전파 시킨 원조 떡볶이집,즉석떡볶이가 유명"
-thumbnail: "/images/entry/외국인에게-알려주는-떡볶이-3편-인기-있는-떡볶이-가게들/img.jpg"
+thumbnail: "/images/13/img.jpg"
 ---
 
 <div class="contents_style">
@@ -42,7 +42,7 @@ thumbnail: "/images/entry/외국인에게-알려주는-떡볶이-3편-인기-있
 
 <p><figure class="imageblock alignLeft" width="319">
 
-<img src="/images/entry/외국인에게-알려주는-떡볶이-3편-인기-있는-떡볶이-가게들/img.jpg" width="319"/>
+<img src="/images/13/img.jpg" width="319"/>
 
 <figcaption></figcaption>
 </figure></p>

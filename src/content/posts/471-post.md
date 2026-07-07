@@ -6,7 +6,7 @@ tags: ["목도리"]
 slug: "목도리-따뜻하게-매는-방법-영상-있음-추가-영상"
 numericId: 471
 description: "목도리 따뜻하게 묶는 방법 찾다가 찾아낸 영상입니다."
-thumbnail: "/images/entry/목도리-따뜻하게-매는-방법-영상-있음-추가-영상/d7d7b19da2a9390a8e178568d043825455a2c82d.gif"
+thumbnail: "/images/471/d7d7b19da2a9390a8e178568d043825455a2c82d.gif"
 ---
 
 <div class="contents_style">
@@ -17,7 +17,7 @@ thumbnail: "/images/entry/목도리-따뜻하게-매는-방법-영상-있음-추
 
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/entry/목도리-따뜻하게-매는-방법-영상-있음-추가-영상/d7d7b19da2a9390a8e178568d043825455a2c82d.gif"/>
+<img src="/images/471/d7d7b19da2a9390a8e178568d043825455a2c82d.gif"/>
 
 <figcaption></figcaption>
 </figure></p>

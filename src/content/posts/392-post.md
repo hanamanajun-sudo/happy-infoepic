@@ -6,7 +6,7 @@ tags: ["국민외식비", "외식지원비"]
 slug: "국민외식비-신청-지원-받는-방법-간단-설명"
 numericId: 392
 description: "임시공휴일을 더해서 이번 연휴에는 정부에서 쿠폰 등을"
-thumbnail: "/images/entry/국민외식비-신청-지원-받는-방법-간단-설명/img.png"
+thumbnail: "/images/392/img.png"
 ---
 
 <div class="contents_style">
@@ -16,7 +16,7 @@ thumbnail: "/images/entry/국민외식비-신청-지원-받는-방법-간단-설
 
 <p><figure class="imageblock alignCenter" width="500">
 
-<img src="/images/entry/국민외식비-신청-지원-받는-방법-간단-설명/img.png" width="500"/>
+<img src="/images/392/img.png" width="500"/>
 
 <figcaption>농림축산신품부 주관으로 시행되는 국민외식비</figcaption>
 </figure></p>
@@ -34,7 +34,7 @@ thumbnail: "/images/entry/국민외식비-신청-지원-받는-방법-간단-설
 <h2><b>외식비용 지원 받는 방법</b></h2>
 <p><figure class="imageblock alignCenter" width="500">
 
-<img src="/images/entry/국민외식비-신청-지원-받는-방법-간단-설명/img_1.png" width="500"/>
+<img src="/images/392/img_1.png" width="500"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -46,7 +46,7 @@ thumbnail: "/images/entry/국민외식비-신청-지원-받는-방법-간단-설
 <p><span style="color: #666666;">* 응모일부터 사용실적 누적 집계</span></p>
 <p><figure class="imageblock alignCenter" width="500">
 
-<img src="/images/entry/국민외식비-신청-지원-받는-방법-간단-설명/img_2.png" width="500"/>
+<img src="/images/392/img_2.png" width="500"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -90,7 +90,7 @@ thumbnail: "/images/entry/국민외식비-신청-지원-받는-방법-간단-설
 </ul>
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/entry/국민외식비-신청-지원-받는-방법-간단-설명/img_3.png"/>
+<img src="/images/392/img_3.png"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -102,7 +102,7 @@ thumbnail: "/images/entry/국민외식비-신청-지원-받는-방법-간단-설
 <p>(KB국민, NH농협, 롯데, 비씨, 삼성, 신한, 우리, 하나, 현대카드)</p>
 <p><figure class="imageblock alignCenter" width="500">
 
-<img src="/images/entry/국민외식비-신청-지원-받는-방법-간단-설명/img_4.png" width="500"/>
+<img src="/images/392/img_4.png" width="500"/>
 
 <figcaption></figcaption>
 </figure></p>

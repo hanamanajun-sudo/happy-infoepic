@@ -6,7 +6,7 @@ tags: []
 slug: "에드픽"
 numericId: 387
 description: "PR 집닥 인테리어 1번가에서 제공하는 전문적이고 체계적인 홈 인테리어 서비스를 자세하게 소개합니다. 인테리어 전문가와 함께하는 맞춤형 인테리어 솔루션으로 낡은 공간을 새롭게 변화시키고 싶다면 지금 바로 확인해보세요."
-thumbnail: "/images/entry/에드픽/img.jpg"
+thumbnail: "/images/387/img.jpg"
 ---
 
 <div class="contents_style">
@@ -14,7 +14,7 @@ thumbnail: "/images/entry/에드픽/img.jpg"
 
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/entry/에드픽/img.jpg"/>
+<img src="/images/387/img.jpg"/>
 
 <figcaption></figcaption>
 </figure></p>

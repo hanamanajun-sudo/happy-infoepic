@@ -6,7 +6,7 @@ tags: ["냉동만두", "냉동만두추천"]
 slug: "냉동만두-추천만두-10종-맛순위-비교가성비-랭킹"
 numericId: 348
 description: "냉동 만두 시장이 점점 커지고 있는 가운데"
-thumbnail: "/images/entry/냉동만두-추천만두-10종-맛순위-비교가성비-랭킹/img.jpg"
+thumbnail: "/images/348/img.jpg"
 ---
 
 <div class="contents_style">
@@ -21,12 +21,12 @@ thumbnail: "/images/entry/냉동만두-추천만두-10종-맛순위-비교가성
 
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/entry/냉동만두-추천만두-10종-맛순위-비교가성비-랭킹/img.jpg"/>
+<img src="/images/348/img.jpg"/>
 
 <figcaption>총 11개의 브랜드 냉동만두 평가</figcaption>
 </figure><figure class="imageblock alignCenter">
 
-<img src="/images/entry/냉동만두-추천만두-10종-맛순위-비교가성비-랭킹/img_1.jpg"/>
+<img src="/images/348/img_1.jpg"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -35,7 +35,7 @@ thumbnail: "/images/entry/냉동만두-추천만두-10종-맛순위-비교가성
 <p><span style="color: #333333;">어디까지나 <b>냉동만두 선택을 위한 하나의 선택지</b>로 보시면 될 것 같아요.</span></p>
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/entry/냉동만두-추천만두-10종-맛순위-비교가성비-랭킹/img_2.jpg"/>
+<img src="/images/348/img_2.jpg"/>
 
 <figcaption>냉동만두 속도 보여주고 하나하나 먹어보며 평가</figcaption>
 </figure></p>
@@ -50,7 +50,7 @@ thumbnail: "/images/entry/냉동만두-추천만두-10종-맛순위-비교가성
 <h2>냉동 만두 랜덤 블라인드 테스트 (만두 브랜드 순위 비교)</h2>
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/entry/냉동만두-추천만두-10종-맛순위-비교가성비-랭킹/img_3.jpg"/>
+<img src="/images/348/img_3.jpg"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -65,7 +65,7 @@ thumbnail: "/images/entry/냉동만두-추천만두-10종-맛순위-비교가성
 
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/entry/냉동만두-추천만두-10종-맛순위-비교가성비-랭킹/img_4.jpg"/>
+<img src="/images/348/img_4.jpg"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -79,7 +79,7 @@ thumbnail: "/images/entry/냉동만두-추천만두-10종-맛순위-비교가성
 
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/entry/냉동만두-추천만두-10종-맛순위-비교가성비-랭킹/img_5.jpg"/>
+<img src="/images/348/img_5.jpg"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -93,7 +93,7 @@ thumbnail: "/images/entry/냉동만두-추천만두-10종-맛순위-비교가성
 
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/entry/냉동만두-추천만두-10종-맛순위-비교가성비-랭킹/img_6.jpg"/>
+<img src="/images/348/img_6.jpg"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -107,7 +107,7 @@ thumbnail: "/images/entry/냉동만두-추천만두-10종-맛순위-비교가성
 
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/entry/냉동만두-추천만두-10종-맛순위-비교가성비-랭킹/img_7.jpg"/>
+<img src="/images/348/img_7.jpg"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -121,7 +121,7 @@ thumbnail: "/images/entry/냉동만두-추천만두-10종-맛순위-비교가성
 
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/entry/냉동만두-추천만두-10종-맛순위-비교가성비-랭킹/img_8.jpg"/>
+<img src="/images/348/img_8.jpg"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -133,7 +133,7 @@ thumbnail: "/images/entry/냉동만두-추천만두-10종-맛순위-비교가성
 
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/entry/냉동만두-추천만두-10종-맛순위-비교가성비-랭킹/img_9.jpg"/>
+<img src="/images/348/img_9.jpg"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -148,7 +148,7 @@ thumbnail: "/images/entry/냉동만두-추천만두-10종-맛순위-비교가성
 
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/entry/냉동만두-추천만두-10종-맛순위-비교가성비-랭킹/img_10.jpg"/>
+<img src="/images/348/img_10.jpg"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -160,7 +160,7 @@ thumbnail: "/images/entry/냉동만두-추천만두-10종-맛순위-비교가성
 <p>칼로리- 865kcal</p>
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/entry/냉동만두-추천만두-10종-맛순위-비교가성비-랭킹/img_11.jpg"/>
+<img src="/images/348/img_11.jpg"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -173,7 +173,7 @@ thumbnail: "/images/entry/냉동만두-추천만두-10종-맛순위-비교가성
 <p>칼로리- 1040kcal</p>
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/entry/냉동만두-추천만두-10종-맛순위-비교가성비-랭킹/img_12.jpg"/>
+<img src="/images/348/img_12.jpg"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -188,7 +188,7 @@ thumbnail: "/images/entry/냉동만두-추천만두-10종-맛순위-비교가성
 <p>칼로리- 519kcal</p>
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/entry/냉동만두-추천만두-10종-맛순위-비교가성비-랭킹/img_13.jpg"/>
+<img src="/images/348/img_13.jpg"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -201,7 +201,7 @@ thumbnail: "/images/entry/냉동만두-추천만두-10종-맛순위-비교가성
 
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/entry/냉동만두-추천만두-10종-맛순위-비교가성비-랭킹/img_14.jpg"/>
+<img src="/images/348/img_14.jpg"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -214,7 +214,7 @@ thumbnail: "/images/entry/냉동만두-추천만두-10종-맛순위-비교가성
 
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/entry/냉동만두-추천만두-10종-맛순위-비교가성비-랭킹/img_15.jpg"/>
+<img src="/images/348/img_15.jpg"/>
 
 <figcaption></figcaption>
 </figure></p>

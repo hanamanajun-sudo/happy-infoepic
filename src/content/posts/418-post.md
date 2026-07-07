@@ -6,7 +6,7 @@ tags: ["고급빌라뷰", "고급빌라거실"]
 slug: "서울-고급빌라-거실-내부-사진-모음"
 numericId: 418
 description: "서울 시내 고급빌라의 거실 내부 사진 모음입니다."
-thumbnail: "/images/entry/서울-고급빌라-거실-내부-사진-모음/img.jpg"
+thumbnail: "/images/418/img.jpg"
 ---
 
 <div class="contents_style">
@@ -15,7 +15,7 @@ thumbnail: "/images/entry/서울-고급빌라-거실-내부-사진-모음/img.jp
 
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/entry/서울-고급빌라-거실-내부-사진-모음/img.jpg"/>
+<img src="/images/418/img.jpg"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -23,17 +23,17 @@ thumbnail: "/images/entry/서울-고급빌라-거실-내부-사진-모음/img.jp
 
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/entry/서울-고급빌라-거실-내부-사진-모음/img_1.jpg"/>
+<img src="/images/418/img_1.jpg"/>
 
 <figcaption></figcaption>
 </figure><figure class="imageblock alignCenter">
 
-<img src="/images/entry/서울-고급빌라-거실-내부-사진-모음/img_2.jpg"/>
+<img src="/images/418/img_2.jpg"/>
 
 <figcaption></figcaption>
 </figure><figure class="imageblock alignCenter">
 
-<img src="/images/entry/서울-고급빌라-거실-내부-사진-모음/img_3.jpg"/>
+<img src="/images/418/img_3.jpg"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -42,12 +42,12 @@ thumbnail: "/images/entry/서울-고급빌라-거실-내부-사진-모음/img.jp
 
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/entry/서울-고급빌라-거실-내부-사진-모음/img_4.jpg"/>
+<img src="/images/418/img_4.jpg"/>
 
 <figcaption></figcaption>
 </figure><figure class="imageblock alignCenter">
 
-<img src="/images/entry/서울-고급빌라-거실-내부-사진-모음/img_5.jpg"/>
+<img src="/images/418/img_5.jpg"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -58,7 +58,7 @@ thumbnail: "/images/entry/서울-고급빌라-거실-내부-사진-모음/img.jp
 
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/entry/서울-고급빌라-거실-내부-사진-모음/img_6.jpg"/>
+<img src="/images/418/img_6.jpg"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -67,7 +67,7 @@ thumbnail: "/images/entry/서울-고급빌라-거실-내부-사진-모음/img.jp
 
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/entry/서울-고급빌라-거실-내부-사진-모음/img_7.jpg"/>
+<img src="/images/418/img_7.jpg"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -76,7 +76,7 @@ thumbnail: "/images/entry/서울-고급빌라-거실-내부-사진-모음/img.jp
 
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/entry/서울-고급빌라-거실-내부-사진-모음/img_8.jpg"/>
+<img src="/images/418/img_8.jpg"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -85,7 +85,7 @@ thumbnail: "/images/entry/서울-고급빌라-거실-내부-사진-모음/img.jp
 
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/entry/서울-고급빌라-거실-내부-사진-모음/img_9.jpg"/>
+<img src="/images/418/img_9.jpg"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -93,12 +93,12 @@ thumbnail: "/images/entry/서울-고급빌라-거실-내부-사진-모음/img.jp
 
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/entry/서울-고급빌라-거실-내부-사진-모음/img_10.jpg"/>
+<img src="/images/418/img_10.jpg"/>
 
 <figcaption></figcaption>
 </figure><figure class="imageblock alignCenter">
 
-<img src="/images/entry/서울-고급빌라-거실-내부-사진-모음/img_11.jpg"/>
+<img src="/images/418/img_11.jpg"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -107,7 +107,7 @@ thumbnail: "/images/entry/서울-고급빌라-거실-내부-사진-모음/img.jp
 
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/entry/서울-고급빌라-거실-내부-사진-모음/img_12.jpg"/>
+<img src="/images/418/img_12.jpg"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -116,7 +116,7 @@ thumbnail: "/images/entry/서울-고급빌라-거실-내부-사진-모음/img.jp
 
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/entry/서울-고급빌라-거실-내부-사진-모음/img_13.jpg"/>
+<img src="/images/418/img_13.jpg"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -125,7 +125,7 @@ thumbnail: "/images/entry/서울-고급빌라-거실-내부-사진-모음/img.jp
 
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/entry/서울-고급빌라-거실-내부-사진-모음/img_14.jpg"/>
+<img src="/images/418/img_14.jpg"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -134,7 +134,7 @@ thumbnail: "/images/entry/서울-고급빌라-거실-내부-사진-모음/img.jp
 
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/entry/서울-고급빌라-거실-내부-사진-모음/img_15.jpg"/>
+<img src="/images/418/img_15.jpg"/>
 
 <figcaption></figcaption>
 </figure></p>

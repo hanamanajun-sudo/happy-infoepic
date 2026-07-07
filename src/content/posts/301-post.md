@@ -6,7 +6,7 @@ tags: ["갑수목장", "갑수목장폭로영상", "갑수목작해명", "갑수
 slug: "갑수목장-폭로-영상-논란-요약해명-영상-정리-추가"
 numericId: 301
 description: "갑수목장은 45만명의 채널 구독자가 있는 거대 반려묘 유튜브 채널이다."
-thumbnail: "/images/entry/갑수목장-폭로-영상-논란-요약해명-영상-정리-추가/이미지_020.png"
+thumbnail: "/images/301/이미지_020.png"
 ---
 
 <div class="contents_style">
@@ -86,27 +86,27 @@ thumbnail: "/images/entry/갑수목장-폭로-영상-논란-요약해명-영상-
 <h3><b><span style="color: #333333;">해명 라이브 영상 당시 시청자 채팅 반응</span></b></h3>
 <p><figure class="imageblock alignCenter" width="400">
 
-<img src="/images/entry/갑수목장-폭로-영상-논란-요약해명-영상-정리-추가/이미지_020.png" width="400"/>
+<img src="/images/301/이미지_020.png" width="400"/>
 
 <figcaption></figcaption>
 </figure><figure class="imageblock alignCenter" width="400">
 
-<img src="/images/entry/갑수목장-폭로-영상-논란-요약해명-영상-정리-추가/이미지_021.png" width="400"/>
+<img src="/images/301/이미지_021.png" width="400"/>
 
 <figcaption></figcaption>
 </figure><figure class="imageblock alignCenter">
 
-<img src="/images/entry/갑수목장-폭로-영상-논란-요약해명-영상-정리-추가/blob.jpg"/>
+<img src="/images/301/blob.jpg"/>
 
 <figcaption>갑수농장 라이브 해명 당시 누워 있는 모습 그리고 이를 본 시청자 반응</figcaption>
 </figure><figure class="imageblock alignCenter">
 
-<img src="/images/entry/갑수목장-폭로-영상-논란-요약해명-영상-정리-추가/이미지_023.png"/>
+<img src="/images/301/이미지_023.png"/>
 
 <figcaption></figcaption>
 </figure><figure class="imageblock alignCenter">
 
-<img src="/images/entry/갑수목장-폭로-영상-논란-요약해명-영상-정리-추가/이미지_024.png"/>
+<img src="/images/301/이미지_024.png"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -116,22 +116,22 @@ thumbnail: "/images/entry/갑수목장-폭로-영상-논란-요약해명-영상-
 
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/entry/갑수목장-폭로-영상-논란-요약해명-영상-정리-추가/이미지_025.png"/>
+<img src="/images/301/이미지_025.png"/>
 
 <figcaption></figcaption>
 </figure><figure class="imageblock alignCenter">
 
-<img src="/images/entry/갑수목장-폭로-영상-논란-요약해명-영상-정리-추가/이미지_026.png"/>
+<img src="/images/301/이미지_026.png"/>
 
 <figcaption></figcaption>
 </figure><figure class="imageblock alignCenter">
 
-<img src="/images/entry/갑수목장-폭로-영상-논란-요약해명-영상-정리-추가/이미지_027.png"/>
+<img src="/images/301/이미지_027.png"/>
 
 <figcaption></figcaption>
 </figure><figure class="imageblock alignCenter">
 
-<img src="/images/entry/갑수목장-폭로-영상-논란-요약해명-영상-정리-추가/이미지_028.png"/>
+<img src="/images/301/이미지_028.png"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -146,22 +146,22 @@ thumbnail: "/images/entry/갑수목장-폭로-영상-논란-요약해명-영상-
 <h3><u><b><span style="color: #333333;">결국 스브스에까지 뉴스 보도 되고 </span></b></u></h3>
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/entry/갑수목장-폭로-영상-논란-요약해명-영상-정리-추가/이미지_029.png"/>
+<img src="/images/301/이미지_029.png"/>
 
 <figcaption></figcaption>
 </figure><figure class="imageblock alignCenter">
 
-<img src="/images/entry/갑수목장-폭로-영상-논란-요약해명-영상-정리-추가/이미지_030.png"/>
+<img src="/images/301/이미지_030.png"/>
 
 <figcaption></figcaption>
 </figure><figure class="imageblock alignCenter">
 
-<img src="/images/entry/갑수목장-폭로-영상-논란-요약해명-영상-정리-추가/이미지_031.png"/>
+<img src="/images/301/이미지_031.png"/>
 
 <figcaption></figcaption>
 </figure><figure class="imageblock alignCenter">
 
-<img src="/images/entry/갑수목장-폭로-영상-논란-요약해명-영상-정리-추가/이미지_032.png"/>
+<img src="/images/301/이미지_032.png"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -169,7 +169,7 @@ thumbnail: "/images/entry/갑수목장-폭로-영상-논란-요약해명-영상-
 <h3><b>갑수목장 수익 관련 보도 내용</b></h3>
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/entry/갑수목장-폭로-영상-논란-요약해명-영상-정리-추가/이미지_035.png"/>
+<img src="/images/301/이미지_035.png"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -179,12 +179,12 @@ thumbnail: "/images/entry/갑수목장-폭로-영상-논란-요약해명-영상-
 
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/entry/갑수목장-폭로-영상-논란-요약해명-영상-정리-추가/이미지_036.png"/>
+<img src="/images/301/이미지_036.png"/>
 
 <figcaption></figcaption>
 </figure><figure class="imageblock alignCenter">
 
-<img src="/images/entry/갑수목장-폭로-영상-논란-요약해명-영상-정리-추가/이미지_037.png"/>
+<img src="/images/301/이미지_037.png"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -192,7 +192,7 @@ thumbnail: "/images/entry/갑수목장-폭로-영상-논란-요약해명-영상-
 
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/entry/갑수목장-폭로-영상-논란-요약해명-영상-정리-추가/이미지_038.png"/>
+<img src="/images/301/이미지_038.png"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -200,12 +200,12 @@ thumbnail: "/images/entry/갑수목장-폭로-영상-논란-요약해명-영상-
 <h3><b>갑수목장 동물병원 </b></h3>
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/entry/갑수목장-폭로-영상-논란-요약해명-영상-정리-추가/이미지_039.png"/>
+<img src="/images/301/이미지_039.png"/>
 
 <figcaption></figcaption>
 </figure><figure class="imageblock alignCenter">
 
-<img src="/images/entry/갑수목장-폭로-영상-논란-요약해명-영상-정리-추가/이미지_040.png"/>
+<img src="/images/301/이미지_040.png"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -213,7 +213,7 @@ thumbnail: "/images/entry/갑수목장-폭로-영상-논란-요약해명-영상-
 <p>스브스뉴스가 거의 핵심을 다 이야기 해버리네요</p>
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/entry/갑수목장-폭로-영상-논란-요약해명-영상-정리-추가/이미지_041.png"/>
+<img src="/images/301/이미지_041.png"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -221,7 +221,7 @@ thumbnail: "/images/entry/갑수목장-폭로-영상-논란-요약해명-영상-
 <p>갑수목장 동물보호단체에게 고발된 상태 라고 합니다.</p>
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/entry/갑수목장-폭로-영상-논란-요약해명-영상-정리-추가/이미지_042.png"/>
+<img src="/images/301/이미지_042.png"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -234,7 +234,7 @@ thumbnail: "/images/entry/갑수목장-폭로-영상-논란-요약해명-영상-
 <p><u><b><span style="color: #333333;">상황이 이리 되니 채널 모든 영상 삭제 해버림</span></b></u></p>
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/entry/갑수목장-폭로-영상-논란-요약해명-영상-정리-추가/Screenshot_2020-05-09-10-27-18.png"/>
+<img src="/images/301/Screenshot_2020-05-09-10-27-18.png"/>
 
 <figcaption>갑수목장 동영상 어디감</figcaption>
 </figure></p>
@@ -249,7 +249,7 @@ thumbnail: "/images/entry/갑수목장-폭로-영상-논란-요약해명-영상-
 <p>폭로 영상과 함께 보니 잃어버린 톱니바퀴를 찾은것 같기도 합니다..</p>
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/entry/갑수목장-폭로-영상-논란-요약해명-영상-정리-추가/20200507_220028.jpg"/>
+<img src="/images/301/20200507_220028.jpg"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -262,17 +262,17 @@ thumbnail: "/images/entry/갑수목장-폭로-영상-논란-요약해명-영상-
 <p><!--중간광고E--></p>
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/entry/갑수목장-폭로-영상-논란-요약해명-영상-정리-추가/IMG_20200507_234551.jpg"/>
+<img src="/images/301/IMG_20200507_234551.jpg"/>
 
 <figcaption></figcaption>
 </figure><figure class="imageblock alignCenter">
 
-<img src="/images/entry/갑수목장-폭로-영상-논란-요약해명-영상-정리-추가/IMG_20200507_234718.jpg"/>
+<img src="/images/301/IMG_20200507_234718.jpg"/>
 
 <figcaption></figcaption>
 </figure><figure class="imageblock alignCenter">
 
-<img src="/images/entry/갑수목장-폭로-영상-논란-요약해명-영상-정리-추가/IMG_20200507_234457.jpg"/>
+<img src="/images/301/IMG_20200507_234457.jpg"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -290,14 +290,14 @@ thumbnail: "/images/entry/갑수목장-폭로-영상-논란-요약해명-영상-
 
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/entry/갑수목장-폭로-영상-논란-요약해명-영상-정리-추가/이미지_21.png"/>
+<img src="/images/301/이미지_21.png"/>
 
 <figcaption></figcaption>
 </figure></p>
 <h3><b>갑수농장 스마트 스토어 근황</b></h3>
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/entry/갑수목장-폭로-영상-논란-요약해명-영상-정리-추가/이미지_22.png"/>
+<img src="/images/301/이미지_22.png"/>
 
 <figcaption>갑수농장 스마트 스토어 별점 근황</figcaption>
 </figure></p>

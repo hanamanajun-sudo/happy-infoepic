@@ -6,7 +6,7 @@ tags: ["철분"]
 slug: "철분-최강-음식-10가지-그리고-비-추천-음식"
 numericId: 22
 description: "평소에 편식을 했다거나 무리하게 다이어트를 하고 있거나 담배를 피우고 있다면"
-thumbnail: "/images/entry/철분-최강-음식-10가지-그리고-비-추천-음식/img.jpg"
+thumbnail: "/images/22/img.jpg"
 ---
 
 <div class="contents_style">
@@ -47,7 +47,7 @@ thumbnail: "/images/entry/철분-최강-음식-10가지-그리고-비-추천-음
 <p>칼슘과 비타민D가 풍부하다. </p>
 <p><figure class="imageblock alignCenter" height="234" width="417">
 
-<img height="234" src="/images/entry/철분-최강-음식-10가지-그리고-비-추천-음식/img.jpg" width="417"/>
+<img height="234" src="/images/22/img.jpg" width="417"/>
 
 <figcaption></figcaption>
 </figure></p>

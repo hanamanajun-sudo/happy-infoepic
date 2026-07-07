@@ -6,7 +6,7 @@ tags: ["드라마"]
 slug: "브래이킹배드-베더콜사울-오자크-좋아하는-사람에게-드라마-추천"
 numericId: 477
 description: "브레이킹배드를 먼저 보고 그다음 베더콜 사울을 보고 비슷한 류를 찾다가 오자크를 발견하고 다 보고 나니 뭘 봐야 할지 몰라서 헛헛함에 시간 보내다가 AI에게 추천해 달라고 말해 보았습니다."
-thumbnail: "/images/entry/브래이킹배드-베더콜사울-오자크-좋아하는-사람에게-드라마-추천/r69cY9bHh2D1pr0fyfpWJwB_1pS2IXiPdfB4B36CFtKTetVzzcMB3ZsfeZpTiVvAd5zuefoOj2PgeEmtFwAS9Q.webp"
+thumbnail: "/images/477/r69cY9bHh2D1pr0fyfpWJwB_1pS2IXiPdfB4B36CFtKTetVzzcMB3ZsfeZpTiVvAd5zuefoOj2PgeEmtFwAS9Q.webp"
 ---
 
 <div class="contents_style">
@@ -14,7 +14,7 @@ thumbnail: "/images/entry/브래이킹배드-베더콜사울-오자크-좋아하
 
 <p><figure class="imageblock alignCenter" height="236" width="400">
 
-<img height="236" src="/images/entry/브래이킹배드-베더콜사울-오자크-좋아하는-사람에게-드라마-추천/r69cY9bHh2D1pr0fyfpWJwB_1pS2IXiPdfB4B36CFtKTetVzzcMB3ZsfeZpTiVvAd5zuefoOj2PgeEmtFwAS9Q.webp" width="400"/>
+<img height="236" src="/images/477/r69cY9bHh2D1pr0fyfpWJwB_1pS2IXiPdfB4B36CFtKTetVzzcMB3ZsfeZpTiVvAd5zuefoOj2PgeEmtFwAS9Q.webp" width="400"/>
 
 <figcaption></figcaption>
 </figure></p>

@@ -6,13 +6,13 @@ tags: ["장성규", "오또맘"]
 slug: "인스타에서-오또맘이-잡았다-장성규-오예인스타그램-주소"
 numericId: 45
 description: "이곳은 웃음꽃이 피고 있는 인터넷 입니다."
-thumbnail: "/images/entry/인스타에서-오또맘이-잡았다-장성규-오예인스타그램-주소/img.jpg"
+thumbnail: "/images/45/img.jpg"
 ---
 
 <div class="contents_style">
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/entry/인스타에서-오또맘이-잡았다-장성규-오예인스타그램-주소/img.jpg"/>
+<img src="/images/45/img.jpg"/>
 
 <figcaption></figcaption>
 </figure></p>

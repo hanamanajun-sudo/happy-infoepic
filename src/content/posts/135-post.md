@@ -6,7 +6,7 @@ tags: ["MBC", "다큐멘터리", "너를만났다", "휴면다큐멘터리"]
 slug: "MBC다큐-너를-만났다-국민청원-내용-꼭-퍼지길"
 numericId: 135
 description: "나연이와 어머니가 만나는 엠비씨 휴먼 다큐를 주변의 많은 사람들이 봤어요."
-thumbnail: "/images/entry/MBC다큐-너를-만났다-국민청원-내용-꼭-퍼지길/img.png"
+thumbnail: "/images/135/img.png"
 ---
 
 <div class="contents_style">
@@ -25,12 +25,12 @@ thumbnail: "/images/entry/MBC다큐-너를-만났다-국민청원-내용-꼭-퍼
 
 <p><figure class="imageblock alignCenter" width="500">
 
-<img src="/images/entry/MBC다큐-너를-만났다-국민청원-내용-꼭-퍼지길/img.png" width="500"/>
+<img src="/images/135/img.png" width="500"/>
 
 <figcaption></figcaption>
 </figure><figure class="imageblock alignCenter" width="500">
 
-<img src="/images/entry/MBC다큐-너를-만났다-국민청원-내용-꼭-퍼지길/img_1.png" width="500"/>
+<img src="/images/135/img_1.png" width="500"/>
 
 <figcaption></figcaption>
 </figure></p>

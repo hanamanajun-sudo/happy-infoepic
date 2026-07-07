@@ -6,13 +6,13 @@ tags: ["펭수", "펭수참치"]
 slug: "펭수-참치-온라인오프라인-파는-곳"
 numericId: 81
 description: "펭수 참치가 16일 부터 판매에 들어갔어요."
-thumbnail: "/images/entry/펭수-참치-온라인오프라인-파는-곳/img.png"
+thumbnail: "/images/81/img.png"
 ---
 
 <div class="contents_style">
 <p><figure class="imageblock alignCenter" width="400">
 
-<img src="/images/entry/펭수-참치-온라인오프라인-파는-곳/img.png" width="400"/>
+<img src="/images/81/img.png" width="400"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -23,7 +23,7 @@ thumbnail: "/images/entry/펭수-참치-온라인오프라인-파는-곳/img.png
 <blockquote>펭수 참치 1개 + 일반 참치 5개<br/>가격은 1만 1480원 입니다.</blockquote>
 <p><figure class="imageblock alignCenter" width="500">
 
-<img src="/images/entry/펭수-참치-온라인오프라인-파는-곳/img_1.png" width="500"/>
+<img src="/images/81/img_1.png" width="500"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -52,7 +52,7 @@ thumbnail: "/images/entry/펭수-참치-온라인오프라인-파는-곳/img.png
 <p>혹시 모르니</p>
 <p><figure class="imageblock alignLeft">
 
-<img src="/images/entry/펭수-참치-온라인오프라인-파는-곳/img_2.png"/>
+<img src="/images/81/img_2.png"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -65,7 +65,7 @@ thumbnail: "/images/entry/펭수-참치-온라인오프라인-파는-곳/img.png
 
 <p><figure class="imageblock alignCenter" width="400">
 
-<img src="/images/entry/펭수-참치-온라인오프라인-파는-곳/img.jpg" width="400"/>
+<img src="/images/81/img.jpg" width="400"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -77,7 +77,7 @@ thumbnail: "/images/entry/펭수-참치-온라인오프라인-파는-곳/img.png
 <p>펭수 다른 색 참치 들은 시리즈로 나오려나??</p>
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/entry/펭수-참치-온라인오프라인-파는-곳/img_3.png"/>
+<img src="/images/81/img_3.png"/>
 
 <figcaption></figcaption>
 </figure></p>

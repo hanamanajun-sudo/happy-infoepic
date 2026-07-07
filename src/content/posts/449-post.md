@@ -6,7 +6,7 @@ tags: ["소비기한"]
 slug: "유통기한-소비기한-차이-라면-두부-식빵-우유-요거트-계란-치즈-유통기한-지나도-먹을-수-있나요"
 numericId: 449
 description: "라면이나 기타 식품에 유통기한이 써있는데요. 유통기한 날짜 지난 제품들 먹어도 되는지 궁금해서 찾아보았어요."
-thumbnail: "/images/entry/유통기한-소비기한-차이-라면-두부-식빵-우유-요거트-계란-치즈-유통기한-지나도-먹을-수-있나요/제목을_입력해주세요_-001_6_1.png"
+thumbnail: "/images/449/제목을_입력해주세요_-001_6_1.png"
 ---
 
 <div class="contents_style">
@@ -16,7 +16,7 @@ thumbnail: "/images/entry/유통기한-소비기한-차이-라면-두부-식빵-
 
 <p><figure class="imageblock alignCenter" height="400" width="400">
 
-<img height="400" src="/images/entry/유통기한-소비기한-차이-라면-두부-식빵-우유-요거트-계란-치즈-유통기한-지나도-먹을-수-있나요/제목을_입력해주세요_-001_6_1.png" width="400"/>
+<img height="400" src="/images/449/제목을_입력해주세요_-001_6_1.png" width="400"/>
 
 <figcaption></figcaption>
 </figure></p>

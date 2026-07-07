@@ -6,7 +6,7 @@ tags: ["부대찌개", "부대찌개레시피"]
 slug: "5분-부대찌개-레시피-쉽게-부대찌개-만들기-가능"
 numericId: 372
 description: "부대찌개 집에서 만들 때 귀찮은게 다대기? 부대찌개에 들어가는"
-thumbnail: "/images/entry/5분-부대찌개-레시피-쉽게-부대찌개-만들기-가능/img.jpg"
+thumbnail: "/images/372/img.jpg"
 ---
 
 <div class="contents_style">
@@ -17,7 +17,7 @@ thumbnail: "/images/entry/5분-부대찌개-레시피-쉽게-부대찌개-만들
 
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/entry/5분-부대찌개-레시피-쉽게-부대찌개-만들기-가능/img.jpg"/>
+<img src="/images/372/img.jpg"/>
 
 <figcaption>출처 - 이미지는 SBS 방송 이미지 </figcaption>
 </figure></p>

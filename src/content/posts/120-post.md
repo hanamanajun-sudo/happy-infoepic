@@ -6,7 +6,7 @@ tags: ["봉준호", "기생충", "아카데미", "오스카"]
 slug: "아카데미-시상식-2020년-방송-날짜-기생충-외-후보작정보-모음"
 numericId: 120
 description: "전세계의 이목이 집중되는 아케데미 시상식이지만 이번 만큼은 우리나라에게"
-thumbnail: "/images/entry/아카데미-시상식-2020년-방송-날짜-기생충-외-후보작정보-모음/이미지_1.png"
+thumbnail: "/images/120/이미지_1.png"
 ---
 
 <div class="contents_style">
@@ -16,7 +16,7 @@ thumbnail: "/images/entry/아카데미-시상식-2020년-방송-날짜-기생충
 <p>봉준호 감독의 기생충이 노미네이트 되어 있기 때문에 더 기대 되고 기다려 집니다.</p>
 <p><figure class="imageblock alignCenter" width="600">
 
-<img src="/images/entry/아카데미-시상식-2020년-방송-날짜-기생충-외-후보작정보-모음/이미지_1.png" width="600"/>
+<img src="/images/120/이미지_1.png" width="600"/>
 
 <figcaption></figcaption>
 </figure></p>

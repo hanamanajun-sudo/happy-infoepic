@@ -6,7 +6,7 @@ tags: ["아침밥", "아침메뉴"]
 slug: "아침-식단-추천-메뉴-이상적인-아침밥"
 numericId: 440
 description: "전직 영양사 아내가 해주는 아침밥이라는 제목으로 올라왔던 아침 식단 메뉴"
-thumbnail: "/images/entry/아침-식단-추천-메뉴-이상적인-아침밥/다운로드_10.jfif"
+thumbnail: "/images/440/다운로드_10.jfif"
 ---
 
 <div class="contents_style">
@@ -17,67 +17,67 @@ thumbnail: "/images/entry/아침-식단-추천-메뉴-이상적인-아침밥/다
 <p><span style="background-color: #ffffff; color: #000000;">  </span></p>
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/entry/아침-식단-추천-메뉴-이상적인-아침밥/다운로드_10.jfif"/>
+<img src="/images/440/다운로드_10.jfif"/>
 
 <figcaption></figcaption>
 </figure><figure class="imageblock alignCenter">
 
-<img src="/images/entry/아침-식단-추천-메뉴-이상적인-아침밥/다운로드_11.jfif"/>
+<img src="/images/440/다운로드_11.jfif"/>
 
 <figcaption></figcaption>
 </figure><figure class="imageblock alignCenter">
 
-<img src="/images/entry/아침-식단-추천-메뉴-이상적인-아침밥/다운로드_12.jfif"/>
+<img src="/images/440/다운로드_12.jfif"/>
 
 <figcaption></figcaption>
 </figure><figure class="imageblock alignCenter">
 
-<img src="/images/entry/아침-식단-추천-메뉴-이상적인-아침밥/다운로드_13.jfif"/>
+<img src="/images/440/다운로드_13.jfif"/>
 
 <figcaption></figcaption>
 </figure><figure class="imageblock alignCenter">
 
-<img src="/images/entry/아침-식단-추천-메뉴-이상적인-아침밥/다운로드_14.jfif"/>
+<img src="/images/440/다운로드_14.jfif"/>
 
 <figcaption></figcaption>
 </figure><figure class="imageblock alignCenter">
 
-<img src="/images/entry/아침-식단-추천-메뉴-이상적인-아침밥/다운로드_15.jfif"/>
+<img src="/images/440/다운로드_15.jfif"/>
 
 <figcaption></figcaption>
 </figure><figure class="imageblock alignCenter">
 
-<img src="/images/entry/아침-식단-추천-메뉴-이상적인-아침밥/다운로드_16.jfif"/>
+<img src="/images/440/다운로드_16.jfif"/>
 
 <figcaption></figcaption>
 </figure><figure class="imageblock alignCenter">
 
-<img src="/images/entry/아침-식단-추천-메뉴-이상적인-아침밥/다운로드_6.jfif"/>
+<img src="/images/440/다운로드_6.jfif"/>
 
 <figcaption></figcaption>
 </figure><figure class="imageblock alignCenter">
 
-<img src="/images/entry/아침-식단-추천-메뉴-이상적인-아침밥/다운로드_7.jfif"/>
+<img src="/images/440/다운로드_7.jfif"/>
 
 <figcaption></figcaption>
 </figure><figure class="imageblock alignCenter">
 
-<img src="/images/entry/아침-식단-추천-메뉴-이상적인-아침밥/다운로드_8.jfif"/>
+<img src="/images/440/다운로드_8.jfif"/>
 
 <figcaption></figcaption>
 </figure><figure class="imageblock alignCenter">
 
-<img src="/images/entry/아침-식단-추천-메뉴-이상적인-아침밥/다운로드_9.jfif"/>
+<img src="/images/440/다운로드_9.jfif"/>
 
 <figcaption></figcaption>
 </figure><figure class="imageblock alignCenter">
 
-<img src="/images/entry/아침-식단-추천-메뉴-이상적인-아침밥/다운로드_5.jfif"/>
+<img src="/images/440/다운로드_5.jfif"/>
 
 <figcaption></figcaption>
 </figure><figure class="imageblock alignCenter">
 
-<img src="/images/entry/아침-식단-추천-메뉴-이상적인-아침밥/다운로드_17.jfif"/>
+<img src="/images/440/다운로드_17.jfif"/>
 
 <figcaption></figcaption>
 </figure></p>

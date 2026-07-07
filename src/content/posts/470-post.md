@@ -6,7 +6,7 @@ tags: ["건강"]
 slug: "위에-부담없는-먹어도-되는-야식-야밤의-나에게-추천하는-리스트"
 numericId: 470
 description: "야식을 안먹으면 최고로 좋겠지만 어떻게 안먹고만 살수 있겠어요? 한밤중에 갑자기 출출할 때 땡기는 야식 참으면 스트레스 받으니 최대한 건강에 좋은(?) 야식을 찾아 먹는 수 밖에는 없다고 생각합니다."
-thumbnail: "/images/entry/위에-부담없는-먹어도-되는-야식-야밤의-나에게-추천하는-리스트/제목을-입력해주세요_-001_1.png"
+thumbnail: "/images/470/제목을-입력해주세요_-001_1.png"
 ---
 
 <div class="contents_style">
@@ -17,7 +17,7 @@ thumbnail: "/images/entry/위에-부담없는-먹어도-되는-야식-야밤의-
 
 <p><figure class="imageblock alignCenter" height="350" width="350">
 
-<img height="350" src="/images/entry/위에-부담없는-먹어도-되는-야식-야밤의-나에게-추천하는-리스트/제목을-입력해주세요_-001_1.png" width="350"/>
+<img height="350" src="/images/470/제목을-입력해주세요_-001_1.png" width="350"/>
 
 <figcaption></figcaption>
 </figure></p>

@@ -6,7 +6,7 @@ tags: ["미드추천", "넷플릭스추천"]
 slug: "넷플릭스-메시아-예고편-리뷰-신작-미드-추천-이유"
 numericId: 48
 description: "갑자기 나타난 카리스마 넘치는 한 남자의 이야기그를 기적을 만드는 메시아라고 믿는 사람들이늘어나면서 CIA수사관이 조사를 시작하는 이야기다.드라마는 이 의문의 남자와 수사관을 따라가며정말 구세주(메시아)인지 아니면 사기꾼(기만자)인지의문을 계속 제기하는 이야기이다."
-thumbnail: "/images/entry/넷플릭스-메시아-예고편-리뷰-신작-미드-추천-이유/이미지_001.png"
+thumbnail: "/images/48/이미지_001.png"
 ---
 
 <div class="contents_style">
@@ -35,7 +35,7 @@ thumbnail: "/images/entry/넷플릭스-메시아-예고편-리뷰-신작-미드-
 <h3><span style="background-color: #f3c000;">메시아 주요 장면 모음:</span></h3>
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/entry/넷플릭스-메시아-예고편-리뷰-신작-미드-추천-이유/이미지_001.png"/>
+<img src="/images/48/이미지_001.png"/>
 
 <figcaption>아버님이 누구니?</figcaption>
 </figure></p>
@@ -43,27 +43,27 @@ thumbnail: "/images/entry/넷플릭스-메시아-예고편-리뷰-신작-미드-
 
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/entry/넷플릭스-메시아-예고편-리뷰-신작-미드-추천-이유/이미지_004.png"/>
+<img src="/images/48/이미지_004.png"/>
 
 <figcaption></figcaption>
 </figure><figure class="imageblock alignCenter">
 
-<img src="/images/entry/넷플릭스-메시아-예고편-리뷰-신작-미드-추천-이유/이미지_006.png"/>
+<img src="/images/48/이미지_006.png"/>
 
 <figcaption></figcaption>
 </figure><figure class="imageblock alignCenter">
 
-<img src="/images/entry/넷플릭스-메시아-예고편-리뷰-신작-미드-추천-이유/이미지_008.png"/>
+<img src="/images/48/이미지_008.png"/>
 
 <figcaption></figcaption>
 </figure><figure class="imageblock alignCenter">
 
-<img src="/images/entry/넷플릭스-메시아-예고편-리뷰-신작-미드-추천-이유/이미지_011.png"/>
+<img src="/images/48/이미지_011.png"/>
 
 <figcaption></figcaption>
 </figure><figure class="imageblock alignCenter">
 
-<img src="/images/entry/넷플릭스-메시아-예고편-리뷰-신작-미드-추천-이유/img.png"/>
+<img src="/images/48/img.png"/>
 
 <figcaption></figcaption>
 </figure></p>

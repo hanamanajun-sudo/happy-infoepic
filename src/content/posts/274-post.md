@@ -6,7 +6,7 @@ tags: ["인테리어", "수영장", "정원", "알바로"]
 slug: "알바로-모라타Álvaro-Morata집-House사진축구선수-인테리어정원-수준"
 numericId: 274
 description: "격리 기간중 인스타에 올라온 사진으로 욕먹어서 화제가 된 스타가 있는데"
-thumbnail: "/images/entry/알바로-모라타Álvaro-Morata집-House사진축구선수-인테리어정원-수준/img.jpg"
+thumbnail: "/images/274/img.jpg"
 ---
 
 <div class="contents_style">
@@ -16,7 +16,7 @@ thumbnail: "/images/entry/알바로-모라타Álvaro-Morata집-House사진축구
 <p>먼저 올라온 사진은 멋진 호수와 공원에서 여유있게 휴식을 취하는 사진이었어요.</p>
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/entry/알바로-모라타Álvaro-Morata집-House사진축구선수-인테리어정원-수준/img.jpg"/>
+<img src="/images/274/img.jpg"/>
 
 <figcaption>사진출처 알바로 모라타 인스타그램</figcaption>
 </figure></p>
@@ -26,7 +26,7 @@ thumbnail: "/images/entry/알바로-모라타Álvaro-Morata집-House사진축구
 <p>왜 격리 기간에 그러냐 집에 있어라 라는 비난의 글이 올라왔던 것</p>
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/entry/알바로-모라타Álvaro-Morata집-House사진축구선수-인테리어정원-수준/img_1.jpg"/>
+<img src="/images/274/img_1.jpg"/>
 
 <figcaption>사진출처 알바로 모라타 인스타그램</figcaption>
 </figure></p>
@@ -34,7 +34,7 @@ thumbnail: "/images/entry/알바로-모라타Álvaro-Morata집-House사진축구
 <p><span style="color: #333333;">그리고 알바로 모라타는 답글을 달았는데</span></p>
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/entry/알바로-모라타Álvaro-Morata집-House사진축구선수-인테리어정원-수준/img_2.jpg"/>
+<img src="/images/274/img_2.jpg"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -58,42 +58,42 @@ thumbnail: "/images/entry/알바로-모라타Álvaro-Morata집-House사진축구
 <h3><b>알바로 모라타 집 사진(실내/인테리어)-부엌,계단,침실,드레스룸</b></h3>
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/entry/알바로-모라타Álvaro-Morata집-House사진축구선수-인테리어정원-수준/img_3.jpg"/>
+<img src="/images/274/img_3.jpg"/>
 
 <figcaption>사진출처 알리체 캄벨로 인스타그램</figcaption>
 </figure><figure class="imageblock alignCenter">
 
-<img src="/images/entry/알바로-모라타Álvaro-Morata집-House사진축구선수-인테리어정원-수준/img_4.jpg"/>
+<img src="/images/274/img_4.jpg"/>
 
 <figcaption>사진출처 알리체 캄벨로 인스타그램</figcaption>
 </figure><figure class="imageblock alignCenter">
 
-<img src="/images/entry/알바로-모라타Álvaro-Morata집-House사진축구선수-인테리어정원-수준/img_5.jpg"/>
+<img src="/images/274/img_5.jpg"/>
 
 <figcaption>사진출처 알리체 캄벨로 인스타그램</figcaption>
 </figure><figure class="imageblock alignCenter">
 
-<img src="/images/entry/알바로-모라타Álvaro-Morata집-House사진축구선수-인테리어정원-수준/img_6.jpg"/>
+<img src="/images/274/img_6.jpg"/>
 
 <figcaption>사진출처 알리체 캄벨로 인스타그램</figcaption>
 </figure><figure class="imageblock alignCenter">
 
-<img src="/images/entry/알바로-모라타Álvaro-Morata집-House사진축구선수-인테리어정원-수준/img_7.jpg"/>
+<img src="/images/274/img_7.jpg"/>
 
 <figcaption>사진출처 알리체 캄벨로 인스타그램</figcaption>
 </figure><figure class="imageblock alignCenter">
 
-<img src="/images/entry/알바로-모라타Álvaro-Morata집-House사진축구선수-인테리어정원-수준/img_8.jpg"/>
+<img src="/images/274/img_8.jpg"/>
 
 <figcaption>사진출처 알리체 캄벨로 인스타그램</figcaption>
 </figure><figure class="imageblock alignCenter">
 
-<img src="/images/entry/알바로-모라타Álvaro-Morata집-House사진축구선수-인테리어정원-수준/img_9.jpg"/>
+<img src="/images/274/img_9.jpg"/>
 
 <figcaption>사진출처 알리체 캄벨로 인스타그램</figcaption>
 </figure><figure class="imageblock alignCenter">
 
-<img src="/images/entry/알바로-모라타Álvaro-Morata집-House사진축구선수-인테리어정원-수준/img_10.jpg"/>
+<img src="/images/274/img_10.jpg"/>
 
 <figcaption>사진출처 알리체 캄벨로 인스타그램</figcaption>
 </figure></p>
@@ -102,17 +102,17 @@ thumbnail: "/images/entry/알바로-모라타Álvaro-Morata집-House사진축구
 <h3><b>알바로 모라타 집 사진(외부/발코니/수영장)</b></h3>
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/entry/알바로-모라타Álvaro-Morata집-House사진축구선수-인테리어정원-수준/img_11.jpg"/>
+<img src="/images/274/img_11.jpg"/>
 
 <figcaption>사진출처 알리체 캄벨로 인스타그램</figcaption>
 </figure><figure class="imageblock alignCenter">
 
-<img src="/images/entry/알바로-모라타Álvaro-Morata집-House사진축구선수-인테리어정원-수준/img_12.jpg"/>
+<img src="/images/274/img_12.jpg"/>
 
 <figcaption>사진출처 알리체 캄벨로 인스타그램</figcaption>
 </figure><figure class="imageblock alignCenter">
 
-<img src="/images/entry/알바로-모라타Álvaro-Morata집-House사진축구선수-인테리어정원-수준/img_13.jpg"/>
+<img src="/images/274/img_13.jpg"/>
 
 <figcaption>사진출처 알리체 캄벨로 인스타그램</figcaption>
 </figure></p>
@@ -120,27 +120,27 @@ thumbnail: "/images/entry/알바로-모라타Álvaro-Morata집-House사진축구
 <h3><b>알바로 모라타 집 사진(외부/정원/호수)</b></h3>
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/entry/알바로-모라타Álvaro-Morata집-House사진축구선수-인테리어정원-수준/img_14.jpg"/>
+<img src="/images/274/img_14.jpg"/>
 
 <figcaption>사진출처 알리체 캄벨로 인스타그램</figcaption>
 </figure><figure class="imageblock alignCenter">
 
-<img src="/images/entry/알바로-모라타Álvaro-Morata집-House사진축구선수-인테리어정원-수준/img_15.jpg"/>
+<img src="/images/274/img_15.jpg"/>
 
 <figcaption>사진출처 알리체 캄벨로 인스타그램</figcaption>
 </figure><figure class="imageblock alignCenter">
 
-<img src="/images/entry/알바로-모라타Álvaro-Morata집-House사진축구선수-인테리어정원-수준/img_16.jpg"/>
+<img src="/images/274/img_16.jpg"/>
 
 <figcaption>사진출처 알리체 캄벨로 인스타그램</figcaption>
 </figure><figure class="imageblock alignCenter">
 
-<img src="/images/entry/알바로-모라타Álvaro-Morata집-House사진축구선수-인테리어정원-수준/img_17.jpg"/>
+<img src="/images/274/img_17.jpg"/>
 
 <figcaption>사진출처 알리체 캄벨로 인스타그램</figcaption>
 </figure><figure class="imageblock alignCenter">
 
-<img src="/images/entry/알바로-모라타Álvaro-Morata집-House사진축구선수-인테리어정원-수준/img_18.jpg"/>
+<img src="/images/274/img_18.jpg"/>
 
 <figcaption>사진출처 알리체 캄벨로 인스타그램</figcaption>
 </figure></p>

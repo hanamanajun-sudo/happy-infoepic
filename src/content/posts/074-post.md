@@ -6,7 +6,7 @@ tags: ["주진모", "해킹피해"]
 slug: "주진모-해킹-피해-내용-인스타그램-주소"
 numericId: 74
 description: "연예인 주진모 그리고 많은 연예인들의 휴대폰이 해킹을 당했다는"
-thumbnail: "/images/entry/주진모-해킹-피해-내용-인스타그램-주소/이미지_3.png"
+thumbnail: "/images/74/이미지_3.png"
 ---
 
 <div class="contents_style">
@@ -68,7 +68,7 @@ thumbnail: "/images/entry/주진모-해킹-피해-내용-인스타그램-주소/
 <p><a href="https://www.instagram.com/joojinmo_/?hl=ko" rel="noopener" target="_blank">https://www.instagram.com/joojinmo_/?hl=ko</a></p>
 <p><figure class="imageblock alignLeft" width="500">
 
-<img src="/images/entry/주진모-해킹-피해-내용-인스타그램-주소/이미지_3.png" width="500"/>
+<img src="/images/74/이미지_3.png" width="500"/>
 
 <figcaption></figcaption>
 </figure></p>

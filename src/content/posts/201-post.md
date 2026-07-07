@@ -6,14 +6,14 @@ tags: ["이두희", "지숙", "마스크재고", "마스크알리미"]
 slug: "마스크-알리미-마스크-재고-확인-이두희"
 numericId: 201
 description: "이두희 님이 개발한 '마스크 알리미' 사이트는 핸드폰에서도 쉽게 이용이 가능하다."
-thumbnail: "/images/entry/마스크-알리미-마스크-재고-확인-이두희/img.jpg"
+thumbnail: "/images/201/img.jpg"
 ---
 
 <div class="contents_style">
 <p>이두희 님이 개발한 '마스크 알리미' 사이트는 핸드폰에서도 쉽게 이용이 가능하다.</p>
 <p><figure class="imageblock alignCenter" width="400">
 
-<img src="/images/entry/마스크-알리미-마스크-재고-확인-이두희/img.jpg" width="400"/>
+<img src="/images/201/img.jpg" width="400"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -24,7 +24,7 @@ thumbnail: "/images/entry/마스크-알리미-마스크-재고-확인-이두희/
 <p><br/>주변 편의점 마스크 재고현황을 확인 할 수 있는 사이트 입니다.</p>
 <p><figure class="imageblock alignCenter" width="400">
 
-<img src="/images/entry/마스크-알리미-마스크-재고-확인-이두희/img_1.jpg" width="400"/>
+<img src="/images/201/img_1.jpg" width="400"/>
 
 <figcaption></figcaption>
 </figure></p>

@@ -6,7 +6,7 @@ tags: ["넷플릭스", "미드추천"]
 slug: "넷플릭스-미드-SF-추천-입문자용-2020년"
 numericId: 116
 description: "넷플릭스 이용하는 분들이 점점 늘어나고 있죠"
-thumbnail: "/images/entry/넷플릭스-미드-SF-추천-입문자용-2020년/img.jpg"
+thumbnail: "/images/116/img.jpg"
 ---
 
 <div class="contents_style">
@@ -20,7 +20,7 @@ thumbnail: "/images/entry/넷플릭스-미드-SF-추천-입문자용-2020년/img
 <p>(작성 중이라 목록은 늘려갈 거에요)<br/><br/></p>
 <p><figure class="imageblock alignCenter" width="600">
 
-<img src="/images/entry/넷플릭스-미드-SF-추천-입문자용-2020년/img.jpg" width="600"/>
+<img src="/images/116/img.jpg" width="600"/>
 
 <figcaption></figcaption>
 </figure></p>

@@ -6,13 +6,13 @@ tags: ["애즈원", "슈가맨"]
 slug: "슈가맨3-애즈원-신곡-발표-최신-근황"
 numericId: 58
 description: "애즈 원 (영어명: As One)은 한국계 미국인 이민, 크리스탈 두명으로 구성된 여성 듀오 가수에요.1999년에 데뷔해 아름다운 목소리로 수많은 명곡을 남겼죠."
-thumbnail: "/images/entry/슈가맨3-애즈원-신곡-발표-최신-근황/img.png"
+thumbnail: "/images/58/img.png"
 ---
 
 <div class="contents_style">
 <p><figure class="imageblock alignCenter" width="500">
 
-<img src="/images/entry/슈가맨3-애즈원-신곡-발표-최신-근황/img.png" width="500"/>
+<img src="/images/58/img.png" width="500"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -24,7 +24,7 @@ thumbnail: "/images/entry/슈가맨3-애즈원-신곡-발표-최신-근황/img.p
 <p><br/>이민은 일반인과 2013년 결혼을 했고 <br/>크리스탈은 2012년에 매니저 출신 조민철씨와 결혼했다고 한다.  현재는 미국에서 살고 있다고 해요.<br/><br/><br/> 슈가맨3에 나와 그리웠던 두명이 부르는 명곡을 들을 수 있어서 좋았다는 반응들이 많았어요.<br/><br/>한동안 활동이 뜸하긴 했지만 여전히 독특한 음색과 창법이었고 사람들도 방부제 먹었냐고 그러곸ㅋ<br/><br/></p>
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/entry/슈가맨3-애즈원-신곡-발표-최신-근황/img.jpg"/>
+<img src="/images/58/img.jpg"/>
 
 <figcaption></figcaption>
 </figure></p>

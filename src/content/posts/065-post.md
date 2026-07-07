@@ -6,7 +6,7 @@ tags: ["맛집", "제주도맛집", "연돈", "연돈제주도"]
 slug: "제주도-연돈-위치-영업시간-가격-인상-관련-후기-모음"
 numericId: 65
 description: "백종원의 골목식당 포방터 시장 편에 나왔던 연돈이 여러 가지 사정으로"
-thumbnail: "/images/entry/제주도-연돈-위치-영업시간-가격-인상-관련-후기-모음/img.png"
+thumbnail: "/images/65/img.png"
 ---
 
 <div class="contents_style">
@@ -15,7 +15,7 @@ thumbnail: "/images/entry/제주도-연돈-위치-영업시간-가격-인상-관
 <p>제주로 이사를 했어요. (포방터 논란 부분은 다른 포스트에서 정리할 예정)</p>
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/entry/제주도-연돈-위치-영업시간-가격-인상-관련-후기-모음/img.png"/>
+<img src="/images/65/img.png"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -24,7 +24,7 @@ thumbnail: "/images/entry/제주도-연돈-위치-영업시간-가격-인상-관
 <h3><span style="background-color: #9feec3;"><b><span style="color: #000000;">✓</span>제주 연돈 수제 돈가스 위치</b></span></h3>
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/entry/제주도-연돈-위치-영업시간-가격-인상-관련-후기-모음/img_1.png"/>
+<img src="/images/65/img_1.png"/>
 
 <figcaption>포방터 연돈 제주도 이사 위치</figcaption>
 </figure></p>
@@ -64,7 +64,7 @@ thumbnail: "/images/entry/제주도-연돈-위치-영업시간-가격-인상-관
 <h3><span style="background-color: #9feec3;"><b><span style="color: #000000;">✓제주 </span>연돈 근처 관광지 (가볼 만한 곳)</b></span></h3>
 <p><figure class="imageblock floatRight">
 
-<img src="/images/entry/제주도-연돈-위치-영업시간-가격-인상-관련-후기-모음/img_2.png"/>
+<img src="/images/65/img_2.png"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -126,7 +126,7 @@ thumbnail: "/images/entry/제주도-연돈-위치-영업시간-가격-인상-관
 
 <p><figure class="imageblock floatRight">
 
-<img src="/images/entry/제주도-연돈-위치-영업시간-가격-인상-관련-후기-모음/img_3.png"/>
+<img src="/images/65/img_3.png"/>
 
 <figcaption></figcaption>
 </figure></p>

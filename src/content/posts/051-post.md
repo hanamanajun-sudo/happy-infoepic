@@ -6,7 +6,7 @@ tags: ["스타벅스", "콜라보"]
 slug: "스타벅스-다이앤-본-퍼스텐버그-콜라보-소식매장-정보"
 numericId: 51
 description: "DIANE VON FURSTENBERG + STARBUCKS"
-thumbnail: "/images/entry/스타벅스-다이앤-본-퍼스텐버그-콜라보-소식매장-정보/img.png"
+thumbnail: "/images/51/img.png"
 ---
 
 <div class="contents_style">
@@ -23,7 +23,7 @@ thumbnail: "/images/entry/스타벅스-다이앤-본-퍼스텐버그-콜라보-�
 <p>소장가치가 높아지는 것 같아요.</p>
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/entry/스타벅스-다이앤-본-퍼스텐버그-콜라보-소식매장-정보/img.png"/>
+<img src="/images/51/img.png"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -45,22 +45,22 @@ thumbnail: "/images/entry/스타벅스-다이앤-본-퍼스텐버그-콜라보-�
 
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/entry/스타벅스-다이앤-본-퍼스텐버그-콜라보-소식매장-정보/img_1.png"/>
+<img src="/images/51/img_1.png"/>
 
 <figcaption></figcaption>
 </figure><figure class="imageblock alignCenter">
 
-<img src="/images/entry/스타벅스-다이앤-본-퍼스텐버그-콜라보-소식매장-정보/img_2.png"/>
+<img src="/images/51/img_2.png"/>
 
 <figcaption></figcaption>
 </figure><figure class="imageblock alignCenter">
 
-<img src="/images/entry/스타벅스-다이앤-본-퍼스텐버그-콜라보-소식매장-정보/img_3.png"/>
+<img src="/images/51/img_3.png"/>
 
 <figcaption></figcaption>
 </figure><figure class="imageblock alignCenter">
 
-<img src="/images/entry/스타벅스-다이앤-본-퍼스텐버그-콜라보-소식매장-정보/img_4.png"/>
+<img src="/images/51/img_4.png"/>
 
 <figcaption></figcaption>
 </figure></p>

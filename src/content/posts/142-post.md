@@ -6,7 +6,7 @@ tags: ["봉준호", "포스터", "기생충", "여러나라"]
 slug: "기생충-다른-나라-포스터-모음여러-버전-팬-메이드-등"
 numericId: 142
 description: "각 나라에서 많은 영화 배급사 그리고 세계의 작가들이 만든"
-thumbnail: "/images/entry/기생충-다른-나라-포스터-모음여러-버전-팬-메이드-등/1d1e22768a2d79c7a981154be319176a.jpg"
+thumbnail: "/images/142/1d1e22768a2d79c7a981154be319176a.jpg"
 ---
 
 <div class="contents_style">
@@ -22,7 +22,7 @@ thumbnail: "/images/entry/기생충-다른-나라-포스터-모음여러-버전-
 
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/entry/기생충-다른-나라-포스터-모음여러-버전-팬-메이드-등/1d1e22768a2d79c7a981154be319176a.jpg"/>
+<img src="/images/142/1d1e22768a2d79c7a981154be319176a.jpg"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -31,7 +31,7 @@ thumbnail: "/images/entry/기생충-다른-나라-포스터-모음여러-버전-
 
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/entry/기생충-다른-나라-포스터-모음여러-버전-팬-메이드-등/3a6de3460cab0a0011f959d626885ccd.jpg"/>
+<img src="/images/142/3a6de3460cab0a0011f959d626885ccd.jpg"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -39,7 +39,7 @@ thumbnail: "/images/entry/기생충-다른-나라-포스터-모음여러-버전-
 <hr contenteditable="false"/>
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/entry/기생충-다른-나라-포스터-모음여러-버전-팬-메이드-등/4b487708058093da810c8a85054e9d41.jpg"/>
+<img src="/images/142/4b487708058093da810c8a85054e9d41.jpg"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -47,7 +47,7 @@ thumbnail: "/images/entry/기생충-다른-나라-포스터-모음여러-버전-
 <hr contenteditable="false"/>
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/entry/기생충-다른-나라-포스터-모음여러-버전-팬-메이드-등/18b42251beef28a8120f6511efc669d5.jpg"/>
+<img src="/images/142/18b42251beef28a8120f6511efc669d5.jpg"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -57,7 +57,7 @@ thumbnail: "/images/entry/기생충-다른-나라-포스터-모음여러-버전-
 
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/entry/기생충-다른-나라-포스터-모음여러-버전-팬-메이드-등/0153417f130d980a26075f9eb9e9eea3.jpg"/>
+<img src="/images/142/0153417f130d980a26075f9eb9e9eea3.jpg"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -65,7 +65,7 @@ thumbnail: "/images/entry/기생충-다른-나라-포스터-모음여러-버전-
 <hr contenteditable="false"/>
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/entry/기생충-다른-나라-포스터-모음여러-버전-팬-메이드-등/aa14642108170126188b27b1c25119fd.jpg"/>
+<img src="/images/142/aa14642108170126188b27b1c25119fd.jpg"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -73,7 +73,7 @@ thumbnail: "/images/entry/기생충-다른-나라-포스터-모음여러-버전-
 
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/entry/기생충-다른-나라-포스터-모음여러-버전-팬-메이드-등/c9b403d08acf1e449420bff65fd22c41.jpg"/>
+<img src="/images/142/c9b403d08acf1e449420bff65fd22c41.jpg"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -81,7 +81,7 @@ thumbnail: "/images/entry/기생충-다른-나라-포스터-모음여러-버전-
 <hr contenteditable="false"/>
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/entry/기생충-다른-나라-포스터-모음여러-버전-팬-메이드-등/c79c361c6861d848036641ae5fffa85a.jpg"/>
+<img src="/images/142/c79c361c6861d848036641ae5fffa85a.jpg"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -90,7 +90,7 @@ thumbnail: "/images/entry/기생충-다른-나라-포스터-모음여러-버전-
 
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/entry/기생충-다른-나라-포스터-모음여러-버전-팬-메이드-등/CmdMn.jpg"/>
+<img src="/images/142/CmdMn.jpg"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -98,7 +98,7 @@ thumbnail: "/images/entry/기생충-다른-나라-포스터-모음여러-버전-
 <hr contenteditable="false"/>
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/entry/기생충-다른-나라-포스터-모음여러-버전-팬-메이드-등/CmdNV.jpg"/>
+<img src="/images/142/CmdNV.jpg"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -107,12 +107,12 @@ thumbnail: "/images/entry/기생충-다른-나라-포스터-모음여러-버전-
 
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/entry/기생충-다른-나라-포스터-모음여러-버전-팬-메이드-등/CnLYl.jpg"/>
+<img src="/images/142/CnLYl.jpg"/>
 
 <figcaption></figcaption>
 </figure><figure class="imageblock alignCenter">
 
-<img src="/images/entry/기생충-다른-나라-포스터-모음여러-버전-팬-메이드-등/d06a1d852773e8fd8aecf830fa463e9c.jpg"/>
+<img src="/images/142/d06a1d852773e8fd8aecf830fa463e9c.jpg"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -120,7 +120,7 @@ thumbnail: "/images/entry/기생충-다른-나라-포스터-모음여러-버전-
 
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/entry/기생충-다른-나라-포스터-모음여러-버전-팬-메이드-등/D6cbI.jpg"/>
+<img src="/images/142/D6cbI.jpg"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -129,7 +129,7 @@ thumbnail: "/images/entry/기생충-다른-나라-포스터-모음여러-버전-
 
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/entry/기생충-다른-나라-포스터-모음여러-버전-팬-메이드-등/D6eMu.jpg"/>
+<img src="/images/142/D6eMu.jpg"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -137,7 +137,7 @@ thumbnail: "/images/entry/기생충-다른-나라-포스터-모음여러-버전-
 <hr contenteditable="false"/>
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/entry/기생충-다른-나라-포스터-모음여러-버전-팬-메이드-등/D6eN4.jpg"/>
+<img src="/images/142/D6eN4.jpg"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -145,7 +145,7 @@ thumbnail: "/images/entry/기생충-다른-나라-포스터-모음여러-버전-
 <hr contenteditable="false"/>
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/entry/기생충-다른-나라-포스터-모음여러-버전-팬-메이드-등/D6eN7.jpg"/>
+<img src="/images/142/D6eN7.jpg"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -153,17 +153,17 @@ thumbnail: "/images/entry/기생충-다른-나라-포스터-모음여러-버전-
 <hr contenteditable="false"/>
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/entry/기생충-다른-나라-포스터-모음여러-버전-팬-메이드-등/D6eNM.jpg"/>
+<img src="/images/142/D6eNM.jpg"/>
 
 <figcaption></figcaption>
 </figure><figure class="imageblock alignCenter">
 
-<img src="/images/entry/기생충-다른-나라-포스터-모음여러-버전-팬-메이드-등/D6eNO.jpg"/>
+<img src="/images/142/D6eNO.jpg"/>
 
 <figcaption></figcaption>
 </figure><figure class="imageblock alignCenter">
 
-<img src="/images/entry/기생충-다른-나라-포스터-모음여러-버전-팬-메이드-등/D6QRU.jpg"/>
+<img src="/images/142/D6QRU.jpg"/>
 
 <figcaption>프랑스</figcaption>
 </figure></p>
@@ -173,7 +173,7 @@ thumbnail: "/images/entry/기생충-다른-나라-포스터-모음여러-버전-
 
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/entry/기생충-다른-나라-포스터-모음여러-버전-팬-메이드-등/D7MYX.jpg"/>
+<img src="/images/142/D7MYX.jpg"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -183,7 +183,7 @@ thumbnail: "/images/entry/기생충-다른-나라-포스터-모음여러-버전-
 <hr contenteditable="false"/>
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/entry/기생충-다른-나라-포스터-모음여러-버전-팬-메이드-등/e1be763b4890da6c2434b96a90c8b7f9.jpg"/>
+<img src="/images/142/e1be763b4890da6c2434b96a90c8b7f9.jpg"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -191,7 +191,7 @@ thumbnail: "/images/entry/기생충-다른-나라-포스터-모음여러-버전-
 <hr contenteditable="false"/>
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/entry/기생충-다른-나라-포스터-모음여러-버전-팬-메이드-등/EOSRbGAWAAMJFGS.jpg"/>
+<img src="/images/142/EOSRbGAWAAMJFGS.jpg"/>
 
 <figcaption>영국 앤드류 배니스터</figcaption>
 </figure></p>
@@ -199,14 +199,14 @@ thumbnail: "/images/entry/기생충-다른-나라-포스터-모음여러-버전-
 <hr contenteditable="false"/>
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/entry/기생충-다른-나라-포스터-모음여러-버전-팬-메이드-등/F4454D93-2469-4A7C-B1D4-33D586B889BC.jpeg"/>
+<img src="/images/142/F4454D93-2469-4A7C-B1D4-33D586B889BC.jpeg"/>
 
 <figcaption>재개봉 가즈아 패러디</figcaption>
 </figure></p>
 <hr contenteditable="false"/>
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/entry/기생충-다른-나라-포스터-모음여러-버전-팬-메이드-등/fa856abb312b3d55db9d279342210238.jpg"/>
+<img src="/images/142/fa856abb312b3d55db9d279342210238.jpg"/>
 
 <figcaption>한국 김상만</figcaption>
 </figure></p>
@@ -214,14 +214,14 @@ thumbnail: "/images/entry/기생충-다른-나라-포스터-모음여러-버전-
 <hr contenteditable="false"/>
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/entry/기생충-다른-나라-포스터-모음여러-버전-팬-메이드-등/fd94c9283803d6edafaedcf3a8743463.jpg"/>
+<img src="/images/142/fd94c9283803d6edafaedcf3a8743463.jpg"/>
 
 <figcaption></figcaption>
 </figure></p>
 <p>기생충 팬 포스터 영국 작가 </p>
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/entry/기생충-다른-나라-포스터-모음여러-버전-팬-메이드-등/05a0e86acc96f757edb48b626eef1f9e.jpg"/>
+<img src="/images/142/05a0e86acc96f757edb48b626eef1f9e.jpg"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -232,7 +232,7 @@ thumbnail: "/images/entry/기생충-다른-나라-포스터-모음여러-버전-
 <hr contenteditable="false"/>
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/entry/기생충-다른-나라-포스터-모음여러-버전-팬-메이드-등/b1a563a6b4e00fc34761aeda43f64635.jpg"/>
+<img src="/images/142/b1a563a6b4e00fc34761aeda43f64635.jpg"/>
 
 <figcaption></figcaption>
 </figure></p>

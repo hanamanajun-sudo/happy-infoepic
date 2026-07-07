@@ -6,7 +6,7 @@ tags: []
 slug: "코로나-서울지역별-확진자-현황3월9일"
 numericId: 214
 description: "신종 코로나19에 대한 일별 확진자 수 변화에 대해서 국내 상황을"
-thumbnail: "/images/entry/코로나-서울지역별-확진자-현황3월9일/img.png"
+thumbnail: "/images/214/img.png"
 ---
 
 <div class="contents_style">
@@ -20,7 +20,7 @@ thumbnail: "/images/entry/코로나-서울지역별-확진자-현황3월9일/img
 <h3><b>서울 확진자 분포 인포그래픽</b></h3>
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/entry/코로나-서울지역별-확진자-현황3월9일/img.png"/>
+<img src="/images/214/img.png"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -64,7 +64,7 @@ thumbnail: "/images/entry/코로나-서울지역별-확진자-현황3월9일/img
 <p><b>3월 ９일 한국 전국 확진자 분포/사망자 현황</b></p>
 <p><figure class="imageblock alignLeft" width="400">
 
-<img src="/images/entry/코로나-서울지역별-확진자-현황3월9일/img_1.png" width="400"/>
+<img src="/images/214/img_1.png" width="400"/>
 
 <figcaption></figcaption>
 </figure></p>

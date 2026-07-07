@@ -6,7 +6,7 @@ tags: ["개학연기", "코로나19"]
 slug: "코로나19-학교-개학-연기-정보-유초중고"
 numericId: 176
 description: "업데이트 하였습니다. - 3월 17일 업데이트 게시글↓"
-thumbnail: "/images/entry/코로나19-학교-개학-연기-정보-유초중고/img.jpg"
+thumbnail: "/images/176/img.jpg"
 ---
 
 <div class="contents_style">
@@ -21,7 +21,7 @@ thumbnail: "/images/entry/코로나19-학교-개학-연기-정보-유초중고/i
 <p>아래 내용은 교육부에서 배포한 내용이니 믿고 보세요. (배포 시기 2020년 2월23일)</p>
 <p><figure class="imageblock alignCenter" width="400">
 
-<img src="/images/entry/코로나19-학교-개학-연기-정보-유초중고/img.jpg" width="400"/>
+<img src="/images/176/img.jpg" width="400"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -63,7 +63,7 @@ thumbnail: "/images/entry/코로나19-학교-개학-연기-정보-유초중고/i
 <hr contenteditable="false"/>
 <p><figure class="imageblock alignCenter" width="400">
 
-<img src="/images/entry/코로나19-학교-개학-연기-정보-유초중고/img.png" width="400"/>
+<img src="/images/176/img.png" width="400"/>
 
 <figcaption></figcaption>
 </figure></p>

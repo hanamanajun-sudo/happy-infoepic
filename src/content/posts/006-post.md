@@ -6,13 +6,13 @@ tags: ["짜장면"]
 slug: "외국인에게-알려주는-짜장면4편-짜장면은-한국-배달-문화의-아버지"
 numericId: 6
 description: "호불호가 거의 없어 많은 한국 사람들이 좋아하는 만큼 한국의 어느 지역이던 어느 곳이던 중국 음식점을 찾을 수 있으며 어디에서든 배달을 시켜 먹을 수 있다.배달음식의 조상으로 지금의 한국 배달음식 문화를 만든 장본인이라 해도 과언이 아니다.어디든 배달을 시키면 가져다 주는데 공원, 한강"
-thumbnail: "/images/entry/외국인에게-알려주는-짜장면4편-짜장면은-한국-배달-문화의-아버지/img.jpg"
+thumbnail: "/images/6/img.jpg"
 ---
 
 <div class="contents_style">
 <p><figure class="imageblock alignLeft">
 
-<img src="/images/entry/외국인에게-알려주는-짜장면4편-짜장면은-한국-배달-문화의-아버지/img.jpg"/>
+<img src="/images/6/img.jpg"/>
 
 <figcaption></figcaption>
 </figure></p>

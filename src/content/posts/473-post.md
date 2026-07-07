@@ -6,7 +6,7 @@ tags: ["차지키", "케밥소스"]
 slug: "케밥-소스-차지키-소스-레시피-간략-설명"
 numericId: 473
 description: "차지키 소스는 그리스 전통 소스 입니다. 그리스 요리에 많이 사용되지만 현재에는 전세계 음식에 사용되며 특히 지중해 근처에서 많이 사용되고 있습니다. 우리가 자주 접하는 케밥에도 사용되는데요."
-thumbnail: "/images/entry/케밥-소스-차지키-소스-레시피-간략-설명/edited_photo-1555939594-58d7cb561ad1_1.png"
+thumbnail: "/images/473/edited_photo-1555939594-58d7cb561ad1_1.png"
 ---
 
 <div class="contents_style">
@@ -16,7 +16,7 @@ thumbnail: "/images/entry/케밥-소스-차지키-소스-레시피-간략-설명
 
 <p><figure class="imageblock alignCenter" height="600" width="400">
 
-<img height="600" src="/images/entry/케밥-소스-차지키-소스-레시피-간략-설명/edited_photo-1555939594-58d7cb561ad1_1.png" width="400"/>
+<img height="600" src="/images/473/edited_photo-1555939594-58d7cb561ad1_1.png" width="400"/>
 
 <figcaption></figcaption>
 </figure></p>

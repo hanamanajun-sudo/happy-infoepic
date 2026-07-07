@@ -6,7 +6,7 @@ tags: ["마케팅", "지코", "꽃게랑", "빙그레", "꼬뜨게랑", "CotesGu
 slug: "빙그레-꽃게랑-X-지코-고뜨게랑명품-브랜드-탄생-이유"
 numericId: 369
 description: "빙그레 마케팅 팀에 무슨일이 벌어지고 있나요?"
-thumbnail: "/images/entry/빙그레-꽃게랑-X-지코-고뜨게랑명품-브랜드-탄생-이유/img.jpg"
+thumbnail: "/images/369/img.jpg"
 ---
 
 <div class="contents_style">
@@ -20,7 +20,7 @@ thumbnail: "/images/entry/빙그레-꽃게랑-X-지코-고뜨게랑명품-브랜
 
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/entry/빙그레-꽃게랑-X-지코-고뜨게랑명품-브랜드-탄생-이유/img.jpg"/>
+<img src="/images/369/img.jpg"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -31,7 +31,7 @@ thumbnail: "/images/entry/빙그레-꽃게랑-X-지코-고뜨게랑명품-브랜
 
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/entry/빙그레-꽃게랑-X-지코-고뜨게랑명품-브랜드-탄생-이유/img_1.jpg"/>
+<img src="/images/369/img_1.jpg"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -39,54 +39,54 @@ thumbnail: "/images/entry/빙그레-꽃게랑-X-지코-고뜨게랑명품-브랜
 <p>빙그레 도전 응원합니다. </p>
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/entry/빙그레-꽃게랑-X-지코-고뜨게랑명품-브랜드-탄생-이유/img_2.jpg"/>
+<img src="/images/369/img_2.jpg"/>
 
 <figcaption></figcaption>
 </figure></p>
 <p>셔츠,</p>
 <p><figure class="imageblock alignCenter" width="500">
 
-<img src="/images/entry/빙그레-꽃게랑-X-지코-고뜨게랑명품-브랜드-탄생-이유/img_3.jpg" width="500"/>
+<img src="/images/369/img_3.jpg" width="500"/>
 
 <figcaption></figcaption>
 </figure></p>
 <p>가방</p>
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/entry/빙그레-꽃게랑-X-지코-고뜨게랑명품-브랜드-탄생-이유/img_4.jpg"/>
+<img src="/images/369/img_4.jpg"/>
 
 <figcaption></figcaption>
 </figure></p>
 <p>티셔츠, 반지 뭐에요??? ㅋㅋㅋ</p>
 <p><figure class="imageblock alignCenter" width="600">
 
-<img src="/images/entry/빙그레-꽃게랑-X-지코-고뜨게랑명품-브랜드-탄생-이유/img_5.jpg" width="600"/>
+<img src="/images/369/img_5.jpg" width="600"/>
 
 <figcaption></figcaption>
 </figure></p>
 <p>목걸이도 있고</p>
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/entry/빙그레-꽃게랑-X-지코-고뜨게랑명품-브랜드-탄생-이유/img_6.jpg"/>
+<img src="/images/369/img_6.jpg"/>
 
 <figcaption></figcaption>
 </figure></p>
 
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/entry/빙그레-꽃게랑-X-지코-고뜨게랑명품-브랜드-탄생-이유/img_7.jpg"/>
+<img src="/images/369/img_7.jpg"/>
 
 <figcaption></figcaption>
 </figure></p>
 <p>블랙과 황금 로고 멋지네</p>
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/entry/빙그레-꽃게랑-X-지코-고뜨게랑명품-브랜드-탄생-이유/img_8.jpg"/>
+<img src="/images/369/img_8.jpg"/>
 
 <figcaption></figcaption>
 </figure><figure class="imageblock alignCenter">
 
-<img src="/images/entry/빙그레-꽃게랑-X-지코-고뜨게랑명품-브랜드-탄생-이유/img_9.jpg"/>
+<img src="/images/369/img_9.jpg"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -98,7 +98,7 @@ thumbnail: "/images/entry/빙그레-꽃게랑-X-지코-고뜨게랑명품-브랜
 
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/entry/빙그레-꽃게랑-X-지코-고뜨게랑명품-브랜드-탄생-이유/img_10.jpg"/>
+<img src="/images/369/img_10.jpg"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -114,12 +114,12 @@ thumbnail: "/images/entry/빙그레-꽃게랑-X-지코-고뜨게랑명품-브랜
 <p>그리고 본격적으로 인스타도 따로 팜ㅋㅋㅋㅋ</p>
 <p><figure class="imageblock alignCenter" width="400">
 
-<img src="/images/entry/빙그레-꽃게랑-X-지코-고뜨게랑명품-브랜드-탄생-이유/img.png" width="400"/>
+<img src="/images/369/img.png" width="400"/>
 
 <figcaption></figcaption>
 </figure><figure class="imageblock alignCenter" width="400">
 
-<img src="/images/entry/빙그레-꽃게랑-X-지코-고뜨게랑명품-브랜드-탄생-이유/img_1.png" width="400"/>
+<img src="/images/369/img_1.png" width="400"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -134,7 +134,7 @@ thumbnail: "/images/entry/빙그레-꽃게랑-X-지코-고뜨게랑명품-브랜
 <p>우리 마케팅팀 하고 싶은거 다하는중 </p>
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/entry/빙그레-꽃게랑-X-지코-고뜨게랑명품-브랜드-탄생-이유/img_11.jpg"/>
+<img src="/images/369/img_11.jpg"/>
 
 <figcaption></figcaption>
 </figure></p>

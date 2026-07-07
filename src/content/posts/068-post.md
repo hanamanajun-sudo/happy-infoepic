@@ -6,7 +6,7 @@ tags: ["남산의부장들"]
 slug: "남산의-부장들-주요-인물-관계-요약-개봉일"
 numericId: 68
 description: "감독: 우민호김규평 - 이병헌 ?김재규(중앙정보부장)"
-thumbnail: "/images/entry/남산의-부장들-주요-인물-관계-요약-개봉일/110ec328f6a01dcded7ae84b19696fab.jpg"
+thumbnail: "/images/68/110ec328f6a01dcded7ae84b19696fab.jpg"
 ---
 
 <div class="contents_style">
@@ -21,7 +21,7 @@ thumbnail: "/images/entry/남산의-부장들-주요-인물-관계-요약-개봉
 <p><span style="background-color: #ffffff;">데보라 -김소진<br/><br/></span></p>
 <p><figure class="imageblock alignLeft" width="500">
 
-<img src="/images/entry/남산의-부장들-주요-인물-관계-요약-개봉일/110ec328f6a01dcded7ae84b19696fab.jpg" width="500"/>
+<img src="/images/68/110ec328f6a01dcded7ae84b19696fab.jpg" width="500"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -44,7 +44,7 @@ thumbnail: "/images/entry/남산의-부장들-주요-인물-관계-요약-개봉
 <p>남산의 부장들 포스터: </p>
 <p><figure class="imageblock alignCenter" width="500">
 
-<img src="/images/entry/남산의-부장들-주요-인물-관계-요약-개봉일/1.jpg" width="500"/>
+<img src="/images/68/1.jpg" width="500"/>
 
 <figcaption></figcaption>
 </figure></p>

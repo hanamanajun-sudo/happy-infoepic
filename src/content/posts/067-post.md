@@ -6,19 +6,19 @@ tags: ["스타벅스", "한정상품"]
 slug: "스타벅스-2020년-한정-판매-상품-모음"
 numericId: 67
 description: "경자년 쥐띠해를 기념한 파란색 상품들경자년 쥐띠해를 기념한 와인색 상품들"
-thumbnail: "/images/entry/스타벅스-2020년-한정-판매-상품-모음/img.png"
+thumbnail: "/images/67/img.png"
 ---
 
 <div class="contents_style">
 <p style="text-align: center;"> </p>
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/entry/스타벅스-2020년-한정-판매-상품-모음/img.png"/>
+<img src="/images/67/img.png"/>
 
 <figcaption>경자년 쥐띠해를 기념한 파란색 상품들</figcaption>
 </figure><figure class="imageblock alignCenter">
 
-<img src="/images/entry/스타벅스-2020년-한정-판매-상품-모음/img_1.png"/>
+<img src="/images/67/img_1.png"/>
 
 <figcaption>경자년 쥐띠해를 기념한 와인색 상품들</figcaption>
 </figure></p>
@@ -27,32 +27,32 @@ thumbnail: "/images/entry/스타벅스-2020년-한정-판매-상품-모음/img.p
 <p style="text-align: center;"> </p>
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/entry/스타벅스-2020년-한정-판매-상품-모음/img_2.png"/>
+<img src="/images/67/img_2.png"/>
 
 <figcaption></figcaption>
 </figure><figure class="imageblock alignCenter">
 
-<img src="/images/entry/스타벅스-2020년-한정-판매-상품-모음/img_3.png"/>
+<img src="/images/67/img_3.png"/>
 
 <figcaption></figcaption>
 </figure><figure class="imageblock alignCenter">
 
-<img src="/images/entry/스타벅스-2020년-한정-판매-상품-모음/img_4.png"/>
+<img src="/images/67/img_4.png"/>
 
 <figcaption></figcaption>
 </figure><figure class="imageblock alignCenter">
 
-<img src="/images/entry/스타벅스-2020년-한정-판매-상품-모음/img_5.png"/>
+<img src="/images/67/img_5.png"/>
 
 <figcaption></figcaption>
 </figure><figure class="imageblock alignCenter">
 
-<img src="/images/entry/스타벅스-2020년-한정-판매-상품-모음/img_6.png"/>
+<img src="/images/67/img_6.png"/>
 
 <figcaption></figcaption>
 </figure><figure class="imageblock alignCenter">
 
-<img src="/images/entry/스타벅스-2020년-한정-판매-상품-모음/img_7.png"/>
+<img src="/images/67/img_7.png"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -65,7 +65,7 @@ thumbnail: "/images/entry/스타벅스-2020년-한정-판매-상품-모음/img.p
 <p style="text-align: center;">출시일 - <span style="color: #333333;">1월 16일</span></p>
 <p><figure class="imageblock alignCenter" width="700">
 
-<img src="/images/entry/스타벅스-2020년-한정-판매-상품-모음/img_8.png" width="700"/>
+<img src="/images/67/img_8.png" width="700"/>
 
 <figcaption></figcaption>
 </figure></p>

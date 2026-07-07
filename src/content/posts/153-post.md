@@ -6,7 +6,7 @@ tags: ["스타벅스", "한정상품"]
 slug: "스타벅스-빈-데어-코리아-MD세트-2020년-Been-There-Series-KOREA"
 numericId: 153
 description: "2020년 2월에 한국을 대표하는 아이콘들이 디자인 된"
-thumbnail: "/images/entry/스타벅스-빈-데어-코리아-MD세트-2020년-Been-There-Series-KOREA/img.png"
+thumbnail: "/images/153/img.png"
 ---
 
 <div class="contents_style">
@@ -20,7 +20,7 @@ thumbnail: "/images/entry/스타벅스-빈-데어-코리아-MD세트-2020년-Bee
 <h3><b>빈데어 코리아 상품 사진</b></h3>
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/entry/스타벅스-빈-데어-코리아-MD세트-2020년-Been-There-Series-KOREA/img.png"/>
+<img src="/images/153/img.png"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -43,12 +43,12 @@ thumbnail: "/images/entry/스타벅스-빈-데어-코리아-MD세트-2020년-Bee
 <h4><b>미국 빈데어 도시 시리즈</b></h4>
 <p><figure class="imageblock alignCenter" width="400">
 
-<img src="/images/entry/스타벅스-빈-데어-코리아-MD세트-2020년-Been-There-Series-KOREA/img_1.png" width="400"/>
+<img src="/images/153/img_1.png" width="400"/>
 
 <figcaption>빈데어 뉴욕</figcaption>
 </figure><figure class="imageblock alignCenter" width="400">
 
-<img src="/images/entry/스타벅스-빈-데어-코리아-MD세트-2020년-Been-There-Series-KOREA/img_2.png" width="400"/>
+<img src="/images/153/img_2.png" width="400"/>
 
 <figcaption>빈데어 워싱턴 dc</figcaption>
 </figure></p>
@@ -57,12 +57,12 @@ thumbnail: "/images/entry/스타벅스-빈-데어-코리아-MD세트-2020년-Bee
 <h3><b>스타벅스 빈데어 코리아 상품 소개 내용</b></h3>
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/entry/스타벅스-빈-데어-코리아-MD세트-2020년-Been-There-Series-KOREA/img_3.png"/>
+<img src="/images/153/img_3.png"/>
 
 <figcaption></figcaption>
 </figure><figure class="imageblock alignCenter">
 
-<img src="/images/entry/스타벅스-빈-데어-코리아-MD세트-2020년-Been-There-Series-KOREA/img_4.png"/>
+<img src="/images/153/img_4.png"/>
 
 <figcaption></figcaption>
 </figure></p>

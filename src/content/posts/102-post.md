@@ -6,13 +6,13 @@ tags: ["bts", "방탄소년단"]
 slug: "BTS-코든쇼-무대-보는-방법-시간-주소-방탄-블랙스완-최초-무대"
 numericId: 102
 description: "방탄소년단이 제임스코든쇼에 출연합니다.  정확한 방송 시간과 볼 수 있는 주소를 조사하고 공유해요."
-thumbnail: "/images/entry/BTS-코든쇼-무대-보는-방법-시간-주소-방탄-블랙스완-최초-무대/이미지_2.png"
+thumbnail: "/images/102/이미지_2.png"
 ---
 
 <div class="contents_style">
 <p><figure class="imageblock alignCenter" width="500">
 
-<img src="/images/entry/BTS-코든쇼-무대-보는-방법-시간-주소-방탄-블랙스완-최초-무대/이미지_2.png" width="500"/>
+<img src="/images/102/이미지_2.png" width="500"/>
 
 <figcaption></figcaption>
 </figure></p>

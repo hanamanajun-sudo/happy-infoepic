@@ -6,7 +6,7 @@ tags: ["bts", "방탄소년단"]
 slug: "BTS-코든쇼-블랙스완-무대-영상-방탄-방송-사진-모음"
 numericId: 103
 description: "방탄소년단 코든 쇼에 블랙스완 무대 했던 영상이 올라왔네요."
-thumbnail: "/images/entry/BTS-코든쇼-블랙스완-무대-영상-방탄-방송-사진-모음/img.jpg"
+thumbnail: "/images/103/img.jpg"
 ---
 
 <div class="contents_style">
@@ -48,7 +48,7 @@ thumbnail: "/images/entry/BTS-코든쇼-블랙스완-무대-영상-방탄-방송
 <p>코든쇼 방송 전 사진</p>
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/entry/BTS-코든쇼-블랙스완-무대-영상-방탄-방송-사진-모음/img.jpg"/>
+<img src="/images/103/img.jpg"/>
 
 <figcaption>출처 - CBS 인스타그램 </figcaption>
 </figure></p>
@@ -57,14 +57,14 @@ thumbnail: "/images/entry/BTS-코든쇼-블랙스완-무대-영상-방탄-방송
 <h2><span style="background-color: #ffc9af;"><b>레이트레이트 제임스 코든 쇼 토크 인터뷰 사진 모음</b></span></h2>
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/entry/BTS-코든쇼-블랙스완-무대-영상-방탄-방송-사진-모음/img.png"/>
+<img src="/images/103/img.png"/>
 
 <figcaption></figcaption>
 </figure></p>
 <p>모두 영어 잘해서 깜짝 놀랐어요 </p>
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/entry/BTS-코든쇼-블랙스완-무대-영상-방탄-방송-사진-모음/img_1.png"/>
+<img src="/images/103/img_1.png"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -73,28 +73,28 @@ thumbnail: "/images/entry/BTS-코든쇼-블랙스완-무대-영상-방탄-방송
 
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/entry/BTS-코든쇼-블랙스완-무대-영상-방탄-방송-사진-모음/img_2.png"/>
+<img src="/images/103/img_2.png"/>
 
 <figcaption></figcaption>
 </figure></p>
 <p>모두 밝은 표정에 힐링 된다.</p>
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/entry/BTS-코든쇼-블랙스완-무대-영상-방탄-방송-사진-모음/img_3.png"/>
+<img src="/images/103/img_3.png"/>
 
 <figcaption></figcaption>
 </figure></p>
 <p>청춘 드라마 같은 저 모습 보세요 ㅋ </p>
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/entry/BTS-코든쇼-블랙스완-무대-영상-방탄-방송-사진-모음/img_4.png"/>
+<img src="/images/103/img_4.png"/>
 
 <figcaption></figcaption>
 </figure></p>
 <p>눈빛으로 누굴 죽이려고 그러나 ㅠㅠㅠ</p>
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/entry/BTS-코든쇼-블랙스완-무대-영상-방탄-방송-사진-모음/img_5.png"/>
+<img src="/images/103/img_5.png"/>
 
 <figcaption></figcaption>
 </figure></p>

@@ -6,13 +6,13 @@ tags: ["김밥", "김밥의기원"]
 slug: "외국인들에게-알려주는-김밥-2탄-김밥의-기원-김밥의-종류"
 numericId: 17
 description: "김에 밥을 싸 먹는 음식은 과거부터 있어왔지만 현재의 김밥과 같은 형태와는 거리가 있다."
-thumbnail: "/images/entry/외국인들에게-알려주는-김밥-2탄-김밥의-기원-김밥의-종류/img.jpg"
+thumbnail: "/images/17/img.jpg"
 ---
 
 <div class="contents_style">
 <p><figure class="imageblock alignCenter" height="249" width="479">
 
-<img height="249" src="/images/entry/외국인들에게-알려주는-김밥-2탄-김밥의-기원-김밥의-종류/img.jpg" width="479"/>
+<img height="249" src="/images/17/img.jpg" width="479"/>
 
 <figcaption></figcaption>
 </figure></p>

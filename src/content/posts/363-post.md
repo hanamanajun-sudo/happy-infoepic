@@ -6,7 +6,7 @@ tags: ["MBTI", "무료MBTI"]
 slug: "MBTI-무료-성격검사-유형별-궁합-보기"
 numericId: 363
 description: "아래 링크된 사이트로 가면 무료 성격 유형검사 MBTI를 할 수 있어요."
-thumbnail: "/images/entry/MBTI-무료-성격검사-유형별-궁합-보기/img.png"
+thumbnail: "/images/363/img.png"
 ---
 
 <div class="contents_style">
@@ -16,7 +16,7 @@ thumbnail: "/images/entry/MBTI-무료-성격검사-유형별-궁합-보기/img.p
 <p>아래 링크된 사이트로 가면 무료 성격 유형검사 MBTI를 할 수 있어요. </p>
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/entry/MBTI-무료-성격검사-유형별-궁합-보기/img.png"/>
+<img src="/images/363/img.png"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -25,7 +25,7 @@ thumbnail: "/images/entry/MBTI-무료-성격검사-유형별-궁합-보기/img.p
 
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/entry/MBTI-무료-성격검사-유형별-궁합-보기/img_1.png"/>
+<img src="/images/363/img_1.png"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -40,7 +40,7 @@ thumbnail: "/images/entry/MBTI-무료-성격검사-유형별-궁합-보기/img.p
 
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/entry/MBTI-무료-성격검사-유형별-궁합-보기/img_2.png"/>
+<img src="/images/363/img_2.png"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -49,14 +49,14 @@ thumbnail: "/images/entry/MBTI-무료-성격검사-유형별-궁합-보기/img.p
 <p>밑으로 내리면 성격 유형에 대한 설명이 나와요. </p>
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/entry/MBTI-무료-성격검사-유형별-궁합-보기/img_3.png"/>
+<img src="/images/363/img_3.png"/>
 
 <figcaption></figcaption>
 </figure></p>
 <p>가장 밑에 내리면 해당 유형의 유명인들도 확인 </p>
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/entry/MBTI-무료-성격검사-유형별-궁합-보기/img_4.png"/>
+<img src="/images/363/img_4.png"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -68,7 +68,7 @@ thumbnail: "/images/entry/MBTI-무료-성격검사-유형별-궁합-보기/img.p
 
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/entry/MBTI-무료-성격검사-유형별-궁합-보기/img_5.png"/>
+<img src="/images/363/img_5.png"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -77,7 +77,7 @@ thumbnail: "/images/entry/MBTI-무료-성격검사-유형별-궁합-보기/img.p
 
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/entry/MBTI-무료-성격검사-유형별-궁합-보기/img_6.png"/>
+<img src="/images/363/img_6.png"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -105,7 +105,7 @@ thumbnail: "/images/entry/MBTI-무료-성격검사-유형별-궁합-보기/img.p
 
 <p><figure class="imageblock alignCenter" width="700">
 
-<img src="/images/entry/MBTI-무료-성격검사-유형별-궁합-보기/img_7.png" width="700"/>
+<img src="/images/363/img_7.png" width="700"/>
 
 <figcaption></figcaption>
 </figure></p>

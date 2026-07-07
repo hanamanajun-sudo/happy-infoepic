@@ -6,13 +6,13 @@ tags: ["우한병원"]
 slug: "우한-확진자-병원-정보-병원-리스트-이름-위치"
 numericId: 100
 description: "해당 이미지는 우한 병원과 관련 없는 이미지 입니다."
-thumbnail: "/images/entry/우한-확진자-병원-정보-병원-리스트-이름-위치/img.jpg"
+thumbnail: "/images/100/img.jpg"
 ---
 
 <div class="contents_style">
 <p><figure class="imageblock alignCenter" width="500">
 
-<img src="/images/entry/우한-확진자-병원-정보-병원-리스트-이름-위치/img.jpg" width="500"/>
+<img src="/images/100/img.jpg" width="500"/>
 
 <figcaption>해당 이미지는 우한 병원과 관련 없는 이미지 입니다. </figcaption>
 </figure></p>
