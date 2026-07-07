@@ -6,7 +6,7 @@ tags: ["빈스길리건", "브레이킹배드"]
 slug: "빈스-길리건-브레이킹-배드의-차기작-드라마-소식"
 numericId: 476
 description: "브레이킹 배드, 베터 콜 사울을 만든빈스 길리건의 새로운 작품을 보고 싶은 마음에 검색을 해보았고 새로운 소식이 들리고 있어서 내용을 정리하고 공유합니다."
-thumbnail: "/images/476/breakingBad-se000.jpg"
+thumbnail: "/images/entry/빈스-길리건-브레이킹-배드의-차기작-드라마-소식/breakingBad-se000.jpg"
 ---
 
 <div class="contents_style">
@@ -14,7 +14,7 @@ thumbnail: "/images/476/breakingBad-se000.jpg"
 <p>브레이킹 배드, 베터 콜 사울을 만든 <b>빈스 길리건</b>의 새로운 작품을 보고 싶은 마음에 검색을 해보았고 새로운 소식이 들리고 있어서 내용을 정리하고 공유합니다.</p>
 <p><figure class="imageblock alignCenter" height="300" width="400">
 
-<img height="300" src="/images/476/breakingBad-se000.jpg" width="400"/>
+<img height="300" src="/images/entry/빈스-길리건-브레이킹-배드의-차기작-드라마-소식/breakingBad-se000.jpg" width="400"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -23,7 +23,7 @@ thumbnail: "/images/476/breakingBad-se000.jpg"
 
 <p><figure class="imageblock alignCenter" height="300" width="400">
 
-<img height="300" src="/images/476/edited_desktop-wallpaper-better-call-saul-season-4-episode-9-recap-for-whom-the-bell-tings-rhea-seehorn.jpg" width="400"/>
+<img height="300" src="/images/entry/빈스-길리건-브레이킹-배드의-차기작-드라마-소식/edited_desktop-wallpaper-better-call-saul-season-4-episode-9-recap-for-whom-the-bell-tings-rhea-seehorn.jpg" width="400"/>
 
 <figcaption></figcaption>
 </figure></p>

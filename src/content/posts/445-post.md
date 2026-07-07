@@ -5,8 +5,8 @@ category: "문화&연예 트렌드/영화&드라마&TV"
 tags: []
 slug: "이동진-별점-5점-영화-리스트-별점-기준"
 numericId: 445
-description: "아래로 갈수록 최근영화"
-thumbnail: "/images/445/유_퀴즈_온_더_블럭_E102_210414_720p-NEXT_mp4_20210415_074433_016.jpg"
+description: "이동진 영화 평론가가 별점 5점 만점을 부여한 역대 최고의 영화 리스트를 연대순으로 한눈에 쭉 정리했습니다. 에일리언, 레이징불, 원스 어폰어 타임 인 아메리카 등 한국 최고의 평론가가 인정한 명작 영화들을 지금 바로 확인해보세요."
+thumbnail: "/images/entry/이동진-별점-5점-영화-리스트-별점-기준/유_퀴즈_온_더_블럭_E102_210414_720p-NEXT_mp4_20210415_074433_016.jpg"
 ---
 
 <div class="contents_style">
@@ -61,7 +61,7 @@ thumbnail: "/images/445/유_퀴즈_온_더_블럭_E102_210414_720p-NEXT_mp4_2021
 
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/445/유_퀴즈_온_더_블럭_E102_210414_720p-NEXT_mp4_20210415_074433_016.jpg"/>
+<img src="/images/entry/이동진-별점-5점-영화-리스트-별점-기준/유_퀴즈_온_더_블럭_E102_210414_720p-NEXT_mp4_20210415_074433_016.jpg"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -155,7 +155,7 @@ thumbnail: "/images/445/유_퀴즈_온_더_블럭_E102_210414_720p-NEXT_mp4_2021
 
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/445/유_퀴즈_온_더_블럭_E102_210414_720p-NEXT_mp4_20210415_074441_350.jpg"/>
+<img src="/images/entry/이동진-별점-5점-영화-리스트-별점-기준/유_퀴즈_온_더_블럭_E102_210414_720p-NEXT_mp4_20210415_074441_350.jpg"/>
 
 <figcaption></figcaption>
 </figure></p>

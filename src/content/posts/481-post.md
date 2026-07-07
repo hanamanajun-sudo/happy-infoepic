@@ -6,7 +6,7 @@ tags: ["신년운세", "무료", "로또", "부자운세", "2025년", "오블완
 slug: "2025년-무료-신년운세-사이트-모음"
 numericId: 481
 description: "2025년 무료로 신년운세 볼수 있는 사이트를 모으고 있습니다. 일단 현재까지 공개된 정보를 포함한 내용이고 이후 추가적으로 공개되는 사이트도 업데이트 할게요. 그리고 하단에는 2025년에 알아두면 좋을 상식도 넣어놨어요."
-thumbnail: "/images/481/2024-11-20_17_10_59.png"
+thumbnail: "/images/entry/2025년-무료-신년운세-사이트-모음/2024-11-20_17_10_59.png"
 ---
 
 <div class="contents_style">
@@ -19,7 +19,7 @@ thumbnail: "/images/481/2024-11-20_17_10_59.png"
 <p>관련 글: <a href="https://nonghyup.sinbiun.com/web/unse/saju/saju.php?unse_code=A104" rel="noopener" target="_blank">:: 농협은행 ::</a></p>
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/481/2024-11-20_17_10_59.png"/>
+<img src="/images/entry/2025년-무료-신년운세-사이트-모음/2024-11-20_17_10_59.png"/>
 
 <figcaption>농협 2025년 신년운세</figcaption>
 </figure></p>

@@ -6,7 +6,7 @@ tags: []
 slug: "서울경기도-자동차-극장-위치가격-정보"
 numericId: 353
 description: "서울특별시 송파구 잠실동 1168-1"
-thumbnail: "/images/353/img.gif"
+thumbnail: "/images/entry/서울경기도-자동차-극장-위치가격-정보/img.gif"
 ---
 
 <div class="contents_style">
@@ -38,7 +38,7 @@ thumbnail: "/images/353/img.gif"
 <p><b><span style="color: #000000;">상영시간표 자동응답안내   :   02 – 3431 – 0450</span></b><br/><b>[추가 정보]</b></p>
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/353/img.gif"/>
+<img src="/images/entry/서울경기도-자동차-극장-위치가격-정보/img.gif"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -77,7 +77,7 @@ thumbnail: "/images/353/img.gif"
 <p><b>[추가 정보]</b></p>
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/353/img.jpg"/>
+<img src="/images/entry/서울경기도-자동차-극장-위치가격-정보/img.jpg"/>
 
 <figcaption></figcaption>
 </figure></p>

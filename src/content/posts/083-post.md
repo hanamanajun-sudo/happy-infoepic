@@ -6,7 +6,7 @@ tags: ["기생충", "SAG"]
 slug: "기생충-SAG-앙상블-캐스트-영상수상자-인터뷰"
 numericId: 83
 description: "기생충이 1월 19일로스엔젤리스에서 열린 2020 SAG어워드에서"
-thumbnail: "/images/83/img.png"
+thumbnail: "/images/entry/기생충-SAG-앙상블-캐스트-영상수상자-인터뷰/img.png"
 ---
 
 <div class="contents_style">
@@ -15,7 +15,7 @@ thumbnail: "/images/83/img.png"
 <p>올라 상을 받는 장면이 인상적이고 감동적이라 내용을 정리하고 공유합니다.</p>
 <p><figure class="imageblock alignCenter" width="700">
 
-<img src="/images/83/img.png" width="700"/>
+<img src="/images/entry/기생충-SAG-앙상블-캐스트-영상수상자-인터뷰/img.png" width="700"/>
 
 <figcaption></figcaption>
 </figure></p>

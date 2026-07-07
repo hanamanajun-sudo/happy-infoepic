@@ -6,7 +6,7 @@ tags: ["bts", "방탄"]
 slug: "방탄-한국어-교육-컨텐츠-대단한-빅히트Learn-Korean-with-BTS"
 numericId: 126
 description: "방탄소년단이 미국 일본 외에 전세계적인 인기를 얻고 있고 BTS를 동경하는 많은 팬들은"
-thumbnail: "/images/126/img.png"
+thumbnail: "/images/entry/방탄-한국어-교육-컨텐츠-대단한-빅히트Learn-Korean-with-BTS/img.png"
 ---
 
 <div class="contents_style">
@@ -19,7 +19,7 @@ thumbnail: "/images/126/img.png"
 
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/126/img.png"/>
+<img src="/images/entry/방탄-한국어-교육-컨텐츠-대단한-빅히트Learn-Korean-with-BTS/img.png"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -27,14 +27,14 @@ thumbnail: "/images/126/img.png"
 
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/126/img_1.png"/>
+<img src="/images/entry/방탄-한국어-교육-컨텐츠-대단한-빅히트Learn-Korean-with-BTS/img_1.png"/>
 
 <figcaption></figcaption>
 </figure></p>
 
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/126/img_2.png"/>
+<img src="/images/entry/방탄-한국어-교육-컨텐츠-대단한-빅히트Learn-Korean-with-BTS/img_2.png"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -42,7 +42,7 @@ thumbnail: "/images/126/img.png"
 
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/126/img_3.png"/>
+<img src="/images/entry/방탄-한국어-교육-컨텐츠-대단한-빅히트Learn-Korean-with-BTS/img_3.png"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -58,7 +58,7 @@ thumbnail: "/images/126/img.png"
 
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/126/img_4.png"/>
+<img src="/images/entry/방탄-한국어-교육-컨텐츠-대단한-빅히트Learn-Korean-with-BTS/img_4.png"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -66,26 +66,26 @@ thumbnail: "/images/126/img.png"
 
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/126/img_5.png"/>
+<img src="/images/entry/방탄-한국어-교육-컨텐츠-대단한-빅히트Learn-Korean-with-BTS/img_5.png"/>
 
 <figcaption></figcaption>
 </figure></p>
 
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/126/img_6.png"/>
+<img src="/images/entry/방탄-한국어-교육-컨텐츠-대단한-빅히트Learn-Korean-with-BTS/img_6.png"/>
 
 <figcaption></figcaption>
 </figure></p>
 
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/126/img_7.png"/>
+<img src="/images/entry/방탄-한국어-교육-컨텐츠-대단한-빅히트Learn-Korean-with-BTS/img_7.png"/>
 
 <figcaption></figcaption>
 </figure><figure class="imageblock alignCenter">
 
-<img src="/images/126/img_8.png"/>
+<img src="/images/entry/방탄-한국어-교육-컨텐츠-대단한-빅히트Learn-Korean-with-BTS/img_8.png"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -98,47 +98,47 @@ thumbnail: "/images/126/img.png"
 <p><b>따라 했으면 좋겠어요.</b> 그래야 다른 스타의 팬에게도 동기부여를 할 수 있지 않을까요?</p>
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/126/img_9.png"/>
+<img src="/images/entry/방탄-한국어-교육-컨텐츠-대단한-빅히트Learn-Korean-with-BTS/img_9.png"/>
 
 <figcaption></figcaption>
 </figure><figure class="imageblock alignCenter">
 
-<img src="/images/126/img_10.png"/>
+<img src="/images/entry/방탄-한국어-교육-컨텐츠-대단한-빅히트Learn-Korean-with-BTS/img_10.png"/>
 
 <figcaption></figcaption>
 </figure><figure class="imageblock alignCenter">
 
-<img src="/images/126/img_11.png"/>
+<img src="/images/entry/방탄-한국어-교육-컨텐츠-대단한-빅히트Learn-Korean-with-BTS/img_11.png"/>
 
 <figcaption></figcaption>
 </figure><figure class="imageblock alignCenter">
 
-<img src="/images/126/img_12.png"/>
+<img src="/images/entry/방탄-한국어-교육-컨텐츠-대단한-빅히트Learn-Korean-with-BTS/img_12.png"/>
 
 <figcaption></figcaption>
 </figure><figure class="imageblock alignCenter">
 
-<img src="/images/126/img_13.png"/>
+<img src="/images/entry/방탄-한국어-교육-컨텐츠-대단한-빅히트Learn-Korean-with-BTS/img_13.png"/>
 
 <figcaption></figcaption>
 </figure><figure class="imageblock alignCenter">
 
-<img src="/images/126/img_14.png"/>
+<img src="/images/entry/방탄-한국어-교육-컨텐츠-대단한-빅히트Learn-Korean-with-BTS/img_14.png"/>
 
 <figcaption></figcaption>
 </figure><figure class="imageblock alignCenter">
 
-<img src="/images/126/img_15.png"/>
+<img src="/images/entry/방탄-한국어-교육-컨텐츠-대단한-빅히트Learn-Korean-with-BTS/img_15.png"/>
 
 <figcaption></figcaption>
 </figure><figure class="imageblock alignCenter">
 
-<img src="/images/126/img_16.png"/>
+<img src="/images/entry/방탄-한국어-교육-컨텐츠-대단한-빅히트Learn-Korean-with-BTS/img_16.png"/>
 
 <figcaption></figcaption>
 </figure><figure class="imageblock alignCenter">
 
-<img src="/images/126/img_17.png"/>
+<img src="/images/entry/방탄-한국어-교육-컨텐츠-대단한-빅히트Learn-Korean-with-BTS/img_17.png"/>
 
 <figcaption></figcaption>
 </figure></p>

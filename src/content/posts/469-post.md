@@ -6,7 +6,7 @@ tags: []
 slug: "넷플릭스-세계-순위-사이트-전세계-OTT-랭킹-보는법"
 numericId: 469
 description: "우리나라 컨텐츠가 전세계적으로 흥행을 한 경험이 있어서 그런지 우리나라 신작 드라마, 영화, 예능이 나왔을 때에 넷플릭스 세계 순위가 궁금할때가 있다. 이때에 찾아볼수 있는 넷플릭스 세계 순위 사이트가 있다. Flixpatrol 이라는 사이트이다."
-thumbnail: "/images/469/2023-10-26_18_08_41_1.png"
+thumbnail: "/images/entry/넷플릭스-세계-순위-사이트-전세계-OTT-랭킹-보는법/2023-10-26_18_08_41_1.png"
 ---
 
 <div class="contents_style">
@@ -23,7 +23,7 @@ thumbnail: "/images/469/2023-10-26_18_08_41_1.png"
 <p>과거 데이터, 대시보드, 슈퍼서치 기능</p>
 <p><figure class="imageblock alignCenter" height="307" width="400">
 
-<img height="307" src="/images/469/2023-10-26_18_08_41_1.png" width="400"/>
+<img height="307" src="/images/entry/넷플릭스-세계-순위-사이트-전세계-OTT-랭킹-보는법/2023-10-26_18_08_41_1.png" width="400"/>
 
 <figcaption>넷플릭스 세계 랭킹 보기 사이트 
   플릭스패트롤</figcaption>

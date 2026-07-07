@@ -6,7 +6,7 @@ tags: ["스타벅스", "발렌타인데이", "한정판", "선물추천"]
 slug: "발렌타인-선물-추천-2020년-스타벅스-MD"
 numericId: 132
 description: "발렌타인 데이 선물 뭐 할까 고민하시는 친구에게 몇가지 아이디어를 주려고"
-thumbnail: "/images/132/img.png"
+thumbnail: "/images/entry/발렌타인-선물-추천-2020년-스타벅스-MD/img.png"
 ---
 
 <div class="contents_style">
@@ -20,14 +20,14 @@ thumbnail: "/images/132/img.png"
 
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/132/img.png"/>
+<img src="/images/entry/발렌타인-선물-추천-2020년-스타벅스-MD/img.png"/>
 
 <figcaption></figcaption>
 </figure></p>
 
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/132/img_1.png"/>
+<img src="/images/entry/발렌타인-선물-추천-2020년-스타벅스-MD/img_1.png"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -51,7 +51,7 @@ thumbnail: "/images/132/img.png"
 </div>
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/132/img_2.png"/>
+<img src="/images/entry/발렌타인-선물-추천-2020년-스타벅스-MD/img_2.png"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -71,7 +71,7 @@ thumbnail: "/images/132/img.png"
 
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/132/img_3.png"/>
+<img src="/images/entry/발렌타인-선물-추천-2020년-스타벅스-MD/img_3.png"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -97,7 +97,7 @@ thumbnail: "/images/132/img.png"
 
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/132/img_4.png"/>
+<img src="/images/entry/발렌타인-선물-추천-2020년-스타벅스-MD/img_4.png"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -123,7 +123,7 @@ thumbnail: "/images/132/img.png"
 
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/132/img_5.png"/>
+<img src="/images/entry/발렌타인-선물-추천-2020년-스타벅스-MD/img_5.png"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -148,7 +148,7 @@ thumbnail: "/images/132/img.png"
 
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/132/img_6.png"/>
+<img src="/images/entry/발렌타인-선물-추천-2020년-스타벅스-MD/img_6.png"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -171,7 +171,7 @@ thumbnail: "/images/132/img.png"
 <p>죄송합니다. 세종대왕님 ㅠㅠㅠ</p>
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/132/img_7.png"/>
+<img src="/images/entry/발렌타인-선물-추천-2020년-스타벅스-MD/img_7.png"/>
 
 <figcaption></figcaption>
 </figure></p>

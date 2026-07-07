@@ -6,7 +6,7 @@ tags: []
 slug: "2020년-넷플릭스-인기영화-BEST10"
 numericId: 394
 description: "넷플릭스에서 공식적으로 공개한 인기영화 탑10입니다."
-thumbnail: "/images/394/img.jpg"
+thumbnail: "/images/entry/2020년-넷플릭스-인기영화-BEST10/img.jpg"
 ---
 
 <div class="contents_style">
@@ -28,7 +28,7 @@ thumbnail: "/images/394/img.jpg"
 <h2><b>9위 더 플랫폼</b></h2>
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/394/img.jpg"/>
+<img src="/images/entry/2020년-넷플릭스-인기영화-BEST10/img.jpg"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -41,7 +41,7 @@ thumbnail: "/images/394/img.jpg"
 
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/394/img_1.jpg"/>
+<img src="/images/entry/2020년-넷플릭스-인기영화-BEST10/img_1.jpg"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -59,7 +59,7 @@ thumbnail: "/images/394/img.jpg"
 <h2><b>7위 트리플 프런티어</b></h2>
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/394/img.png"/>
+<img src="/images/entry/2020년-넷플릭스-인기영화-BEST10/img.png"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -86,7 +86,7 @@ thumbnail: "/images/394/img.jpg"
 <h2><b>5위 머더 미스터리</b></h2>
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/394/img_2.jpg"/>
+<img src="/images/entry/2020년-넷플릭스-인기영화-BEST10/img_2.jpg"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -101,7 +101,7 @@ thumbnail: "/images/394/img.jpg"
 <h2><b>4위 6언더그라운드</b></h2>
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/394/img_1.png"/>
+<img src="/images/entry/2020년-넷플릭스-인기영화-BEST10/img_1.png"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -126,7 +126,7 @@ thumbnail: "/images/394/img.jpg"
 <h2><b>2위 버드 박스</b></h2>
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/394/img_2.png"/>
+<img src="/images/entry/2020년-넷플릭스-인기영화-BEST10/img_2.png"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -145,7 +145,7 @@ thumbnail: "/images/394/img.jpg"
 <h2><b>1위 익스트랙션</b></h2>
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/394/img_3.png"/>
+<img src="/images/entry/2020년-넷플릭스-인기영화-BEST10/img_3.png"/>
 
 <figcaption></figcaption>
 </figure></p>

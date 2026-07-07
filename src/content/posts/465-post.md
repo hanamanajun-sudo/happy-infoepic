@@ -6,7 +6,7 @@ tags: ["인테리어", "플랜테이어"]
 slug: "플랜테리어-뜻-3줄요약-장점"
 numericId: 465
 description: "요즘 몬스테라 키우고 싶어서 이것저것 알아보다가 플랜테리어라는 단어가 눈에 들어와 플렌테리어 그리고 식물들에 대한 블로그 글을 앞으로 작성하려고 한다."
-thumbnail: "/images/465/제목을_입력해주세요_-001_22_1.png"
+thumbnail: "/images/entry/플랜테리어-뜻-3줄요약-장점/제목을_입력해주세요_-001_22_1.png"
 ---
 
 <div class="contents_style">
@@ -16,7 +16,7 @@ thumbnail: "/images/465/제목을_입력해주세요_-001_22_1.png"
 
 <p><figure class="imageblock alignCenter" height="350" width="350">
 
-<img height="350" src="/images/465/제목을_입력해주세요_-001_22_1.png" width="350"/>
+<img height="350" src="/images/entry/플랜테리어-뜻-3줄요약-장점/제목을_입력해주세요_-001_22_1.png" width="350"/>
 
 <figcaption></figcaption>
 </figure></p>

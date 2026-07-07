@@ -6,7 +6,7 @@ tags: ["프로듀스", "아이즈원"]
 slug: "아이즈원-트위터-업뎃-2달-만에-올라온-이유"
 numericId: 76
 description: "아이즈원이 프로듀스 조작 사태로 인해 잠정 활동 중단 이후"
-thumbnail: "/images/76/img.png"
+thumbnail: "/images/entry/아이즈원-트위터-업뎃-2달-만에-올라온-이유/img.png"
 ---
 
 <div class="contents_style">
@@ -25,7 +25,7 @@ thumbnail: "/images/76/img.png"
 
 <p><figure class="imageblock alignCenter" width="400">
 
-<img src="/images/76/img.png" width="400"/>
+<img src="/images/entry/아이즈원-트위터-업뎃-2달-만에-올라온-이유/img.png" width="400"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -33,7 +33,7 @@ thumbnail: "/images/76/img.png"
 <p>아래 트위터가 19년 11월 초이니까 채연의 생일 축하 <span style="background-color: #ffc1c8;">글은 거의 2달 만에 올라온 트윗</span></p>
 <p><figure class="imageblock alignCenter" width="400">
 
-<img src="/images/76/img_1.png" width="400"/>
+<img src="/images/entry/아이즈원-트위터-업뎃-2달-만에-올라온-이유/img_1.png" width="400"/>
 
 <figcaption></figcaption>
 </figure></p>

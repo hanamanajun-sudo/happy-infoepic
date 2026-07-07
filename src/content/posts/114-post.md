@@ -6,7 +6,7 @@ tags: ["유튜버", "비슷해보이즈", "우한관련뉴스"]
 slug: "비슷해보이즈우한-폐렴몰카-사과문시민-반응"
 numericId: 114
 description: "비슷해보이즈가 해명 영상을  올리고 몇시간 만에 수많은 비난의 글이 올라오고"
-thumbnail: "/images/114/img.png"
+thumbnail: "/images/entry/비슷해보이즈우한-폐렴몰카-사과문시민-반응/img.png"
 ---
 
 <div class="contents_style">
@@ -26,7 +26,7 @@ thumbnail: "/images/114/img.png"
 
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/114/img.png"/>
+<img src="/images/entry/비슷해보이즈우한-폐렴몰카-사과문시민-반응/img.png"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -34,12 +34,12 @@ thumbnail: "/images/114/img.png"
 
 <p><figure class="imageblock alignCenter" width="600">
 
-<img src="/images/114/img_1.png" width="600"/>
+<img src="/images/entry/비슷해보이즈우한-폐렴몰카-사과문시민-반응/img_1.png" width="600"/>
 
 <figcaption></figcaption>
 </figure><figure class="imageblock alignCenter" width="600">
 
-<img src="/images/114/img_2.png" width="600"/>
+<img src="/images/entry/비슷해보이즈우한-폐렴몰카-사과문시민-반응/img_2.png" width="600"/>
 
 <figcaption></figcaption>
 </figure></p>

@@ -5,8 +5,8 @@ category: "문화&연예 트렌드/깜짝뉴스"
 tags: ["기생충", "아카데미", "오스카"]
 slug: "기생충-재개봉-포스터-충격-아카데미-기생충-짤방-모음"
 numericId: 140
-description: "재개봉 가즈아ㅏㅏㅏㅏㅏ"
-thumbnail: "/images/140/img.jpg"
+description: "기생충 재개봉 포스터와 아카데미 4관왕 수상과 관련된 재미있는 짤방 이미지들을 한데 모아봤습니다. 오스카 역사를 새로 쓴 봉준호 감독과 기생충의 영광스러운 순간들을 유쾌하고 재미있는 이미지와 함께 만나보는 기생충 팬들을 위한 특별 포스팅입니다."
+thumbnail: "/images/entry/기생충-재개봉-포스터-충격-아카데미-기생충-짤방-모음/img.jpg"
 ---
 
 <div class="contents_style">
@@ -22,12 +22,12 @@ thumbnail: "/images/140/img.jpg"
 
 <p><figure class="imageblock alignCenter" width="700">
 
-<img src="/images/140/img.jpg" width="700"/>
+<img src="/images/entry/기생충-재개봉-포스터-충격-아카데미-기생충-짤방-모음/img.jpg" width="700"/>
 
 <figcaption>장난이지만 아무렴 어때 ㅋㅋ</figcaption>
 </figure><figure class="imageblock alignCenter">
 
-<img src="/images/140/img.gif"/>
+<img src="/images/entry/기생충-재개봉-포스터-충격-아카데미-기생충-짤방-모음/img.gif"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -35,7 +35,7 @@ thumbnail: "/images/140/img.jpg"
 
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/140/img_1.jpg"/>
+<img src="/images/entry/기생충-재개봉-포스터-충격-아카데미-기생충-짤방-모음/img_1.jpg"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -44,7 +44,7 @@ thumbnail: "/images/140/img.jpg"
 
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/140/img_2.jpg"/>
+<img src="/images/entry/기생충-재개봉-포스터-충격-아카데미-기생충-짤방-모음/img_2.jpg"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -52,12 +52,12 @@ thumbnail: "/images/140/img.jpg"
 
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/140/img.png"/>
+<img src="/images/entry/기생충-재개봉-포스터-충격-아카데미-기생충-짤방-모음/img.png"/>
 
 <figcaption></figcaption>
 </figure><figure class="imageblock alignCenter">
 
-<img src="/images/140/img_1.png"/>
+<img src="/images/entry/기생충-재개봉-포스터-충격-아카데미-기생충-짤방-모음/img_1.png"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -65,7 +65,7 @@ thumbnail: "/images/140/img.jpg"
 
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/140/img_3.jpg"/>
+<img src="/images/entry/기생충-재개봉-포스터-충격-아카데미-기생충-짤방-모음/img_3.jpg"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -73,14 +73,14 @@ thumbnail: "/images/140/img.jpg"
 
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/140/img_4.jpg"/>
+<img src="/images/entry/기생충-재개봉-포스터-충격-아카데미-기생충-짤방-모음/img_4.jpg"/>
 
 <figcaption></figcaption>
 </figure></p>
 
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/140/img_2.png"/>
+<img src="/images/entry/기생충-재개봉-포스터-충격-아카데미-기생충-짤방-모음/img_2.png"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -88,7 +88,7 @@ thumbnail: "/images/140/img.jpg"
 
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/140/img_5.jpg"/>
+<img src="/images/entry/기생충-재개봉-포스터-충격-아카데미-기생충-짤방-모음/img_5.jpg"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -97,7 +97,7 @@ thumbnail: "/images/140/img.jpg"
 
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/140/img_6.jpg"/>
+<img src="/images/entry/기생충-재개봉-포스터-충격-아카데미-기생충-짤방-모음/img_6.jpg"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -107,7 +107,7 @@ thumbnail: "/images/140/img.jpg"
 
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/140/img_7.jpg"/>
+<img src="/images/entry/기생충-재개봉-포스터-충격-아카데미-기생충-짤방-모음/img_7.jpg"/>
 
 <figcaption></figcaption>
 </figure></p>

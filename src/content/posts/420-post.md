@@ -6,7 +6,7 @@ tags: []
 slug: "랑종-티저-예고편-보기-랑종-정보-모음-나홍진-제작"
 numericId: 420
 description: "태국의 샤머니즘을 주제로 한 미스터리 공포물"
-thumbnail: "/images/420/img.jpg"
+thumbnail: "/images/entry/랑종-티저-예고편-보기-랑종-정보-모음-나홍진-제작/img.jpg"
 ---
 
 <div class="contents_style">
@@ -16,7 +16,7 @@ thumbnail: "/images/420/img.jpg"
 <p><span style="color: #111111;">감독은 &lt;셔터&gt;, &lt;샴&gt;의 반종 피산다나쿤</span></p>
 <p><figure class="imageblock alignCenter" height="714" width="500">
 
-<img height="714" src="/images/420/img.jpg" width="500"/>
+<img height="714" src="/images/entry/랑종-티저-예고편-보기-랑종-정보-모음-나홍진-제작/img.jpg" width="500"/>
 
 <figcaption></figcaption>
 </figure></p>

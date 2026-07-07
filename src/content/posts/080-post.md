@@ -6,13 +6,13 @@ tags: ["노홍철빵집", "홍철책빵"]
 slug: "노홍철-빵집-위치-홍철책빵-사진-모음-빵가게-책"
 numericId: 80
 description: "방송인 노홍철 님의 빵집이 오픈했어요."
-thumbnail: "/images/80/이미지_28.png"
+thumbnail: "/images/entry/노홍철-빵집-위치-홍철책빵-사진-모음-빵가게-책/이미지_28.png"
 ---
 
 <div class="contents_style">
 <p><figure class="imageblock alignCenter" width="400">
 
-<img src="/images/80/이미지_28.png" width="400"/>
+<img src="/images/entry/노홍철-빵집-위치-홍철책빵-사진-모음-빵가게-책/이미지_28.png" width="400"/>
 
 <figcaption>노홍철 빵집 위치</figcaption>
 </figure></p>
@@ -29,7 +29,7 @@ thumbnail: "/images/80/이미지_28.png"
 <p>원래는 노홍철 님이 살고 있는 개인집이라고 합니다.</p>
 <p><figure class="imageblock alignCenter" width="500">
 
-<img src="/images/80/이미지_30.png" width="500"/>
+<img src="/images/entry/노홍철-빵집-위치-홍철책빵-사진-모음-빵가게-책/이미지_30.png" width="500"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -42,7 +42,7 @@ thumbnail: "/images/80/이미지_28.png"
 <p style="font-size: 1.12em;">가 오픈 기간이라 포장이 어려운 빵들이 있다고 합니다.</p>
 <p><figure class="imageblock alignCenter" width="500">
 
-<img src="/images/80/img.png" width="500"/>
+<img src="/images/entry/노홍철-빵집-위치-홍철책빵-사진-모음-빵가게-책/img.png" width="500"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -65,7 +65,7 @@ thumbnail: "/images/80/이미지_28.png"
 
 <p><figure class="imageblock alignCenter" width="500">
 
-<img src="/images/80/img_1.png" width="500"/>
+<img src="/images/entry/노홍철-빵집-위치-홍철책빵-사진-모음-빵가게-책/img_1.png" width="500"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -98,7 +98,7 @@ thumbnail: "/images/80/이미지_28.png"
 
 <p><figure class="imageblock alignCenter" width="400">
 
-<img src="/images/80/이미지_33.png" width="400"/>
+<img src="/images/entry/노홍철-빵집-위치-홍철책빵-사진-모음-빵가게-책/이미지_33.png" width="400"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -116,7 +116,7 @@ thumbnail: "/images/80/이미지_28.png"
 <blockquote>- 대문과 현관문을 잘 닫아 주기 (고양이가 두 마리 있어요)<br/><br/>- 실내화 착용 의무화 <br/>(무한도전을 보셨다면 알겠지만 노홍철 씨가 결벽에 가깝게 깔끔쟁이죠<br/>가게의 규칙은 지켜야 한다고 생각합니다.)<br/><br/>- 신발 분실 책임 못 짐 (본인이 챙기기)<br/><br/>- 신발주머니 1000원, 본인 신발 주머니도 OK<br/>(이것도 기념품 될 듯)<br/><br/>- 가게 겸 개인집이라 노메이크업, 잠옷 일 수도 (놀라지 말아 달라)</blockquote>
 <p><figure class="imageblock alignCenter" width="400">
 
-<img src="/images/80/img_2.png" width="400"/>
+<img src="/images/entry/노홍철-빵집-위치-홍철책빵-사진-모음-빵가게-책/img_2.png" width="400"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -142,14 +142,14 @@ thumbnail: "/images/80/이미지_28.png"
 
 <p><figure class="imageblock alignCenter" width="500">
 
-<img src="/images/80/img_3.png" width="500"/>
+<img src="/images/entry/노홍철-빵집-위치-홍철책빵-사진-모음-빵가게-책/img_3.png" width="500"/>
 
 <figcaption></figcaption>
 </figure></p>
 <p>만드는 족족 빵이 다 빨린다고 하네요. 늦게 가신 분들은 못드셨다고..</p>
 <p><figure class="imageblock alignCenter" width="400">
 
-<img src="/images/80/img_4.png" width="400"/>
+<img src="/images/entry/노홍철-빵집-위치-홍철책빵-사진-모음-빵가게-책/img_4.png" width="400"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -159,7 +159,7 @@ thumbnail: "/images/80/이미지_28.png"
 <p>외관은 정말 일반 가정집이네요.</p>
 <p><figure class="imageblock alignCenter" width="500">
 
-<img src="/images/80/img_5.png" width="500"/>
+<img src="/images/entry/노홍철-빵집-위치-홍철책빵-사진-모음-빵가게-책/img_5.png" width="500"/>
 
 <figcaption>홍철책빵 사진 모음/ 출처: 노홍철 인스타그램</figcaption>
 </figure></p>
@@ -167,7 +167,7 @@ thumbnail: "/images/80/이미지_28.png"
 <p>책빵에 걸맞게 여러 책들도 보입니다. </p>
 <p><figure class="imageblock alignCenter" width="500">
 
-<img src="/images/80/img_6.png" width="500"/>
+<img src="/images/entry/노홍철-빵집-위치-홍철책빵-사진-모음-빵가게-책/img_6.png" width="500"/>
 
 <figcaption>홍철책빵 사진 모음/ 출처: 노홍철 인스타그램</figcaption>
 </figure></p>
@@ -175,7 +175,7 @@ thumbnail: "/images/80/이미지_28.png"
 <p>이 미친 강렬한 존재감은 뭐죠</p>
 <p><figure class="imageblock alignCenter" width="500">
 
-<img src="/images/80/이미지_017.png" width="500"/>
+<img src="/images/entry/노홍철-빵집-위치-홍철책빵-사진-모음-빵가게-책/이미지_017.png" width="500"/>
 
 <figcaption>홍철책빵 사진 모음/ 출처: 노홍철 인스타그램</figcaption>
 </figure></p>
@@ -184,12 +184,12 @@ thumbnail: "/images/80/이미지_28.png"
 <p>밑에는 빵 사진 들 입니다. </p>
 <p><figure class="imageblock alignCenter" width="400">
 
-<img src="/images/80/blob.jpg" width="400"/>
+<img src="/images/entry/노홍철-빵집-위치-홍철책빵-사진-모음-빵가게-책/blob.jpg" width="400"/>
 
 <figcaption>홍철책빵 사진 모음/ 출처: 노홍철 인스타그램</figcaption>
 </figure><figure class="imageblock alignCenter" width="500">
 
-<img src="/images/80/20200116142413_ybiktpag_1.jpg" width="500"/>
+<img src="/images/entry/노홍철-빵집-위치-홍철책빵-사진-모음-빵가게-책/20200116142413_ybiktpag_1.jpg" width="500"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -198,7 +198,7 @@ thumbnail: "/images/80/이미지_28.png"
 <p>빵을 정말 좋아하나봐요 ㅋㅋㅋ</p>
 <p><figure class="imageblock alignCenter" width="500">
 
-<img src="/images/80/이미지_023.png" width="500"/>
+<img src="/images/entry/노홍철-빵집-위치-홍철책빵-사진-모음-빵가게-책/이미지_023.png" width="500"/>
 
 <figcaption>홍철책빵 사진 모음/ 출처: 노홍철 인스타그램</figcaption>
 </figure></p>
@@ -206,17 +206,17 @@ thumbnail: "/images/80/이미지_28.png"
 <p>그리고 결국 구입한 초코 분수</p>
 <p><figure class="imageblock alignCenter" width="500">
 
-<img src="/images/80/이미지_024.png" width="500"/>
+<img src="/images/entry/노홍철-빵집-위치-홍철책빵-사진-모음-빵가게-책/이미지_024.png" width="500"/>
 
 <figcaption>홍철책빵 사진 모음/ 출처: 노홍철 인스타그램</figcaption>
 </figure><figure class="imageblock alignCenter" width="500">
 
-<img src="/images/80/이미지_025.png" width="500"/>
+<img src="/images/entry/노홍철-빵집-위치-홍철책빵-사진-모음-빵가게-책/이미지_025.png" width="500"/>
 
 <figcaption>홍철책빵 사진 모음/ 출처: 노홍철 인스타그램</figcaption>
 </figure><figure class="imageblock alignCenter">
 
-<img src="/images/80/r_3378411879_be880605f185d63ee7f712d8898d172075847c9e.jpg"/>
+<img src="/images/entry/노홍철-빵집-위치-홍철책빵-사진-모음-빵가게-책/r_3378411879_be880605f185d63ee7f712d8898d172075847c9e.jpg"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -224,7 +224,7 @@ thumbnail: "/images/80/이미지_28.png"
 <p>노홍철 님의 저 행복해 보이는 표정 보세요</p>
 <p><figure class="imageblock alignCenter" width="500">
 
-<img src="/images/80/이미지_026.png" width="500"/>
+<img src="/images/entry/노홍철-빵집-위치-홍철책빵-사진-모음-빵가게-책/이미지_026.png" width="500"/>
 
 <figcaption>홍철책빵 사진 모음/ 출처: 노홍철 인스타그램</figcaption>
 </figure></p>
@@ -234,12 +234,12 @@ thumbnail: "/images/80/이미지_28.png"
 <p>아 이건 진짜 소장하고 싶네요</p>
 <p><figure class="imageblock alignCenter" width="500">
 
-<img src="/images/80/이미지_027.png" width="500"/>
+<img src="/images/entry/노홍철-빵집-위치-홍철책빵-사진-모음-빵가게-책/이미지_027.png" width="500"/>
 
 <figcaption>홍철책빵 사진 모음/ 출처: 노홍철 인스타그램</figcaption>
 </figure><figure class="imageblock alignCenter" width="400">
 
-<img src="/images/80/img_7.png" width="400"/>
+<img src="/images/entry/노홍철-빵집-위치-홍철책빵-사진-모음-빵가게-책/img_7.png" width="400"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -251,7 +251,7 @@ thumbnail: "/images/80/이미지_28.png"
 <p><u><span style="background-color: #ffc9af;">진짜 대충 봐도 사진 이쁘게 찍힐 곳 천지네요.. 가면 사진 찍느라 바쁠듯</span></u></p>
 <p><figure class="imageblock alignCenter" width="500">
 
-<img src="/images/80/이미지_004.png" width="500"/>
+<img src="/images/entry/노홍철-빵집-위치-홍철책빵-사진-모음-빵가게-책/이미지_004.png" width="500"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -261,12 +261,12 @@ thumbnail: "/images/80/이미지_28.png"
 <p>ㅋㅋㅋㅋㅋㅋㅋ </p>
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/80/이미지_007.png"/>
+<img src="/images/entry/노홍철-빵집-위치-홍철책빵-사진-모음-빵가게-책/이미지_007.png"/>
 
 <figcaption></figcaption>
 </figure><figure class="imageblock alignCenter" width="400">
 
-<img src="/images/80/img_8.png" width="400"/>
+<img src="/images/entry/노홍철-빵집-위치-홍철책빵-사진-모음-빵가게-책/img_8.png" width="400"/>
 
 <figcaption></figcaption>
 </figure></p>

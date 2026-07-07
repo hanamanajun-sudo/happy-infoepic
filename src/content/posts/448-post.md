@@ -6,7 +6,7 @@ tags: ["서울"]
 slug: "서울-시티뷰-카페-전망-좋은-최고-카페-9곳-추천"
 numericId: 448
 description: "서울에서 시티뷰 보며 경치 좋은 곳에서 분위기 있게 커피 한잔 하고 싶을 때 참고할 만한 곳을 소개하려고 합니다."
-thumbnail: "/images/448/edited_9F8ADF32-7615-45F0-A2CA-75AE44D28190.jpeg"
+thumbnail: "/images/entry/서울-시티뷰-카페-전망-좋은-최고-카페-9곳-추천/edited_9F8ADF32-7615-45F0-A2CA-75AE44D28190.jpeg"
 ---
 
 <div class="contents_style">
@@ -21,7 +21,7 @@ thumbnail: "/images/448/edited_9F8ADF32-7615-45F0-A2CA-75AE44D28190.jpeg"
 <p><span style="background-color: #fafafa; color: #262626;">서울시 종로구 낙산5길 46</span></p>
 <p><figure class="imageblock alignCenter" height="486" width="500">
 
-<img height="486" src="/images/448/edited_9F8ADF32-7615-45F0-A2CA-75AE44D28190.jpeg" width="500"/>
+<img height="486" src="/images/entry/서울-시티뷰-카페-전망-좋은-최고-카페-9곳-추천/edited_9F8ADF32-7615-45F0-A2CA-75AE44D28190.jpeg" width="500"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -33,7 +33,7 @@ thumbnail: "/images/448/edited_9F8ADF32-7615-45F0-A2CA-75AE44D28190.jpeg"
 <p>서울 용산구 신흥로20길 37</p>
 <p><figure class="imageblock alignCenter" height="513" width="500">
 
-<img height="513" src="/images/448/edited_23BE0EB0-2C16-448D-BF1C-75D21F028FE0.jpeg" width="500"/>
+<img height="513" src="/images/entry/서울-시티뷰-카페-전망-좋은-최고-카페-9곳-추천/edited_23BE0EB0-2C16-448D-BF1C-75D21F028FE0.jpeg" width="500"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -46,7 +46,7 @@ thumbnail: "/images/448/edited_9F8ADF32-7615-45F0-A2CA-75AE44D28190.jpeg"
 <p>서울 강남구 도산대로 153</p>
 <p><figure class="imageblock alignCenter" height="495" width="500">
 
-<img height="495" src="/images/448/edited_57A5229E-1C42-4C26-B2B2-BDCB437D3F8F.jpeg" width="500"/>
+<img height="495" src="/images/entry/서울-시티뷰-카페-전망-좋은-최고-카페-9곳-추천/edited_57A5229E-1C42-4C26-B2B2-BDCB437D3F8F.jpeg" width="500"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -59,7 +59,7 @@ thumbnail: "/images/448/edited_9F8ADF32-7615-45F0-A2CA-75AE44D28190.jpeg"
 
 <p><figure class="imageblock alignCenter" height="512" width="500">
 
-<img height="512" src="/images/448/edited_290F687E-0F0E-4EF9-94B0-A2F4BE4EB305.jpeg" width="500"/>
+<img height="512" src="/images/entry/서울-시티뷰-카페-전망-좋은-최고-카페-9곳-추천/edited_290F687E-0F0E-4EF9-94B0-A2F4BE4EB305.jpeg" width="500"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -72,7 +72,7 @@ thumbnail: "/images/448/edited_9F8ADF32-7615-45F0-A2CA-75AE44D28190.jpeg"
 
 <p><figure class="imageblock alignCenter" height="529" width="500">
 
-<img height="529" src="/images/448/edited_ACBA7EFA-0D05-488D-831C-86075386B7BD.jpeg" width="500"/>
+<img height="529" src="/images/entry/서울-시티뷰-카페-전망-좋은-최고-카페-9곳-추천/edited_ACBA7EFA-0D05-488D-831C-86075386B7BD.jpeg" width="500"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -85,7 +85,7 @@ thumbnail: "/images/448/edited_9F8ADF32-7615-45F0-A2CA-75AE44D28190.jpeg"
 <p>서울 용산구 신흥로 95</p>
 <p><figure class="imageblock alignCenter" height="527" width="500">
 
-<img height="527" src="/images/448/edited_D147D0C6-EEF7-4338-B43A-9E78FDA684F8.jpeg" width="500"/>
+<img height="527" src="/images/entry/서울-시티뷰-카페-전망-좋은-최고-카페-9곳-추천/edited_D147D0C6-EEF7-4338-B43A-9E78FDA684F8.jpeg" width="500"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -98,7 +98,7 @@ thumbnail: "/images/448/edited_9F8ADF32-7615-45F0-A2CA-75AE44D28190.jpeg"
 <p>서울 중구 서소문로 116 유원빌딩</p>
 <p><figure class="imageblock alignCenter" height="491" width="500">
 
-<img height="491" src="/images/448/edited_E9528D0E-9278-4193-9D10-7CC57F7D006E.jpeg" width="500"/>
+<img height="491" src="/images/entry/서울-시티뷰-카페-전망-좋은-최고-카페-9곳-추천/edited_E9528D0E-9278-4193-9D10-7CC57F7D006E.jpeg" width="500"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -111,7 +111,7 @@ thumbnail: "/images/448/edited_9F8ADF32-7615-45F0-A2CA-75AE44D28190.jpeg"
 <p>서울 중구 명동길73</p>
 <p><figure class="imageblock alignCenter" height="509" width="500">
 
-<img height="509" src="/images/448/edited_F44A250E-8A9A-4ECF-A9BB-6707278F7D63.jpeg" width="500"/>
+<img height="509" src="/images/entry/서울-시티뷰-카페-전망-좋은-최고-카페-9곳-추천/edited_F44A250E-8A9A-4ECF-A9BB-6707278F7D63.jpeg" width="500"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -125,7 +125,7 @@ thumbnail: "/images/448/edited_9F8ADF32-7615-45F0-A2CA-75AE44D28190.jpeg"
 
 <p><figure class="imageblock alignCenter" height="571" width="500">
 
-<img height="571" src="/images/448/edited_E76863F3-1AEB-4448-928F-D34E37D735FE.jpeg" width="500"/>
+<img height="571" src="/images/entry/서울-시티뷰-카페-전망-좋은-최고-카페-9곳-추천/edited_E76863F3-1AEB-4448-928F-D34E37D735FE.jpeg" width="500"/>
 
 <figcaption></figcaption>
 </figure></p>

@@ -6,7 +6,7 @@ tags: ["에일리언", "오블완", "티스토리챌린지"]
 slug: "에일리언-시리즈-시간-순서-봐야하는-순서"
 numericId: 482
 description: "먼저 영화가 나온 개봉 순서 그리고 영화 속 시간대(연대기) 순서로 소개를 하려고 합니다."
-thumbnail: "/images/482/에이리언_어스_티저_예고편_디즈니_0-8_screenshot_1.png"
+thumbnail: "/images/entry/에일리언-시리즈-시간-순서-봐야하는-순서/에이리언_어스_티저_예고편_디즈니_0-8_screenshot_1.png"
 ---
 
 <div class="contents_style">
@@ -27,7 +27,7 @@ thumbnail: "/images/482/에이리언_어스_티저_예고편_디즈니_0-8_scree
 
 <p><figure class="imageblock alignCenter" height="281" width="500">
 
-<img height="281" src="/images/482/에이리언_어스_티저_예고편_디즈니_0-8_screenshot_1.png" width="500"/>
+<img height="281" src="/images/entry/에일리언-시리즈-시간-순서-봐야하는-순서/에이리언_어스_티저_예고편_디즈니_0-8_screenshot_1.png" width="500"/>
 
 <figcaption>에일리언 어스</figcaption>
 </figure></p>
@@ -37,7 +37,7 @@ thumbnail: "/images/482/에이리언_어스_티저_예고편_디즈니_0-8_scree
 
 <p><figure class="imageblock alignCenter" height="263" width="400">
 
-<img height="263" src="/images/482/무삭제판_풀버전_이거_하나로_오늘부터_아무나_에이리언_박사학위_쌉가능_시간순_몰_1bb88ebd.png" width="400"/>
+<img height="263" src="/images/entry/에일리언-시리즈-시간-순서-봐야하는-순서/무삭제판_풀버전_이거_하나로_오늘부터_아무나_에이리언_박사학위_쌉가능_시간순_몰_1bb88ebd.png" width="400"/>
 
 <figcaption></figcaption>
 </figure></p>

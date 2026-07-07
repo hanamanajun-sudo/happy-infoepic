@@ -6,7 +6,7 @@ tags: ["냉동피자", "냉동피자추천"]
 slug: "냉동피자-추천-3종-홈플러스-코스트코-이마트-추천-냉동식품"
 numericId: 379
 description: "유럽에서 1등하고 있고 우리나라에서도 입소문 타서 엄청 팔리고 있다는"
-thumbnail: "/images/379/img.png"
+thumbnail: "/images/entry/냉동피자-추천-3종-홈플러스-코스트코-이마트-추천-냉동식품/img.png"
 ---
 
 <div class="contents_style">
@@ -16,7 +16,7 @@ thumbnail: "/images/379/img.png"
 <h1 style="text-align: center;">수입 냉동피자 강력 추천 리스토란테</h1>
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/379/img.png"/>
+<img src="/images/entry/냉동피자-추천-3종-홈플러스-코스트코-이마트-추천-냉동식품/img.png"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -63,7 +63,7 @@ thumbnail: "/images/379/img.png"
 <p style="text-align: center;">호불호 적은 베이스 이탈리안 피자 맛</p>
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/379/img_1.png"/>
+<img src="/images/entry/냉동피자-추천-3종-홈플러스-코스트코-이마트-추천-냉동식품/img_1.png"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -72,14 +72,14 @@ thumbnail: "/images/379/img.png"
 <p style="text-align: center;">치즈 좋아하면 치즈 4종 들어간 콰트로 치즈 피자</p>
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/379/img_2.png"/>
+<img src="/images/entry/냉동피자-추천-3종-홈플러스-코스트코-이마트-추천-냉동식품/img_2.png"/>
 
 <figcaption></figcaption>
 </figure></p>
 <h3 style="text-align: center;"><span style="background-color: #f6e199;"><b>바질 방울토마토 </b></span></h3>
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/379/img_3.png"/>
+<img src="/images/entry/냉동피자-추천-3종-홈플러스-코스트코-이마트-추천-냉동식품/img_3.png"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -90,7 +90,7 @@ thumbnail: "/images/379/img.png"
 <h3 style="text-align: center;">파인애플 하와이안 피자</h3>
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/379/img_4.png"/>
+<img src="/images/entry/냉동피자-추천-3종-홈플러스-코스트코-이마트-추천-냉동식품/img_4.png"/>
 
 <figcaption></figcaption>
 </figure></p>

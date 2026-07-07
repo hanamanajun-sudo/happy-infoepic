@@ -6,7 +6,7 @@ tags: ["우울증"]
 slug: "우울증-극복-하는-방법-5가지-꿀팁-전문가-의견-포함"
 numericId: 406
 description: "1. 수면시간 지키기 (아침에 일정한 시간에 일어나기)"
-thumbnail: "/images/406/img.jpg"
+thumbnail: "/images/entry/우울증-극복-하는-방법-5가지-꿀팁-전문가-의견-포함/img.jpg"
 ---
 
 <div class="contents_style">
@@ -30,27 +30,27 @@ thumbnail: "/images/406/img.jpg"
 
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/406/img.jpg"/>
+<img src="/images/entry/우울증-극복-하는-방법-5가지-꿀팁-전문가-의견-포함/img.jpg"/>
 
 <figcaption></figcaption>
 </figure><figure class="imageblock alignCenter">
 
-<img src="/images/406/img_1.jpg"/>
+<img src="/images/entry/우울증-극복-하는-방법-5가지-꿀팁-전문가-의견-포함/img_1.jpg"/>
 
 <figcaption></figcaption>
 </figure><figure class="imageblock alignCenter">
 
-<img src="/images/406/img_2.jpg"/>
+<img src="/images/entry/우울증-극복-하는-방법-5가지-꿀팁-전문가-의견-포함/img_2.jpg"/>
 
 <figcaption></figcaption>
 </figure><figure class="imageblock alignCenter">
 
-<img src="/images/406/img_3.jpg"/>
+<img src="/images/entry/우울증-극복-하는-방법-5가지-꿀팁-전문가-의견-포함/img_3.jpg"/>
 
 <figcaption></figcaption>
 </figure><figure class="imageblock alignCenter">
 
-<img src="/images/406/img_4.jpg"/>
+<img src="/images/entry/우울증-극복-하는-방법-5가지-꿀팁-전문가-의견-포함/img_4.jpg"/>
 
 <figcaption></figcaption>
 </figure></p>

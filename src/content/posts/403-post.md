@@ -6,44 +6,44 @@ tags: []
 slug: "LA-224억에-나온-럭셔리-하우스"
 numericId: 403
 description: "화려한 로스엔젤리스 뷰, 현대적 감각의 호화 주택"
-thumbnail: "/images/403/img.jpg"
+thumbnail: "/images/entry/LA-224억에-나온-럭셔리-하우스/img.jpg"
 ---
 
 <div class="contents_style">
 <p>화려한 로스엔젤리스 뷰, 현대적 감각의 호화 주택</p>
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/403/img.jpg"/>
+<img src="/images/entry/LA-224억에-나온-럭셔리-하우스/img.jpg"/>
 
 <figcaption></figcaption>
 </figure><figure class="imageblock alignCenter">
 
-<img src="/images/403/img_1.jpg"/>
+<img src="/images/entry/LA-224억에-나온-럭셔리-하우스/img_1.jpg"/>
 
 <figcaption></figcaption>
 </figure><figure class="imageblock alignCenter">
 
-<img src="/images/403/img_2.jpg"/>
+<img src="/images/entry/LA-224억에-나온-럭셔리-하우스/img_2.jpg"/>
 
 <figcaption></figcaption>
 </figure><figure class="imageblock alignCenter">
 
-<img src="/images/403/img_3.jpg"/>
+<img src="/images/entry/LA-224억에-나온-럭셔리-하우스/img_3.jpg"/>
 
 <figcaption></figcaption>
 </figure><figure class="imageblock alignCenter">
 
-<img src="/images/403/img_4.jpg"/>
+<img src="/images/entry/LA-224억에-나온-럭셔리-하우스/img_4.jpg"/>
 
 <figcaption></figcaption>
 </figure><figure class="imageblock alignCenter">
 
-<img src="/images/403/img_5.jpg"/>
+<img src="/images/entry/LA-224억에-나온-럭셔리-하우스/img_5.jpg"/>
 
 <figcaption></figcaption>
 </figure><figure class="imageblock alignCenter">
 
-<img src="/images/403/img_6.jpg"/>
+<img src="/images/entry/LA-224억에-나온-럭셔리-하우스/img_6.jpg"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -52,7 +52,7 @@ thumbnail: "/images/403/img.jpg"
 
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/403/img_7.jpg"/>
+<img src="/images/entry/LA-224억에-나온-럭셔리-하우스/img_7.jpg"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -60,12 +60,12 @@ thumbnail: "/images/403/img.jpg"
 <p>호수, 도시, 산이 보이는 뷰</p>
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/403/img_8.jpg"/>
+<img src="/images/entry/LA-224억에-나온-럭셔리-하우스/img_8.jpg"/>
 
 <figcaption></figcaption>
 </figure><figure class="imageblock alignCenter">
 
-<img src="/images/403/img_9.jpg"/>
+<img src="/images/entry/LA-224억에-나온-럭셔리-하우스/img_9.jpg"/>
 
 <figcaption></figcaption>
 </figure></p>

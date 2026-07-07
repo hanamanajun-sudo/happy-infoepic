@@ -6,14 +6,14 @@ tags: ["스타벅스", "한정상품"]
 slug: "스타벅스-2020년-봄신비로운-동화-MD-가격-정보"
 numericId: 181
 description: "스타벅스는 봄을 맞아 동화 컨셉의 귀엽고 아기자기한 디자인 상품들을"
-thumbnail: "/images/181/img.jpg"
+thumbnail: "/images/entry/스타벅스-2020년-봄신비로운-동화-MD-가격-정보/img.jpg"
 ---
 
 <div class="contents_style">
 <blockquote>설레는 올 봄에는 스타벅스에 신비로운 동화가 펼쳐집니다. </blockquote>
 <p><figure class="imageblock alignCenter" width="600">
 
-<img src="/images/181/img.jpg" width="600"/>
+<img src="/images/entry/스타벅스-2020년-봄신비로운-동화-MD-가격-정보/img.jpg" width="600"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -23,7 +23,7 @@ thumbnail: "/images/181/img.jpg"
 <p>일러스트가 작은 봄꽃 처럼 아기자기하고 귀엽다.</p>
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/181/img.png"/>
+<img src="/images/entry/스타벅스-2020년-봄신비로운-동화-MD-가격-정보/img.png"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -34,7 +34,7 @@ thumbnail: "/images/181/img.jpg"
 
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/181/img_1.png"/>
+<img src="/images/entry/스타벅스-2020년-봄신비로운-동화-MD-가격-정보/img_1.png"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -46,7 +46,7 @@ thumbnail: "/images/181/img.jpg"
 <h3><span style="background-color: #f6e199; color: #8a3db6;"><b>신비로운 동화 MD 상품 이미지/가격 정보</b></span></h3>
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/181/img_2.png"/>
+<img src="/images/entry/스타벅스-2020년-봄신비로운-동화-MD-가격-정보/img_2.png"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -56,7 +56,7 @@ thumbnail: "/images/181/img.jpg"
 <p><span style="color: #333333;"><span style="color: #333333;"><span style="color: #333333;"><span style="color: #333333;">스프링 사이렌 티 팟 355ml<span style="color: #333333;"> </span><span style="color: #333333;">- 가격: 2만 9천원</span></span></span></span></span></p>
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/181/img_3.png"/>
+<img src="/images/entry/스타벅스-2020년-봄신비로운-동화-MD-가격-정보/img_3.png"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -66,7 +66,7 @@ thumbnail: "/images/181/img.jpg"
 <p><span style="color: #333333;">SS 오드리 스프링 텀블러 355ml<span style="color: #333333;"> </span><span style="color: #333333;">- 가격: 3만1천원</span></span></p>
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/181/img_4.png"/>
+<img src="/images/entry/스타벅스-2020년-봄신비로운-동화-MD-가격-정보/img_4.png"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -76,7 +76,7 @@ thumbnail: "/images/181/img.jpg"
 <p>SS 보위 스프링 사이렌 텀블러 473ml<span style="color: #333333;"> - 가격: 3만 2천원</span></p>
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/181/img_5.png"/>
+<img src="/images/entry/스타벅스-2020년-봄신비로운-동화-MD-가격-정보/img_5.png"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -86,7 +86,7 @@ thumbnail: "/images/181/img.jpg"
 <p><span style="color: #333333;">스프링 베어리스타 글라스 돔 콜드컵 503ml<span style="color: #333333;"> </span><span style="color: #333333;">- 가격: 2만5천원</span></span></p>
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/181/img_6.png"/>
+<img src="/images/entry/스타벅스-2020년-봄신비로운-동화-MD-가격-정보/img_6.png"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -96,7 +96,7 @@ thumbnail: "/images/181/img.jpg"
 <p><span style="color: #333333;"><span style="color: #333333;"><span style="color: #333333;"><span style="color: #333333;">스프링 퍼플 스탠리 프레스 보온병 473ml<span style="color: #333333;"> </span><span style="color: #333333;">- 가격: 3만9천원</span></span></span></span></span></p>
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/181/img_7.png"/>
+<img src="/images/entry/스타벅스-2020년-봄신비로운-동화-MD-가격-정보/img_7.png"/>
 
 <figcaption></figcaption>
 </figure></p>

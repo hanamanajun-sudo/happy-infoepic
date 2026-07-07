@@ -6,7 +6,7 @@ tags: ["신상공개", "텔레그램", "n번방", "박사방"]
 slug: "박사방-운영자-조주빈-나이-학교-어디전공"
 numericId: 242
 description: "내일 박사방 운영자의 신상 공개에 대한 심의 위원회가 열린다고 했어요."
-thumbnail: "/images/242/이미지_1.png"
+thumbnail: "/images/entry/박사방-운영자-조주빈-나이-학교-어디전공/이미지_1.png"
 ---
 
 <div class="contents_style">
@@ -17,7 +17,7 @@ thumbnail: "/images/242/이미지_1.png"
 <p>사회적 파장이 있을 것이기에 절대 거부될 일은 없다고 생각해요. </p>
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/242/이미지_1.png"/>
+<img src="/images/entry/박사방-운영자-조주빈-나이-학교-어디전공/이미지_1.png"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -33,7 +33,7 @@ thumbnail: "/images/242/이미지_1.png"
 <p><span style="color: #333333;">국민의 알권리를 위해 정보를 선 공개하기로 결정했던것 같아요</span></p>
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/242/이미지_3.png"/>
+<img src="/images/entry/박사방-운영자-조주빈-나이-학교-어디전공/이미지_3.png"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -42,7 +42,7 @@ thumbnail: "/images/242/이미지_1.png"
 
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/242/PS20032301195.jpg"/>
+<img src="/images/entry/박사방-운영자-조주빈-나이-학교-어디전공/PS20032301195.jpg"/>
 
 <figcaption></figcaption>
 </figure></p>

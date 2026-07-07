@@ -6,7 +6,7 @@ tags: ["긴급재난지원금", "긴급재난지원"]
 slug: "최신-정보-정부-긴급재난지원금-총정리-깔끔-정리"
 numericId: 282
 description: "정부는 긴급 재난지원금 지급 대상을 소득 하위 70% 가정에게 구분하여 지급할 것인지"
-thumbnail: "/images/282/img.png"
+thumbnail: "/images/entry/최신-정보-정부-긴급재난지원금-총정리-깔끔-정리/img.png"
 ---
 
 <div class="contents_style">
@@ -43,7 +43,7 @@ thumbnail: "/images/282/img.png"
 <p><span style="color: #ee2323;"><b>4인 가구 이상 100만원</b></span></p>
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/282/img.png"/>
+<img src="/images/entry/최신-정보-정부-긴급재난지원금-총정리-깔끔-정리/img.png"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -52,7 +52,7 @@ thumbnail: "/images/282/img.png"
 <p><span style="color: #ee2323;"><u>번거로운 절차를 할 필요가 완전히 없어졌습니다. </u></span></p>
 <p><figure class="imageblock alignCenter" width="500">
 
-<img src="/images/282/img_1.png" width="500"/>
+<img src="/images/entry/최신-정보-정부-긴급재난지원금-총정리-깔끔-정리/img_1.png" width="500"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -76,7 +76,7 @@ thumbnail: "/images/282/img.png"
 
 <p><figure class="imageblock alignCenter" width="500">
 
-<img src="/images/282/img_2.png" width="500"/>
+<img src="/images/entry/최신-정보-정부-긴급재난지원금-총정리-깔끔-정리/img_2.png" width="500"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -91,7 +91,7 @@ thumbnail: "/images/282/img.png"
 <h3><span style="background-color: #ffc9af;"><b>신용 카드/체크 카드로 받기 (카드사)</b></span></h3>
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/282/img_3.png"/>
+<img src="/images/entry/최신-정보-정부-긴급재난지원금-총정리-깔끔-정리/img_3.png"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -110,7 +110,7 @@ thumbnail: "/images/282/img.png"
 <h3><span style="background-color: #99cefa;"><b><span style="color: #333333;">상품권/선불카드로 받기 (지자체)</span></b></span></h3>
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/282/img_4.png"/>
+<img src="/images/entry/최신-정보-정부-긴급재난지원금-총정리-깔끔-정리/img_4.png"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -203,7 +203,7 @@ thumbnail: "/images/282/img.png"
 <p><!-- 중간광고S--></p>
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/282/img_5.png"/>
+<img src="/images/entry/최신-정보-정부-긴급재난지원금-총정리-깔끔-정리/img_5.png"/>
 
 <figcaption>긴급재난지원금 총 정리</figcaption>
 </figure></p>

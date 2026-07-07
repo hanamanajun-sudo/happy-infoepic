@@ -6,7 +6,7 @@ tags: ["다이어리", "펭수", "펭수다이어리"]
 slug: "펭수-다이어리-살수-있는-4곳-모음"
 numericId: 36
 description: "펭수 인기가 하늘을 찌르고 있는 가운데 다이어리가 나와서 그것이 대박이 났습니다."
-thumbnail: "/images/36/img.png"
+thumbnail: "/images/entry/펭수-다이어리-살수-있는-4곳-모음/img.png"
 ---
 
 <div class="contents_style">
@@ -14,7 +14,7 @@ thumbnail: "/images/36/img.png"
 
 <p><figure class="imageblock alignLeft" width="500">
 
-<img src="/images/36/img.png" width="500"/>
+<img src="/images/entry/펭수-다이어리-살수-있는-4곳-모음/img.png" width="500"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -63,7 +63,7 @@ thumbnail: "/images/36/img.png"
 <p><span style="color: #333333;">12월 19일에서 20일 중에 배송 예정</span></p>
 <p><figure class="imageblock alignLeft" width="400">
 
-<img src="/images/36/img_1.png" width="400"/>
+<img src="/images/entry/펭수-다이어리-살수-있는-4곳-모음/img_1.png" width="400"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -75,14 +75,14 @@ thumbnail: "/images/36/img.png"
 <p>예약 판매 10분 만에 기록 돌파 역 ㅎㄷㄷ</p>
 <p><figure class="imageblock alignLeft" width="400">
 
-<img src="/images/36/img_2.png" width="400"/>
+<img src="/images/entry/펭수-다이어리-살수-있는-4곳-모음/img_2.png" width="400"/>
 
 <figcaption></figcaption>
 </figure></p>
 <p>인기가 무섭다 ㄷㄷㄷㄷㄷㄷㄷㄷㄷㄷㅋㅋㅋㅋ</p>
 <p><figure class="imageblock alignLeft" width="300">
 
-<img src="/images/36/img_3.png" width="300"/>
+<img src="/images/entry/펭수-다이어리-살수-있는-4곳-모음/img_3.png" width="300"/>
 
 <figcaption></figcaption>
 </figure></p>

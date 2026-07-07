@@ -6,7 +6,7 @@ tags: ["침착맨"]
 slug: "삼성-갤럭시-S20-BTS에디션-사진-보기가격판매-정보"
 numericId: 365
 description: "몇일전에 외국 트위터에서도 봤는데 그때도 사람들이 색이 너무 이쁘다고 칭잔했었어요."
-thumbnail: "/images/365/img.png"
+thumbnail: "/images/entry/삼성-갤럭시-S20-BTS에디션-사진-보기가격판매-정보/img.png"
 ---
 
 <div class="contents_style">
@@ -38,7 +38,7 @@ thumbnail: "/images/365/img.png"
 <p>카메라 모여있는데에 깨알 하트가 시선을 잡아끄네요</p>
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/365/img.png"/>
+<img src="/images/entry/삼성-갤럭시-S20-BTS에디션-사진-보기가격판매-정보/img.png"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -47,14 +47,14 @@ thumbnail: "/images/365/img.png"
 <p>색상만으로 이미 역대급</p>
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/365/img_1.png"/>
+<img src="/images/entry/삼성-갤럭시-S20-BTS에디션-사진-보기가격판매-정보/img_1.png"/>
 
 <figcaption></figcaption>
 </figure></p>
 <p>화면도 <b>방탄소년단 에디션에 맞춰 우주의 고래 별자리 처럼 보이쥬?</b></p>
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/365/img_2.png"/>
+<img src="/images/entry/삼성-갤럭시-S20-BTS에디션-사진-보기가격판매-정보/img_2.png"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -63,7 +63,7 @@ thumbnail: "/images/365/img.png"
 <p><b>삼성 갤럭시 s20+ 방탄소년단 버즈 </b></p>
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/365/img_3.png"/>
+<img src="/images/entry/삼성-갤럭시-S20-BTS에디션-사진-보기가격판매-정보/img_3.png"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -73,7 +73,7 @@ thumbnail: "/images/365/img.png"
 <p>이렇게 상자 겉면에는 7개의 하트가 뚫려 있어요. 귀엽네요.</p>
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/365/img_4.png"/>
+<img src="/images/entry/삼성-갤럭시-S20-BTS에디션-사진-보기가격판매-정보/img_4.png"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -82,7 +82,7 @@ thumbnail: "/images/365/img.png"
 <p>가격 - 1,397,000원 <b><a href="https://coupa.ng/bJvt7J" rel="noopener" target="_blank">쿠팡 상품평 확인</a></b></p>
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/365/img_5.png"/>
+<img src="/images/entry/삼성-갤럭시-S20-BTS에디션-사진-보기가격판매-정보/img_5.png"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -93,7 +93,7 @@ thumbnail: "/images/365/img.png"
 <p>이런식으로 스티커를 주고 휴대폰 케이스에 꾸밀수도 있어요.</p>
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/365/img_6.png"/>
+<img src="/images/entry/삼성-갤럭시-S20-BTS에디션-사진-보기가격판매-정보/img_6.png"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -104,14 +104,14 @@ thumbnail: "/images/365/img.png"
 <p>핸드폰을 켜 보면 BTS 테마가 똭</p>
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/365/img_7.png"/>
+<img src="/images/entry/삼성-갤럭시-S20-BTS에디션-사진-보기가격판매-정보/img_7.png"/>
 
 <figcaption></figcaption>
 </figure></p>
 <p>핸드폰 배경화면 부터 아이콘 ,모양, 색까지 </p>
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/365/img_8.png"/>
+<img src="/images/entry/삼성-갤럭시-S20-BTS에디션-사진-보기가격판매-정보/img_8.png"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -126,35 +126,35 @@ thumbnail: "/images/365/img.png"
 
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/365/img_9.png"/>
+<img src="/images/entry/삼성-갤럭시-S20-BTS에디션-사진-보기가격판매-정보/img_9.png"/>
 
 <figcaption></figcaption>
 </figure></p>
 <p>직접 보면 더 이쁘다고 합니다. </p>
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/365/img_10.png"/>
+<img src="/images/entry/삼성-갤럭시-S20-BTS에디션-사진-보기가격판매-정보/img_10.png"/>
 
 <figcaption></figcaption>
 </figure></p>
 
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/365/img_11.png"/>
+<img src="/images/entry/삼성-갤럭시-S20-BTS에디션-사진-보기가격판매-정보/img_11.png"/>
 
 <figcaption></figcaption>
 </figure></p>
 <p>보이지 않는 부분까지 신경쓴 흔적 - 로고와 딸기 프린팅</p>
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/365/img_12.png"/>
+<img src="/images/entry/삼성-갤럭시-S20-BTS에디션-사진-보기가격판매-정보/img_12.png"/>
 
 <figcaption></figcaption>
 </figure></p>
 <p>케이스가 따로 동봉되어있는데 끼우면 이런 모습↓</p>
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/365/img_13.png"/>
+<img src="/images/entry/삼성-갤럭시-S20-BTS에디션-사진-보기가격판매-정보/img_13.png"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -181,7 +181,7 @@ thumbnail: "/images/365/img.png"
 
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/365/img_14.png"/>
+<img src="/images/entry/삼성-갤럭시-S20-BTS에디션-사진-보기가격판매-정보/img_14.png"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -190,7 +190,7 @@ thumbnail: "/images/365/img.png"
 
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/365/img_15.png"/>
+<img src="/images/entry/삼성-갤럭시-S20-BTS에디션-사진-보기가격판매-정보/img_15.png"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -210,22 +210,22 @@ thumbnail: "/images/365/img.png"
 <p>공식 사이트 상품 이미지</p>
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/365/img.webp"/>
+<img src="/images/entry/삼성-갤럭시-S20-BTS에디션-사진-보기가격판매-정보/img.webp"/>
 
 <figcaption></figcaption>
 </figure><figure class="imageblock alignCenter">
 
-<img src="/images/365/img_1.webp"/>
+<img src="/images/entry/삼성-갤럭시-S20-BTS에디션-사진-보기가격판매-정보/img_1.webp"/>
 
 <figcaption></figcaption>
 </figure><figure class="imageblock alignCenter">
 
-<img src="/images/365/img_2.webp"/>
+<img src="/images/entry/삼성-갤럭시-S20-BTS에디션-사진-보기가격판매-정보/img_2.webp"/>
 
 <figcaption></figcaption>
 </figure><figure class="imageblock alignCenter">
 
-<img src="/images/365/img_3.webp"/>
+<img src="/images/entry/삼성-갤럭시-S20-BTS에디션-사진-보기가격판매-정보/img_3.webp"/>
 
 <figcaption></figcaption>
 </figure></p>

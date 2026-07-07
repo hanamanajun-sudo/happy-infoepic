@@ -6,13 +6,13 @@ tags: ["건강정보", "오미자"]
 slug: "오미자-소개-그리고-효능-사람들이-찾는-이유"
 numericId: 1
 description: "오미자는 한국 사람들이 차로 즐겨 마시는 대표 음식 건강 식품이다."
-thumbnail: "/images/1/img.jpg"
+thumbnail: "/images/entry/오미자-소개-그리고-효능-사람들이-찾는-이유/img.jpg"
 ---
 
 <div class="contents_style">
 <p><figure class="imageblock alignCenter" height="344" width="612">
 
-<img height="344" src="/images/1/img.jpg" width="612"/>
+<img height="344" src="/images/entry/오미자-소개-그리고-효능-사람들이-찾는-이유/img.jpg" width="612"/>
 
 <figcaption></figcaption>
 </figure></p>

@@ -6,7 +6,7 @@ tags: []
 slug: "리턴투-서울Return-to-Seoul-정보-배우-감독-어느나라-영화"
 numericId: 451
 description: "리턴투 서울은 칸 영화제에서 주목할 만한 시선에 진출한 작품"
-thumbnail: "/images/451/이미지_061.png"
+thumbnail: "/images/entry/리턴투-서울Return-to-Seoul-정보-배우-감독-어느나라-영화/이미지_061.png"
 ---
 
 <div class="contents_style">
@@ -15,7 +15,7 @@ thumbnail: "/images/451/이미지_061.png"
 
 <p><figure class="imageblock alignCenter" height="674" width="450">
 
-<img height="674" src="/images/451/이미지_061.png" width="450"/>
+<img height="674" src="/images/entry/리턴투-서울Return-to-Seoul-정보-배우-감독-어느나라-영화/이미지_061.png" width="450"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -40,7 +40,7 @@ thumbnail: "/images/451/이미지_061.png"
 
 <p><figure class="imageblock alignCenter" height="290" width="450">
 
-<img height="290" src="/images/451/이미지_062.png" width="450"/>
+<img height="290" src="/images/entry/리턴투-서울Return-to-Seoul-정보-배우-감독-어느나라-영화/이미지_062.png" width="450"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -64,7 +64,7 @@ thumbnail: "/images/451/이미지_061.png"
 <p><span style="background-color: #ffffff; color: #000000;">그녀는 프랑스 이민자이며  예술가로 활동중이라고 한다.</span></p>
 <p><figure class="imageblock alignCenter" height="258" width="450">
 
-<img height="258" src="/images/451/이미지_063.png" width="450"/>
+<img height="258" src="/images/entry/리턴투-서울Return-to-Seoul-정보-배우-감독-어느나라-영화/이미지_063.png" width="450"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -79,7 +79,7 @@ thumbnail: "/images/451/이미지_061.png"
 <p>오광록, 김선영</p>
 <p><figure class="imageblock alignCenter" height="298" width="450">
 
-<img height="298" src="/images/451/이미지_064.png" width="450"/>
+<img height="298" src="/images/entry/리턴투-서울Return-to-Seoul-정보-배우-감독-어느나라-영화/이미지_064.png" width="450"/>
 
 <figcaption></figcaption>
 </figure></p>

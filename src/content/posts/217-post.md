@@ -6,7 +6,7 @@ tags: []
 slug: "공공-마스크-재고-조회-사이트-공0공0-마스크-사용방법"
 numericId: 217
 description: "약국에서 배포를 시작하며 요일제를 시행하였지만 여전히 수량은 부족하고"
-thumbnail: "/images/217/img.png"
+thumbnail: "/images/entry/공공-마스크-재고-조회-사이트-공0공0-마스크-사용방법/img.png"
 ---
 
 <div class="contents_style">
@@ -31,7 +31,7 @@ thumbnail: "/images/217/img.png"
 
 <p><figure class="imageblock alignCenter" width="500">
 
-<img src="/images/217/img.png" width="500"/>
+<img src="/images/entry/공공-마스크-재고-조회-사이트-공0공0-마스크-사용방법/img.png" width="500"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -45,7 +45,7 @@ thumbnail: "/images/217/img.png"
 <blockquote>접속양이 폭주하여 데이터 변경이 원활하지 않습니다. 양해 부탁드립니다.<br/><br/>3월 15일(일)까지는 안정적 운영을 위해 베타서비스로 제공됩니다.<br/><br/>마스크 정보는 5분(최대 10분) 단위로 갱신됩니다.<br/><br/>수량은 정확한 개수 대신 색깔로 표시됩니다.<br/><br/>마스크 제공을 위해 어려운 환경에서도 일선에서 공헌해 주시는 약사님, <br/>우체국 종사자분, 하나로 마트(예정)분들께도 감사와 응원의 말씀을 전해주시기 바랍니다.<br/><br/><br/>공공마스크 공지 발췌<br/><br/></blockquote>
 <p><figure class="imageblock alignCenter" width="600">
 
-<img src="/images/217/img_1.png" width="600"/>
+<img src="/images/entry/공공-마스크-재고-조회-사이트-공0공0-마스크-사용방법/img_1.png" width="600"/>
 
 <figcaption>공공 마스크 개발됨 </figcaption>
 </figure></p>

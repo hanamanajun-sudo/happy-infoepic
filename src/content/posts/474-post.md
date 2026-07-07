@@ -6,7 +6,7 @@ tags: []
 slug: "담-걸렸을-때-담푸는-운동-3가지-내가-보려는-용도-만화"
 numericId: 474
 description: "많은 간증이 수없이 올라오는 효과 즉빵 방법입니다."
-thumbnail: "/images/474/NRVWMO.jpg"
+thumbnail: "/images/entry/담-걸렸을-때-담푸는-운동-3가지-내가-보려는-용도-만화/NRVWMO.jpg"
 ---
 
 <div class="contents_style">
@@ -17,7 +17,7 @@ thumbnail: "/images/474/NRVWMO.jpg"
 <h3><b>담 걸렸을 때 푸는 방법</b></h3>
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/474/NRVWMO.jpg"/>
+<img src="/images/entry/담-걸렸을-때-담푸는-운동-3가지-내가-보려는-용도-만화/NRVWMO.jpg"/>
 
 <figcaption>담 걸렸을 때 푸는 방법</figcaption>
 </figure></p>
@@ -25,7 +25,7 @@ thumbnail: "/images/474/NRVWMO.jpg"
 
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/474/BVKTxy.jpg"/>
+<img src="/images/entry/담-걸렸을-때-담푸는-운동-3가지-내가-보려는-용도-만화/BVKTxy.jpg"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -35,7 +35,7 @@ thumbnail: "/images/474/NRVWMO.jpg"
 
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/474/WyknIj.jpg"/>
+<img src="/images/entry/담-걸렸을-때-담푸는-운동-3가지-내가-보려는-용도-만화/WyknIj.jpg"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -46,7 +46,7 @@ thumbnail: "/images/474/NRVWMO.jpg"
 <p>근데 이 의사양반 수시로 윙크하네</p>
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/474/tBhaDr.jpg"/>
+<img src="/images/entry/담-걸렸을-때-담푸는-운동-3가지-내가-보려는-용도-만화/tBhaDr.jpg"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -54,7 +54,7 @@ thumbnail: "/images/474/NRVWMO.jpg"
 
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/474/gCnXxD.jpg"/>
+<img src="/images/entry/담-걸렸을-때-담푸는-운동-3가지-내가-보려는-용도-만화/gCnXxD.jpg"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -73,14 +73,14 @@ thumbnail: "/images/474/NRVWMO.jpg"
 <p>그리고 기적처럼 담은 푸러지고</p>
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/474/NxMiRp.jpg"/>
+<img src="/images/entry/담-걸렸을-때-담푸는-운동-3가지-내가-보려는-용도-만화/NxMiRp.jpg"/>
 
 <figcaption></figcaption>
 </figure></p>
 <p>만화 제목은  갓핸드 테루</p>
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/474/zVljmS.jpg"/>
+<img src="/images/entry/담-걸렸을-때-담푸는-운동-3가지-내가-보려는-용도-만화/zVljmS.jpg"/>
 
 <figcaption></figcaption>
 </figure></p>

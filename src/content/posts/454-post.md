@@ -6,7 +6,7 @@ tags: []
 slug: "강아지와-사람-나이-계산-쉽고-간단한-비교표"
 numericId: 454
 description: "개를 키우고 있다면 지금 우리 개가 사람과 비교하여 몇살인지 궁금하실 거에요."
-thumbnail: "/images/454/003.png"
+thumbnail: "/images/entry/강아지와-사람-나이-계산-쉽고-간단한-비교표/003.png"
 ---
 
 <div class="contents_style">
@@ -19,7 +19,7 @@ thumbnail: "/images/454/003.png"
 <p style="text-align: left;"> </p>
 <p><figure class="imageblock alignCenter" height="450" width="450">
 
-<img height="450" src="/images/454/003.png" width="450"/>
+<img height="450" src="/images/entry/강아지와-사람-나이-계산-쉽고-간단한-비교표/003.png" width="450"/>
 
 <figcaption></figcaption>
 </figure></p>

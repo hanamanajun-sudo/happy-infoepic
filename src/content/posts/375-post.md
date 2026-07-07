@@ -6,7 +6,7 @@ tags: ["드라마", "윤은혜", "주지훈", "키스신", "명동"]
 slug: "주지훈-윤은혜-명동-키스신-영상-궁-촬영인지-몰랐던-시민들촬영-이후"
 numericId: 375
 description: "《궁》은 2006년 1월 11일부터 2006년 3월 30일까지 방영된"
-thumbnail: "/images/375/img.gif"
+thumbnail: "/images/entry/주지훈-윤은혜-명동-키스신-영상-궁-촬영인지-몰랐던-시민들촬영-이후/img.gif"
 ---
 
 <div class="contents_style">
@@ -21,7 +21,7 @@ thumbnail: "/images/375/img.gif"
 
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/375/img.gif"/>
+<img src="/images/entry/주지훈-윤은혜-명동-키스신-영상-궁-촬영인지-몰랐던-시민들촬영-이후/img.gif"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -29,7 +29,7 @@ thumbnail: "/images/375/img.gif"
 <p><span style="color: #000000;">그래서인지 </span><span style="color: #000000;">설정하구 찍는 드라마보다 더 드라마틱</span></p>
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/375/img_1.gif"/>
+<img src="/images/entry/주지훈-윤은혜-명동-키스신-영상-궁-촬영인지-몰랐던-시민들촬영-이후/img_1.gif"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -38,7 +38,7 @@ thumbnail: "/images/375/img.gif"
 
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/375/img_2.gif"/>
+<img src="/images/entry/주지훈-윤은혜-명동-키스신-영상-궁-촬영인지-몰랐던-시민들촬영-이후/img_2.gif"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -49,14 +49,14 @@ thumbnail: "/images/375/img.gif"
 <p>둘만 칼라인 상태에서 키스 시~작</p>
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/375/img_3.gif"/>
+<img src="/images/entry/주지훈-윤은혜-명동-키스신-영상-궁-촬영인지-몰랐던-시민들촬영-이후/img_3.gif"/>
 
 <figcaption></figcaption>
 </figure></p>
 <p>그리고 탄생한 드라마 인파속 레전드 키스신</p>
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/375/img.jpg"/>
+<img src="/images/entry/주지훈-윤은혜-명동-키스신-영상-궁-촬영인지-몰랐던-시민들촬영-이후/img.jpg"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -64,7 +64,7 @@ thumbnail: "/images/375/img.gif"
 <p>당시 시민들이 촬영한 사진</p>
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/375/img_1.jpg"/>
+<img src="/images/entry/주지훈-윤은혜-명동-키스신-영상-궁-촬영인지-몰랐던-시민들촬영-이후/img_1.jpg"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -72,21 +72,21 @@ thumbnail: "/images/375/img.gif"
 <p><span style="color: #333333;">둘 다 유명인이라는 설정이라 가능했던 키스씬</span></p>
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/375/img_2.jpg"/>
+<img src="/images/entry/주지훈-윤은혜-명동-키스신-영상-궁-촬영인지-몰랐던-시민들촬영-이후/img_2.jpg"/>
 
 <figcaption></figcaption>
 </figure></p>
 <p><span style="color: #333333;">촬영 이후 수줍게 빠져나가는 주지훈 윤은혜</span></p>
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/375/img.png"/>
+<img src="/images/entry/주지훈-윤은혜-명동-키스신-영상-궁-촬영인지-몰랐던-시민들촬영-이후/img.png"/>
 
 <figcaption></figcaption>
 </figure></p>
 
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/375/img_3.jpg"/>
+<img src="/images/entry/주지훈-윤은혜-명동-키스신-영상-궁-촬영인지-몰랐던-시민들촬영-이후/img_3.jpg"/>
 
 <figcaption></figcaption>
 </figure></p>

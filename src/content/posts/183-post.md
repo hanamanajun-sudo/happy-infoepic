@@ -6,7 +6,7 @@ tags: ["무궁화", "스타벅스", "마케팅", "삼일절", "상품디자인",
 slug: "스타벅스-2020-삼일절-기념-MD2013-2020년-삼일절-디자인-모아보기"
 numericId: 183
 description: "2020년 3월에 삼일절을 기념하는 의미있는 스타벅스 MD 상품이 출시 됩니다."
-thumbnail: "/images/183/img.jpg"
+thumbnail: "/images/entry/스타벅스-2020-삼일절-기념-MD2013-2020년-삼일절-디자인-모아보기/img.jpg"
 ---
 
 <div class="contents_style">
@@ -20,7 +20,7 @@ thumbnail: "/images/183/img.jpg"
 
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/183/img.jpg"/>
+<img src="/images/entry/스타벅스-2020-삼일절-기념-MD2013-2020년-삼일절-디자인-모아보기/img.jpg"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -37,7 +37,7 @@ thumbnail: "/images/183/img.jpg"
 <p><b><b><b>2013년 스타벅스 삼일절 에디션 디자인 (텀블러, 카드)</b></b></b></p>
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/183/img.png"/>
+<img src="/images/entry/스타벅스-2020-삼일절-기념-MD2013-2020년-삼일절-디자인-모아보기/img.png"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -45,7 +45,7 @@ thumbnail: "/images/183/img.jpg"
 <p><b><b>2014년 스타벅스 삼일절 에디션 디자인 (텀블러, 카드)</b></b></p>
 <p><figure class="imageblock alignCenter" width="600">
 
-<img src="/images/183/img_1.png" width="600"/>
+<img src="/images/entry/스타벅스-2020-삼일절-기념-MD2013-2020년-삼일절-디자인-모아보기/img_1.png" width="600"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -53,28 +53,28 @@ thumbnail: "/images/183/img.jpg"
 <p><b>2015년 스타벅스 삼일절 에디션 디자인 (텀블러, 카드)</b></p>
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/183/img_1.jpg"/>
+<img src="/images/entry/스타벅스-2020-삼일절-기념-MD2013-2020년-삼일절-디자인-모아보기/img_1.jpg"/>
 
 <figcaption></figcaption>
 </figure></p>
 <p><b>2016년 스타벅스 삼일절 에디션 디자인 (텀블러, 카드)</b></p>
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/183/img_2.png"/>
+<img src="/images/entry/스타벅스-2020-삼일절-기념-MD2013-2020년-삼일절-디자인-모아보기/img_2.png"/>
 
 <figcaption></figcaption>
 </figure></p>
 <p><b><b>2017년 스타벅스 삼일절 에디션 디자인 (텀블러, 카드)</b></b></p>
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/183/img_3.png"/>
+<img src="/images/entry/스타벅스-2020-삼일절-기념-MD2013-2020년-삼일절-디자인-모아보기/img_3.png"/>
 
 <figcaption></figcaption>
 </figure></p>
 <p><b><b><b>2018년 스타벅스 삼일절 에디션 디자인 (텀블러, 카드)</b></b></b></p>
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/183/img_4.png"/>
+<img src="/images/entry/스타벅스-2020-삼일절-기념-MD2013-2020년-삼일절-디자인-모아보기/img_4.png"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -82,19 +82,19 @@ thumbnail: "/images/183/img.jpg"
 <p><b><b><b><b>2019년 스타벅스 삼일절 에디션 디자인 (텀블러, 머그, 카드)</b></b></b></b></p>
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/183/img_5.png"/>
+<img src="/images/entry/스타벅스-2020-삼일절-기념-MD2013-2020년-삼일절-디자인-모아보기/img_5.png"/>
 
 <figcaption></figcaption>
 </figure><figure class="imageblock alignCenter" width="400">
 
-<img src="/images/183/img_2.jpg" width="400"/>
+<img src="/images/entry/스타벅스-2020-삼일절-기념-MD2013-2020년-삼일절-디자인-모아보기/img_2.jpg" width="400"/>
 
 <figcaption></figcaption>
 </figure></p>
 <p><b><b><b><b><b>2020년 스타벅스 삼일절 에디션 디자인 (텀블러, 카드)</b></b></b></b></b></p>
 <p><figure class="imageblock alignCenter" width="600">
 
-<img src="/images/183/img_3.jpg" width="600"/>
+<img src="/images/entry/스타벅스-2020-삼일절-기념-MD2013-2020년-삼일절-디자인-모아보기/img_3.jpg" width="600"/>
 
 <figcaption></figcaption>
 </figure></p>

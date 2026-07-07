@@ -6,7 +6,7 @@ tags: ["이효리", "놀면뭐하니"]
 slug: "이효리-마오-논란-정리-한국-네티즌-타격감0"
 numericId: 399
 description: "결론 부터 말하자면 조금 황당한 논란이다."
-thumbnail: "/images/399/img.jpg"
+thumbnail: "/images/entry/이효리-마오-논란-정리-한국-네티즌-타격감0/img.jpg"
 ---
 
 <div class="contents_style">
@@ -24,7 +24,7 @@ thumbnail: "/images/399/img.jpg"
 <p>말을 한것이다.</p>
 <p><figure class="imageblock alignCenter" width="400">
 
-<img src="/images/399/img.jpg" width="400"/>
+<img src="/images/entry/이효리-마오-논란-정리-한국-네티즌-타격감0/img.jpg" width="400"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -42,7 +42,7 @@ thumbnail: "/images/399/img.jpg"
 <p>제대로 불만을 표시하는 댓글을 달기 시작했다. </p>
 <p><figure class="imageblock alignCenter" width="400">
 
-<img src="/images/399/img_1.jpg" width="400"/>
+<img src="/images/entry/이효리-마오-논란-정리-한국-네티즌-타격감0/img_1.jpg" width="400"/>
 
 <figcaption>마오 드립으로 달린 이효리 인스타 댓글들</figcaption>
 </figure></p>
@@ -78,7 +78,7 @@ thumbnail: "/images/399/img.jpg"
 <p>놀면뭐하니 측 입장문 (출처 - 놀면뭐하니 인스타그램)</p>
 <p><figure class="imageblock alignCenter" width="400">
 
-<img src="/images/399/img_2.jpg" width="400"/>
+<img src="/images/entry/이효리-마오-논란-정리-한국-네티즌-타격감0/img_2.jpg" width="400"/>
 
 <figcaption>출처 놀면뭐하니 인스타그램</figcaption>
 </figure></p>
@@ -95,7 +95,7 @@ thumbnail: "/images/399/img.jpg"
 <p>예전 케이팝 아이돌 중 한명의 닉네임도 중국팬들이 직접 마오라고 지어준 사례도 있기에 그러하다.</p>
 <p><figure class="imageblock alignCenter" width="400">
 
-<img src="/images/399/img.png" width="400"/>
+<img src="/images/entry/이효리-마오-논란-정리-한국-네티즌-타격감0/img.png" width="400"/>
 
 <figcaption></figcaption>
 </figure></p>

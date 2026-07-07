@@ -6,7 +6,7 @@ tags: ["우한"]
 slug: "우한-폐렴-확진자-현실-중국-실제-상황-사진-모음"
 numericId: 95
 description: "현제 중국에서 시작된 우한 폐렴의 전 세계 확진자가 2744명 사망자도 갑자기 증가된 80명 정도나 된다고 합니다."
-thumbnail: "/images/95/img.png"
+thumbnail: "/images/entry/우한-폐렴-확진자-현실-중국-실제-상황-사진-모음/img.png"
 ---
 
 <div class="contents_style">
@@ -16,7 +16,7 @@ thumbnail: "/images/95/img.png"
 
 <p><figure class="imageblock alignCenter" width="700">
 
-<img src="/images/95/img.png" width="700"/>
+<img src="/images/entry/우한-폐렴-확진자-현실-중국-실제-상황-사진-모음/img.png" width="700"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -41,7 +41,7 @@ thumbnail: "/images/95/img.png"
 <h2><span style="background-color: #ffc1c8;"><b>우한 사태 관련 현재 상황 사진 모음</b></span></h2>
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/95/img.jpg"/>
+<img src="/images/entry/우한-폐렴-확진자-현실-중국-실제-상황-사진-모음/img.jpg"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -52,7 +52,7 @@ thumbnail: "/images/95/img.png"
 
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/95/img_1.jpg"/>
+<img src="/images/entry/우한-폐렴-확진자-현실-중국-실제-상황-사진-모음/img_1.jpg"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -63,7 +63,7 @@ thumbnail: "/images/95/img.png"
 <p>결론으로 바로 말하면 아주 치명적이라고 합니다.</p>
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/95/img_2.jpg"/>
+<img src="/images/entry/우한-폐렴-확진자-현실-중국-실제-상황-사진-모음/img_2.jpg"/>
 
 <figcaption></figcaption>
 </figure></p>

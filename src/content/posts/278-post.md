@@ -6,7 +6,7 @@ tags: []
 slug: "서울과학기술대학교에-대해-알아보자위치대학-순위"
 numericId: 278
 description: "서울 과학 기술대학교는 어디 있는 학교일까 알아보자"
-thumbnail: "/images/278/img.jpg"
+thumbnail: "/images/entry/서울과학기술대학교에-대해-알아보자위치대학-순위/img.jpg"
 ---
 
 <div class="contents_style">
@@ -16,7 +16,7 @@ thumbnail: "/images/278/img.jpg"
 <p><b>서울 노원고 공릉동에 위치한 국립대학이다. </b></p>
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/278/img.jpg"/>
+<img src="/images/entry/서울과학기술대학교에-대해-알아보자위치대학-순위/img.jpg"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -40,7 +40,7 @@ thumbnail: "/images/278/img.jpg"
 <p style="text-align: center;"><b>[대학민국 대학 종합 평가 순위 1~30위]</b></p>
 <p><figure class="imageblock alignCenter" width="300">
 
-<img src="/images/278/img.png" width="300"/>
+<img src="/images/entry/서울과학기술대학교에-대해-알아보자위치대학-순위/img.png" width="300"/>
 
 <figcaption></figcaption>
 </figure></p>

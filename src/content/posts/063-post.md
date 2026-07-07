@@ -6,7 +6,7 @@ tags: ["넷플릭스", "미드추천", "너의모든것"]
 slug: "너의-모든-것-1시즌-줄거리-간단-정리-개인적-후기"
 numericId: 63
 description: "넷플릭스 오리지널 시리즈미드 너의 모든 것, 원제는 YOU"
-thumbnail: "/images/63/img.png"
+thumbnail: "/images/entry/너의-모든-것-1시즌-줄거리-간단-정리-개인적-후기/img.png"
 ---
 
 <div class="contents_style">
@@ -32,7 +32,7 @@ thumbnail: "/images/63/img.png"
 <blockquote><span style="color: #333333;">자기애적 인격장애, 연극성 인격장애, 반사회성 인격장애가 잔뜩 나오는 <br/></span><span style="color: #333333;">정신의학을 공부하는 사람을 위한 교육용 드라마</span></blockquote>
 <p><figure class="imageblock alignCenter" width="400">
 
-<img src="/images/63/img.png" width="400"/>
+<img src="/images/entry/너의-모든-것-1시즌-줄거리-간단-정리-개인적-후기/img.png" width="400"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -43,7 +43,7 @@ thumbnail: "/images/63/img.png"
 <p>한마디로 표현하면</p>
 <p><figure class="imageblock floatRight" width="400">
 
-<img src="/images/63/img_1.png" width="400"/>
+<img src="/images/entry/너의-모든-것-1시즌-줄거리-간단-정리-개인적-후기/img_1.png" width="400"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -56,7 +56,7 @@ thumbnail: "/images/63/img.png"
 
 <p><figure class="imageblock floatLeft" width="400">
 
-<img src="/images/63/img_2.png" width="400"/>
+<img src="/images/entry/너의-모든-것-1시즌-줄거리-간단-정리-개인적-후기/img_2.png" width="400"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -69,7 +69,7 @@ thumbnail: "/images/63/img.png"
 
 <p><figure class="imageblock floatLeft" width="400">
 
-<img src="/images/63/img_3.png" width="400"/>
+<img src="/images/entry/너의-모든-것-1시즌-줄거리-간단-정리-개인적-후기/img_3.png" width="400"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -83,7 +83,7 @@ thumbnail: "/images/63/img.png"
 <p><span style="color: #333333;">주변에 방해하는 사람을 죽이며 </span><u><b>그녀를 소유하려 한다.</b></u></p>
 <p><figure class="imageblock floatRight" width="400">
 
-<img src="/images/63/img_4.png" width="400"/>
+<img src="/images/entry/너의-모든-것-1시즌-줄거리-간단-정리-개인적-후기/img_4.png" width="400"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -96,7 +96,7 @@ thumbnail: "/images/63/img.png"
 
 <p><figure class="imageblock floatLeft" width="400">
 
-<img src="/images/63/img_5.png" width="400"/>
+<img src="/images/entry/너의-모든-것-1시즌-줄거리-간단-정리-개인적-후기/img_5.png" width="400"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -109,7 +109,7 @@ thumbnail: "/images/63/img.png"
 
 <p><figure class="imageblock floatRight" width="400">
 
-<img src="/images/63/img_6.png" width="400"/>
+<img src="/images/entry/너의-모든-것-1시즌-줄거리-간단-정리-개인적-후기/img_6.png" width="400"/>
 
 <figcaption></figcaption>
 </figure></p>

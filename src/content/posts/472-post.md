@@ -6,7 +6,7 @@ tags: ["사워크림", "차지키소스"]
 slug: "차지키-소스-사워-크림-차이점-간략-설명"
 numericId: 472
 description: "차지키 소스, 사워크림 차이점을 몰라서 정보를 찾아보고 정리합니다."
-thumbnail: "/images/472/photo-1662102778444-d8328c8170f2.png"
+thumbnail: "/images/entry/차지키-소스-사워-크림-차이점-간략-설명/photo-1662102778444-d8328c8170f2.png"
 ---
 
 <div class="contents_style">
@@ -20,7 +20,7 @@ thumbnail: "/images/472/photo-1662102778444-d8328c8170f2.png"
 
 <p><figure class="imageblock alignCenter" height="312" width="400">
 
-<img height="312" src="/images/472/photo-1662102778444-d8328c8170f2.png" width="400"/>
+<img height="312" src="/images/entry/차지키-소스-사워-크림-차이점-간략-설명/photo-1662102778444-d8328c8170f2.png" width="400"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -32,7 +32,7 @@ thumbnail: "/images/472/photo-1662102778444-d8328c8170f2.png"
 <p>생크림으로 만들어진 만큼 깊고 부드러운 맛이지만 지방과 칼로니가 더 높다고 합니다.</p>
 <p><figure class="imageblock alignCenter" height="267" width="400">
 
-<img height="267" src="/images/472/photo-1613514967307-d5b3471b2453.png" width="400"/>
+<img height="267" src="/images/entry/차지키-소스-사워-크림-차이점-간략-설명/photo-1613514967307-d5b3471b2453.png" width="400"/>
 
 <figcaption></figcaption>
 </figure></p>

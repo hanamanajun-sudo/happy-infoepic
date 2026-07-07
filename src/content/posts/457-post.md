@@ -6,7 +6,7 @@ tags: ["레고"]
 slug: "레고-BTS-콜라보-사진-출시일-파는곳-페이지"
 numericId: 457
 description: "레고 BTS와 콜라보 소식이 있어서 가져왔어요."
-thumbnail: "/images/457/edb178ef73958860e2630462dbdd15d3.png"
+thumbnail: "/images/entry/레고-BTS-콜라보-사진-출시일-파는곳-페이지/edb178ef73958860e2630462dbdd15d3.png"
 ---
 
 <div class="contents_style">
@@ -16,7 +16,7 @@ thumbnail: "/images/457/edb178ef73958860e2630462dbdd15d3.png"
 
 <p><figure class="imageblock alignCenter" height="489" width="400">
 
-<img height="489" src="/images/457/edb178ef73958860e2630462dbdd15d3.png" width="400"/>
+<img height="489" src="/images/entry/레고-BTS-콜라보-사진-출시일-파는곳-페이지/edb178ef73958860e2630462dbdd15d3.png" width="400"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -30,7 +30,7 @@ thumbnail: "/images/457/edb178ef73958860e2630462dbdd15d3.png"
 <p>관련 글: <a href="https://www.lego.com/ko-kr/themes/ideas/about/bts-dynamite?cmp=OBS-A4CWJVX95Y" rel="noopener" target="_blank">레고® 아이디어 BTS Dynamite와 함께 창의력을 발휘해봐요</a></p>
 <p><figure class="imageblock alignCenter" height="373" width="400">
 
-<img height="373" src="/images/457/edited_이미지_7_1.png" width="400"/>
+<img height="373" src="/images/entry/레고-BTS-콜라보-사진-출시일-파는곳-페이지/edited_이미지_7_1.png" width="400"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -45,7 +45,7 @@ thumbnail: "/images/457/edb178ef73958860e2630462dbdd15d3.png"
 <p>관련 글: <a href="https://ideas.lego.com/projects/45b39351-4bae-4245-8d5c-0b0423e07624" rel="noopener" target="_blank">BTS "Dynamite"</a></p>
 <p><figure class="imageblock alignCenter" height="267" width="400">
 
-<img height="267" src="/images/457/0e9d6bca-2432-407b-8512-dd414342a72a-resize-950x633.webp" width="400"/>
+<img height="267" src="/images/entry/레고-BTS-콜라보-사진-출시일-파는곳-페이지/0e9d6bca-2432-407b-8512-dd414342a72a-resize-950x633.webp" width="400"/>
 
 <figcaption></figcaption>
 </figure></p>

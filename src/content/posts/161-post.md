@@ -6,13 +6,13 @@ tags: ["대구", "신천지", "코로나19"]
 slug: "대구-코로나19-확진자-정보-리스트-현-대구-상황-정리"
 numericId: 161
 description: "갑작스럽게 신형 코로나 바이러스 확진자가 급증 했는데"
-thumbnail: "/images/161/img.png"
+thumbnail: "/images/entry/대구-코로나19-확진자-정보-리스트-현-대구-상황-정리/img.png"
 ---
 
 <div class="contents_style">
 <p><figure class="imageblock alignCenter" width="500">
 
-<img src="/images/161/img.png" width="500"/>
+<img src="/images/entry/대구-코로나19-확진자-정보-리스트-현-대구-상황-정리/img.png" width="500"/>
 
 <figcaption></figcaption>
 </figure></p>

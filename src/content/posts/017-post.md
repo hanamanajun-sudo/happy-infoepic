@@ -6,13 +6,13 @@ tags: ["김밥", "김밥의기원"]
 slug: "외국인들에게-알려주는-김밥-2탄-김밥의-기원-김밥의-종류"
 numericId: 17
 description: "김에 밥을 싸 먹는 음식은 과거부터 있어왔지만 현재의 김밥과 같은 형태와는 거리가 있다."
-thumbnail: "/images/17/img.jpg"
+thumbnail: "/images/entry/외국인들에게-알려주는-김밥-2탄-김밥의-기원-김밥의-종류/img.jpg"
 ---
 
 <div class="contents_style">
 <p><figure class="imageblock alignCenter" height="249" width="479">
 
-<img height="249" src="/images/17/img.jpg" width="479"/>
+<img height="249" src="/images/entry/외국인들에게-알려주는-김밥-2탄-김밥의-기원-김밥의-종류/img.jpg" width="479"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -78,6 +78,6 @@ thumbnail: "/images/17/img.jpg"
 <p>엉뚱한 소리, 말이 안되는 소리를 말할 때 사용한다. </p>
 <p>받아 들일 수 없는 말을 하는 사람에게 사용해 보자 “김밥 옆구리 터지는 소리 하고 있네”</p>
 
-<blockquote><span style="color: #333333;">[함께 보면 좋은 관련 글]<br/><br/><a href="https://happy.infoepic.com/16">외국인들에게 알려주는 김밥 이야기 1탄</a><br/></span></blockquote>
+<blockquote><span style="color: #333333;">[함께 보면 좋은 관련 글]<br/><br/><a href="https://happy.infoepic.com/entry/오미자-소개-그리고-효능-사람들이-찾는-이유6">외국인들에게 알려주는 김밥 이야기 1탄</a><br/></span></blockquote>
 
 </div>

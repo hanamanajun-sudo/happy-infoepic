@@ -6,7 +6,7 @@ tags: ["김상만"]
 slug: "김상만-감독-프로필필모그래피"
 numericId: 479
 description: "이번에 넷플릭스에 박찬욱 감독의 제작, 각본을 한 영화가 나온다고 하여 급하게 찾아보았다.제목은 전란"
-thumbnail: "/images/479/7457729297_4330174_bd05e2ef00432b62f8b50a1d863357e7.jpg"
+thumbnail: "/images/entry/김상만-감독-프로필필모그래피/7457729297_4330174_bd05e2ef00432b62f8b50a1d863357e7.jpg"
 ---
 
 <div class="contents_style">
@@ -14,7 +14,7 @@ thumbnail: "/images/479/7457729297_4330174_bd05e2ef00432b62f8b50a1d863357e7.jpg"
 
 <p><figure class="imageblock alignCenter" height="350" width="350">
 
-<img height="350" src="/images/479/7457729297_4330174_bd05e2ef00432b62f8b50a1d863357e7.jpg" width="350"/>
+<img height="350" src="/images/entry/김상만-감독-프로필필모그래피/7457729297_4330174_bd05e2ef00432b62f8b50a1d863357e7.jpg" width="350"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -27,7 +27,7 @@ thumbnail: "/images/479/7457729297_4330174_bd05e2ef00432b62f8b50a1d863357e7.jpg"
 <p><br/>감독 데뷔 이전 이력<br/>접속의 포스터를 디자인 했다고 합니다. </p>
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/479/접속_포스터.jpg"/>
+<img src="/images/entry/김상만-감독-프로필필모그래피/접속_포스터.jpg"/>
 
 <figcaption></figcaption>
 </figure></p>

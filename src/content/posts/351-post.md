@@ -6,7 +6,7 @@ tags: []
 slug: "이민정-골프-치는데-이병헌-한숨ㅋ한번다녀왔습니다-인물관계도"
 numericId: 351
 description: "이민정 배우가 작년에 하와이에서 골프쳤던 영상을 올렸는데"
-thumbnail: "/images/351/img.jpg"
+thumbnail: "/images/entry/이민정-골프-치는데-이병헌-한숨ㅋ한번다녀왔습니다-인물관계도/img.jpg"
 ---
 
 <div class="contents_style">
@@ -34,7 +34,7 @@ thumbnail: "/images/351/img.jpg"
 <h3><b>KBS드라마 '한번다녀왔습니다.'</b> </h3>
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/351/img.jpg"/>
+<img src="/images/entry/이민정-골프-치는데-이병헌-한숨ㅋ한번다녀왔습니다-인물관계도/img.jpg"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -52,7 +52,7 @@ thumbnail: "/images/351/img.jpg"
 <h3><b>한번다녀왔습니다 인물관계도</b></h3>
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/351/img_1.jpg"/>
+<img src="/images/entry/이민정-골프-치는데-이병헌-한숨ㅋ한번다녀왔습니다-인물관계도/img_1.jpg"/>
 
 <figcaption>한번다녀왔습니다 유니버스</figcaption>
 </figure></p>
@@ -60,7 +60,7 @@ thumbnail: "/images/351/img.jpg"
 <blockquote><b>소아전문 병원 내과의</b>로 나이는 1987년생, 34살.<br/><br/>본작의 여주인공, 동기가 환아의 부모의 상황을 고려하여 내린 처방전을 임의로 바꾸고, <br/>시어머니가 며느리를 위해 산 옷을 보고 자신도 똑같은 옷이 있어서 어머니의 선물을 거절하겠다고 대놓고 얘기하는 등 독선적인(?) 면모를 보이고 있다. <br/>약간 눈새+노빡구 속성을 보유한 듯. <br/>그래서도 공식 페이지에서 언급한 바와 같이 이러한 면모로 인해 후배들과 같이 구내식당에서 <br/>점심을 먹으면 후배들이 줄줄이 도망가는(…) 상황 등을 낳고 자연스럽게 직장 내 은따가 되었다.<br/>그렇지만 본인은 이 사실을 모른다<br/><br/>언니랑 오빠가 연타로 이혼하는 바람에 졸지에 장여사의 "유일한 희망"이 되었다. 아이를 유산하고 시어머니의 갈굼과 취기 남편 규진의 무관심까지 지칠대로 지친 나희는 이혼을 준비하려고 하지만 ..<br/><br/>출처 나무위키 <br/><br/></blockquote>
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/351/img_2.jpg"/>
+<img src="/images/entry/이민정-골프-치는데-이병헌-한숨ㅋ한번다녀왔습니다-인물관계도/img_2.jpg"/>
 
 <figcaption></figcaption>
 </figure></p>

@@ -6,7 +6,7 @@ tags: ["고기"]
 slug: "고기-레어-미디움-웰던-익힘-정도-알아보자고기-중안-부분-온도"
 numericId: 452
 description: "고기 굽기 할 때 혹은 레스토랑에서 주문 할 때 고기를 어느정도 익힐지 물어보는 경우가 있습니다."
-thumbnail: "/images/452/다운로드_7.jfif"
+thumbnail: "/images/entry/고기-레어-미디움-웰던-익힘-정도-알아보자고기-중안-부분-온도/다운로드_7.jfif"
 ---
 
 <div class="contents_style">
@@ -19,7 +19,7 @@ thumbnail: "/images/452/다운로드_7.jfif"
 
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/452/다운로드_7.jfif"/>
+<img src="/images/entry/고기-레어-미디움-웰던-익힘-정도-알아보자고기-중안-부분-온도/다운로드_7.jfif"/>
 
 <figcaption></figcaption>
 </figure></p>

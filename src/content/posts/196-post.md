@@ -6,7 +6,7 @@ tags: ["코로나", "신종코로나", "코로나19"]
 slug: "코로나19-일별-확진자수-국내해외-그래프-3월4일"
 numericId: 196
 description: "신종 코로나19에 대한 일별 확진자 변화에 대해서 국내 해외 상황을"
-thumbnail: "/images/196/img.jpg"
+thumbnail: "/images/entry/코로나19-일별-확진자수-국내해외-그래프-3월4일/img.jpg"
 ---
 
 <div class="contents_style">
@@ -27,7 +27,7 @@ thumbnail: "/images/196/img.jpg"
 <p><span style="color: #333333;">신종 코로나19 바이러스 감염증 전세계 발생현황 현황 지도</span></p>
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/196/img.jpg"/>
+<img src="/images/entry/코로나19-일별-확진자수-국내해외-그래프-3월4일/img.jpg"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -181,21 +181,21 @@ thumbnail: "/images/196/img.jpg"
 <h2><span style="color: #000000;"><b>3월 4일 코로나19 <span style="color: #ee2323;">전세계</span> 일별 확진자 수 그래프<br/></b></span></h2>
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/196/img.png"/>
+<img src="/images/entry/코로나19-일별-확진자수-국내해외-그래프-3월4일/img.png"/>
 
 <figcaption></figcaption>
 </figure></p>
 <h2><span style="color: #000000;"><b><span style="color: #000000;"><b>3월 4일 코로나19 <span style="color: #ee2323;">한국 확진자</span> 일별 그래프</b></span></b></span></h2>
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/196/img_1.png"/>
+<img src="/images/entry/코로나19-일별-확진자수-국내해외-그래프-3월4일/img_1.png"/>
 
 <figcaption></figcaption>
 </figure></p>
 <h2><span style="color: #000000;"><b>3월 4일 코로나19 전세계 일별 <span style="color: #ee2323;">사망자 수</span> 그래프</b></span></h2>
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/196/img_2.png"/>
+<img src="/images/entry/코로나19-일별-확진자수-국내해외-그래프-3월4일/img_2.png"/>
 
 <figcaption></figcaption>
 </figure></p>

@@ -6,7 +6,7 @@ tags: ["일본", "성시경"]
 slug: "성시경-악플-심경-일본음식-사진-악플-쏟아져인스타-주소"
 numericId: 62
 description: "12월 15일 라이브로 햄버거&라면 먹방 방송을 했어요."
-thumbnail: "/images/62/img.png"
+thumbnail: "/images/entry/성시경-악플-심경-일본음식-사진-악플-쏟아져인스타-주소/img.png"
 ---
 
 <div class="contents_style">
@@ -17,7 +17,7 @@ thumbnail: "/images/62/img.png"
 <div>
 <div class="moreless-content-ignore"><figure class="imageblock floatRight" width="200">
 
-<img src="/images/62/img.png" width="200"/>
+<img src="/images/entry/성시경-악플-심경-일본음식-사진-악플-쏟아져인스타-주소/img.png" width="200"/>
 
 <figcaption></figcaption>
 </figure>
@@ -38,7 +38,7 @@ thumbnail: "/images/62/img.png"
 </div>
 <p><figure class="imageblock floatLeft" width="500">
 
-<img src="/images/62/이미지_016.png" width="500"/>
+<img src="/images/entry/성시경-악플-심경-일본음식-사진-악플-쏟아져인스타-주소/이미지_016.png" width="500"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -59,7 +59,7 @@ thumbnail: "/images/62/img.png"
 <p>아마 그 단어를 알고 있을 거고요.</p>
 <p><figure class="imageblock floatLeft" width="200">
 
-<img src="/images/62/img_1.png" width="200"/>
+<img src="/images/entry/성시경-악플-심경-일본음식-사진-악플-쏟아져인스타-주소/img_1.png" width="200"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -78,7 +78,7 @@ thumbnail: "/images/62/img.png"
 <p><span style="color: #333333;">저는 오히려:</span></p>
 <p><figure class="imageblock floatRight" width="300">
 
-<img src="/images/62/img_2.png" width="300"/>
+<img src="/images/entry/성시경-악플-심경-일본음식-사진-악플-쏟아져인스타-주소/img_2.png" width="300"/>
 
 <figcaption></figcaption>
 </figure></p>

@@ -5,36 +5,36 @@ category: "문화&연예 트렌드/스타&인물"
 tags: ["차준환", "남자피켜스케이팅"]
 slug: "차준환-선수-정보-모음과거-광고나이키인스타그램"
 numericId: 280
-description: "비디오스타 녹화를 위해 들어가는 중"
-thumbnail: "/images/280/img.gif"
+description: "피겨스케이팅 국가대표 차준환 선수의 상세 프로필과 나이, 키, 과거 광고 출연 이력, 인스타그램 정보를 모두 한곳에 총정리했습니다. 비디오스타 출연으로 더욱 화제가 된 차준환 선수의 모든 것이 궁금하다면 지금 바로 확인하세요."
+thumbnail: "/images/entry/차준환-선수-정보-모음과거-광고나이키인스타그램/img.gif"
 ---
 
 <div class="contents_style">
 <h2>방송국에 들어가는 피겨스케이팅 선수 차준환</h2>
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/280/img.gif"/>
+<img src="/images/entry/차준환-선수-정보-모음과거-광고나이키인스타그램/img.gif"/>
 
 <figcaption></figcaption>
 </figure></p>
 <p>비디오스타 녹화를 위해 들어가는 중</p>
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/280/img_1.gif"/>
+<img src="/images/entry/차준환-선수-정보-모음과거-광고나이키인스타그램/img_1.gif"/>
 
 <figcaption></figcaption>
 </figure></p>
 <p>간단히 사진찍고 인사하고 들어가려는데</p>
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/280/img_2.gif"/>
+<img src="/images/entry/차준환-선수-정보-모음과거-광고나이키인스타그램/img_2.gif"/>
 
 <figcaption></figcaption>
 </figure></p>
 <p><span style="color: #333333;">아이돌 그룹인 줄 알고 기자가 그룹명으로 인사해 달라고 함</span></p>
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/280/img_3.gif"/>
+<img src="/images/entry/차준환-선수-정보-모음과거-광고나이키인스타그램/img_3.gif"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -42,7 +42,7 @@ thumbnail: "/images/280/img.gif"
 <p>당황당황 하는 차준환</p>
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/280/img_4.gif"/>
+<img src="/images/entry/차준환-선수-정보-모음과거-광고나이키인스타그램/img_4.gif"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -78,7 +78,7 @@ thumbnail: "/images/280/img.gif"
 <p>2015년 종합선수권 대회에서 동메달 따는 꼬꼬마 차준환</p>
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/280/img.jpg"/>
+<img src="/images/entry/차준환-선수-정보-모음과거-광고나이키인스타그램/img.jpg"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -127,32 +127,32 @@ thumbnail: "/images/280/img.gif"
 <h3><b>차준환 사진 모음</b></h3>
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/280/img_1.jpg"/>
+<img src="/images/entry/차준환-선수-정보-모음과거-광고나이키인스타그램/img_1.jpg"/>
 
 <figcaption></figcaption>
 </figure><figure class="imageblock alignCenter">
 
-<img src="/images/280/img_2.jpg"/>
+<img src="/images/entry/차준환-선수-정보-모음과거-광고나이키인스타그램/img_2.jpg"/>
 
 <figcaption></figcaption>
 </figure><figure class="imageblock alignCenter">
 
-<img src="/images/280/img_3.jpg"/>
+<img src="/images/entry/차준환-선수-정보-모음과거-광고나이키인스타그램/img_3.jpg"/>
 
 <figcaption></figcaption>
 </figure><figure class="imageblock alignCenter">
 
-<img src="/images/280/img_4.jpg"/>
+<img src="/images/entry/차준환-선수-정보-모음과거-광고나이키인스타그램/img_4.jpg"/>
 
 <figcaption></figcaption>
 </figure><figure class="imageblock alignCenter">
 
-<img src="/images/280/img_5.jpg"/>
+<img src="/images/entry/차준환-선수-정보-모음과거-광고나이키인스타그램/img_5.jpg"/>
 
 <figcaption></figcaption>
 </figure><figure class="imageblock alignCenter">
 
-<img src="/images/280/img_6.jpg"/>
+<img src="/images/entry/차준환-선수-정보-모음과거-광고나이키인스타그램/img_6.jpg"/>
 
 <figcaption></figcaption>
 </figure></p>

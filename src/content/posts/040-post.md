@@ -6,7 +6,7 @@ tags: []
 slug: "노니-섭취-전-반드시-알아야-할-부작용-정보"
 numericId: 40
 description: "몇년 전부터 여러 매채를 통해 노니쥬스노니 가루, 환, 액기스에 대한 효능과 효과에 대해서 소개하는 곳이 늘어났고"
-thumbnail: "/images/40/img.jpg"
+thumbnail: "/images/entry/노니-섭취-전-반드시-알아야-할-부작용-정보/img.jpg"
 ---
 
 <div class="contents_style">
@@ -20,7 +20,7 @@ thumbnail: "/images/40/img.jpg"
 
 <p><figure class="imageblock alignLeft">
 
-<img src="/images/40/img.jpg"/>
+<img src="/images/entry/노니-섭취-전-반드시-알아야-할-부작용-정보/img.jpg"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -28,27 +28,27 @@ thumbnail: "/images/40/img.jpg"
 <p>확인이 필요해요.<br/><br/></p>
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/40/img.png"/>
+<img src="/images/entry/노니-섭취-전-반드시-알아야-할-부작용-정보/img.png"/>
 
 <figcaption></figcaption>
 </figure><figure class="imageblock alignCenter">
 
-<img src="/images/40/img_1.png"/>
+<img src="/images/entry/노니-섭취-전-반드시-알아야-할-부작용-정보/img_1.png"/>
 
 <figcaption></figcaption>
 </figure><figure class="imageblock alignCenter">
 
-<img src="/images/40/img_2.png"/>
+<img src="/images/entry/노니-섭취-전-반드시-알아야-할-부작용-정보/img_2.png"/>
 
 <figcaption></figcaption>
 </figure><figure class="imageblock alignCenter">
 
-<img src="/images/40/img_3.png"/>
+<img src="/images/entry/노니-섭취-전-반드시-알아야-할-부작용-정보/img_3.png"/>
 
 <figcaption></figcaption>
 </figure><figure class="imageblock alignCenter">
 
-<img src="/images/40/img_4.png"/>
+<img src="/images/entry/노니-섭취-전-반드시-알아야-할-부작용-정보/img_4.png"/>
 
 <figcaption></figcaption>
 </figure></p>

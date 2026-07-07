@@ -6,7 +6,7 @@ tags: ["봉준호", "기생충", "아카데미"]
 slug: "아카데미-기생충-수상-영상사진-모음-소감각본상국제-영화상감독상작품상"
 numericId: 139
 description: "기생충이 아카데미 시상식에서 각본상을 수상했어요."
-thumbnail: "/images/139/img.jpg"
+thumbnail: "/images/entry/아카데미-기생충-수상-영상사진-모음-소감각본상국제-영화상감독상작품상/img.jpg"
 ---
 
 <div class="contents_style">
@@ -17,17 +17,17 @@ thumbnail: "/images/139/img.jpg"
 <p>ㅠㅠㅠㅠ</p>
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/139/img.jpg"/>
+<img src="/images/entry/아카데미-기생충-수상-영상사진-모음-소감각본상국제-영화상감독상작품상/img.jpg"/>
 
 <figcaption></figcaption>
 </figure><figure class="imageblock alignCenter">
 
-<img src="/images/139/img_1.jpg"/>
+<img src="/images/entry/아카데미-기생충-수상-영상사진-모음-소감각본상국제-영화상감독상작품상/img_1.jpg"/>
 
 <figcaption></figcaption>
 </figure><figure class="imageblock alignCenter">
 
-<img src="/images/139/img.png"/>
+<img src="/images/entry/아카데미-기생충-수상-영상사진-모음-소감각본상국제-영화상감독상작품상/img.png"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -41,7 +41,7 @@ thumbnail: "/images/139/img.jpg"
 
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/139/img_1.png"/>
+<img src="/images/entry/아카데미-기생충-수상-영상사진-모음-소감각본상국제-영화상감독상작품상/img_1.png"/>
 
 <figcaption>엄마 아빠 감사해요 장면</figcaption>
 </figure></p>
@@ -54,7 +54,7 @@ thumbnail: "/images/139/img.jpg"
 <h2>국제 장편 영화상 수상 </h2>
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/139/img_2.jpg"/>
+<img src="/images/entry/아카데미-기생충-수상-영상사진-모음-소감각본상국제-영화상감독상작품상/img_2.jpg"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -90,7 +90,7 @@ thumbnail: "/images/139/img.jpg"
 <blockquote>좀 전에 국제 영화상 수상하고 오늘 할 일은 끝났구나 하고 <br/>릴렉스 하고 있었는데<br/><br/>너무 감사합니다. 어렸을 때 제가 항상 가슴에 세겼던 영화를 공부하며<br/>가슴속에 새겼던 말이 있었는데 영화 공부 할 때<br/>가장 개인적인  것이 가장 창의적인 것이다.<br/><br/>그 말은 마틴스콜세지가 했던 말입니다.  (기립박수)<br/>제가 학교에서 마틴 영화를 보며 공부했었는데 같이  후보에 오른것만으로 너무 영광인데 상을 받을지는 몰랐어요<br/><br/>저의 영화를 아직 미국의 관객들이 모를때<br/>항상 제 영화를 리스트에 뽑고 좋아했던<br/>쿠엔틴 형님 계신데 정말 사랑합니다.<br/><br/>쿠엔틴 아이러브 유 (이 말은 샤론최 님이 '아이러브유'로 번역을 안해서 다시 영어로 말함)<br/><br/>그리고 같이 후보에 오른 토드나 샘이나 두분다 제가 너무나 존경하는 멋진<br/>감독들인데  이 트로피를 오스카 측에서 허락한다면<br/>텍사스 전기톱으로 5개로 잘라서 나누고 싶은 마음입니다. <br/><br/>땡큐 아윌 드링크 언틸 넥스트 모닝 땡큐</blockquote>
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/139/img.gif"/>
+<img src="/images/entry/아카데미-기생충-수상-영상사진-모음-소감각본상국제-영화상감독상작품상/img.gif"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -113,7 +113,7 @@ thumbnail: "/images/139/img.jpg"
 
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/139/img_3.jpg"/>
+<img src="/images/entry/아카데미-기생충-수상-영상사진-모음-소감각본상국제-영화상감독상작품상/img_3.jpg"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -124,7 +124,7 @@ thumbnail: "/images/139/img.jpg"
 </figure>
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/139/img_2.png"/>
+<img src="/images/entry/아카데미-기생충-수상-영상사진-모음-소감각본상국제-영화상감독상작품상/img_2.png"/>
 
 <figcaption>아카데미 오스카 상을 바라보는 봉준호 감독님 </figcaption>
 </figure></p>
@@ -135,17 +135,17 @@ thumbnail: "/images/139/img.jpg"
 
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/139/img_4.jpg"/>
+<img src="/images/entry/아카데미-기생충-수상-영상사진-모음-소감각본상국제-영화상감독상작품상/img_4.jpg"/>
 
 <figcaption></figcaption>
 </figure><figure class="imageblock alignCenter">
 
-<img src="/images/139/img_3.png"/>
+<img src="/images/entry/아카데미-기생충-수상-영상사진-모음-소감각본상국제-영화상감독상작품상/img_3.png"/>
 
 <figcaption></figcaption>
 </figure><figure class="imageblock alignCenter">
 
-<img src="/images/139/img_4.png"/>
+<img src="/images/entry/아카데미-기생충-수상-영상사진-모음-소감각본상국제-영화상감독상작품상/img_4.png"/>
 
 <figcaption></figcaption>
 </figure></p>

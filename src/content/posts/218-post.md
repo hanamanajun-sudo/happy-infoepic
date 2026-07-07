@@ -6,7 +6,7 @@ tags: ["RTA", "앵그리너구리", "앵그리너구리후기", "Rta후기"]
 slug: "앵그리너구리RtA-후기-모음-가격-칼로리"
 numericId: 218
 description: "정식 제품명이 앵그리알티에이 (RtA)"
-thumbnail: "/images/218/img.png"
+thumbnail: "/images/entry/앵그리너구리RtA-후기-모음-가격-칼로리/img.png"
 ---
 
 <div class="contents_style">
@@ -15,7 +15,7 @@ thumbnail: "/images/218/img.png"
 <h3><br/><b>앵그리 너구리 맛 평가/후기 모음 </b></h3>
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/218/img.png"/>
+<img src="/images/entry/앵그리너구리RtA-후기-모음-가격-칼로리/img.png"/>
 
 <figcaption>앵그리너구리 맛후기</figcaption>
 </figure></p>
@@ -27,7 +27,7 @@ thumbnail: "/images/218/img.png"
 <p><br/>봉지라면 1천원 <br/>컵라면 1천600원 <br/><br/></p>
 <p><figure class="imageblock alignCenter" width="400">
 
-<img src="/images/218/img.jpg" width="400"/>
+<img src="/images/entry/앵그리너구리RtA-후기-모음-가격-칼로리/img.jpg" width="400"/>
 
 <figcaption></figcaption>
 </figure></p>

@@ -6,7 +6,7 @@ tags: ["코로나"]
 slug: "코로나-2번-걸린-사람-후기-오미크론"
 numericId: 432
 description: "아래 후기는 두번째 코로 확진이 된 분의 후기입니다."
-thumbnail: "/images/432/제목을_입력해주세요_-001_3_1.png"
+thumbnail: "/images/entry/코로나-2번-걸린-사람-후기-오미크론/제목을_입력해주세요_-001_3_1.png"
 ---
 
 <div class="contents_style">
@@ -15,7 +15,7 @@ thumbnail: "/images/432/제목을_입력해주세요_-001_3_1.png"
 
 <p><figure class="imageblock alignCenter" height="350" width="350">
 
-<img height="350" src="/images/432/제목을_입력해주세요_-001_3_1.png" width="350"/>
+<img height="350" src="/images/entry/코로나-2번-걸린-사람-후기-오미크론/제목을_입력해주세요_-001_3_1.png" width="350"/>
 
 <figcaption></figcaption>
 </figure></p>

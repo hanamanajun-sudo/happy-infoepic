@@ -5,34 +5,34 @@ category: "라이프 트렌드/하우스&인테리어 백과"
 tags: []
 slug: "새가구-냄새-안나는-가구-브랜드-추천-국내-구입-가능-제품"
 numericId: 408
-description: "국내에서 구입가능한 e0 제품"
-thumbnail: "/images/408/img.png"
+description: "새 가구 특유의 유해한 냄새 걱정 없이 안전하고 건강하게 사용할 수 있는 E0 등급 친환경 가구 브랜드를 엄선하여 추천합니다. 국내에서 실제로 구입 가능한 제품과 새집증후군 걱정 없는 현명한 가구 선택 가이드를 제공합니다."
+thumbnail: "/images/entry/새가구-냄새-안나는-가구-브랜드-추천-국내-구입-가능-제품/img.png"
 ---
 
 <div class="contents_style">
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/408/img.png"/>
+<img src="/images/entry/새가구-냄새-안나는-가구-브랜드-추천-국내-구입-가능-제품/img.png"/>
 
 <figcaption></figcaption>
 </figure><figure class="imageblock alignCenter">
 
-<img src="/images/408/img_1.png"/>
+<img src="/images/entry/새가구-냄새-안나는-가구-브랜드-추천-국내-구입-가능-제품/img_1.png"/>
 
 <figcaption></figcaption>
 </figure><figure class="imageblock alignCenter">
 
-<img src="/images/408/img_2.png"/>
+<img src="/images/entry/새가구-냄새-안나는-가구-브랜드-추천-국내-구입-가능-제품/img_2.png"/>
 
 <figcaption></figcaption>
 </figure><figure class="imageblock alignCenter">
 
-<img src="/images/408/img_3.png"/>
+<img src="/images/entry/새가구-냄새-안나는-가구-브랜드-추천-국내-구입-가능-제품/img_3.png"/>
 
 <figcaption></figcaption>
 </figure><figure class="imageblock alignCenter">
 
-<img src="/images/408/img_4.png"/>
+<img src="/images/entry/새가구-냄새-안나는-가구-브랜드-추천-국내-구입-가능-제품/img_4.png"/>
 
 <figcaption></figcaption>
 </figure></p>

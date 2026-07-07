@@ -6,13 +6,13 @@ tags: ["철분", "철분결핍"]
 slug: "철분-부족-증상-그리고-눈으로-확인-가능한-증상들"
 numericId: 20
 description: "혹시철분 부족이 아닌가 걱정하고 있나요?여기 철분 부족할 때에 나타나는"
-thumbnail: "/images/20/img.jpg"
+thumbnail: "/images/entry/철분-부족-증상-그리고-눈으로-확인-가능한-증상들/img.jpg"
 ---
 
 <div class="contents_style">
 <p><figure class="imageblock alignCenter" height="275" width="413">
 
-<img height="275" src="/images/20/img.jpg" width="413"/>
+<img height="275" src="/images/entry/철분-부족-증상-그리고-눈으로-확인-가능한-증상들/img.jpg" width="413"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -71,7 +71,7 @@ thumbnail: "/images/20/img.jpg"
 
 <hr contenteditable="false"/>
 <p>제 글이 기억에 남는 좋은 정보였기를 바랍니다.  혹시 작은 도움이 되었다면 댓글이도 함께 부탁드려요. <br/>다음에 또 좋은 정보 있으면 소개하러 올게요. 또 들려주세요. <br/>그럼 건강한 하루, 좋은 하루 보내세요.<span style="color: #333333;"><span style="color: #333333;"></span></span></p>
-<blockquote><a href="https://happy.infoepic.com/22">철분 최강 음식 10가지 / 그리고 비 추천 음식</a></blockquote>
-<blockquote><a href="https://happy.infoepic.com/21">철분이 부족한 원인 5가지 이유/ 해결 방법</a></blockquote>
+<blockquote><a href="https://happy.infoepic.com/entry/람부탄-알고-먹자-효능과-부작용2">철분 최강 음식 10가지 / 그리고 비 추천 음식</a></blockquote>
+<blockquote><a href="https://happy.infoepic.com/entry/람부탄-알고-먹자-효능과-부작용1">철분이 부족한 원인 5가지 이유/ 해결 방법</a></blockquote>
 
 </hr></div>

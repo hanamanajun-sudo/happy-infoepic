@@ -6,7 +6,7 @@ tags: ["간장비빔국수", "간장국수", "박말례", "박말례간장국수
 slug: "박말례-할머니-간장국수-레시피-맞습니다"
 numericId: 311
 description: "저도 어릴적 엄마가 가끔 해주던 간장국수 우리집에서는 설탕 국수라 불렀음"
-thumbnail: "/images/311/img.gif"
+thumbnail: "/images/entry/박말례-할머니-간장국수-레시피-맞습니다/img.gif"
 ---
 
 <div class="contents_style">
@@ -25,7 +25,7 @@ thumbnail: "/images/311/img.gif"
 <p>야채는 없으면 서운하지만 없으면 없어도 된다.</p>
 <p><figure class="imageblock alignLeft">
 
-<img src="/images/311/img.gif"/>
+<img src="/images/entry/박말례-할머니-간장국수-레시피-맞습니다/img.gif"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -33,7 +33,7 @@ thumbnail: "/images/311/img.gif"
 <h3><b>간장국수 만드는 방법</b></h3>
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/311/img.png"/>
+<img src="/images/entry/박말례-할머니-간장국수-레시피-맞습니다/img.png"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -42,7 +42,7 @@ thumbnail: "/images/311/img.gif"
 <p>먼저 면을 삶는다.</p>
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/311/img_1.png"/>
+<img src="/images/entry/박말례-할머니-간장국수-레시피-맞습니다/img_1.png"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -52,7 +52,7 @@ thumbnail: "/images/311/img.gif"
 <p>당근, 호박, 쪽파 준비 하셨어요.</p>
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/311/img_2.png"/>
+<img src="/images/entry/박말례-할머니-간장국수-레시피-맞습니다/img_2.png"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -61,7 +61,7 @@ thumbnail: "/images/311/img.gif"
 
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/311/img_3.png"/>
+<img src="/images/entry/박말례-할머니-간장국수-레시피-맞습니다/img_3.png"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -71,56 +71,56 @@ thumbnail: "/images/311/img.gif"
 <p>간장 3스푼을 넣는다.</p>
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/311/img_4.png"/>
+<img src="/images/entry/박말례-할머니-간장국수-레시피-맞습니다/img_4.png"/>
 
 <figcaption></figcaption>
 </figure></p>
 <p>설탕 3스푼 (사실 상 주인공)</p>
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/311/img_5.png"/>
+<img src="/images/entry/박말례-할머니-간장국수-레시피-맞습니다/img_5.png"/>
 
 <figcaption></figcaption>
 </figure></p>
 <p>깨 가루를 넣는다. (할머니는 닐만치 넣어라고 하셨다. 나는 2스푼 정도)</p>
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/311/img_6.png"/>
+<img src="/images/entry/박말례-할머니-간장국수-레시피-맞습니다/img_6.png"/>
 
 <figcaption></figcaption>
 </figure></p>
 <p>비빔 소스 만드는 중에 야채 투하 한다.</p>
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/311/img_7.png"/>
+<img src="/images/entry/박말례-할머니-간장국수-레시피-맞습니다/img_7.png"/>
 
 <figcaption></figcaption>
 </figure></p>
 <p>물 살짝 넣어주고 2스푼 정도 넣는다.</p>
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/311/img_8.png"/>
+<img src="/images/entry/박말례-할머니-간장국수-레시피-맞습니다/img_8.png"/>
 
 <figcaption></figcaption>
 </figure></p>
 <p>간마늘 한숫가락 넣는다.</p>
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/311/img_9.png"/>
+<img src="/images/entry/박말례-할머니-간장국수-레시피-맞습니다/img_9.png"/>
 
 <figcaption></figcaption>
 </figure></p>
 <p>식초 두숫가락 넣는다.</p>
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/311/img_10.png"/>
+<img src="/images/entry/박말례-할머니-간장국수-레시피-맞습니다/img_10.png"/>
 
 <figcaption></figcaption>
 </figure></p>
 <p>참기름 3숫가락 (캡쳐 상은 양껏 ㅋㅋ) 넣는다.</p>
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/311/img_11.png"/>
+<img src="/images/entry/박말례-할머니-간장국수-레시피-맞습니다/img_11.png"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -128,7 +128,7 @@ thumbnail: "/images/311/img.gif"
 
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/311/img_12.png"/>
+<img src="/images/entry/박말례-할머니-간장국수-레시피-맞습니다/img_12.png"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -136,7 +136,7 @@ thumbnail: "/images/311/img.gif"
 <p>간장 비빔 국수 완성</p>
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/311/img_13.png"/>
+<img src="/images/entry/박말례-할머니-간장국수-레시피-맞습니다/img_13.png"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -144,14 +144,14 @@ thumbnail: "/images/311/img.gif"
 <p>또 옛생각난다 ㅎㅎ</p>
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/311/img_14.png"/>
+<img src="/images/entry/박말례-할머니-간장국수-레시피-맞습니다/img_14.png"/>
 
 <figcaption></figcaption>
 </figure></p>
 
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/311/img_15.png"/>
+<img src="/images/entry/박말례-할머니-간장국수-레시피-맞습니다/img_15.png"/>
 
 <figcaption></figcaption>
 </figure></p>

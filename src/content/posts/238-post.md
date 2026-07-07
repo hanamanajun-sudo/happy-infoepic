@@ -18,7 +18,7 @@ thumbnail: ""
 <p>관련 글: <a href="https://twitter.com/RagingBull2017/status/1222216452318478337" rel="noopener" target="_blank">이정섭 Lee Jung-Sub on Twitter</a></p>
 <p><a href="http://www.asiafilmlab.com/">http://www.asiafilmlab.com/</a></p>
 <p>관련 글: <a href="http://www.asiafilmlab.com/" rel="noopener" target="_blank">asiafilmlab.com</a></p>
-<p><a href="https://news.chosun.com/site/data/html_dir/2020/03/20/2020032004818.html">https://news.chosun.com/site/data/html_dir/2020/03/20/2020032004818.html</a></p>
-<p>관련 글: <a href="https://news.chosun.com/site/data/html_dir/2020/03/20/2020032004818.html" rel="noopener" target="_blank">[공식]韓OTT 콘텐츠 제작사 뉴플러스 오리지널 제작 '인공지능 그녀', 3월 31일 유튜브 공개</a></p>
+<p><a href="https://news.chosun.com/site/data/html_dir/2020/03/entry/철분-부족-증상-그리고-눈으로-확인-가능한-증상들/2020032004818.html">https://news.chosun.com/site/data/html_dir/2020/03/entry/철분-부족-증상-그리고-눈으로-확인-가능한-증상들/2020032004818.html</a></p>
+<p>관련 글: <a href="https://news.chosun.com/site/data/html_dir/2020/03/entry/철분-부족-증상-그리고-눈으로-확인-가능한-증상들/2020032004818.html" rel="noopener" target="_blank">[공식]韓OTT 콘텐츠 제작사 뉴플러스 오리지널 제작 '인공지능 그녀', 3월 31일 유튜브 공개</a></p>
 
 </div>

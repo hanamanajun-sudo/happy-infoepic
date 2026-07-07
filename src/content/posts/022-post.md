@@ -6,7 +6,7 @@ tags: ["철분"]
 slug: "철분-최강-음식-10가지-그리고-비-추천-음식"
 numericId: 22
 description: "평소에 편식을 했다거나 무리하게 다이어트를 하고 있거나 담배를 피우고 있다면"
-thumbnail: "/images/22/img.jpg"
+thumbnail: "/images/entry/철분-최강-음식-10가지-그리고-비-추천-음식/img.jpg"
 ---
 
 <div class="contents_style">
@@ -47,7 +47,7 @@ thumbnail: "/images/22/img.jpg"
 <p>칼슘과 비타민D가 풍부하다. </p>
 <p><figure class="imageblock alignCenter" height="234" width="417">
 
-<img height="234" src="/images/22/img.jpg" width="417"/>
+<img height="234" src="/images/entry/철분-최강-음식-10가지-그리고-비-추천-음식/img.jpg" width="417"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -89,9 +89,9 @@ thumbnail: "/images/22/img.jpg"
 <tr>
 <td style="width: 842.667px;">
 <p style="text-align: center;">[포포킹 관련글 보러가기]</p>
-<p style="text-align: center;"><span style="background-color: #99cefa; color: #000000;"><a href="https://happy.infoepic.com/20" style="background-color: #99cefa; color: #000000;">철분 부족 증상 / 그리고 눈으로 확인 가능한 증상들</a></span></p>
+<p style="text-align: center;"><span style="background-color: #99cefa; color: #000000;"><a href="https://happy.infoepic.com/entry/람부탄-알고-먹자-효능과-부작용0" style="background-color: #99cefa; color: #000000;">철분 부족 증상 / 그리고 눈으로 확인 가능한 증상들</a></span></p>
 
-<p style="text-align: center;"><span style="background-color: #99cefa; color: #000000;"><a href="https://happy.infoepic.com/21" style="background-color: #99cefa; color: #000000;">철분이 부족한 원인 5가지 이유/ 해결 방법</a></span></p>
+<p style="text-align: center;"><span style="background-color: #99cefa; color: #000000;"><a href="https://happy.infoepic.com/entry/람부탄-알고-먹자-효능과-부작용1" style="background-color: #99cefa; color: #000000;">철분이 부족한 원인 5가지 이유/ 해결 방법</a></span></p>
 
 </td>
 </tr>

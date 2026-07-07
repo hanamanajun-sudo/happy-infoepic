@@ -6,7 +6,7 @@ tags: []
 slug: "딜런-브로스넌-패리스-브로스넌-사진-모음-나이-키-정보-모음"
 numericId: 431
 description: "피어스 브로스넌의 아들로 유명세를 타기 시작한 딜런 브로스넌 그리고 패리스 브로스넌"
-thumbnail: "/images/431/blob.jpg"
+thumbnail: "/images/entry/딜런-브로스넌-패리스-브로스넌-사진-모음-나이-키-정보-모음/blob.jpg"
 ---
 
 <div class="contents_style">
@@ -22,22 +22,22 @@ thumbnail: "/images/431/blob.jpg"
 
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/431/blob.jpg"/>
+<img src="/images/entry/딜런-브로스넌-패리스-브로스넌-사진-모음-나이-키-정보-모음/blob.jpg"/>
 
 <figcaption></figcaption>
 </figure><figure class="imageblock alignCenter">
 
-<img src="/images/431/blob_1.jpg"/>
+<img src="/images/entry/딜런-브로스넌-패리스-브로스넌-사진-모음-나이-키-정보-모음/blob_1.jpg"/>
 
 <figcaption></figcaption>
 </figure><figure class="imageblock alignCenter">
 
-<img src="/images/431/blob_2.jpg"/>
+<img src="/images/entry/딜런-브로스넌-패리스-브로스넌-사진-모음-나이-키-정보-모음/blob_2.jpg"/>
 
 <figcaption></figcaption>
 </figure><figure class="imageblock alignCenter">
 
-<img src="/images/431/blob_3.jpg"/>
+<img src="/images/entry/딜런-브로스넌-패리스-브로스넌-사진-모음-나이-키-정보-모음/blob_3.jpg"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -45,7 +45,7 @@ thumbnail: "/images/431/blob.jpg"
 
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/431/blob_4.jpg"/>
+<img src="/images/entry/딜런-브로스넌-패리스-브로스넌-사진-모음-나이-키-정보-모음/blob_4.jpg"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -63,12 +63,12 @@ thumbnail: "/images/431/blob.jpg"
 
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/431/blob_5.jpg"/>
+<img src="/images/entry/딜런-브로스넌-패리스-브로스넌-사진-모음-나이-키-정보-모음/blob_5.jpg"/>
 
 <figcaption></figcaption>
 </figure><figure class="imageblock alignCenter">
 
-<img src="/images/431/blob_6.jpg"/>
+<img src="/images/entry/딜런-브로스넌-패리스-브로스넌-사진-모음-나이-키-정보-모음/blob_6.jpg"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -83,12 +83,12 @@ thumbnail: "/images/431/blob.jpg"
 <p>185센치</p>
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/431/blob_7.jpg"/>
+<img src="/images/entry/딜런-브로스넌-패리스-브로스넌-사진-모음-나이-키-정보-모음/blob_7.jpg"/>
 
 <figcaption></figcaption>
 </figure><figure class="imageblock alignCenter">
 
-<img src="/images/431/blob_8.jpg"/>
+<img src="/images/entry/딜런-브로스넌-패리스-브로스넌-사진-모음-나이-키-정보-모음/blob_8.jpg"/>
 
 <figcaption></figcaption>
 </figure></p>

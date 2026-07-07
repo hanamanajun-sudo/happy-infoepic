@@ -6,7 +6,7 @@ tags: ["심각", "문재인", "코로나19"]
 slug: "코로나19-심각-단계-차이점-격상-시-바뀌는-점"
 numericId: 175
 description: "정부는 경계 단계에서 심각 단계로 경보 등급을 최고 수준으로 높였다."
-thumbnail: "/images/175/img.png"
+thumbnail: "/images/entry/코로나19-심각-단계-차이점-격상-시-바뀌는-점/img.png"
 ---
 
 <div class="contents_style">
@@ -15,7 +15,7 @@ thumbnail: "/images/175/img.png"
 <p>이는 범 정부적으로 총력으로 대응하겠다는 뜻이다. </p>
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/175/img.png"/>
+<img src="/images/entry/코로나19-심각-단계-차이점-격상-시-바뀌는-점/img.png"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -112,7 +112,7 @@ thumbnail: "/images/175/img.png"
 
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/175/img_1.png"/>
+<img src="/images/entry/코로나19-심각-단계-차이점-격상-시-바뀌는-점/img_1.png"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -133,7 +133,7 @@ thumbnail: "/images/175/img.png"
 <p>특단의 대책이 취해 질 수 있음 </p>
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/175/img_2.png"/>
+<img src="/images/entry/코로나19-심각-단계-차이점-격상-시-바뀌는-점/img_2.png"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -150,7 +150,7 @@ thumbnail: "/images/175/img.png"
 <blockquote>코로나19 사태가 중대한 분수령을 맞았습니다. 지금부터 며칠이 매우 중요한 고비입니다. 감염자는 최대한 신속하게 확인하여 조기 치료하는 것은 물론 확산을 차단해야 합니다. 부와 지자체, 방역당국과 의료진, 나아가 지역주민과 전국민이 혼연일체가 되어 총력 대응해야 하는 중차대한 시점입니다.<br/><br/>이에 정부는 감염병 전문가들의 권고에 따라 위기경보를 최고 단계인 심각 단계로 올려 대응 체계를 대폭 강화해 나가겠습니다.<br/><br/>대규모로 일어나고 있는 신천지 집단 감염 사태 이전과 이후는 전혀 다른 상황입니다. 기존의 질병관리본부 중심의 방역 체계와 중수본 체제는 일관성을 유지하면서 총리 주재 '중앙재난안전대책본부'로 격상하여 범부처 대응과 중앙정부-지자체의 지원 체계를 한층 강화해 총력으로 대응하겠습니다. 규정에 얽매이지 말고 전례 없는 강력한 대응을 주저하지 말아야 할 것입니다.<br/><br/>대구와 경북 청도를 '감염병 특별관리지역'으로 지정하여 지역에서 감당하지 못하는 병상과 인력, 장비, 방역물품 등 필요한 모든 자원을 전폭 지원하는 체제로 바꾸었습니다. 포화상태에 이른 대구지역의 의료 능력을 보강하고 지원하는 조치도 신속히 강구하고 있습니다. 정부는 특별관리지역의 조기 안정화를 위해 필요한 모든 방안을 총동원해 주기 바랍니다. 특히, 공공부문의 자원뿐 아니라 민간 의료기관과 의료인의 협력을 최대한 이끌어내고 적극적으로 지원해 주기 바랍니다<br/><br/>엄중한 위기 상황이지만, 우리는 이겨낼 수 있습니다. 정부는 감염병 확산을 통제하고 관리할 충분한 역량과 자신감을 가지고 있습니다. 새롭게 확진되는 환자의 대부분이 뚜렷한 관련성이 확인되는 집단 내에서 발생하고 있습니다. 따라서 정부의 방역 체계 속에서 철저히 관리하고 통제해 나간다면 외부로의 확산을 지연시키고 최소화할 수 있을 것입니다.<br/><br/>특히, 집단 감염의 발원지가 되고 있는 신천지 신도들에 대해서는 특단의 대책을 취하고 있습니다. 무엇보다 확진 환자들을 빠르게 확인하기 위해 신속한 전수조사와 진단을 진행하고 있습니다.</blockquote>
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/175/img_3.png"/>
+<img src="/images/entry/코로나19-심각-단계-차이점-격상-시-바뀌는-점/img_3.png"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -171,7 +171,7 @@ thumbnail: "/images/175/img.png"
 
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/175/img_4.png"/>
+<img src="/images/entry/코로나19-심각-단계-차이점-격상-시-바뀌는-점/img_4.png"/>
 
 <figcaption></figcaption>
 </figure></p>

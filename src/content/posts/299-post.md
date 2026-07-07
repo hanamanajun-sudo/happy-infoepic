@@ -6,7 +6,7 @@ tags: ["이케아", "현대백화점", "이케아천호점"]
 slug: "이케아-천호점-추천비추천실내-사진-위치-영업시간-예약"
 numericId: 299
 description: "처음으로 선보인 도심형 매장이 우리나라에 생겼어요."
-thumbnail: "/images/299/img.png"
+thumbnail: "/images/entry/이케아-천호점-추천비추천실내-사진-위치-영업시간-예약/img.png"
 ---
 
 <div class="contents_style">
@@ -14,7 +14,7 @@ thumbnail: "/images/299/img.png"
 <p>바로 플래닝 스튜디오 천호점 이에요.</p>
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/299/img.png"/>
+<img src="/images/entry/이케아-천호점-추천비추천실내-사진-위치-영업시간-예약/img.png"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -41,42 +41,42 @@ thumbnail: "/images/299/img.png"
 
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/299/img_1.png"/>
+<img src="/images/entry/이케아-천호점-추천비추천실내-사진-위치-영업시간-예약/img_1.png"/>
 
 <figcaption></figcaption>
 </figure><figure class="imageblock alignCenter">
 
-<img src="/images/299/img_2.png"/>
+<img src="/images/entry/이케아-천호점-추천비추천실내-사진-위치-영업시간-예약/img_2.png"/>
 
 <figcaption></figcaption>
 </figure><figure class="imageblock alignCenter">
 
-<img src="/images/299/img_3.png"/>
+<img src="/images/entry/이케아-천호점-추천비추천실내-사진-위치-영업시간-예약/img_3.png"/>
 
 <figcaption></figcaption>
 </figure><figure class="imageblock alignCenter">
 
-<img src="/images/299/img_4.png"/>
+<img src="/images/entry/이케아-천호점-추천비추천실내-사진-위치-영업시간-예약/img_4.png"/>
 
 <figcaption></figcaption>
 </figure><figure class="imageblock alignCenter">
 
-<img src="/images/299/img_5.png"/>
+<img src="/images/entry/이케아-천호점-추천비추천실내-사진-위치-영업시간-예약/img_5.png"/>
 
 <figcaption></figcaption>
 </figure><figure class="imageblock alignCenter">
 
-<img src="/images/299/img_6.png"/>
+<img src="/images/entry/이케아-천호점-추천비추천실내-사진-위치-영업시간-예약/img_6.png"/>
 
 <figcaption></figcaption>
 </figure><figure class="imageblock alignCenter">
 
-<img src="/images/299/img_7.png"/>
+<img src="/images/entry/이케아-천호점-추천비추천실내-사진-위치-영업시간-예약/img_7.png"/>
 
 <figcaption></figcaption>
 </figure><figure class="imageblock alignCenter">
 
-<img src="/images/299/img_8.png"/>
+<img src="/images/entry/이케아-천호점-추천비추천실내-사진-위치-영업시간-예약/img_8.png"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -101,7 +101,7 @@ thumbnail: "/images/299/img.png"
 <p>전문 컨설팅에 대한 평가는 좋다.</p>
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/299/img_9.png"/>
+<img src="/images/entry/이케아-천호점-추천비추천실내-사진-위치-영업시간-예약/img_9.png"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -109,7 +109,7 @@ thumbnail: "/images/299/img.png"
 <p>상주하고 있는 플래너 분들에게 보다 전문적인 안내를 받을 수 있다.</p>
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/299/img_10.png"/>
+<img src="/images/entry/이케아-천호점-추천비추천실내-사진-위치-영업시간-예약/img_10.png"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -134,7 +134,7 @@ thumbnail: "/images/299/img.png"
 
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/299/img_11.png"/>
+<img src="/images/entry/이케아-천호점-추천비추천실내-사진-위치-영업시간-예약/img_11.png"/>
 
 <figcaption>프레드릭 요한손 이케아 코리아 대표</figcaption>
 </figure></p>

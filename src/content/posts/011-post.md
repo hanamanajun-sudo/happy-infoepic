@@ -5,8 +5,8 @@ category: "라이프 트렌드/음식&레시피 백과"
 tags: []
 slug: "외국인에게-알려주는-떡볶이-1편-떡볶이의-과거와-현재"
 numericId: 11
-description: "떡볶이에 대한 모든 것"
-thumbnail: "/images/11/img.jpg"
+description: "외국인에게 알려주는 한국 대표 길거리 음식 떡볶이의 모든 것을 총정리했습니다. 고추장 양념의 매콤달콤한 떡볶이의 탄생 역사와 유래부터 현재까지의 변화 과정, 신당동 즉석떡볶이부터 분식점 떡볶이까지 다양한 종류와 특징을 흥미롭게 소개합니다."
+thumbnail: "/images/entry/외국인에게-알려주는-떡볶이-1편-떡볶이의-과거와-현재/img.jpg"
 ---
 
 <div class="contents_style">
@@ -46,7 +46,7 @@ thumbnail: "/images/11/img.jpg"
 <p>최근에는 편의점에서 전자렌지에 돌려서 먹는 인스턴트 떡볶이를 판매하고 있다.</p>
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/11/img.jpg"/>
+<img src="/images/entry/외국인에게-알려주는-떡볶이-1편-떡볶이의-과거와-현재/img.jpg"/>
 
 <figcaption></figcaption>
 </figure></p>

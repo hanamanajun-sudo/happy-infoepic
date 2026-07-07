@@ -1,0 +1,73 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+---
+
+<BaseLayout
+  title="페이지를 찾을 수 없습니다"
+  description="요청하신 페이지를 찾을 수 없습니다 — 해피로그"
+>
+  <section class="not-found">
+    <div class="container not-found-inner">
+      <div class="nf-icon">😕</div>
+      <h1 class="nf-title">404</h1>
+      <p class="nf-desc">페이지를 찾을 수 없습니다</p>
+      <p class="nf-sub">링크가 잘못되었거나 페이지가 이동되었을 수 있어요.</p>
+      <a href="/" class="nf-btn">← 홈으로 돌아가기</a>
+    </div>
+  </section>
+</BaseLayout>
+
+<style>
+.not-found {
+  padding-block: 6rem 8rem;
+  text-align: center;
+}
+.not-found-inner {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 0.75rem;
+}
+.nf-icon {
+  font-size: 4rem;
+  line-height: 1;
+  animation: float 3s ease-in-out infinite;
+}
+.nf-title {
+  font-family: var(--font-display);
+  font-size: clamp(3rem, 8vw, 5rem);
+  font-weight: 400;
+  color: var(--color-primary);
+  line-height: 1;
+}
+.nf-desc {
+  font-family: var(--font-display);
+  font-size: 1.3rem;
+  color: var(--color-text);
+}
+.nf-sub {
+  font-size: 0.95rem;
+  color: var(--color-text-muted);
+  max-width: 22rem;
+}
+.nf-btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.4rem;
+  margin-top: 0.5rem;
+  padding: 0.6rem 1.5rem;
+  background: var(--color-primary);
+  color: #fff;
+  font-weight: 700;
+  border-radius: 999px;
+  transition: transform 0.15s, box-shadow 0.15s;
+}
+.nf-btn:hover {
+  transform: translateY(-2px);
+  box-shadow: var(--shadow-md);
+}
+@keyframes float {
+  0%, 100% { transform: translateY(0); }
+  50% { transform: translateY(-8px); }
+}
+</style>

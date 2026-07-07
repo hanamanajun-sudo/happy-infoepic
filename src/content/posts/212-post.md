@@ -6,7 +6,7 @@ tags: ["구하라", "구하라오빠", "구하라다큐"]
 slug: "구하라-어릴적-다큐메모오빠-인스타구하라-인스타그램-주소"
 numericId: 212
 description: "디스패치를 통해서 구하라 유족간의 상속재산을 두고 법적 분쟁에 돌입했다는"
-thumbnail: "/images/212/videoplayback_mp4_20200309_130653_837.jpg"
+thumbnail: "/images/entry/구하라-어릴적-다큐메모오빠-인스타구하라-인스타그램-주소/videoplayback_mp4_20200309_130653_837.jpg"
 ---
 
 <div class="contents_style">
@@ -44,14 +44,14 @@ thumbnail: "/images/212/videoplayback_mp4_20200309_130653_837.jpg"
 
 <p><figure class="imageblock alignCenter" width="500">
 
-<img src="/images/212/videoplayback_mp4_20200309_130653_837.jpg" width="500"/>
+<img src="/images/entry/구하라-어릴적-다큐메모오빠-인스타구하라-인스타그램-주소/videoplayback_mp4_20200309_130653_837.jpg" width="500"/>
 
 <figcaption>연기 학원에서 연기 배우는 구하라</figcaption>
 </figure></p>
 
 <p><figure class="imageblock alignCenter" width="500">
 
-<img src="/images/212/videoplayback_mp4_20200309_130700_440.jpg" width="500"/>
+<img src="/images/entry/구하라-어릴적-다큐메모오빠-인스타구하라-인스타그램-주소/videoplayback_mp4_20200309_130700_440.jpg" width="500"/>
 
 <figcaption>다큐에 나온 14살 때의 구하라</figcaption>
 </figure></p>
@@ -59,28 +59,28 @@ thumbnail: "/images/212/videoplayback_mp4_20200309_130653_837.jpg"
 
 <p><figure class="imageblock alignCenter" width="500">
 
-<img src="/images/212/videoplayback_mp4_20200309_130712_947.jpg" width="500"/>
+<img src="/images/entry/구하라-어릴적-다큐메모오빠-인스타구하라-인스타그램-주소/videoplayback_mp4_20200309_130712_947.jpg" width="500"/>
 
 <figcaption>혼자 밥을 준비하는 구하라</figcaption>
 </figure></p>
 <p>연기와 춤 등의 학원에서 연습이 끝나고 집에 와서  혼자 밥을 준비하고</p>
 <p><figure class="imageblock alignCenter" width="500">
 
-<img src="/images/212/videoplayback_mp4_20200309_130717_594.jpg" width="500"/>
+<img src="/images/entry/구하라-어릴적-다큐메모오빠-인스타구하라-인스타그램-주소/videoplayback_mp4_20200309_130717_594.jpg" width="500"/>
 
 <figcaption>혼자 밥을 먹는 구하라</figcaption>
 </figure></p>
 <p>이때는 너무 늦은 시간이라 모두 잠들어 있던 시간이라 혼자 먹을 수 밖에 없었다.</p>
 <p><figure class="imageblock alignCenter" width="500">
 
-<img src="/images/212/videoplayback_mp4_20200309_130724_265.jpg" width="500"/>
+<img src="/images/entry/구하라-어릴적-다큐메모오빠-인스타구하라-인스타그램-주소/videoplayback_mp4_20200309_130724_265.jpg" width="500"/>
 
 <figcaption>혼자 밥을 먹는 구하라</figcaption>
 </figure></p>
 
 <p><figure class="imageblock alignCenter" width="500">
 
-<img src="/images/212/videoplayback_mp4_20200309_130730_693.jpg" width="500"/>
+<img src="/images/entry/구하라-어릴적-다큐메모오빠-인스타구하라-인스타그램-주소/videoplayback_mp4_20200309_130730_693.jpg" width="500"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -88,7 +88,7 @@ thumbnail: "/images/212/videoplayback_mp4_20200309_130653_837.jpg"
 <p>너무 담담하게 받아들이고 차분하게 준비해서 밥 먹는 모습이.. 가슴 아픕니다. </p>
 <p><figure class="imageblock alignCenter" width="500">
 
-<img src="/images/212/videoplayback_mp4_20200309_130741_971.jpg" width="500"/>
+<img src="/images/entry/구하라-어릴적-다큐메모오빠-인스타구하라-인스타그램-주소/videoplayback_mp4_20200309_130741_971.jpg" width="500"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -97,7 +97,7 @@ thumbnail: "/images/212/videoplayback_mp4_20200309_130653_837.jpg"
 
 <p><figure class="imageblock alignCenter" width="500">
 
-<img src="/images/212/videoplayback_mp4_20200309_130743_679.jpg" width="500"/>
+<img src="/images/entry/구하라-어릴적-다큐메모오빠-인스타구하라-인스타그램-주소/videoplayback_mp4_20200309_130743_679.jpg" width="500"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -106,12 +106,12 @@ thumbnail: "/images/212/videoplayback_mp4_20200309_130653_837.jpg"
 
 <p><figure class="imageblock alignCenter" width="500">
 
-<img src="/images/212/videoplayback_mp4_20200309_130749_152.jpg" width="500"/>
+<img src="/images/entry/구하라-어릴적-다큐메모오빠-인스타구하라-인스타그램-주소/videoplayback_mp4_20200309_130749_152.jpg" width="500"/>
 
 <figcaption></figcaption>
 </figure><figure class="imageblock alignCenter" width="500">
 
-<img src="/images/212/videoplayback_mp4_20200309_130805_756.jpg" width="500"/>
+<img src="/images/entry/구하라-어릴적-다큐메모오빠-인스타구하라-인스타그램-주소/videoplayback_mp4_20200309_130805_756.jpg" width="500"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -131,7 +131,7 @@ thumbnail: "/images/212/videoplayback_mp4_20200309_130653_837.jpg"
 
 <p><figure class="imageblock alignCenter" width="500">
 
-<img src="/images/212/구하라_오빠_mp4_20200309_130357_260.jpg" width="500"/>
+<img src="/images/entry/구하라-어릴적-다큐메모오빠-인스타구하라-인스타그램-주소/구하라_오빠_mp4_20200309_130357_260.jpg" width="500"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -141,7 +141,7 @@ thumbnail: "/images/212/videoplayback_mp4_20200309_130653_837.jpg"
 
 <p><figure class="imageblock alignCenter" width="500">
 
-<img src="/images/212/구하라_오빠_mp4_20200309_130434_947.jpg" width="500"/>
+<img src="/images/entry/구하라-어릴적-다큐메모오빠-인스타구하라-인스타그램-주소/구하라_오빠_mp4_20200309_130434_947.jpg" width="500"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -150,7 +150,7 @@ thumbnail: "/images/212/videoplayback_mp4_20200309_130653_837.jpg"
 
 <p><figure class="imageblock alignCenter" width="500">
 
-<img src="/images/212/구하라_오빠_mp4_20200309_130438_858.jpg" width="500"/>
+<img src="/images/entry/구하라-어릴적-다큐메모오빠-인스타구하라-인스타그램-주소/구하라_오빠_mp4_20200309_130438_858.jpg" width="500"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -171,7 +171,7 @@ thumbnail: "/images/212/videoplayback_mp4_20200309_130653_837.jpg"
 <h3><b>구하라 오빠와의 인스타그램</b></h3>
 <p><figure class="imageblock alignCenter" width="500">
 
-<img src="/images/212/이미지_4.png" width="500"/>
+<img src="/images/entry/구하라-어릴적-다큐메모오빠-인스타구하라-인스타그램-주소/이미지_4.png" width="500"/>
 
 <figcaption></figcaption>
 </figure></p>

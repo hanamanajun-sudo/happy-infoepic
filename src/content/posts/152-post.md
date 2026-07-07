@@ -6,7 +6,7 @@ tags: ["우한", "확진자", "신종코로나", "코로나19"]
 slug: "2월14일코로나19-확진자-수-지역국가-별-상태-지도"
 numericId: 152
 description: "* 이름이 코로나바이러스 감염증-19로 변경이 되었습니다. 근데 입에 잘 안붙어서"
-thumbnail: "/images/152/img.jpg"
+thumbnail: "/images/entry/2월14일코로나19-확진자-수-지역국가-별-상태-지도/img.jpg"
 ---
 
 <div class="contents_style">
@@ -21,7 +21,7 @@ thumbnail: "/images/152/img.jpg"
 <h2><span style="color: #000000;"><b>전세계 코로나 현재 확진 자 수/ 지역 상황</b></span></h2>
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/152/img.jpg"/>
+<img src="/images/entry/2월14일코로나19-확진자-수-지역국가-별-상태-지도/img.jpg"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -88,14 +88,14 @@ thumbnail: "/images/152/img.jpg"
 <h2><span style="color: #000000;"><b>2월 14일 신종 코로나(우한) 전세계 일별 확진자 수 그래프<br/></b></span></h2>
 <p><figure class="imageblock alignCenter" width="600">
 
-<img src="/images/152/img.png" width="600"/>
+<img src="/images/entry/2월14일코로나19-확진자-수-지역국가-별-상태-지도/img.png" width="600"/>
 
 <figcaption></figcaption>
 </figure></p>
 <h2><span style="color: #000000;"><b>2월 14일 신종 코로나(우한) 전세계 일별 사망자 수 그래프(누적)</b></span></h2>
 <p><figure class="imageblock alignCenter" width="500">
 
-<img src="/images/152/img_1.png" width="500"/>
+<img src="/images/entry/2월14일코로나19-확진자-수-지역국가-별-상태-지도/img_1.png" width="500"/>
 
 <figcaption></figcaption>
 </figure></p>

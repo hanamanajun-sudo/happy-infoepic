@@ -6,7 +6,7 @@ tags: ["냉파스타"]
 slug: "냉파스타-만들기-초간단-인생-냉파스타-황금-레시피"
 numericId: 367
 description: "소금 1스푼 (짠맛 약한 사람은 반스푼 먼저 넣고 추가로 넣는것 추천)"
-thumbnail: "/images/367/img.png"
+thumbnail: "/images/entry/냉파스타-만들기-초간단-인생-냉파스타-황금-레시피/img.png"
 ---
 
 <div class="contents_style">
@@ -36,7 +36,7 @@ thumbnail: "/images/367/img.png"
 <p><b>출처: 트위터</b></p>
 <p><figure class="imageblock alignCenter" width="500">
 
-<img src="/images/367/img.png" width="500"/>
+<img src="/images/entry/냉파스타-만들기-초간단-인생-냉파스타-황금-레시피/img.png" width="500"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -56,7 +56,7 @@ thumbnail: "/images/367/img.png"
 <p>- 바질 페스토는 이런거 (바질이랑 올리브 오일이랑 잣 갈아 넣음)</p>
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/367/img.jpg"/>
+<img src="/images/entry/냉파스타-만들기-초간단-인생-냉파스타-황금-레시피/img.jpg"/>
 
 <figcaption></figcaption>
 </figure></p>

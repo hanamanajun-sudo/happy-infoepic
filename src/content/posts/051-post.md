@@ -6,7 +6,7 @@ tags: ["스타벅스", "콜라보"]
 slug: "스타벅스-다이앤-본-퍼스텐버그-콜라보-소식매장-정보"
 numericId: 51
 description: "DIANE VON FURSTENBERG + STARBUCKS"
-thumbnail: "/images/51/img.png"
+thumbnail: "/images/entry/스타벅스-다이앤-본-퍼스텐버그-콜라보-소식매장-정보/img.png"
 ---
 
 <div class="contents_style">
@@ -23,7 +23,7 @@ thumbnail: "/images/51/img.png"
 <p>소장가치가 높아지는 것 같아요.</p>
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/51/img.png"/>
+<img src="/images/entry/스타벅스-다이앤-본-퍼스텐버그-콜라보-소식매장-정보/img.png"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -35,8 +35,8 @@ thumbnail: "/images/51/img.png"
 <p>패턴과 결합된 블랙 사이렌 로고가 인상적인 DW 머그<b><br/></b></p>
 <p>이건 정말 갖고 싶네요 ㅠㅠㅠㅠ</p>
 <blockquote>
-<p><a href="https://happy.infoepic.com/52" rel="noopener" target="_blank">관련글 보러가기&gt;&gt;&gt;&gt;&gt;'다이앤 본 퍼스텐버그'　브랜드 소개 </a></p>
-<p>관련 글: <a href="https://happy.infoepic.com/52" rel="noopener" target="_blank">'다이앤 본 퍼스텐버그'　브랜드 소개 (스타벅스 콜라보? 그녀는 누구)-DIANE VON FURSTENBERG</a></p>
+<p><a href="https://happy.infoepic.com/entry/다이앤-본-퍼스텐버그-브랜드-소개-스타벅스-콜라보-그녀는-누구-DIANE-VON-FURSTENBERG" rel="noopener" target="_blank">관련글 보러가기&gt;&gt;&gt;&gt;&gt;'다이앤 본 퍼스텐버그'　브랜드 소개 </a></p>
+<p>관련 글: <a href="https://happy.infoepic.com/entry/다이앤-본-퍼스텐버그-브랜드-소개-스타벅스-콜라보-그녀는-누구-DIANE-VON-FURSTENBERG" rel="noopener" target="_blank">'다이앤 본 퍼스텐버그'　브랜드 소개 (스타벅스 콜라보? 그녀는 누구)-DIANE VON FURSTENBERG</a></p>
 </blockquote>
 <p>　</p>
 <h2>✔️ 일부 매장에서 한정 판매된다고 합니다. </h2>
@@ -45,22 +45,22 @@ thumbnail: "/images/51/img.png"
 
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/51/img_1.png"/>
+<img src="/images/entry/스타벅스-다이앤-본-퍼스텐버그-콜라보-소식매장-정보/img_1.png"/>
 
 <figcaption></figcaption>
 </figure><figure class="imageblock alignCenter">
 
-<img src="/images/51/img_2.png"/>
+<img src="/images/entry/스타벅스-다이앤-본-퍼스텐버그-콜라보-소식매장-정보/img_2.png"/>
 
 <figcaption></figcaption>
 </figure><figure class="imageblock alignCenter">
 
-<img src="/images/51/img_3.png"/>
+<img src="/images/entry/스타벅스-다이앤-본-퍼스텐버그-콜라보-소식매장-정보/img_3.png"/>
 
 <figcaption></figcaption>
 </figure><figure class="imageblock alignCenter">
 
-<img src="/images/51/img_4.png"/>
+<img src="/images/entry/스타벅스-다이앤-본-퍼스텐버그-콜라보-소식매장-정보/img_4.png"/>
 
 <figcaption></figcaption>
 </figure></p>

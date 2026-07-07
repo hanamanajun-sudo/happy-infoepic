@@ -6,7 +6,7 @@ tags: []
 slug: "미드-레빗홀-아버지가-말한-책-이름과-내용"
 numericId: 458
 description: "24시의 잭바우어로 많은 사람들에게 밤잠을 빼앗아 갔던 키퍼 서덜랜드 주연의 미드 입니다."
-thumbnail: "/images/458/rabbit-hole-poster.webp"
+thumbnail: "/images/entry/미드-레빗홀-아버지가-말한-책-이름과-내용/rabbit-hole-poster.webp"
 ---
 
 <div class="contents_style">
@@ -17,7 +17,7 @@ thumbnail: "/images/458/rabbit-hole-poster.webp"
 
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/458/rabbit-hole-poster.webp"/>
+<img src="/images/entry/미드-레빗홀-아버지가-말한-책-이름과-내용/rabbit-hole-poster.webp"/>
 
 <figcaption></figcaption>
 </figure></p>

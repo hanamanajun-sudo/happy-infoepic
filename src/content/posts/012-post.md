@@ -6,13 +6,13 @@ tags: ["떡볶이"]
 slug: "외국인에게-알려주는-떡볶이-2편-떡볶이의-종류와-친구들"
 numericId: 12
 description: "일반적인 떡:손가락 길이의 대표적이며 일반적인 떡"
-thumbnail: "/images/12/img.jpg"
+thumbnail: "/images/entry/외국인에게-알려주는-떡볶이-2편-떡볶이의-종류와-친구들/img.jpg"
 ---
 
 <div class="contents_style">
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/12/img.jpg"/>
+<img src="/images/entry/외국인에게-알려주는-떡볶이-2편-떡볶이의-종류와-친구들/img.jpg"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -49,8 +49,8 @@ thumbnail: "/images/12/img.jpg"
 <p>소떡소떡 – 떡 사이에 소시지를 넣어 소시지 떡 소시지 떡이라는 의미로 이름이 지어졌다. </p>
 <p>떡꼬치에서 진화된 형태, 고속도로 휴게소에서 판매하는 인기메뉴</p>
 
-<blockquote><span style="color: #333333;"><span style="color: #333333;">[함께 보면 좋은 관련 글]<br/></span></span><a href="https://happy.infoepic.com/11">외국인에게 알려주는 떡볶이- 1편 '떡볶이의 과거와 현재'</a>
-<p><a href="https://happy.infoepic.com/13">외국인에게 알려주는 떡볶이- 3편 '인기 있는 떡볶이 가게들'</a></p>
+<blockquote><span style="color: #333333;"><span style="color: #333333;">[함께 보면 좋은 관련 글]<br/></span></span><a href="https://happy.infoepic.com/entry/오미자-소개-그리고-효능-사람들이-찾는-이유1">외국인에게 알려주는 떡볶이- 1편 '떡볶이의 과거와 현재'</a>
+<p><a href="https://happy.infoepic.com/entry/오미자-소개-그리고-효능-사람들이-찾는-이유3">외국인에게 알려주는 떡볶이- 3편 '인기 있는 떡볶이 가게들'</a></p>
 </blockquote>
 
 <h2>떡볶이와 함께 먹으면 더 맛있는 떡볶이의 친구들</h2>

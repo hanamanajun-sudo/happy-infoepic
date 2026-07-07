@@ -5,8 +5,8 @@ category: "재난 백과"
 tags: ["그래프", "확진자", "코로나19", "세계현황"]
 slug: "2월26일코로나19-확진자-수-지역전세계-지도-일별-그래프"
 numericId: 178
-description: "현재 감염병위기 단계가"
-thumbnail: "/images/178/img.jpg"
+description: "2월 26일 기준 코로나19 확진자 수와 전세계 지역별 상황을 상세 그래프와 함께 정리한 일별 현황 리포트입니다. 질병관리본부와 WHO의 공식 통계만을 기반으로 한 정확한 데이터로 신종 코로나바이러스 확산 추이를 빠르게 확인하세요."
+thumbnail: "/images/entry/2월26일코로나19-확진자-수-지역전세계-지도-일별-그래프/img.jpg"
 ---
 
 <div class="contents_style">
@@ -30,7 +30,7 @@ thumbnail: "/images/178/img.jpg"
 <p>해외 발생 국가 37개국</p>
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/178/img.jpg"/>
+<img src="/images/entry/2월26일코로나19-확진자-수-지역전세계-지도-일별-그래프/img.jpg"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -109,21 +109,21 @@ thumbnail: "/images/178/img.jpg"
 <h2><span style="color: #000000;"><b>2월 26일 코로나19 전세계 일별 확진자 수 그래프<br/></b></span></h2>
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/178/img.png"/>
+<img src="/images/entry/2월26일코로나19-확진자-수-지역전세계-지도-일별-그래프/img.png"/>
 
 <figcaption></figcaption>
 </figure></p>
 <h2><span style="color: #000000;"><b><span style="color: #000000;"><b>2월 26일 코로나19 한국 확진자 일별 그래프</b></span></b></span></h2>
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/178/img_1.png"/>
+<img src="/images/entry/2월26일코로나19-확진자-수-지역전세계-지도-일별-그래프/img_1.png"/>
 
 <figcaption></figcaption>
 </figure></p>
 <h2><span style="color: #000000;"><b>2월 26일 코로나19 전세계 일별 사망자 수 그래프</b></span></h2>
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/178/img_2.png"/>
+<img src="/images/entry/2월26일코로나19-확진자-수-지역전세계-지도-일별-그래프/img_2.png"/>
 
 <figcaption></figcaption>
 </figure></p>

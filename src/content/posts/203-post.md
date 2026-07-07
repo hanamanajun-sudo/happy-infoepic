@@ -6,7 +6,7 @@ tags: []
 slug: "공개-연애-중인-연예인-커플-모음나이순-2020년"
 numericId: 203
 description: "순서는 둘이 나이 합쳐 어린 순서대로"
-thumbnail: "/images/203/img.png"
+thumbnail: "/images/entry/공개-연애-중인-연예인-커플-모음나이순-2020년/img.png"
 ---
 
 <div class="contents_style">
@@ -16,56 +16,56 @@ thumbnail: "/images/203/img.png"
 <p>1. 김희철 - 모모</p>
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/203/img.png"/>
+<img src="/images/entry/공개-연애-중인-연예인-커플-모음나이순-2020년/img.png"/>
 
 <figcaption></figcaption>
 </figure></p>
 <p>2. 전현무 - 이혜성</p>
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/203/img_1.png"/>
+<img src="/images/entry/공개-연애-중인-연예인-커플-모음나이순-2020년/img_1.png"/>
 
 <figcaption></figcaption>
 </figure></p>
 <p>3. 경리 - 정진운</p>
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/203/img_2.png"/>
+<img src="/images/entry/공개-연애-중인-연예인-커플-모음나이순-2020년/img_2.png"/>
 
 <figcaption></figcaption>
 </figure></p>
 <p>4. 강다니엘 - 지효</p>
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/203/img_3.png"/>
+<img src="/images/entry/공개-연애-중인-연예인-커플-모음나이순-2020년/img_3.png"/>
 
 <figcaption></figcaption>
 </figure></p>
 <p>5. 조병규 - 김보라</p>
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/203/img_4.png"/>
+<img src="/images/entry/공개-연애-중인-연예인-커플-모음나이순-2020년/img_4.png"/>
 
 <figcaption></figcaption>
 </figure></p>
 <p>6. 이광수 - 이선빈</p>
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/203/img_5.png"/>
+<img src="/images/entry/공개-연애-중인-연예인-커플-모음나이순-2020년/img_5.png"/>
 
 <figcaption></figcaption>
 </figure></p>
 <p>7. 현아 - 이던</p>
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/203/img_6.png"/>
+<img src="/images/entry/공개-연애-중인-연예인-커플-모음나이순-2020년/img_6.png"/>
 
 <figcaption></figcaption>
 </figure></p>
 <p>8. 최태준 - 박신혜</p>
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/203/img_7.png"/>
+<img src="/images/entry/공개-연애-중인-연예인-커플-모음나이순-2020년/img_7.png"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -73,7 +73,7 @@ thumbnail: "/images/203/img.png"
 <p>9. 스윙스 - 임보라</p>
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/203/img_8.png"/>
+<img src="/images/entry/공개-연애-중인-연예인-커플-모음나이순-2020년/img_8.png"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -81,7 +81,7 @@ thumbnail: "/images/203/img.png"
 <p>10. 정소민 - 이준</p>
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/203/img_9.png"/>
+<img src="/images/entry/공개-연애-중인-연예인-커플-모음나이순-2020년/img_9.png"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -89,7 +89,7 @@ thumbnail: "/images/203/img.png"
 <p>11. 류준열 - 혜리</p>
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/203/img_10.png"/>
+<img src="/images/entry/공개-연애-중인-연예인-커플-모음나이순-2020년/img_10.png"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -97,7 +97,7 @@ thumbnail: "/images/203/img.png"
 <p>12. 김우빈 - 신민아 </p>
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/203/img_11.png"/>
+<img src="/images/entry/공개-연애-중인-연예인-커플-모음나이순-2020년/img_11.png"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -105,7 +105,7 @@ thumbnail: "/images/203/img.png"
 <p>13. 정경호 - 수영</p>
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/203/img_12.png"/>
+<img src="/images/entry/공개-연애-중인-연예인-커플-모음나이순-2020년/img_12.png"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -113,7 +113,7 @@ thumbnail: "/images/203/img.png"
 <p>14. 마동석 - 예정화</p>
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/203/img_13.png"/>
+<img src="/images/entry/공개-연애-중인-연예인-커플-모음나이순-2020년/img_13.png"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -121,7 +121,7 @@ thumbnail: "/images/203/img.png"
 <p>15. 윤계상 - 이하늬</p>
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/203/img_14.png"/>
+<img src="/images/entry/공개-연애-중인-연예인-커플-모음나이순-2020년/img_14.png"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -130,7 +130,7 @@ thumbnail: "/images/203/img.png"
 <p>16. 윤현민 - 백진희</p>
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/203/img_15.png"/>
+<img src="/images/entry/공개-연애-중인-연예인-커플-모음나이순-2020년/img_15.png"/>
 
 <figcaption></figcaption>
 </figure></p>

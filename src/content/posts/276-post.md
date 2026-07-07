@@ -6,7 +6,7 @@ tags: ["닥터포스터", "부부의세계"]
 slug: "부부의세계-원작-닥터포스터-보는곳줄거리-넷플리스x"
 numericId: 276
 description: "화제의 인기드라마 부부의 세계 너무 재미있게 보고 있고"
-thumbnail: "/images/276/이미지_33.png"
+thumbnail: "/images/entry/부부의세계-원작-닥터포스터-보는곳줄거리-넷플리스x/이미지_33.png"
 ---
 
 <div class="contents_style">
@@ -23,7 +23,7 @@ thumbnail: "/images/276/이미지_33.png"
 <p><b>특별 편성해서 보여준다고 한다. </b></p>
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/276/이미지_33.png"/>
+<img src="/images/entry/부부의세계-원작-닥터포스터-보는곳줄거리-넷플리스x/이미지_33.png"/>
 
 <figcaption></figcaption>
 </figure></p>

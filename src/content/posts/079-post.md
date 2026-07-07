@@ -6,7 +6,7 @@ tags: ["유튜버", "아임뚜렛", "젠이뚜"]
 slug: "젠이뚜아임뚜렛가-상표-출원-한-이유-분석"
 numericId: 79
 description: "황당하고 상식적으로 잘 이해가 안되는 행동들을 하고 있는 점 들을"
-thumbnail: "/images/79/img.png"
+thumbnail: "/images/entry/젠이뚜아임뚜렛가-상표-출원-한-이유-분석/img.png"
 ---
 
 <div class="contents_style">
@@ -41,7 +41,7 @@ thumbnail: "/images/79/img.png"
 <blockquote>보시더라도 여기서 보시고 욕도 여기서 해주세요.<br/>다시한번 죄송합니다. 광고는 모두 내렸습니다.<br/>사칭이 많아 오해가 생길까 우려됩니다.</blockquote>
 <p><figure class="imageblock alignLeft" width="500">
 
-<img src="/images/79/img.png" width="500"/>
+<img src="/images/entry/젠이뚜아임뚜렛가-상표-출원-한-이유-분석/img.png" width="500"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -82,7 +82,7 @@ thumbnail: "/images/79/img.png"
 
 <p><figure class="imageblock alignCenter" width="400">
 
-<img src="/images/79/img_1.png" width="400"/>
+<img src="/images/entry/젠이뚜아임뚜렛가-상표-출원-한-이유-분석/img_1.png" width="400"/>
 
 <figcaption>젠이뚜 사칭에 대한 아임뚜렛의 대처 / 출처 아임뚜렛 젠이뚜 유튜브 캡쳐</figcaption>
 </figure></p>

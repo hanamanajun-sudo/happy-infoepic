@@ -6,13 +6,13 @@ tags: ["짜장면"]
 slug: "외국인에게-알려주는-짜장면-1편"
 numericId: 3
 description: "중식이 소울 푸드? 라고 의아해 할 수 있지만 이를 부정할 수 없는 결정적인"
-thumbnail: "/images/3/img.png"
+thumbnail: "/images/entry/외국인에게-알려주는-짜장면-1편/img.png"
 ---
 
 <div class="contents_style">
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/3/img.png"/>
+<img src="/images/entry/외국인에게-알려주는-짜장면-1편/img.png"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -87,7 +87,7 @@ thumbnail: "/images/3/img.png"
 <p>관련 글: <a href="https://happy.infoepic.com/4" rel="noopener" target="_blank">외국인에게 알려주는 짜장면 2편/ 짜장면이 좋아? 짬뽕이 좋아?</a></p>
 <p><a href="https://happy.infoepic.com/5">외국인에게 알려주는 짜장면 3편/ 한국 사람들은 졸업식 날 짜장면을 먹어?</a></p>
 <p>관련 글: <a href="https://happy.infoepic.com/5" rel="noopener" target="_blank">외국인에게 알려주는 짜장면 3편/ 한국 사람들은 졸업식 날 짜장면을 먹어?</a></p>
-<p><a href="https://happy.infoepic.com/6">외국인에게 알려주는 짜장면4편 -[짜장면은 한국 배달 문화의 아버지]</a></p>
-<p>관련 글: <a href="https://happy.infoepic.com/6" rel="noopener" target="_blank">외국인에게 알려주는 짜장면4편 -[짜장면은 한국 배달 문화의 아버지]</a></p>
+<p><a href="https://happy.infoepic.com/entry/외국인에게-알려주는-짜장면4편-짜장면은-한국-배달-문화의-아버지">외국인에게 알려주는 짜장면4편 -[짜장면은 한국 배달 문화의 아버지]</a></p>
+<p>관련 글: <a href="https://happy.infoepic.com/entry/외국인에게-알려주는-짜장면4편-짜장면은-한국-배달-문화의-아버지" rel="noopener" target="_blank">외국인에게 알려주는 짜장면4편 -[짜장면은 한국 배달 문화의 아버지]</a></p>
 
 </div>

@@ -62,29 +62,94 @@ const fullTitle = title === '해피로그' ? title : `${title} | 해피로그`;
   <!-- Favicon -->
   <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
 
+  <!-- RSS -->
+  <link rel="alternate" type="application/rss+xml" title="해피로그 RSS" href="/rss.xml" />
+
   <slot name="head" />
 
-  <!--
-    Google Analytics / AdSense: happy.infoepic.com은 game.infoepic.com과 별도의
-    GA4 속성 / AdSense 계정을 써야 하므로, 실제 측정 ID를 발급받기 전까지는
-    스크립트를 비워둡니다. (game.infoepic의 ID를 그대로 쓰면 다른 사이트로
-    트래픽이 잘못 집계되고 AdSense 정책 위반 소지가 있음)
-    <script async src="https://www.googletagmanager.com/gtag/js?id=G-XXXXXXXXXX"></script>
-    <script>
-      window.dataLayer = window.dataLayer || [];
-      function gtag(){dataLayer.push(arguments);}
-      gtag('js', new Date());
-      gtag('config', 'G-XXXXXXXXXX');
-    </script>
-    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-XXXXXXXXXXXXXXXX"
-       crossorigin="anonymous"></script>
-  -->
+  <!-- Google tag (gtag.js) - GA4 -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-F0ERY4ZCHZ"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', 'G-F0ERY4ZCHZ');
+  </script>
 </head>
 <body>
+  <!-- Skip navigation -->
+  <a href="#main" class="skip-link">본문으로 바로가기</a>
+
   <Header />
   <main id="main">
     <slot />
   </main>
   <Footer />
+
+  <!-- Scroll to top -->
+  <button id="scrollTopBtn" class="scroll-top" aria-label="맨 위로" hidden>
+    <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M18 15l-6-6-6 6"/></svg>
+  </button>
+
+  <script>
+    // Scroll-to-top button
+    const btn = document.getElementById('scrollTopBtn');
+    if (btn) {
+      const onScroll = () => {
+        btn.toggleAttribute('hidden', window.scrollY < 400);
+      };
+      window.addEventListener('scroll', onScroll, { passive: true });
+      btn.addEventListener('click', () => {
+        window.scrollTo({ top: 0, behavior: 'smooth' });
+      });
+    }
+  </script>
 </body>
 </html>
+
+<style is:global>
+/* Skip navigation */
+.skip-link {
+  position: absolute;
+  top: -100%;
+  left: 0;
+  z-index: 10000;
+  padding: 0.6rem 1.2rem;
+  background: var(--color-primary);
+  color: #fff;
+  font-weight: 700;
+  font-size: 0.9rem;
+  text-decoration: none;
+  border-radius: 0 0 var(--radius-sm) 0;
+  transition: top 0.15s;
+}
+.skip-link:focus {
+  top: 0;
+}
+
+/* Scroll to top */
+.scroll-top {
+  position: fixed;
+  bottom: 1.5rem;
+  right: 1.5rem;
+  z-index: 999;
+  width: 2.75rem;
+  height: 2.75rem;
+  border-radius: 50%;
+  border: 2px solid var(--color-text);
+  background: var(--color-paper);
+  color: var(--color-text);
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-shadow: var(--shadow-md);
+  transition: transform 0.2s, opacity 0.2s, background 0.2s;
+}
+.scroll-top:hover {
+  transform: translateY(-3px);
+  background: var(--color-primary);
+  color: #fff;
+  border-color: var(--color-primary);
+}
+</style>

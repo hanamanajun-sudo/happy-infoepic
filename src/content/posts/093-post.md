@@ -6,7 +6,7 @@ tags: ["우한", "중국상황"]
 slug: "우한-폭로-영상충격적인-내용의-중국-상황"
 numericId: 93
 description: "현재 인터넷에 급속도로 퍼지고 있는 우한 코로나 폐렴 폭로 영상이 올라왔습니다."
-thumbnail: "/images/93/img.png"
+thumbnail: "/images/entry/우한-폭로-영상충격적인-내용의-중국-상황/img.png"
 ---
 
 <div class="contents_style">
@@ -15,7 +15,7 @@ thumbnail: "/images/93/img.png"
 
 <p><figure class="imageblock alignCenter" width="400">
 
-<img src="/images/93/img.png" width="400"/>
+<img src="/images/entry/우한-폭로-영상충격적인-내용의-중국-상황/img.png" width="400"/>
 
 <figcaption></figcaption>
 </figure></p>

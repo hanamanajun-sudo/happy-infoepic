@@ -6,7 +6,7 @@ tags: []
 slug: "향-좋은-바디워시-추천-순위-Best9"
 numericId: 419
 description: "해피바스 바디워시 - 코지 코튼 프라워"
-thumbnail: "/images/419/img.png"
+thumbnail: "/images/entry/향-좋은-바디워시-추천-순위-Best9/img.png"
 ---
 
 <div class="contents_style">
@@ -17,7 +17,7 @@ thumbnail: "/images/419/img.png"
 
 <p><figure class="imageblock alignCenter" height="334" width="500">
 
-<img height="334" src="/images/419/img.png" width="500"/>
+<img height="334" src="/images/entry/향-좋은-바디워시-추천-순위-Best9/img.png" width="500"/>
 
 <figcaption>향 좋은 바디워시 추천</figcaption>
 </figure></p>

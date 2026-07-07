@@ -6,7 +6,7 @@ tags: ["우한", "우한현재상황"]
 slug: "우한-위치-현재-상황-확진자-수-업뎃-발원지-도시-정보"
 numericId: 91
 description: "현재 우한 폐렴으로 난리 난 우한 지역에 대해 상식이 될만한"
-thumbnail: "/images/91/img.png"
+thumbnail: "/images/entry/우한-위치-현재-상황-확진자-수-업뎃-발원지-도시-정보/img.png"
 ---
 
 <div class="contents_style">
@@ -19,7 +19,7 @@ thumbnail: "/images/91/img.png"
 <p>중국 중부이며 인구가 가장 많은 도시라고 한다. </p>
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/91/img.png"/>
+<img src="/images/entry/우한-위치-현재-상황-확진자-수-업뎃-발원지-도시-정보/img.png"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -81,7 +81,7 @@ thumbnail: "/images/91/img.png"
 
 <p><figure class="imageblock alignCenter" width="600">
 
-<img src="/images/91/img_1.png" width="600"/>
+<img src="/images/entry/우한-위치-현재-상황-확진자-수-업뎃-발원지-도시-정보/img_1.png" width="600"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -100,7 +100,7 @@ thumbnail: "/images/91/img.png"
 <p>관련 글: <a href="https://happy.infoepic.com/entry/%EC%9A%B0%ED%95%9C-%ED%8F%90%EB%A0%B4-%EC%95%8C%EC%95%84%EC%95%BC-%ED%95%A0-%EC%A6%9D%EC%83%81-5%EA%B0%80%EC%A7%80%EC%98%88%EB%B0%A9%EB%B2%95-3%EA%B0%80%EC%A7%80" rel="noopener" target="_blank">'우한 폐렴' 알아야 할 증상 5가지/예방법 3가지</a></p>
 <p><figure class="imageblock alignCenter" width="400">
 
-<img src="/images/91/img_2.png" width="400"/>
+<img src="/images/entry/우한-위치-현재-상황-확진자-수-업뎃-발원지-도시-정보/img_2.png" width="400"/>
 
 <figcaption></figcaption>
 </figure></p>

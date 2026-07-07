@@ -6,7 +6,7 @@ tags: ["안지영", "우지윤", "볼빨간사춘기포에버", "볼빨간이춘
 slug: "볼빨간사춘기-우지윤-탈퇴-이유해체x-안지영-나이"
 numericId: 256
 description: "볼빨간사춘기 소속사 쇼파르 뮤직이 4월 2일 공식적으로 볼빨간사춘기의 멤버 구성이 바뀜을 알렸다."
-thumbnail: "/images/256/2020051302111_0.jpg"
+thumbnail: "/images/entry/볼빨간사춘기-우지윤-탈퇴-이유해체x-안지영-나이/2020051302111_0.jpg"
 ---
 
 <div class="contents_style">
@@ -34,7 +34,7 @@ thumbnail: "/images/256/2020051302111_0.jpg"
 
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/256/2020051302111_0.jpg"/>
+<img src="/images/entry/볼빨간사춘기-우지윤-탈퇴-이유해체x-안지영-나이/2020051302111_0.jpg"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -64,7 +64,7 @@ thumbnail: "/images/256/2020051302111_0.jpg"
 <p>우지윤은 편지를 써서 팬들에게 본인의 마음을 전달하기도 했는데</p>
 <p><figure class="imageblock floatLeft" width="400">
 
-<img src="/images/256/official_bol4_89844874_200439044598888_9170201733501705519_n.jpg" width="400"/>
+<img src="/images/entry/볼빨간사춘기-우지윤-탈퇴-이유해체x-안지영-나이/official_bol4_89844874_200439044598888_9170201733501705519_n.jpg" width="400"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -109,7 +109,7 @@ thumbnail: "/images/256/2020051302111_0.jpg"
 <h3><b><span style="background-color: #dddddd;">우</span>지윤 간단 프로필</b></h3>
 <p><figure class="imageblock floatLeft" width="400">
 
-<img src="/images/256/official_bol4_81835641_217630475911062_2084776834641187377_n.jpg" width="400"/>
+<img src="/images/entry/볼빨간사춘기-우지윤-탈퇴-이유해체x-안지영-나이/official_bol4_81835641_217630475911062_2084776834641187377_n.jpg" width="400"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -170,7 +170,7 @@ thumbnail: "/images/256/2020051302111_0.jpg"
 
 <p><figure class="imageblock floatRight" width="400">
 
-<img src="/images/256/img.jpg" width="400"/>
+<img src="/images/entry/볼빨간사춘기-우지윤-탈퇴-이유해체x-안지영-나이/img.jpg" width="400"/>
 
 <figcaption></figcaption>
 </figure></p>

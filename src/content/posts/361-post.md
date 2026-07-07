@@ -6,7 +6,7 @@ tags: ["미세먼지"]
 slug: "미세먼지-실시간-위성사진-추천4곳초미세먼지-예보지도-사이트"
 numericId: 361
 description: "한동안 쾌적한 대기 상태에 너무 행복했는데 점점 다시 예전 대기 상태로 돌아가는"
-thumbnail: "/images/361/img.png"
+thumbnail: "/images/entry/미세먼지-실시간-위성사진-추천4곳초미세먼지-예보지도-사이트/img.png"
 ---
 
 <div class="contents_style">
@@ -31,7 +31,7 @@ thumbnail: "/images/361/img.png"
 <p>네이버에서 이곳 위성사진을 참조하여 사용하고 있다. </p>
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/361/img.png"/>
+<img src="/images/entry/미세먼지-실시간-위성사진-추천4곳초미세먼지-예보지도-사이트/img.png"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -48,7 +48,7 @@ thumbnail: "/images/361/img.png"
 
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/361/img_1.png"/>
+<img src="/images/entry/미세먼지-실시간-위성사진-추천4곳초미세먼지-예보지도-사이트/img_1.png"/>
 
 <figcaption>지역별로 상세하게 확인 가능</figcaption>
 </figure></p>
@@ -57,7 +57,7 @@ thumbnail: "/images/361/img.png"
 
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/361/img_2.png"/>
+<img src="/images/entry/미세먼지-실시간-위성사진-추천4곳초미세먼지-예보지도-사이트/img_2.png"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -66,7 +66,7 @@ thumbnail: "/images/361/img.png"
 
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/361/img_3.png"/>
+<img src="/images/entry/미세먼지-실시간-위성사진-추천4곳초미세먼지-예보지도-사이트/img_3.png"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -87,7 +87,7 @@ thumbnail: "/images/361/img.png"
 
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/361/img_4.png"/>
+<img src="/images/entry/미세먼지-실시간-위성사진-추천4곳초미세먼지-예보지도-사이트/img_4.png"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -104,7 +104,7 @@ thumbnail: "/images/361/img.png"
 
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/361/img_5.png"/>
+<img src="/images/entry/미세먼지-실시간-위성사진-추천4곳초미세먼지-예보지도-사이트/img_5.png"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -114,7 +114,7 @@ thumbnail: "/images/361/img.png"
 
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/361/img_6.png"/>
+<img src="/images/entry/미세먼지-실시간-위성사진-추천4곳초미세먼지-예보지도-사이트/img_6.png"/>
 
 <figcaption></figcaption>
 </figure></p>

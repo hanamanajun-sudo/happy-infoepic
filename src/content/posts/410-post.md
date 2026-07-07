@@ -5,14 +5,14 @@ category: "라이프 트렌드/음식&레시피 백과"
 tags: []
 slug: "하인즈-마요네즈와-만난-신개념-소스-한국-도입-시급"
 numericId: 410
-description: "마요네즈 + 머스타드 = 마요머스"
-thumbnail: "/images/410/img.jpg"
+description: "하인즈 마요네즈와 머스타드가 만나 탄생한 신개념 소스 마요머스를 비롯한 다양한 믹스 소스 조합을 재미있게 소개합니다. 마요첩, 크랜치 등 아직 한국에는 정식 출시되지 않은 다양한 글로벌 소스들의 맛과 활용법을 알아보세요."
+thumbnail: "/images/entry/하인즈-마요네즈와-만난-신개념-소스-한국-도입-시급/img.jpg"
 ---
 
 <div class="contents_style">
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/410/img.jpg"/>
+<img src="/images/entry/하인즈-마요네즈와-만난-신개념-소스-한국-도입-시급/img.jpg"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -22,7 +22,7 @@ thumbnail: "/images/410/img.jpg"
 <p>마요네즈 + 바베큐 소스 = 마요큐</p>
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/410/img_1.jpg"/>
+<img src="/images/entry/하인즈-마요네즈와-만난-신개념-소스-한국-도입-시급/img_1.jpg"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -31,7 +31,7 @@ thumbnail: "/images/410/img.jpg"
 
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/410/img_2.jpg"/>
+<img src="/images/entry/하인즈-마요네즈와-만난-신개념-소스-한국-도입-시급/img_2.jpg"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -39,7 +39,7 @@ thumbnail: "/images/410/img.jpg"
 <p>그리고</p>
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/410/img_3.jpg"/>
+<img src="/images/entry/하인즈-마요네즈와-만난-신개념-소스-한국-도입-시급/img_3.jpg"/>
 
 <figcaption></figcaption>
 </figure></p>

@@ -6,7 +6,7 @@ tags: []
 slug: "프라우드먼-모니카-프로필-나이-과거-사진"
 numericId: 422
 description: "프라우드먼은 스트릿 우먼 파이터에 8팀의 참가팀 중 하나 입니다."
-thumbnail: "/images/422/img.png"
+thumbnail: "/images/entry/프라우드먼-모니카-프로필-나이-과거-사진/img.png"
 ---
 
 <div class="contents_style">
@@ -17,7 +17,7 @@ thumbnail: "/images/422/img.png"
 <h2><b>프라우드먼 (PROWDMON) 멤버 소개</b></h2>
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/422/img.png"/>
+<img src="/images/entry/프라우드먼-모니카-프로필-나이-과거-사진/img.png"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -46,7 +46,7 @@ thumbnail: "/images/422/img.png"
 <p>1986년 6월 22일생 (나이 35살)</p>
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/422/img_1.png"/>
+<img src="/images/entry/프라우드먼-모니카-프로필-나이-과거-사진/img_1.png"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -56,17 +56,17 @@ thumbnail: "/images/422/img.png"
 <p>성형수술 관련해서 본인이 언급한 내용이 있어서 갖고왔어요. </p>
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/422/img.jpg"/>
+<img src="/images/entry/프라우드먼-모니카-프로필-나이-과거-사진/img.jpg"/>
 
 <figcaption></figcaption>
 </figure><figure class="imageblock alignCenter">
 
-<img src="/images/422/img_1.jpg"/>
+<img src="/images/entry/프라우드먼-모니카-프로필-나이-과거-사진/img_1.jpg"/>
 
 <figcaption></figcaption>
 </figure><figure class="imageblock alignCenter">
 
-<img src="/images/422/img.gif"/>
+<img src="/images/entry/프라우드먼-모니카-프로필-나이-과거-사진/img.gif"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -76,44 +76,44 @@ thumbnail: "/images/422/img.png"
 <h2><b><b>모니카 </b>과거 사진</b></h2>
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/422/img_2.png"/>
+<img src="/images/entry/프라우드먼-모니카-프로필-나이-과거-사진/img_2.png"/>
 
 <figcaption></figcaption>
 </figure><figure class="imageblock alignCenter" height="399" width="400">
 
-<img height="399" src="/images/422/img_3.png" width="400"/>
+<img height="399" src="/images/entry/프라우드먼-모니카-프로필-나이-과거-사진/img_3.png" width="400"/>
 
 <figcaption></figcaption>
 </figure><figure class="imageblock alignCenter">
 
-<img src="/images/422/img_4.png"/>
+<img src="/images/entry/프라우드먼-모니카-프로필-나이-과거-사진/img_4.png"/>
 
 <figcaption></figcaption>
 </figure><figure class="imageblock alignCenter">
 
-<img src="/images/422/img_5.png"/>
+<img src="/images/entry/프라우드먼-모니카-프로필-나이-과거-사진/img_5.png"/>
 
 <figcaption></figcaption>
 </figure><figure class="imageblock alignCenter" height="399" width="400">
 
-<img height="399" src="/images/422/img_6.png" width="400"/>
+<img height="399" src="/images/entry/프라우드먼-모니카-프로필-나이-과거-사진/img_6.png" width="400"/>
 
 <figcaption></figcaption>
 </figure><figure class="imageblock alignCenter">
 
-<img src="/images/422/img_7.png"/>
+<img src="/images/entry/프라우드먼-모니카-프로필-나이-과거-사진/img_7.png"/>
 
 <figcaption></figcaption>
 </figure><figure class="imageblock alignCenter" height="399" width="400">
 
-<img height="399" src="/images/422/img_8.png" width="400"/>
+<img height="399" src="/images/entry/프라우드먼-모니카-프로필-나이-과거-사진/img_8.png" width="400"/>
 
 <figcaption></figcaption>
 </figure></p>
 <p>모니카 님은 여성이 봐도 남성이 봐도 멋진 카리스마 넘치는 모습으로 인기를 끌고 있는 중이에요.</p>
 <p><figure class="imageblock alignCenter" height="325" width="500">
 
-<img height="325" src="/images/422/img_2.jpg" width="500"/>
+<img height="325" src="/images/entry/프라우드먼-모니카-프로필-나이-과거-사진/img_2.jpg" width="500"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -122,67 +122,67 @@ thumbnail: "/images/422/img.png"
 <h2><b>모니카 카리스마 방송 짤 움짤 모습 </b></h2>
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/422/img_1.gif"/>
+<img src="/images/entry/프라우드먼-모니카-프로필-나이-과거-사진/img_1.gif"/>
 
 <figcaption></figcaption>
 </figure><figure class="imageblock alignCenter">
 
-<img src="/images/422/img_3.jpg"/>
+<img src="/images/entry/프라우드먼-모니카-프로필-나이-과거-사진/img_3.jpg"/>
 
 <figcaption></figcaption>
 </figure><figure class="imageblock alignCenter">
 
-<img src="/images/422/img_4.jpg"/>
+<img src="/images/entry/프라우드먼-모니카-프로필-나이-과거-사진/img_4.jpg"/>
 
 <figcaption></figcaption>
 </figure><figure class="imageblock alignCenter">
 
-<img src="/images/422/img_5.jpg"/>
+<img src="/images/entry/프라우드먼-모니카-프로필-나이-과거-사진/img_5.jpg"/>
 
 <figcaption></figcaption>
 </figure><figure class="imageblock alignCenter">
 
-<img src="/images/422/img_6.jpg"/>
+<img src="/images/entry/프라우드먼-모니카-프로필-나이-과거-사진/img_6.jpg"/>
 
 <figcaption></figcaption>
 </figure><figure class="imageblock alignCenter">
 
-<img src="/images/422/img_7.jpg"/>
+<img src="/images/entry/프라우드먼-모니카-프로필-나이-과거-사진/img_7.jpg"/>
 
 <figcaption></figcaption>
 </figure><figure class="imageblock alignCenter">
 
-<img src="/images/422/img_2.gif"/>
+<img src="/images/entry/프라우드먼-모니카-프로필-나이-과거-사진/img_2.gif"/>
 
 <figcaption></figcaption>
 </figure><figure class="imageblock alignCenter">
 
-<img src="/images/422/img_3.gif"/>
+<img src="/images/entry/프라우드먼-모니카-프로필-나이-과거-사진/img_3.gif"/>
 
 <figcaption></figcaption>
 </figure><figure class="imageblock alignCenter">
 
-<img src="/images/422/img_4.gif"/>
+<img src="/images/entry/프라우드먼-모니카-프로필-나이-과거-사진/img_4.gif"/>
 
 <figcaption></figcaption>
 </figure><figure class="imageblock alignCenter">
 
-<img src="/images/422/img_5.gif"/>
+<img src="/images/entry/프라우드먼-모니카-프로필-나이-과거-사진/img_5.gif"/>
 
 <figcaption></figcaption>
 </figure><figure class="imageblock alignCenter">
 
-<img src="/images/422/img_6.gif"/>
+<img src="/images/entry/프라우드먼-모니카-프로필-나이-과거-사진/img_6.gif"/>
 
 <figcaption></figcaption>
 </figure><figure class="imageblock alignCenter">
 
-<img src="/images/422/img_7.gif"/>
+<img src="/images/entry/프라우드먼-모니카-프로필-나이-과거-사진/img_7.gif"/>
 
 <figcaption></figcaption>
 </figure><figure class="imageblock alignCenter">
 
-<img src="/images/422/img_8.gif"/>
+<img src="/images/entry/프라우드먼-모니카-프로필-나이-과거-사진/img_8.gif"/>
 
 <figcaption></figcaption>
 </figure></p>

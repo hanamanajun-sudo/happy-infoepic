@@ -6,7 +6,7 @@ tags: []
 slug: "YGX-멤버-리정-프로필-나이-과거-사진-인스타"
 numericId: 423
 description: "스우파(스트릿우먼파이터)에 참여는 8팀 중에서도 YGX의 인기는 상당히 높은 편이다."
-thumbnail: "/images/423/img.png"
+thumbnail: "/images/entry/YGX-멤버-리정-프로필-나이-과거-사진-인스타/img.png"
 ---
 
 <div class="contents_style">
@@ -16,7 +16,7 @@ thumbnail: "/images/423/img.png"
 <h2><b>YGX 멤버 소개</b></h2>
 <p><figure class="imageblock alignCenter" height="500" width="500">
 
-<img height="500" src="/images/423/img.png" width="500"/>
+<img height="500" src="/images/entry/YGX-멤버-리정-프로필-나이-과거-사진-인스타/img.png" width="500"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -31,7 +31,7 @@ thumbnail: "/images/423/img.png"
 <h2><b>리정 프로필</b></h2>
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/423/img_1.png"/>
+<img src="/images/entry/YGX-멤버-리정-프로필-나이-과거-사진-인스타/img_1.png"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -42,34 +42,34 @@ thumbnail: "/images/423/img.png"
 <h2><b>리정 과거 사진</b></h2>
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/423/img.jpg"/>
+<img src="/images/entry/YGX-멤버-리정-프로필-나이-과거-사진-인스타/img.jpg"/>
 
 <figcaption></figcaption>
 </figure><figure class="imageblock alignCenter">
 
-<img src="/images/423/img_1.jpg"/>
+<img src="/images/entry/YGX-멤버-리정-프로필-나이-과거-사진-인스타/img_1.jpg"/>
 
 <figcaption></figcaption>
 </figure></p>
 
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/423/img_2.jpg"/>
+<img src="/images/entry/YGX-멤버-리정-프로필-나이-과거-사진-인스타/img_2.jpg"/>
 
 <figcaption></figcaption>
 </figure><figure class="imageblock alignCenter">
 
-<img src="/images/423/img_3.jpg"/>
+<img src="/images/entry/YGX-멤버-리정-프로필-나이-과거-사진-인스타/img_3.jpg"/>
 
 <figcaption></figcaption>
 </figure><figure class="imageblock alignCenter">
 
-<img src="/images/423/img_4.jpg"/>
+<img src="/images/entry/YGX-멤버-리정-프로필-나이-과거-사진-인스타/img_4.jpg"/>
 
 <figcaption></figcaption>
 </figure><figure class="imageblock alignCenter">
 
-<img src="/images/423/img_5.jpg"/>
+<img src="/images/entry/YGX-멤버-리정-프로필-나이-과거-사진-인스타/img_5.jpg"/>
 
 <figcaption></figcaption>
 </figure></p>

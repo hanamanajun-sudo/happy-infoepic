@@ -6,13 +6,13 @@ tags: ["강다니엘"]
 slug: "강다니엘-살려줘요-활동중단-이유-인스타-주소"
 numericId: 43
 description: "음악 프로그램에서 신곡인 '터칭'으로1위를 한 이후인데 팬카페에 글이 올라왔다고 해요.팬카페에 올라온 글은"
-thumbnail: "/images/43/img.png"
+thumbnail: "/images/entry/강다니엘-살려줘요-활동중단-이유-인스타-주소/img.png"
 ---
 
 <div class="contents_style">
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/43/img.png"/>
+<img src="/images/entry/강다니엘-살려줘요-활동중단-이유-인스타-주소/img.png"/>
 
 <figcaption></figcaption>
 </figure></p>

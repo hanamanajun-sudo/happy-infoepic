@@ -6,7 +6,7 @@ tags: ["펭수", "플린", "김동준"]
 slug: "펭수-김동준-플린-아닌-이유진짜-정체-정보-모음"
 numericId: 154
 description: "펭수의 정체가 드디어 세상에 알려지게 되었다고 많은 분들이 말들을 하고 있고"
-thumbnail: "/images/154/img.jpg"
+thumbnail: "/images/entry/펭수-김동준-플린-아닌-이유진짜-정체-정보-모음/img.jpg"
 ---
 
 <div class="contents_style">
@@ -31,7 +31,7 @@ thumbnail: "/images/154/img.jpg"
 <p>이런 정도로 <span style="background-color: #f6e199; color: #009a87;"><b>펭수 정체의 증거</b></span>라는게.. </p>
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/154/img.jpg"/>
+<img src="/images/entry/펭수-김동준-플린-아닌-이유진짜-정체-정보-모음/img.jpg"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -60,7 +60,7 @@ thumbnail: "/images/154/img.jpg"
 <h4>후덜덜한 기럭지 남매의 우월한 유전자</h4>
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/154/img.png"/>
+<img src="/images/entry/펭수-김동준-플린-아닌-이유진짜-정체-정보-모음/img.png"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -69,7 +69,7 @@ thumbnail: "/images/154/img.jpg"
 
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/154/img_1.jpg"/>
+<img src="/images/entry/펭수-김동준-플린-아닌-이유진짜-정체-정보-모음/img_1.jpg"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -81,7 +81,7 @@ thumbnail: "/images/154/img.jpg"
 <p>그리도 또 여러차례 정체 논란에 대한 해명이 되었죠 </p>
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/154/img_1.png"/>
+<img src="/images/entry/펭수-김동준-플린-아닌-이유진짜-정체-정보-모음/img_1.png"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -91,7 +91,7 @@ thumbnail: "/images/154/img.jpg"
 
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/154/img_2.jpg"/>
+<img src="/images/entry/펭수-김동준-플린-아닌-이유진짜-정체-정보-모음/img_2.jpg"/>
 
 <figcaption></figcaption>
 </figure></p>

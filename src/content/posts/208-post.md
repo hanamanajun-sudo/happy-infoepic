@@ -6,13 +6,13 @@ tags: []
 slug: "아플-때-계란죽-만들기-초간단-인생-레시피"
 numericId: 208
 description: "속이 안좋을 때 간단하게 만들어 먹을 수 있는 계란죽 입니다."
-thumbnail: "/images/208/img.png"
+thumbnail: "/images/entry/아플-때-계란죽-만들기-초간단-인생-레시피/img.png"
 ---
 
 <div class="contents_style">
 <p><figure class="imageblock alignCenter" width="400">
 
-<img src="/images/208/img.png" width="400"/>
+<img src="/images/entry/아플-때-계란죽-만들기-초간단-인생-레시피/img.png" width="400"/>
 
 <figcaption></figcaption>
 </figure></p>

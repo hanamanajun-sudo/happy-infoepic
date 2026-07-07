@@ -3,7 +3,9 @@ import Icons from './Icons.astro';
 
 const navItems = [
   { href: '/', label: '홈', icon: 'home' as const },
+  { href: '/search/', label: '검색', icon: 'search' as const },
   { href: '/category/', label: '카테고리', icon: 'folder' as const },
+  { href: '/about/', label: '소개', icon: 'heart' as const },
 ];
 
 const { pathname } = Astro.url;

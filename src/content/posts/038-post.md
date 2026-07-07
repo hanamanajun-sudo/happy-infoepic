@@ -6,13 +6,13 @@ tags: ["스타벅스"]
 slug: "홀리데이-카라멜-돌체-라떼후기-모음스타벅스-2019"
 numericId: 38
 description: "반짝반짝 크리스마스트리를 닮은 이번 2019년 스타벅스 크리스마스 메뉴"
-thumbnail: "/images/38/img.png"
+thumbnail: "/images/entry/홀리데이-카라멜-돌체-라떼후기-모음스타벅스-2019/img.png"
 ---
 
 <div class="contents_style">
 <p><figure class="imageblock alignLeft" width="400">
 
-<img src="/images/38/img.png" width="400"/>
+<img src="/images/entry/홀리데이-카라멜-돌체-라떼후기-모음스타벅스-2019/img.png" width="400"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -66,7 +66,7 @@ thumbnail: "/images/38/img.png"
 <blockquote><span style="color: #333333;"><span style="color: #333333;">아이스 홀리데이 카라멜 돌체 라떼 - </span><span style="color: #333333;">칼로리 1회 제공량: </span>320<span style="color: #333333;">kcal</span></span></blockquote>
 <p><figure class="imageblock alignLeft" width="400">
 
-<img src="/images/38/img_1.png" width="400"/>
+<img src="/images/entry/홀리데이-카라멜-돌체-라떼후기-모음스타벅스-2019/img_1.png" width="400"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -87,7 +87,7 @@ thumbnail: "/images/38/img.png"
 </table>
 <p><figure class="imageblock alignLeft" width="400">
 
-<img src="/images/38/img_2.png" width="400"/>
+<img src="/images/entry/홀리데이-카라멜-돌체-라떼후기-모음스타벅스-2019/img_2.png" width="400"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -97,7 +97,7 @@ thumbnail: "/images/38/img.png"
 <p><b>시즌 메뉴는 기대감을 발을 동동 거리고 <br/>먹은 사람들은 달아서 발을 동동 거리고<br/><br/></b></p>
 </blockquote>
 <p><span style="background-color: #f6e199;">[함께 보면 좋은 관련 글]</span></p>
-<p style="text-align: left;"><span style="background-color: #f6e199;"><a href="https://happy.infoepic.com/31" style="background-color: #f6e199;">홀리데이 화이트 뱅쇼/ 후기 모음 (스벅 크리스마스)</a></span></p>
-<p style="text-align: left;"><span style="background-color: #f6e199;"><a href="https://happy.infoepic.com/32" style="background-color: #f6e199;">홀리데이 민트 초콜릿/ 후기 모음 </a><a href="https://happy.infoepic.com/31" style="background-color: #f6e199;">(스벅 크리스마스)</a></span></p>
+<p style="text-align: left;"><span style="background-color: #f6e199;"><a href="https://happy.infoepic.com/entry/외국인에게-알려주는-짜장면-1편1" style="background-color: #f6e199;">홀리데이 화이트 뱅쇼/ 후기 모음 (스벅 크리스마스)</a></span></p>
+<p style="text-align: left;"><span style="background-color: #f6e199;"><a href="https://happy.infoepic.com/entry/외국인에게-알려주는-짜장면-1편2" style="background-color: #f6e199;">홀리데이 민트 초콜릿/ 후기 모음 </a><a href="https://happy.infoepic.com/entry/외국인에게-알려주는-짜장면-1편1" style="background-color: #f6e199;">(스벅 크리스마스)</a></span></p>
 <p style="text-align: left;"><br/><br/></p>
 </div>

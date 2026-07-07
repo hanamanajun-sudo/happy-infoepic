@@ -6,7 +6,7 @@ tags: ["밀가루"]
 slug: "밀가루-종류-차이점-박력분-중력분-강력분부침가루-튀김가루-3줄-요약"
 numericId: 430
 description: "요리에 관심이 있거나 베이킹을 하기 시작하려는 사람들에게 눈에 보이기 시작하는 것이 밀가루의 종류이다."
-thumbnail: "/images/430/제목을_입력해주세요_-001_6_1.png"
+thumbnail: "/images/entry/밀가루-종류-차이점-박력분-중력분-강력분부침가루-튀김가루-3줄-요약/제목을_입력해주세요_-001_6_1.png"
 ---
 
 <div class="contents_style">
@@ -16,7 +16,7 @@ thumbnail: "/images/430/제목을_입력해주세요_-001_6_1.png"
 <h2><b>밀가루 종류/ 차이점</b></h2>
 <p><figure class="imageblock alignCenter" height="350" width="350">
 
-<img height="350" src="/images/430/제목을_입력해주세요_-001_6_1.png" width="350"/>
+<img height="350" src="/images/entry/밀가루-종류-차이점-박력분-중력분-강력분부침가루-튀김가루-3줄-요약/제목을_입력해주세요_-001_6_1.png" width="350"/>
 
 <figcaption></figcaption>
 </figure></p>

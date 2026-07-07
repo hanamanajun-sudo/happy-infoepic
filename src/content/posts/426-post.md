@@ -6,7 +6,7 @@ tags: []
 slug: "세뱃돈-얼마-줘야해-초등학생-중학생-고등학생-대학생-2022년-액수-정리"
 numericId: 426
 description: "설날이 다가오면 가족, 친척이 모이고 세뱃돈도 줘야하는데 매년 조카 에게 얼마를 줘야 할지 모르겠다."
-thumbnail: "/images/426/제목을_입력해주세요_-001_17_1.png"
+thumbnail: "/images/entry/세뱃돈-얼마-줘야해-초등학생-중학생-고등학생-대학생-2022년-액수-정리/제목을_입력해주세요_-001_17_1.png"
 ---
 
 <div class="contents_style">
@@ -17,7 +17,7 @@ thumbnail: "/images/426/제목을_입력해주세요_-001_17_1.png"
 
 <p><figure class="imageblock alignCenter" height="350" width="350">
 
-<img height="350" src="/images/426/제목을_입력해주세요_-001_17_1.png" width="350"/>
+<img height="350" src="/images/entry/세뱃돈-얼마-줘야해-초등학생-중학생-고등학생-대학생-2022년-액수-정리/제목을_입력해주세요_-001_17_1.png" width="350"/>
 
 <figcaption></figcaption>
 </figure></p>

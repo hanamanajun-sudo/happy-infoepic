@@ -1,0 +1,110 @@
+# 해피로그 Decap CMS 설정
+#
+# 🔑 GitHub OAuth 설정 필요:
+# 1. GitHub Settings → Developer settings → OAuth Apps → New OAuth App
+#    - Application name: happy-infoepic-cms
+#    - Homepage URL: https://happy.infoepic.com
+#    - Authorization callback URL: https://happy.infoepic.com/admin/
+# 2. 발급받은 Client ID / Client Secret
+#
+# 3-1. (추천) 무료 OAuth 프록시 사용:
+#      https://github.com/vencax/netlify-cms-github-oauth-provider
+#      → https://oauth-xxx.herokuapp.com/auth (배포된 서비스)
+#
+# 3-2. 또는 직접 OAuth 서버 구축:
+#      https://github.com/ndom91/netlify-cms-oauth-provider
+#
+# 4. 아래 backend.proxy_url 에 OAuth 프록시 URL 입력
+
+backend:
+  name: github
+  repo: hanamanajun-sudo/happy-site     # ← 실제 GitHub 저장소로 변경
+  branch: main
+  base_url: https://happy.infoepic.com   # OAuth 프록시 URL (설정 후 변경)
+  # proxy_url: https://your-oauth-server.com/auth  # ← OAuth 프록시 서버 주소
+
+publish_mode: editorial_workflow
+
+media_folder: public/images
+public_folder: /images
+
+collections:
+  - name: "posts"
+    label: "게시글"
+    label_singular: "글"
+    folder: "src/content/posts"
+    create: true
+    delete: true
+    extension: md
+    format: yaml-frontmatter
+    slug: "{{slug}}"
+    path: "{{numericId}}-post"
+    media_folder: "{{media_folder}}/{{numericId}}"
+    public_folder: "{{public_folder}}/{{numericId}}"
+    sort: "date:desc"
+    view_groups:
+      - field: category
+        label: 카테고리
+    fields:
+      - label: "제목"
+        name: "title"
+        widget: "string"
+        required: true
+      - label: "발행일"
+        name: "date"
+        widget: "datetime"
+        format: "YYYY-MM-DD"
+        required: true
+      - label: "카테고리"
+        name: "category"
+        widget: "select"
+        options:
+          - "문화&연예 트렌드"
+          - "재난 백과"
+          - "라이프 트렌드"
+          - "꿀팁&정보 백과사전"
+          - "여행&맛집 트렌드"
+          - "반려동물 백과"
+        required: true
+      - label: "태그"
+        name: "tags"
+        widget: "list"
+        required: false
+      - label: "슬러그 (URL)"
+        name: "slug"
+        widget: "string"
+        hint: "영문/숫자/하이픈만 사용 (예: best-coffee-shop)"
+        required: true
+      - label: "숫자 ID"
+        name: "numericId"
+        widget: "number"
+        hint: "기존 글과 중복되지 않는 숫자"
+        required: true
+      - label: "요약 설명"
+        name: "description"
+        widget: "text"
+        hint: "120~160자, 검색결과에 노출되는 설명"
+        required: true
+      - label: "썸네일"
+        name: "thumbnail"
+        widget: "image"
+        required: false
+      - label: "본문"
+        name: "body"
+        widget: "markdown"
+        required: true
+
+  - name: "pages"
+    label: "페이지"
+    label_singular: "페이지"
+    folder: "src/pages"
+    create: true
+    extension: astro
+    format: yaml-frontmatter
+    fields:
+      - label: "제목"
+        name: "title"
+        widget: "string"
+      - label: "내용"
+        name: "body"
+        widget: "markdown"

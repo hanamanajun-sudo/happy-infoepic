@@ -5,14 +5,14 @@ category: "라이프 트렌드/스타벅스"
 tags: ["스타벅스", "신메뉴반응"]
 slug: "스타벅스-신메뉴트러플-머쉬룸-수프-반응-모음"
 numericId: 60
-description: "트러플 머쉬룸 수프 반응 모음"
-thumbnail: "/images/60/img.png"
+description: "스타벅스 신메뉴 트러플 머쉬룸 수프에 대한 실제 구매자들의 생생한 후기와 다양한 반응을 한곳에 모아 정리했습니다. 고소한 트러플 향과 부드러운 버섯 수프의 환상적인 조화, 맛과 향에 대한 솔직 담백한 평가와 호불호까지 지금 바로 확인해보세요."
+thumbnail: "/images/entry/스타벅스-신메뉴트러플-머쉬룸-수프-반응-모음/img.png"
 ---
 
 <div class="contents_style">
 <p><figure class="imageblock alignCenter" width="600">
 
-<img src="/images/60/img.png" width="600"/>
+<img src="/images/entry/스타벅스-신메뉴트러플-머쉬룸-수프-반응-모음/img.png" width="600"/>
 
 <figcaption>트러플 머쉬룸 수프 반응 모음</figcaption>
 </figure></p>
@@ -54,7 +54,7 @@ thumbnail: "/images/60/img.png"
 
 <p><figure class="imageblock alignCenter" width="600">
 
-<img src="/images/60/img_1.png" width="600"/>
+<img src="/images/entry/스타벅스-신메뉴트러플-머쉬룸-수프-반응-모음/img_1.png" width="600"/>
 
 <figcaption>트러플 머쉬룸 수프 반응 모음</figcaption>
 </figure></p>
@@ -84,7 +84,7 @@ thumbnail: "/images/60/img.png"
 
 <p><figure class="imageblock alignCenter" width="400">
 
-<img src="/images/60/img_2.png" width="400"/>
+<img src="/images/entry/스타벅스-신메뉴트러플-머쉬룸-수프-반응-모음/img_2.png" width="400"/>
 
 <figcaption>트러플 머쉬룸 수프 반응 모음</figcaption>
 </figure></p>

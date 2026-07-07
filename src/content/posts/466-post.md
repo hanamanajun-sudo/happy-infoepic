@@ -6,7 +6,7 @@ tags: []
 slug: "수원-갈비-맛집-정보-모음-내가-가려고-모은-정보-입니다"
 numericId: 466
 description: "수원 갈비, 수원 왕갈비는 워낙 유명하죠. 근데 직접 수원에 가서 먹어본적은 없어서 이번에 가서 먹으려고 광고 같은 글을 제외하고 진짜 리뷰 들 좀 찾아보고 수원 갈비 맛집 정보를 모아보았습니다."
-thumbnail: "/images/466/bg02.jpg"
+thumbnail: "/images/entry/수원-갈비-맛집-정보-모음-내가-가려고-모은-정보-입니다/bg02.jpg"
 ---
 
 <div class="contents_style">
@@ -27,7 +27,7 @@ thumbnail: "/images/466/bg02.jpg"
 <h3><b>1. 본수원갈비</b></h3>
 <p><figure class="imageblock alignCenter" height="213" width="400">
 
-<img height="213" src="/images/466/bg02.jpg" width="400"/>
+<img height="213" src="/images/entry/수원-갈비-맛집-정보-모음-내가-가려고-모은-정보-입니다/bg02.jpg" width="400"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -40,7 +40,7 @@ thumbnail: "/images/466/bg02.jpg"
 <h3><b>2. 가보정</b></h3>
 <p><figure class="imageblock alignCenter" height="267" width="400">
 
-<img height="267" src="/images/466/238255120_vylt7eiI_be137eaea2ba4bf2053d957d3da9776ef53de47e.jpg" width="400"/>
+<img height="267" src="/images/entry/수원-갈비-맛집-정보-모음-내가-가려고-모은-정보-입니다/238255120_vylt7eiI_be137eaea2ba4bf2053d957d3da9776ef53de47e.jpg" width="400"/>
 
 <figcaption></figcaption>
 </figure></p>

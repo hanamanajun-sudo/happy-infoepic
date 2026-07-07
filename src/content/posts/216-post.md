@@ -6,7 +6,7 @@ tags: ["박유천", "박유환"]
 slug: "박유천-인스타그램-주소동생-박유환-개인방송"
 numericId: 216
 description: "박유천이 개인 인스그램을 만들어 논란이 되고 있어요."
-thumbnail: "/images/216/img.png"
+thumbnail: "/images/entry/박유천-인스타그램-주소동생-박유환-개인방송/img.png"
 ---
 
 <div class="contents_style">
@@ -15,7 +15,7 @@ thumbnail: "/images/216/img.png"
 <p>박유천은 사진과 함께 앞으로의 활동 복귀 글을 남겼네요.</p>
 <p><figure class="imageblock alignCenter" width="400">
 
-<img src="/images/216/img.png" width="400"/>
+<img src="/images/entry/박유천-인스타그램-주소동생-박유환-개인방송/img.png" width="400"/>
 
 <figcaption></figcaption>
 </figure></p>

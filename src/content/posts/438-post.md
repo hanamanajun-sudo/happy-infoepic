@@ -6,7 +6,7 @@ tags: ["최민수"]
 slug: "최민수-그림-라디오스타-강주은-편-이외-추가-작품"
 numericId: 438
 description: "라디오스타에 오랜만에 강주은님이 나와서 여러가지 강주은님 그리고 최민수 님과의 최근 근황과 에피소드 등을 전해주었습니다."
-thumbnail: "/images/438/이미지_055.png"
+thumbnail: "/images/entry/최민수-그림-라디오스타-강주은-편-이외-추가-작품/이미지_055.png"
 ---
 
 <div class="contents_style">
@@ -19,19 +19,19 @@ thumbnail: "/images/438/이미지_055.png"
 
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/438/이미지_055.png"/>
+<img src="/images/entry/최민수-그림-라디오스타-강주은-편-이외-추가-작품/이미지_055.png"/>
 
 <figcaption></figcaption>
 </figure><figure class="imageblock alignCenter">
 
-<img src="/images/438/이미지_056.png"/>
+<img src="/images/entry/최민수-그림-라디오스타-강주은-편-이외-추가-작품/이미지_056.png"/>
 
 <figcaption></figcaption>
 </figure></p>
 
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/438/이미지_057.png"/>
+<img src="/images/entry/최민수-그림-라디오스타-강주은-편-이외-추가-작품/이미지_057.png"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -40,7 +40,7 @@ thumbnail: "/images/438/이미지_055.png"
 
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/438/이미지_058.png"/>
+<img src="/images/entry/최민수-그림-라디오스타-강주은-편-이외-추가-작품/이미지_058.png"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -52,14 +52,14 @@ thumbnail: "/images/438/이미지_055.png"
 
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/438/이미지_5.png"/>
+<img src="/images/entry/최민수-그림-라디오스타-강주은-편-이외-추가-작품/이미지_5.png"/>
 
 <figcaption></figcaption>
 </figure></p>
 
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/438/이미지_6.png"/>
+<img src="/images/entry/최민수-그림-라디오스타-강주은-편-이외-추가-작품/이미지_6.png"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -70,7 +70,7 @@ thumbnail: "/images/438/이미지_055.png"
 <p>추가로 이건 이미 유명한 최민수님 싸인</p>
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/438/95a44e36b3ca67c5999aa39bb596501b.jpg"/>
+<img src="/images/entry/최민수-그림-라디오스타-강주은-편-이외-추가-작품/95a44e36b3ca67c5999aa39bb596501b.jpg"/>
 
 <figcaption></figcaption>
 </figure></p>

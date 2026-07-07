@@ -6,7 +6,7 @@ tags: []
 slug: "전설의-치즈디핑소스-만드는법-초간단-트위터-레시피"
 numericId: 383
 description: "전설의 트위터 레시피로 돌아다니는 메뉴 중에 이건 꼭 기억하고 싶어서 포스팅하는"
-thumbnail: "/images/383/img.png"
+thumbnail: "/images/entry/전설의-치즈디핑소스-만드는법-초간단-트위터-레시피/img.png"
 ---
 
 <div class="contents_style">
@@ -24,7 +24,7 @@ thumbnail: "/images/383/img.png"
 <p>3. 전자렌지 49초 돌리면 끝</p>
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/383/img.png"/>
+<img src="/images/entry/전설의-치즈디핑소스-만드는법-초간단-트위터-레시피/img.png"/>
 
 <figcaption></figcaption>
 </figure></p>

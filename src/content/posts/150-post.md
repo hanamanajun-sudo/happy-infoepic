@@ -6,7 +6,7 @@ tags: ["기생충", "피자박스"]
 slug: "기생충-피자박스녀-근황오스카-이후-원본-영상"
 numericId: 150
 description: "기생충의 시작 부분에서 반지하 방에서"
-thumbnail: "/images/150/img.gif"
+thumbnail: "/images/entry/기생충-피자박스녀-근황오스카-이후-원본-영상/img.gif"
 ---
 
 <div class="contents_style">
@@ -14,7 +14,7 @@ thumbnail: "/images/150/img.gif"
 <p>피자박스를 접는 영상을 보녀 기택 가족이 모여 앉아 박스를 접는 알바를 하는 장면이 나오는데</p>
 <p><figure class="imageblock alignCenter" width="300">
 
-<img src="/images/150/img.gif" width="300"/>
+<img src="/images/entry/기생충-피자박스녀-근황오스카-이후-원본-영상/img.gif" width="300"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -32,7 +32,7 @@ thumbnail: "/images/150/img.gif"
 <p><u><b>그리고 유튜브 영상 반응 베댓</b></u></p>
 <p><figure class="imageblock alignCenter" width="500">
 
-<img src="/images/150/img.png" width="500"/>
+<img src="/images/entry/기생충-피자박스녀-근황오스카-이후-원본-영상/img.png" width="500"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -49,12 +49,12 @@ thumbnail: "/images/150/img.gif"
 <p>그리고 달린 댓글 센스쟁이들</p>
 <p><figure class="imageblock alignCenter" width="400">
 
-<img src="/images/150/img_1.png" width="400"/>
+<img src="/images/entry/기생충-피자박스녀-근황오스카-이후-원본-영상/img_1.png" width="400"/>
 
 <figcaption></figcaption>
 </figure><figure class="imageblock alignCenter" width="300">
 
-<img src="/images/150/img_2.png" width="300"/>
+<img src="/images/entry/기생충-피자박스녀-근황오스카-이후-원본-영상/img_2.png" width="300"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -78,7 +78,7 @@ thumbnail: "/images/150/img.gif"
 <p>그와중에 달린 댓글</p>
 <p><figure class="imageblock alignCenter" width="300">
 
-<img src="/images/150/img_3.png" width="300"/>
+<img src="/images/entry/기생충-피자박스녀-근황오스카-이후-원본-영상/img_3.png" width="300"/>
 
 <figcaption></figcaption>
 </figure></p>

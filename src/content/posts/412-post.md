@@ -5,80 +5,80 @@ category: "문화&연예 트렌드/스타&인물"
 tags: []
 slug: "20년전-정우성-인성-클라스-신입-스튜어디스-썰"
 numericId: 412
-description: "외모만 완벽한게 아니였어 ㅠㅠ"
-thumbnail: "/images/412/img.jpg"
+description: "20년 전 신입 스튜어디스가 직접 경험한 대한민국 톱배우 정우성의 놀라운 인성과 따뜻한 배려심을 생생하게 보여주는 감동 일화를 소개합니다. 외모만 완벽한 줄 알았던 정우성의 숨겨진 인간미와 따뜻한 마음씨가 빛나는 이야기입니다."
+thumbnail: "/images/entry/20년전-정우성-인성-클라스-신입-스튜어디스-썰/img.jpg"
 ---
 
 <div class="contents_style">
 
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/412/img.jpg"/>
+<img src="/images/entry/20년전-정우성-인성-클라스-신입-스튜어디스-썰/img.jpg"/>
 
 <figcaption></figcaption>
 </figure><figure class="imageblock alignCenter">
 
-<img src="/images/412/img_1.jpg"/>
+<img src="/images/entry/20년전-정우성-인성-클라스-신입-스튜어디스-썰/img_1.jpg"/>
 
 <figcaption></figcaption>
 </figure><figure class="imageblock alignCenter">
 
-<img src="/images/412/img_2.jpg"/>
+<img src="/images/entry/20년전-정우성-인성-클라스-신입-스튜어디스-썰/img_2.jpg"/>
 
 <figcaption></figcaption>
 </figure><figure class="imageblock alignCenter">
 
-<img src="/images/412/img_3.jpg"/>
+<img src="/images/entry/20년전-정우성-인성-클라스-신입-스튜어디스-썰/img_3.jpg"/>
 
 <figcaption></figcaption>
 </figure><figure class="imageblock alignCenter">
 
-<img src="/images/412/img_4.jpg"/>
+<img src="/images/entry/20년전-정우성-인성-클라스-신입-스튜어디스-썰/img_4.jpg"/>
 
 <figcaption></figcaption>
 </figure><figure class="imageblock alignCenter">
 
-<img src="/images/412/img_5.jpg"/>
+<img src="/images/entry/20년전-정우성-인성-클라스-신입-스튜어디스-썰/img_5.jpg"/>
 
 <figcaption></figcaption>
 </figure><figure class="imageblock alignCenter">
 
-<img src="/images/412/img_6.jpg"/>
+<img src="/images/entry/20년전-정우성-인성-클라스-신입-스튜어디스-썰/img_6.jpg"/>
 
 <figcaption></figcaption>
 </figure><figure class="imageblock alignCenter">
 
-<img src="/images/412/img_7.jpg"/>
+<img src="/images/entry/20년전-정우성-인성-클라스-신입-스튜어디스-썰/img_7.jpg"/>
 
 <figcaption></figcaption>
 </figure><figure class="imageblock alignCenter">
 
-<img src="/images/412/img_8.jpg"/>
+<img src="/images/entry/20년전-정우성-인성-클라스-신입-스튜어디스-썰/img_8.jpg"/>
 
 <figcaption></figcaption>
 </figure><figure class="imageblock alignCenter">
 
-<img src="/images/412/img_9.jpg"/>
+<img src="/images/entry/20년전-정우성-인성-클라스-신입-스튜어디스-썰/img_9.jpg"/>
 
 <figcaption></figcaption>
 </figure><figure class="imageblock alignCenter">
 
-<img src="/images/412/img_10.jpg"/>
+<img src="/images/entry/20년전-정우성-인성-클라스-신입-스튜어디스-썰/img_10.jpg"/>
 
 <figcaption></figcaption>
 </figure><figure class="imageblock alignCenter">
 
-<img src="/images/412/img_11.jpg"/>
+<img src="/images/entry/20년전-정우성-인성-클라스-신입-스튜어디스-썰/img_11.jpg"/>
 
 <figcaption></figcaption>
 </figure><figure class="imageblock alignCenter">
 
-<img src="/images/412/img_12.jpg"/>
+<img src="/images/entry/20년전-정우성-인성-클라스-신입-스튜어디스-썰/img_12.jpg"/>
 
 <figcaption></figcaption>
 </figure><figure class="imageblock alignCenter">
 
-<img src="/images/412/img_13.jpg"/>
+<img src="/images/entry/20년전-정우성-인성-클라스-신입-스튜어디스-썰/img_13.jpg"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -87,7 +87,7 @@ thumbnail: "/images/412/img.jpg"
 <p>정우성 인성 클라스 그저 빛 그저 눈물</p>
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/412/img_14.jpg"/>
+<img src="/images/entry/20년전-정우성-인성-클라스-신입-스튜어디스-썰/img_14.jpg"/>
 
 <figcaption></figcaption>
 </figure></p>

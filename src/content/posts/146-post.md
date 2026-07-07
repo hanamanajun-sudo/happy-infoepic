@@ -6,7 +6,7 @@ tags: ["레시피", "기생충", "짜파구리", "아빠어디가"]
 slug: "기생충-짜파구리-기원농심-공식-레시피-영상"
 numericId: 146
 description: "기생충에 한 장면에 짜파구리가 나온다."
-thumbnail: "/images/146/img.jpg"
+thumbnail: "/images/entry/기생충-짜파구리-기원농심-공식-레시피-영상/img.jpg"
 ---
 
 <div class="contents_style">
@@ -23,7 +23,7 @@ thumbnail: "/images/146/img.jpg"
 
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/146/img.jpg"/>
+<img src="/images/entry/기생충-짜파구리-기원농심-공식-레시피-영상/img.jpg"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -52,7 +52,7 @@ thumbnail: "/images/146/img.jpg"
 
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/146/img.png"/>
+<img src="/images/entry/기생충-짜파구리-기원농심-공식-레시피-영상/img.png"/>
 
 <figcaption>메모: 물 들어오면 노를 저어라</figcaption>
 </figure></p>
@@ -128,7 +128,7 @@ thumbnail: "/images/146/img.jpg"
 <blockquote><b>※ MBC 예능 '아빠 어디가?' 방송 소개</b><br/><br/>아빠 어디가 라는 프로그램은 매주 가수, 배우, 스포츠 선수 들과 아들, 딸이 함께 여행을 가는<br/>예능 프로그램이다. 당시 어린이들의 귀여운 모습과 아빠와 자식간의 가까워져 가는 모습에 큰 인기를 끌었다. <br/>이 프로그램 이후 이런 가족 리얼리티 프로그램이 더 많아진 계기가 되었다.</blockquote>
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/146/img_1.jpg"/>
+<img src="/images/entry/기생충-짜파구리-기원농심-공식-레시피-영상/img_1.jpg"/>
 
 <figcaption>안먹는다더니 왜 반을 넘게 먹었어?</figcaption>
 </figure></p>

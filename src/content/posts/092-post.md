@@ -6,13 +6,13 @@ tags: ["김학철"]
 slug: "김학철-장례식장-먹방-동영상논란-정리"
 numericId: 92
 description: "현재 유튜브에서 개인 채널을 만들어 활동 중이신"
-thumbnail: "/images/92/img.jpg"
+thumbnail: "/images/entry/김학철-장례식장-먹방-동영상논란-정리/img.jpg"
 ---
 
 <div class="contents_style">
 <p><figure class="imageblock alignCenter" width="500">
 
-<img src="/images/92/img.jpg" width="500"/>
+<img src="/images/entry/김학철-장례식장-먹방-동영상논란-정리/img.jpg" width="500"/>
 
 <figcaption></figcaption>
 </figure></p>

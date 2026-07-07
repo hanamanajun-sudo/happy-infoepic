@@ -6,7 +6,7 @@ tags: ["김민경", "필라테스", "심으뜸", "운동뚱"]
 slug: "김민경운동뚱다시보기필라테스-편-본투비-근수저"
 numericId: 355
 description: "이제까지 웨이트 트레이닝, 근육을 위한 무산소 헬스 운동이였다면"
-thumbnail: "/images/355/img.jpg"
+thumbnail: "/images/entry/김민경운동뚱다시보기필라테스-편-본투비-근수저/img.jpg"
 ---
 
 <div class="contents_style">
@@ -37,14 +37,14 @@ thumbnail: "/images/355/img.jpg"
 <p>필라테스 시작하고 2주 된 40살 처자 클라스</p>
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/355/img.jpg"/>
+<img src="/images/entry/김민경운동뚱다시보기필라테스-편-본투비-근수저/img.jpg"/>
 
 <figcaption></figcaption>
 </figure></p>
 <p>이번편은 좀 힘들어했는데 그래도 심으뜸 트레이너가 시키는것 찰떡같이 다 알아듣고 바로 하는게 너무 신기했음</p>
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/355/img_1.jpg"/>
+<img src="/images/entry/김민경운동뚱다시보기필라테스-편-본투비-근수저/img_1.jpg"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -52,7 +52,7 @@ thumbnail: "/images/355/img.jpg"
 
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/355/img_2.jpg"/>
+<img src="/images/entry/김민경운동뚱다시보기필라테스-편-본투비-근수저/img_2.jpg"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -60,14 +60,14 @@ thumbnail: "/images/355/img.jpg"
 
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/355/img_3.jpg"/>
+<img src="/images/entry/김민경운동뚱다시보기필라테스-편-본투비-근수저/img_3.jpg"/>
 
 <figcaption></figcaption>
 </figure></p>
 
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/355/img_4.jpg"/>
+<img src="/images/entry/김민경운동뚱다시보기필라테스-편-본투비-근수저/img_4.jpg"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -76,7 +76,7 @@ thumbnail: "/images/355/img.jpg"
 
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/355/img_5.jpg"/>
+<img src="/images/entry/김민경운동뚱다시보기필라테스-편-본투비-근수저/img_5.jpg"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -84,14 +84,14 @@ thumbnail: "/images/355/img.jpg"
 
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/355/img.gif"/>
+<img src="/images/entry/김민경운동뚱다시보기필라테스-편-본투비-근수저/img.gif"/>
 
 <figcaption></figcaption>
 </figure></p>
 <p>복근 목근육 진짜 너무 대단한것 같아요.</p>
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/355/img_1.gif"/>
+<img src="/images/entry/김민경운동뚱다시보기필라테스-편-본투비-근수저/img_1.gif"/>
 
 <figcaption></figcaption>
 </figure></p>

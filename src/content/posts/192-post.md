@@ -6,7 +6,7 @@ tags: ["코로나", "그래프", "확진자", "코로나19"]
 slug: "3월2일코로나19-국내해외-확진자사망자-체크-일별-현황-그래프"
 numericId: 192
 description: "한국,일본,싱가포르,말레이시아,베트남,태국,"
-thumbnail: "/images/192/img.jpg"
+thumbnail: "/images/entry/3월2일코로나19-국내해외-확진자사망자-체크-일별-현황-그래프/img.jpg"
 ---
 
 <div class="contents_style">
@@ -14,7 +14,7 @@ thumbnail: "/images/192/img.jpg"
 
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/192/img.jpg"/>
+<img src="/images/entry/3월2일코로나19-국내해외-확진자사망자-체크-일별-현황-그래프/img.jpg"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -159,21 +159,21 @@ thumbnail: "/images/192/img.jpg"
 <h2><span style="color: #000000;"><b>3월 2일 코로나19 <span style="color: #ee2323;">전세계</span> 일별 확진자 수 그래프<br/></b></span></h2>
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/192/img.png"/>
+<img src="/images/entry/3월2일코로나19-국내해외-확진자사망자-체크-일별-현황-그래프/img.png"/>
 
 <figcaption></figcaption>
 </figure></p>
 <h2><span style="color: #000000;"><b><span style="color: #000000;"><b>3월 2일 코로나19 <span style="color: #ee2323;">한국 확진자</span> 일별 그래프</b></span></b></span></h2>
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/192/img_1.png"/>
+<img src="/images/entry/3월2일코로나19-국내해외-확진자사망자-체크-일별-현황-그래프/img_1.png"/>
 
 <figcaption></figcaption>
 </figure></p>
 <h2><span style="color: #000000;"><b>3월 2일 코로나19 전세계 일별 <span style="color: #ee2323;">사망자 수</span> 그래프</b></span></h2>
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/192/img_2.png"/>
+<img src="/images/entry/3월2일코로나19-국내해외-확진자사망자-체크-일별-현황-그래프/img_2.png"/>
 
 <figcaption></figcaption>
 </figure></p>

@@ -6,7 +6,7 @@ tags: ["바다포도"]
 slug: "바다-포도-로션-후기-모음-추천-이유"
 numericId: 443
 description: "바다포도가 피부에 좋다는 커뮤니티 글을 보았는데 광고인지 아닌지 구별을 하기 어려워 실제 사용한 후기라고 생각되는 글들을 모아보았습니다.  바다 포도로션 후기 모음을 모아보았으니 판단은 각자가 해주세요."
-thumbnail: "/images/443/1baa518f3c62ee335271130ae9c1538f72fa3b16ddcd977f49_b6ce627f.jfif"
+thumbnail: "/images/entry/바다-포도-로션-후기-모음-추천-이유/1baa518f3c62ee335271130ae9c1538f72fa3b16ddcd977f49_b6ce627f.jfif"
 ---
 
 <div class="contents_style">
@@ -25,7 +25,7 @@ thumbnail: "/images/443/1baa518f3c62ee335271130ae9c1538f72fa3b16ddcd977f49_b6ce6
 
 <p><figure class="imageblock alignCenter" height="333" width="500">
 
-<img height="333" src="/images/443/1baa518f3c62ee335271130ae9c1538f72fa3b16ddcd977f49_b6ce627f.jfif" width="500"/>
+<img height="333" src="/images/entry/바다-포도-로션-후기-모음-추천-이유/1baa518f3c62ee335271130ae9c1538f72fa3b16ddcd977f49_b6ce627f.jfif" width="500"/>
 
 <figcaption></figcaption>
 </figure></p>

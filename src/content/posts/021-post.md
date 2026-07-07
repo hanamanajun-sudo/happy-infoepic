@@ -50,7 +50,7 @@ thumbnail: ""
 <p>제 글이 기억에 남는 좋은 정보였기를 바랍니다.  혹시 작은 도움이 되었다면 댓글이도 함께 부탁드려요. <br/>다음에 또 좋은 정보 있으면 소개하러 올게요. 또 들려주세요. <br/>그럼 건강한 하루, 좋은 하루 보내세요.</p>
 
 <p>[관련이 있는 포스팅]</p>
-<blockquote><a href="https://happy.infoepic.com/22" rel="noopener" target="_blank">철분 최강 음식 10가지 / 그리고 비 추천 음식</a></blockquote>
-<blockquote><a href="https://happy.infoepic.com/20" rel="noopener" target="_blank">철분 부족 증상 / 그리고 눈으로 확인 가능한 증상들</a></blockquote>
+<blockquote><a href="https://happy.infoepic.com/entry/람부탄-알고-먹자-효능과-부작용2" rel="noopener" target="_blank">철분 최강 음식 10가지 / 그리고 비 추천 음식</a></blockquote>
+<blockquote><a href="https://happy.infoepic.com/entry/람부탄-알고-먹자-효능과-부작용0" rel="noopener" target="_blank">철분 부족 증상 / 그리고 눈으로 확인 가능한 증상들</a></blockquote>
 
 </div>

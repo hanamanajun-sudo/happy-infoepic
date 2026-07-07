@@ -5,14 +5,14 @@ category: "문화&연예 트렌드/깜짝뉴스"
 tags: ["박미경", "알바몬광고"]
 slug: "박미경-리액션-광고-전체-모음-광고계를-뒤집어-놓으셨다"
 numericId: 71
-description: "완전 광고를 뒤집어 놓으셨다"
-thumbnail: "/images/71/img.png"
+description: "가수 박미경의 레전드 국어책 리액션으로 유명한 알바몬 광고 시리즈 전체를 한곳에 모아봤습니다. 나는 가수다에서 탄생한 역대급 리액션 짤방의 원조부터 광고계를 완전히 뒤집어 놓은 화제의 영상들까지 웃음이 보장된 역대 레전드 광고 모음집입니다."
+thumbnail: "/images/entry/박미경-리액션-광고-전체-모음-광고계를-뒤집어-놓으셨다/img.png"
 ---
 
 <div class="contents_style">
 <p><figure class="imageblock alignCenter" width="400">
 
-<img src="/images/71/img.png" width="400"/>
+<img src="/images/entry/박미경-리액션-광고-전체-모음-광고계를-뒤집어-놓으셨다/img.png" width="400"/>
 
 <figcaption>완전 광고를 뒤집어 놓으셨다</figcaption>
 </figure></p>

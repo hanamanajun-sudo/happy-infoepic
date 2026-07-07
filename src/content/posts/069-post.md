@@ -6,13 +6,13 @@ tags: ["봉준호", "기생충"]
 slug: "골든-글로브-기생충-수상역대-외국어-영화상-수상작"
 numericId: 69
 description: "봉준호 감독의 수상 소감은 당연한 사실이면서한국 영화의 발전을 위해서도 꼭 필요한 변화이다.실제 많은 서구권 특히 미국에서는 자막있는 영화를 보지 않는다."
-thumbnail: "/images/69/img.png"
+thumbnail: "/images/entry/골든-글로브-기생충-수상역대-외국어-영화상-수상작/img.png"
 ---
 
 <div class="contents_style">
 <p><figure class="imageblock alignCenter" width="500">
 
-<img src="/images/69/img.png" width="500"/>
+<img src="/images/entry/골든-글로브-기생충-수상역대-외국어-영화상-수상작/img.png" width="500"/>
 
 <figcaption>봉준호 수상 소감</figcaption>
 </figure></p>
@@ -24,7 +24,7 @@ thumbnail: "/images/69/img.png"
 <p><br/>더 페어웰 - 룰루 왕 감독(중국계 미국인), <br/>레미제라블 - 래드 리 감독(프랑스), <br/>페인 앤 글로리 - 페드로 알모도바르 감독(스페인), <br/>타오르는 여인의 초상 - 셀린 시아마 감독(프랑스)<br/><br/>이였어요.<br/><br/></p>
 <p><figure class="imageblock alignCenter" width="300">
 
-<img src="/images/69/img_1.png" width="300"/>
+<img src="/images/entry/골든-글로브-기생충-수상역대-외국어-영화상-수상작/img_1.png" width="300"/>
 
 <figcaption>유튜브 캡쳐</figcaption>
 </figure></p>

@@ -6,13 +6,13 @@ tags: []
 slug: "하단-저작권"
 numericId: 37
 description: "◆'포포킹  건강 백과사전'의 게시물은 크리에이티브 커먼즈 (BY-NC-SA) 저작권법에 따라 이용할 수 있습니다."
-thumbnail: "/images/37/img.png"
+thumbnail: "/images/entry/하단-저작권/img.png"
 ---
 
 <div class="contents_style">
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/37/img.png"/>
+<img src="/images/entry/하단-저작권/img.png"/>
 
 <figcaption></figcaption>
 </figure></p>

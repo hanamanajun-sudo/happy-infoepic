@@ -6,7 +6,7 @@ tags: ["이태원맛집", "데이트코스추천", "도자기공방", "해방촌
 slug: "달고나-커피-파는-카페해방촌-드도트-위치-분위기"
 numericId: 254
 description: "만들어 먹으려다가 1시간 동안 저어야 한다고 생각하니 너무 힘들것 같아서"
-thumbnail: "/images/254/img.jpg"
+thumbnail: "/images/entry/달고나-커피-파는-카페해방촌-드도트-위치-분위기/img.jpg"
 ---
 
 <div class="contents_style">
@@ -24,7 +24,7 @@ thumbnail: "/images/254/img.jpg"
 <p>(물론 더 늘어날 수도 있지만 지금까지 찾아낸 한 곳이에요)</p>
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/254/img.jpg"/>
+<img src="/images/entry/달고나-커피-파는-카페해방촌-드도트-위치-분위기/img.jpg"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -45,7 +45,7 @@ thumbnail: "/images/254/img.jpg"
 <p>입구 전경</p>
 <p><figure class="imageblock alignCenter" width="400">
 
-<img src="/images/254/이미지_30.png" width="400"/>
+<img src="/images/entry/달고나-커피-파는-카페해방촌-드도트-위치-분위기/이미지_30.png" width="400"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -64,19 +64,19 @@ thumbnail: "/images/254/img.jpg"
 <p>커피잔 커피, 그릇, 조각 케잌 보세요</p>
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/254/dedot_cafe_73533247_446433505949315_2083688081082381153_n.jpg"/>
+<img src="/images/entry/달고나-커피-파는-카페해방촌-드도트-위치-분위기/dedot_cafe_73533247_446433505949315_2083688081082381153_n.jpg"/>
 
 <figcaption></figcaption>
 </figure></p>
 <p>사진 하나하나 예술인데 여기 주인장이 뭘 좀 아시는 분인것 같습니다.</p>
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/254/dedot_cafe_80698920_637333350336582_7699412098802473194_n.jpg"/>
+<img src="/images/entry/달고나-커피-파는-카페해방촌-드도트-위치-분위기/dedot_cafe_80698920_637333350336582_7699412098802473194_n.jpg"/>
 
 <figcaption></figcaption>
 </figure><figure class="imageblock alignCenter">
 
-<img src="/images/254/img_1.jpg"/>
+<img src="/images/entry/달고나-커피-파는-카페해방촌-드도트-위치-분위기/img_1.jpg"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -84,14 +84,14 @@ thumbnail: "/images/254/img.jpg"
 <p>장인 예술가셨군여 ㄷㄷ</p>
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/254/dedot_cafe_81922405_462517341085610_5195461656730352138_n.jpg"/>
+<img src="/images/entry/달고나-커피-파는-카페해방촌-드도트-위치-분위기/dedot_cafe_81922405_462517341085610_5195461656730352138_n.jpg"/>
 
 <figcaption></figcaption>
 </figure></p>
 <p>도자기 만드는 공방 개인 원데이 클래스 있데요. </p>
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/254/dedot_cafe_88197176_2579862245630302_3376889978909369654_n.jpg"/>
+<img src="/images/entry/달고나-커피-파는-카페해방촌-드도트-위치-분위기/dedot_cafe_88197176_2579862245630302_3376889978909369654_n.jpg"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -102,7 +102,7 @@ thumbnail: "/images/254/img.jpg"
 
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/254/dedot_cafe_54513298_825634937801197_6633184487429014841_n.jpg"/>
+<img src="/images/entry/달고나-커피-파는-카페해방촌-드도트-위치-분위기/dedot_cafe_54513298_825634937801197_6633184487429014841_n.jpg"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -110,7 +110,7 @@ thumbnail: "/images/254/img.jpg"
 
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/254/dedot_cafe_60268946_451454248748358_2653069428581701467_n.jpg"/>
+<img src="/images/entry/달고나-커피-파는-카페해방촌-드도트-위치-분위기/dedot_cafe_60268946_451454248748358_2653069428581701467_n.jpg"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -118,14 +118,14 @@ thumbnail: "/images/254/img.jpg"
 
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/254/dedot_cafe_64757323_358288608162962_3253829768832517756_n.jpg"/>
+<img src="/images/entry/달고나-커피-파는-카페해방촌-드도트-위치-분위기/dedot_cafe_64757323_358288608162962_3253829768832517756_n.jpg"/>
 
 <figcaption></figcaption>
 </figure></p>
 <p>이건 내부 사진</p>
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/254/dedot_cafe_64856337_174592493567583_3155491962723523704_n.jpg"/>
+<img src="/images/entry/달고나-커피-파는-카페해방촌-드도트-위치-분위기/dedot_cafe_64856337_174592493567583_3155491962723523704_n.jpg"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -133,7 +133,7 @@ thumbnail: "/images/254/img.jpg"
 <p>진짜 어떻게 이렇게 다 멋질수가 있는지</p>
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/254/dedot_cafe_64690758_383302188979918_2361439366810827851_n.jpg"/>
+<img src="/images/entry/달고나-커피-파는-카페해방촌-드도트-위치-분위기/dedot_cafe_64690758_383302188979918_2361439366810827851_n.jpg"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -141,7 +141,7 @@ thumbnail: "/images/254/img.jpg"
 
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/254/dedot_cafe_64552191_2351050828284710_5375635655163100414_n.jpg"/>
+<img src="/images/entry/달고나-커피-파는-카페해방촌-드도트-위치-분위기/dedot_cafe_64552191_2351050828284710_5375635655163100414_n.jpg"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -150,21 +150,21 @@ thumbnail: "/images/254/img.jpg"
 
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/254/dedot_cafe_65597055_159141241887442_2300594019663856745_n.jpg"/>
+<img src="/images/entry/달고나-커피-파는-카페해방촌-드도트-위치-분위기/dedot_cafe_65597055_159141241887442_2300594019663856745_n.jpg"/>
 
 <figcaption></figcaption>
 </figure></p>
 <p>카페 밤 풍경</p>
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/254/dedot_cafe_66277562_2359104247670310_799347112517413497_n.jpg"/>
+<img src="/images/entry/달고나-커피-파는-카페해방촌-드도트-위치-분위기/dedot_cafe_66277562_2359104247670310_799347112517413497_n.jpg"/>
 
 <figcaption></figcaption>
 </figure></p>
 <p>[인테리어 테라스 꾸미기 특집편] 이런 잡지 표지 같네요 </p>
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/254/dedot_cafe_66481384_464098667765232_3378248050244321927_n.jpg"/>
+<img src="/images/entry/달고나-커피-파는-카페해방촌-드도트-위치-분위기/dedot_cafe_66481384_464098667765232_3378248050244321927_n.jpg"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -183,7 +183,7 @@ thumbnail: "/images/254/img.jpg"
 <p><span style="background-color: #f6e199;"><b>주의 단체 예약 들어오면 가게 닫고 그 수업만 진행한다고 합니다. </b></span></p>
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/254/img_2.jpg"/>
+<img src="/images/entry/달고나-커피-파는-카페해방촌-드도트-위치-분위기/img_2.jpg"/>
 
 <figcaption></figcaption>
 </figure></p>

@@ -1,0 +1,77 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+---
+
+<BaseLayout
+  title="검색"
+  description="해피로그에서 원하는 정보를 검색해보세요"
+  canonical="/search/"
+>
+  <section class="search-page">
+    <div class="container search-inner">
+      <h1 class="search-title">🔍 검색</h1>
+      <p class="search-desc">해피로그의 모든 글에서 찾고 싶은 내용을 검색해보세요.</p>
+      <div id="search"></div>
+    </div>
+  </section>
+</BaseLayout>
+
+<link href="/pagefind/pagefind-ui.css" rel="stylesheet" />
+<script src="/pagefind/pagefind-ui.js" type="module"></script>
+<script>
+  window.addEventListener('DOMContentLoaded', () => {
+    new PagefindUI({
+      element: '#search',
+      showSubResults: true,
+      showImages: false,
+      resetStyles: false,
+      autofocus: true,
+      translations: {
+        placeholder: '검색어를 입력하세요',
+        clear_search: '지우기',
+        load_more: '더 보기',
+        search_label: '검색 결과',
+        zero_results: '검색 결과가 없습니다',
+        many_results: '{total}개의 결과',
+        one_result: '1개의 결과',
+        alt_search: '대체 검색:',
+      },
+    });
+  });
+</script>
+
+<style>
+.search-page {
+  padding-block: 2.5rem 5rem;
+}
+.search-inner {
+  max-width: 740px;
+}
+.search-title {
+  font-family: var(--font-display);
+  font-size: 1.9rem;
+  font-weight: 400;
+  color: var(--color-text);
+  margin-bottom: 0.5rem;
+}
+.search-desc {
+  color: var(--color-text-muted);
+  font-size: 0.95rem;
+  margin-bottom: 2rem;
+}
+/* Pagefind UI overrides */
+:root {
+  --pagefind-ui-scale: 1;
+  --pagefind-ui-primary: #FF4F81;
+  --pagefind-ui-text: #2B2118;
+  --pagefind-ui-background: #FFFFFF;
+  --pagefind-ui-border: #F0E3D2;
+  --pagefind-ui-tag: #FFF1DA;
+  --pagefind-ui-border-width: 2px;
+  --pagefind-ui-border-radius: 12px;
+  --pagefind-ui-font: 'Pretendard Variable', sans-serif;
+}
+#search {
+  min-height: 200px;
+}
+</style>

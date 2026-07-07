@@ -6,7 +6,7 @@ tags: []
 slug: "만원2만원-대-선물-추천"
 numericId: 368
 description: "남자, 여자 상관없이 나이대 상관없이 부모님 한테도 선물 할 수 있는 만원 에서 2만원 대 선물 추천 리스트 입니다."
-thumbnail: "/images/368/img.jpg"
+thumbnail: "/images/entry/만원2만원-대-선물-추천/img.jpg"
 ---
 
 <div class="contents_style">
@@ -24,7 +24,7 @@ thumbnail: "/images/368/img.jpg"
 <p>만원 이하도 있음</p>
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/368/img.jpg"/>
+<img src="/images/entry/만원2만원-대-선물-추천/img.jpg"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -38,7 +38,7 @@ thumbnail: "/images/368/img.jpg"
 <p><span style="color: #333333;"><span style="color: #333333;">인센스 스틱세트</span></span></p>
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/368/img_1.jpg"/>
+<img src="/images/entry/만원2만원-대-선물-추천/img_1.jpg"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -46,7 +46,7 @@ thumbnail: "/images/368/img.jpg"
 <p><span style="color: #333333;"><span style="color: #333333;"><span style="color: #333333;"><span style="color: #333333;">디퓨져</span></span></span></span></p>
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/368/img_2.jpg"/>
+<img src="/images/entry/만원2만원-대-선물-추천/img_2.jpg"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -61,7 +61,7 @@ thumbnail: "/images/368/img.jpg"
 <p><span style="color: #333333;"><span style="color: #333333;"><span style="color: #333333;"><span style="color: #333333;">그립톡</span></span></span></span></p>
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/368/img_3.jpg"/>
+<img src="/images/entry/만원2만원-대-선물-추천/img_3.jpg"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -72,7 +72,7 @@ thumbnail: "/images/368/img.jpg"
 <p><span style="color: #333333;"><span style="color: #333333;"><span style="color: #333333;"><span style="color: #333333;"><span style="color: #333333;"><span style="color: #333333;">더치커피세트</span></span></span></span></span></span></p>
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/368/img_4.jpg"/>
+<img src="/images/entry/만원2만원-대-선물-추천/img_4.jpg"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -88,14 +88,14 @@ thumbnail: "/images/368/img.jpg"
 <p>파우치</p>
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/368/img_5.jpg"/>
+<img src="/images/entry/만원2만원-대-선물-추천/img_5.jpg"/>
 
 <figcaption></figcaption>
 </figure></p>
 <p><span style="color: #333333;">배스밤</span></p>
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/368/img_6.jpg"/>
+<img src="/images/entry/만원2만원-대-선물-추천/img_6.jpg"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -103,7 +103,7 @@ thumbnail: "/images/368/img.jpg"
 <p>여행용 파우치 세트</p>
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/368/img_7.jpg"/>
+<img src="/images/entry/만원2만원-대-선물-추천/img_7.jpg"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -111,7 +111,7 @@ thumbnail: "/images/368/img.jpg"
 <p><span style="letter-spacing: 0px;"><span style="color: #333333;">바디미스트</span></span></p>
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/368/img_8.jpg"/>
+<img src="/images/entry/만원2만원-대-선물-추천/img_8.jpg"/>
 
 <figcaption></figcaption>
 </figure></p>

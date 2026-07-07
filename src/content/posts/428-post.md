@@ -6,7 +6,7 @@ tags: ["피겨"]
 slug: "피겨-차준환-베이징-클립영상-나이-키-사진"
 numericId: 428
 description: "피겨스케이팅 차준환 선수가 이번에 좋은 성적을 내고 있습니다."
-thumbnail: "/images/428/blob.jpg"
+thumbnail: "/images/entry/피겨-차준환-베이징-클립영상-나이-키-사진/blob.jpg"
 ---
 
 <div class="contents_style">
@@ -53,27 +53,27 @@ thumbnail: "/images/428/blob.jpg"
 <p>누가 봐도 아이돌 상인 차준환</p>
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/428/blob.jpg"/>
+<img src="/images/entry/피겨-차준환-베이징-클립영상-나이-키-사진/blob.jpg"/>
 
 <figcaption></figcaption>
 </figure><figure class="imageblock alignCenter">
 
-<img src="/images/428/blob_1.jpg"/>
+<img src="/images/entry/피겨-차준환-베이징-클립영상-나이-키-사진/blob_1.jpg"/>
 
 <figcaption></figcaption>
 </figure><figure class="imageblock alignCenter">
 
-<img src="/images/428/blob_2.jpg"/>
+<img src="/images/entry/피겨-차준환-베이징-클립영상-나이-키-사진/blob_2.jpg"/>
 
 <figcaption></figcaption>
 </figure><figure class="imageblock alignCenter">
 
-<img src="/images/428/blob_3.jpg"/>
+<img src="/images/entry/피겨-차준환-베이징-클립영상-나이-키-사진/blob_3.jpg"/>
 
 <figcaption></figcaption>
 </figure><figure class="imageblock alignCenter">
 
-<img src="/images/428/blob_4.jpg"/>
+<img src="/images/entry/피겨-차준환-베이징-클립영상-나이-키-사진/blob_4.jpg"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -81,7 +81,7 @@ thumbnail: "/images/428/blob.jpg"
 <h3><b>차준환 과거 사진</b></h3>
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/428/Y0qAoKTK_400x400.jpg"/>
+<img src="/images/entry/피겨-차준환-베이징-클립영상-나이-키-사진/Y0qAoKTK_400x400.jpg"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -89,19 +89,19 @@ thumbnail: "/images/428/blob.jpg"
 <p>열폭하지 말고 이걸 봐라 </p>
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/428/다운로드_2.jfif"/>
+<img src="/images/entry/피겨-차준환-베이징-클립영상-나이-키-사진/다운로드_2.jfif"/>
 
 <figcaption></figcaption>
 </figure></p>
 <p>애기때랑 지금이랑 너무 똑같네 ㅎㅎ</p>
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/428/다운로드_3.jfif"/>
+<img src="/images/entry/피겨-차준환-베이징-클립영상-나이-키-사진/다운로드_3.jfif"/>
 
 <figcaption></figcaption>
 </figure><figure class="imageblock alignCenter">
 
-<img src="/images/428/다운로드_4.jfif"/>
+<img src="/images/entry/피겨-차준환-베이징-클립영상-나이-키-사진/다운로드_4.jfif"/>
 
 <figcaption></figcaption>
 </figure></p>

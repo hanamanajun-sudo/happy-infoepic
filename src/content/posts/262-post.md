@@ -6,7 +6,7 @@ tags: ["조은정", "조은정아나운서", "조은정소지섭", "조은정인
 slug: "조은정-소지섭-첫만남인터뷰-영상과거나이차정보-모음"
 numericId: 262
 description: "조은정 아나운서 소간지님이 결혼했다는 뉴스가 나왔어요."
-thumbnail: "/images/262/img.png"
+thumbnail: "/images/entry/조은정-소지섭-첫만남인터뷰-영상과거나이차정보-모음/img.png"
 ---
 
 <div class="contents_style">
@@ -20,7 +20,7 @@ thumbnail: "/images/262/img.png"
 <p>남편 소지섭</p>
 <p><figure class="imageblock floatRight">
 
-<img src="/images/262/img.png"/>
+<img src="/images/entry/조은정-소지섭-첫만남인터뷰-영상과거나이차정보-모음/img.png"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -37,7 +37,7 @@ thumbnail: "/images/262/img.png"
 <p>당시 <span style="color: #333333;">CJ E&amp;M, OGN 아나운서</span></p>
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/262/img_1.png"/>
+<img src="/images/entry/조은정-소지섭-첫만남인터뷰-영상과거나이차정보-모음/img_1.png"/>
 
 <figcaption>조은정 아나운서의 꿈은 수석 무용수</figcaption>
 </figure></p>
@@ -48,7 +48,7 @@ thumbnail: "/images/262/img.png"
 <h3><b>페이커 조은정 아나운서 사진</b></h3>
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/262/img_2.png"/>
+<img src="/images/entry/조은정-소지섭-첫만남인터뷰-영상과거나이차정보-모음/img_2.png"/>
 
 <figcaption>게임 방송 아나운서 시절 페이커와</figcaption>
 </figure></p>
@@ -57,7 +57,7 @@ thumbnail: "/images/262/img.png"
 <p>그러다가 학업을 위해 게임 방송을 중단했었습니다.</p>
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/262/img_3.png"/>
+<img src="/images/entry/조은정-소지섭-첫만남인터뷰-영상과거나이차정보-모음/img_3.png"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -65,7 +65,7 @@ thumbnail: "/images/262/img.png"
 <h3>1박2일 이화여자대학교 대학특집에 잠깐 나왔던 조은정 님</h3>
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/262/img_4.png"/>
+<img src="/images/entry/조은정-소지섭-첫만남인터뷰-영상과거나이차정보-모음/img_4.png"/>
 
 <figcaption>왼쪽에서 두번째 조은정 님</figcaption>
 </figure></p>
@@ -73,12 +73,12 @@ thumbnail: "/images/262/img.png"
 <p>2018년에 한밤의 티비연예 리포터로 방송을 다시 시작</p>
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/262/img_5.png"/>
+<img src="/images/entry/조은정-소지섭-첫만남인터뷰-영상과거나이차정보-모음/img_5.png"/>
 
 <figcaption></figcaption>
 </figure><figure class="imageblock alignCenter">
 
-<img src="/images/262/img_6.png"/>
+<img src="/images/entry/조은정-소지섭-첫만남인터뷰-영상과거나이차정보-모음/img_6.png"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -87,28 +87,28 @@ thumbnail: "/images/262/img.png"
 <p><b><span style="color: #333333;"><span style="color: #333333;">조인성 정우성 인터뷰 하는 조은정</span></span></b></p>
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/262/img_7.png"/>
+<img src="/images/entry/조은정-소지섭-첫만남인터뷰-영상과거나이차정보-모음/img_7.png"/>
 
 <figcaption></figcaption>
 </figure></p>
 
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/262/img_8.png"/>
+<img src="/images/entry/조은정-소지섭-첫만남인터뷰-영상과거나이차정보-모음/img_8.png"/>
 
 <figcaption></figcaption>
 </figure></p>
 
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/262/img_9.png"/>
+<img src="/images/entry/조은정-소지섭-첫만남인터뷰-영상과거나이차정보-모음/img_9.png"/>
 
 <figcaption></figcaption>
 </figure></p>
 <p>대한민국 최고 배우들을 상대로 인터뷰 하던 조은정 리포터</p>
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/262/img_10.png"/>
+<img src="/images/entry/조은정-소지섭-첫만남인터뷰-영상과거나이차정보-모음/img_10.png"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -122,33 +122,33 @@ thumbnail: "/images/262/img.png"
 <p>당시 인터뷰 영상을 보면 소지섭이 좋아하는 것 같았어요.</p>
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/262/img_11.png"/>
+<img src="/images/entry/조은정-소지섭-첫만남인터뷰-영상과거나이차정보-모음/img_11.png"/>
 
 <figcaption></figcaption>
 </figure><figure class="imageblock alignCenter">
 
-<img src="/images/262/img_12.png"/>
+<img src="/images/entry/조은정-소지섭-첫만남인터뷰-영상과거나이차정보-모음/img_12.png"/>
 
 <figcaption></figcaption>
 </figure></p>
 <p>첫 만남에도 느낌이 온 것 같은 소지섭 배우</p>
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/262/img_13.png"/>
+<img src="/images/entry/조은정-소지섭-첫만남인터뷰-영상과거나이차정보-모음/img_13.png"/>
 
 <figcaption></figcaption>
 </figure></p>
 <p>조은정 아나도 눈빛을 읽었겠죠?</p>
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/262/img_14.png"/>
+<img src="/images/entry/조은정-소지섭-첫만남인터뷰-영상과거나이차정보-모음/img_14.png"/>
 
 <figcaption></figcaption>
 </figure></p>
 <p>순간 둘만의 공간이 된 듯 한 인터뷰 현장</p>
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/262/img_15.png"/>
+<img src="/images/entry/조은정-소지섭-첫만남인터뷰-영상과거나이차정보-모음/img_15.png"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -170,7 +170,7 @@ thumbnail: "/images/262/img.png"
 
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/262/img_16.png"/>
+<img src="/images/entry/조은정-소지섭-첫만남인터뷰-영상과거나이차정보-모음/img_16.png"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -179,12 +179,12 @@ thumbnail: "/images/262/img.png"
 
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/262/img_17.png"/>
+<img src="/images/entry/조은정-소지섭-첫만남인터뷰-영상과거나이차정보-모음/img_17.png"/>
 
 <figcaption></figcaption>
 </figure><figure class="imageblock alignCenter">
 
-<img src="/images/262/img_18.png"/>
+<img src="/images/entry/조은정-소지섭-첫만남인터뷰-영상과거나이차정보-모음/img_18.png"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -195,7 +195,7 @@ thumbnail: "/images/262/img.png"
 
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/262/img_19.png"/>
+<img src="/images/entry/조은정-소지섭-첫만남인터뷰-영상과거나이차정보-모음/img_19.png"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -211,14 +211,14 @@ thumbnail: "/images/262/img.png"
 
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/262/img_20.png"/>
+<img src="/images/entry/조은정-소지섭-첫만남인터뷰-영상과거나이차정보-모음/img_20.png"/>
 
 <figcaption></figcaption>
 </figure></p>
 <p>거의 소개팅 분위기 처럼 달달했던..</p>
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/262/img_21.png"/>
+<img src="/images/entry/조은정-소지섭-첫만남인터뷰-영상과거나이차정보-모음/img_21.png"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -226,24 +226,24 @@ thumbnail: "/images/262/img.png"
 <h3><b>조은정 방송 활동 당시 사진 모음</b></h3>
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/262/img_22.png"/>
+<img src="/images/entry/조은정-소지섭-첫만남인터뷰-영상과거나이차정보-모음/img_22.png"/>
 
 <figcaption></figcaption>
 </figure><figure class="imageblock alignCenter">
 
-<img src="/images/262/img_23.png"/>
+<img src="/images/entry/조은정-소지섭-첫만남인터뷰-영상과거나이차정보-모음/img_23.png"/>
 
 <figcaption></figcaption>
 </figure><figure class="imageblock alignCenter">
 
-<img src="/images/262/img_24.png"/>
+<img src="/images/entry/조은정-소지섭-첫만남인터뷰-영상과거나이차정보-모음/img_24.png"/>
 
 <figcaption></figcaption>
 </figure></p>
 <p><span style="letter-spacing: 0px;">조은정 아나운서, 소지섭 배우 두분 결혼 축하드려요. </span></p>
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/262/img_25.png"/>
+<img src="/images/entry/조은정-소지섭-첫만남인터뷰-영상과거나이차정보-모음/img_25.png"/>
 
 <figcaption></figcaption>
 </figure></p>

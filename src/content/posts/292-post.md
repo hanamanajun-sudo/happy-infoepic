@@ -5,8 +5,8 @@ category: "꿀팁&정보 백과사전/생활팁 백과"
 tags: ["긴급재난지원금", "긴급재난지원금신청"]
 slug: "긴급재난-지원금핵심-정보신청방법신청기간온라인오프라인"
 numericId: 292
-description: "https://긴급재난지원금.kr/"
-thumbnail: "/images/292/DSe0V.jpg"
+description: "긴급재난지원금의 정확한 신청 방법과 신청 기간, 온라인과 오프라인 신청 절차를 핵심 정보만 모아 한눈에 쏙 정리했습니다. 긴급재난지원금.kr에서 본인의 지원 금액을 조회하는 방법부터 실제 수령까지 알아야 할 모든 정보를 제공합니다."
+thumbnail: "/images/entry/긴급재난-지원금핵심-정보신청방법신청기간온라인오프라인/DSe0V.jpg"
 ---
 
 <div class="contents_style">
@@ -18,7 +18,7 @@ thumbnail: "/images/292/DSe0V.jpg"
 <p><span style="font-size: 14pt; font-family: 맑은 고딕,sans-serif; color: #000000;">* 이미 지자체로 부터 일부 금액을 지급 받은 경우에는 지원금이 달라질 수 있음</span></p>
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/292/DSe0V.jpg"/>
+<img src="/images/entry/긴급재난-지원금핵심-정보신청방법신청기간온라인오프라인/DSe0V.jpg"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -39,7 +39,7 @@ thumbnail: "/images/292/DSe0V.jpg"
 <p><!-- 중간광고S--></p>
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/292/DSe0Z.jpg"/>
+<img src="/images/entry/긴급재난-지원금핵심-정보신청방법신청기간온라인오프라인/DSe0Z.jpg"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -69,7 +69,7 @@ thumbnail: "/images/292/DSe0V.jpg"
 
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/292/DSe0f.jpg"/>
+<img src="/images/entry/긴급재난-지원금핵심-정보신청방법신청기간온라인오프라인/DSe0f.jpg"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -100,7 +100,7 @@ thumbnail: "/images/292/DSe0V.jpg"
 
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/292/DSe0h.jpg"/>
+<img src="/images/entry/긴급재난-지원금핵심-정보신청방법신청기간온라인오프라인/DSe0h.jpg"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -122,7 +122,7 @@ thumbnail: "/images/292/DSe0V.jpg"
 
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/292/DSe0j.jpg"/>
+<img src="/images/entry/긴급재난-지원금핵심-정보신청방법신청기간온라인오프라인/DSe0j.jpg"/>
 
 <figcaption></figcaption>
 </figure></p>

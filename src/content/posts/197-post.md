@@ -6,7 +6,7 @@ tags: ["부작용", "멀미약", "키미테", "키미테부작용"]
 slug: "붙이는-멀미약-키미테-효능-그리고-부작용주의사항"
 numericId: 197
 description: "기차, 배, 비행기를 장시간 타고 갈 때에 멀미에 약한 사람은 여행을 망치게 될까"
-thumbnail: "/images/197/img.png"
+thumbnail: "/images/entry/붙이는-멀미약-키미테-효능-그리고-부작용주의사항/img.png"
 ---
 
 <div class="contents_style">
@@ -21,7 +21,7 @@ thumbnail: "/images/197/img.png"
 <p>사용하기 전에 한번 쯤 꼭 읽어 보세요.</p>
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/197/img.png"/>
+<img src="/images/entry/붙이는-멀미약-키미테-효능-그리고-부작용주의사항/img.png"/>
 
 <figcaption>블랙핑크 키미테</figcaption>
 </figure></p>
@@ -128,7 +128,7 @@ thumbnail: "/images/197/img.png"
 
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/197/img_1.png"/>
+<img src="/images/entry/붙이는-멀미약-키미테-효능-그리고-부작용주의사항/img_1.png"/>
 
 <figcaption></figcaption>
 </figure></p>

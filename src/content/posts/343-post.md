@@ -5,8 +5,8 @@ category: "문화&연예 트렌드/스타&인물"
 tags: ["KBS개그맨", "박대승"]
 slug: "개그맨-박대승-누구-얼굴-사진KBS공채-32기개그콘서트-과거-출연작"
 numericId: 343
-description: "박대승 나이 1990년생 31살"
-thumbnail: "/images/343/img.png"
+description: "KBS 공채 32기 개그맨 박대승의 프로필과 나이, 실제 얼굴 사진, 개그콘서트 주요 출연작을 모두 한눈에 총정리했습니다. 1990년생 31살 박대승의 개그맨 데뷔 과정과 개그콘서트 속에서 활약한 다양한 코너 활동을 확인해보세요."
+thumbnail: "/images/entry/개그맨-박대승-누구-얼굴-사진KBS공채-32기개그콘서트-과거-출연작/img.png"
 ---
 
 <div class="contents_style">
@@ -27,14 +27,14 @@ thumbnail: "/images/343/img.png"
 <h4><b>개그콘서트 과거 출연 코너</b></h4>
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/343/img.png"/>
+<img src="/images/entry/개그맨-박대승-누구-얼굴-사진KBS공채-32기개그콘서트-과거-출연작/img.png"/>
 
 <figcaption>개그콘서트 박대승</figcaption>
 </figure></p>
 <blockquote>#인스터디그램 - 선생님 역. <br/><br/>이 와중에 <br/><br/>과한 나라 <br/><br/>악마의 편집 <br/><br/>민상소송 - 가해자 역. <br/><br/>국제 유치원 - 선생님 역. <br/><br/>2분 드라마 <br/><br/>가짜 뉴스 <br/><br/>도티의 개그몬 언박싱 <br/><br/>던질까 말까 <br/><br/>히든 보이스</blockquote>
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/343/img_1.png"/>
+<img src="/images/entry/개그맨-박대승-누구-얼굴-사진KBS공채-32기개그콘서트-과거-출연작/img_1.png"/>
 
 <figcaption>개그콘서트 박대승</figcaption>
 </figure></p>
@@ -46,7 +46,7 @@ thumbnail: "/images/343/img.png"
 <p>추리와 몰카 형식의 두가지 재미를 느낄 수 있는 프로그램이였다.</p>
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/343/796372_520341_1344.jpg"/>
+<img src="/images/entry/개그맨-박대승-누구-얼굴-사진KBS공채-32기개그콘서트-과거-출연작/796372_520341_1344.jpg"/>
 
 <figcaption></figcaption>
 </figure></p>

@@ -6,7 +6,7 @@ tags: []
 slug: "EgirlEboy-뜻-유래-스타일-트랜드-소개"
 numericId: 244
 description: "현재 인터넷을 중심으로 서양에서 유행하고 있는 새로운 서브컬처"
-thumbnail: "/images/244/blob.jpg"
+thumbnail: "/images/entry/EgirlEboy-뜻-유래-스타일-트랜드-소개/blob.jpg"
 ---
 
 <div class="contents_style">
@@ -44,7 +44,7 @@ thumbnail: "/images/244/blob.jpg"
 <p>눈 아래에 검은색 하트를 그린다.</p>
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/244/blob.jpg"/>
+<img src="/images/entry/EgirlEboy-뜻-유래-스타일-트랜드-소개/blob.jpg"/>
 
 <figcaption>instgram @nekos_fang</figcaption>
 </figure></p>

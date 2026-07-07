@@ -6,7 +6,7 @@ tags: ["봉준호", "기생충", "통역", "샤론최"]
 slug: "샤론최-통역-지옥훈련-시절-샤론최의-오스카-지분"
 numericId: 144
 description: "아카데미에서 주요부문 4관왕을 해버린 기생충의 봉준호 감독님은"
-thumbnail: "/images/144/img.png"
+thumbnail: "/images/entry/샤론최-통역-지옥훈련-시절-샤론최의-오스카-지분/img.png"
 ---
 
 <div class="contents_style">
@@ -18,7 +18,7 @@ thumbnail: "/images/144/img.png"
 
 <p><figure class="imageblock alignCenter" width="600">
 
-<img src="/images/144/img.png" width="600"/>
+<img src="/images/entry/샤론최-통역-지옥훈련-시절-샤론최의-오스카-지분/img.png" width="600"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -34,21 +34,21 @@ thumbnail: "/images/144/img.png"
 
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/144/img.jpg"/>
+<img src="/images/entry/샤론최-통역-지옥훈련-시절-샤론최의-오스카-지분/img.jpg"/>
 
 <figcaption></figcaption>
 </figure></p>
 <p>처음에는 가볍게 정상적으로 시작하시는 이창동 감독님</p>
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/144/img_1.jpg"/>
+<img src="/images/entry/샤론최-통역-지옥훈련-시절-샤론최의-오스카-지분/img_1.jpg"/>
 
 <figcaption></figcaption>
 </figure></p>
 <p>갑자기 폭주 하시는</p>
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/144/img_1.png"/>
+<img src="/images/entry/샤론최-통역-지옥훈련-시절-샤론최의-오스카-지분/img_1.png"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -56,7 +56,7 @@ thumbnail: "/images/144/img.png"
 
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/144/img_2.jpg"/>
+<img src="/images/entry/샤론최-통역-지옥훈련-시절-샤론최의-오스카-지분/img_2.jpg"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -64,7 +64,7 @@ thumbnail: "/images/144/img.png"
 
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/144/img_2.png"/>
+<img src="/images/entry/샤론최-통역-지옥훈련-시절-샤론최의-오스카-지분/img_2.png"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -121,12 +121,12 @@ thumbnail: "/images/144/img.png"
 <h3>(유력지 링크만 가져온것)</h3>
 <hr contenteditable="false"/>
 
-<p><a href="https://edition.cnn.com/2020/02/10/entertainment/sharon-choi-parasite/index.html" rel="noopener" target="_blank">https://edition.cnn.com/2020/02/10/entertainment/sharon-choi-parasite/index.html</a></p>
+<p><a href="https://edition.cnn.com/2020/02/entry/외국인에게-알려주는-청국장-–-청국장의-효능과-부작용/entertainment/sharon-choi-parasite/index.html" rel="noopener" target="_blank">https://edition.cnn.com/2020/02/entry/외국인에게-알려주는-청국장-–-청국장의-효능과-부작용/entertainment/sharon-choi-parasite/index.html</a></p>
 <p> CNN 샤론 최 뉴스 기사</p>
-<p>관련 글: <a href="https://www.cnn.com/2020/02/10/entertainment/sharon-choi-parasite/index.html" rel="noopener" target="_blank">A round of applause for Sharon Choi, 'Parasite' director Bong Joon Ho's translator</a></p>
-<p><a href="https://www.nytimes.com/2020/02/10/movies/bong-joon-ho-translator-sharon-choi.html" rel="noopener" target="_blank">https://www.nytimes.com/2020/02/10/movies/bong-joon-ho-translator-sharon-choi.html</a></p>
+<p>관련 글: <a href="https://www.cnn.com/2020/02/entry/외국인에게-알려주는-청국장-–-청국장의-효능과-부작용/entertainment/sharon-choi-parasite/index.html" rel="noopener" target="_blank">A round of applause for Sharon Choi, 'Parasite' director Bong Joon Ho's translator</a></p>
+<p><a href="https://www.nytimes.com/2020/02/entry/외국인에게-알려주는-청국장-–-청국장의-효능과-부작용/movies/bong-joon-ho-translator-sharon-choi.html" rel="noopener" target="_blank">https://www.nytimes.com/2020/02/entry/외국인에게-알려주는-청국장-–-청국장의-효능과-부작용/movies/bong-joon-ho-translator-sharon-choi.html</a></p>
 <p>뉴욕 타임즈 샤론 최 뉴스 기사</p>
-<p>관련 글: <a href="https://www.nytimes.com/2020/02/10/movies/bong-joon-ho-translator-sharon-choi.html" rel="noopener" target="_blank">Translating for Bong Joon Ho at the Oscars: Aspiring Director Sharon Choi</a></p>
+<p>관련 글: <a href="https://www.nytimes.com/2020/02/entry/외국인에게-알려주는-청국장-–-청국장의-효능과-부작용/movies/bong-joon-ho-translator-sharon-choi.html" rel="noopener" target="_blank">Translating for Bong Joon Ho at the Oscars: Aspiring Director Sharon Choi</a></p>
 <p><a href="https://www.latimes.com/entertainment-arts/movies/story/2020-02-09/oscars-bong-joon-ho-parasite-martin-scorsese-sharon-choi" rel="noopener" target="_blank">https://www.latimes.com/entertainment-arts/movies/story/2020-02-09/oscars-bong-joon-ho-parasite-martin-scorsese-sharon-choi</a></p>
 <p>LA타임즈 샤론 최 뉴스 기사</p>
 <p>관련 글: <a href="https://www.latimes.com/entertainment-arts/movies/story/2020-02-09/oscars-bong-joon-ho-parasite-martin-scorsese-sharon-choi" rel="noopener" target="_blank">Oscars 2020: Bong Joon Ho praises translator Sharon Choi, who is also a director</a></p>
@@ -185,7 +185,7 @@ thumbnail: "/images/144/img.png"
 <p><b>(국뽕일까 눈치 안보고 너무 당당하게 이야기 할 수 있네요)</b></p>
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/144/img_3.jpg"/>
+<img src="/images/entry/샤론최-통역-지옥훈련-시절-샤론최의-오스카-지분/img_3.jpg"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -202,7 +202,7 @@ thumbnail: "/images/144/img.png"
 <p>봉준호 감독님의 머리속 생각을 위트있게 그대로 전달해 주었습니다.</p>
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/144/img_3.png"/>
+<img src="/images/entry/샤론최-통역-지옥훈련-시절-샤론최의-오스카-지분/img_3.png"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -228,7 +228,7 @@ thumbnail: "/images/144/img.png"
 <h4><span style="background-color: #f6e199; color: #8a3db6;"><b>  92회 아카데미 통역상 샤론 최  </b></span></h4>
 <p><figure class="imageblock alignCenter" width="600">
 
-<img src="/images/144/img_4.jpg" width="600"/>
+<img src="/images/entry/샤론최-통역-지옥훈련-시절-샤론최의-오스카-지분/img_4.jpg" width="600"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -238,7 +238,7 @@ thumbnail: "/images/144/img.png"
 <p><span style="background-color: #9feec3;"><b>모든 분들 수고하셨습니다.</b></span></p>
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/144/img.gif"/>
+<img src="/images/entry/샤론최-통역-지옥훈련-시절-샤론최의-오스카-지분/img.gif"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -247,7 +247,7 @@ thumbnail: "/images/144/img.png"
 
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/144/img_5.jpg"/>
+<img src="/images/entry/샤론최-통역-지옥훈련-시절-샤론최의-오스카-지분/img_5.jpg"/>
 
 <figcaption></figcaption>
 </figure></p>

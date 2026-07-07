@@ -6,13 +6,13 @@ tags: ["짜장면"]
 slug: "외국인에게-알려주는-짜장면4편-짜장면은-한국-배달-문화의-아버지"
 numericId: 6
 description: "호불호가 거의 없어 많은 한국 사람들이 좋아하는 만큼 한국의 어느 지역이던 어느 곳이던 중국 음식점을 찾을 수 있으며 어디에서든 배달을 시켜 먹을 수 있다.배달음식의 조상으로 지금의 한국 배달음식 문화를 만든 장본인이라 해도 과언이 아니다.어디든 배달을 시키면 가져다 주는데 공원, 한강"
-thumbnail: "/images/6/img.jpg"
+thumbnail: "/images/entry/외국인에게-알려주는-짜장면4편-짜장면은-한국-배달-문화의-아버지/img.jpg"
 ---
 
 <div class="contents_style">
 <p><figure class="imageblock alignLeft">
 
-<img src="/images/6/img.jpg"/>
+<img src="/images/entry/외국인에게-알려주는-짜장면4편-짜장면은-한국-배달-문화의-아버지/img.jpg"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -30,8 +30,8 @@ thumbnail: "/images/6/img.jpg"
 <p><br/>짜장면과 함께 나오는 반찬  <br/>바로 단무지와 생양파 그리고 묽은 춘장이 함께 나오는데  <br/>양파를 춘장에 찍어 먹는다.  <br/>중국음식점에 직접 가서 먹을 경우 테이블에  <br/>올려져 있는게 간장, 고춧가루 그리고 식초 이다. <br/>사람에 따라서는 단무지에 식초를 뿌려서 먹기도 한다. <br/><br/><br/></p>
 <h2>짜장면의 커스터마이징 - 고춧가루를 뿌린다고?</h2>
 <p><br/>취향에 따라 고춧가루를 뿌려 먹는 경우가 종종 있고 <br/>소수의 사람 중에는 많은 양의 고춧가루를 뿌리는 사람도 있다. <br/><br/>곱빼기는 그릇도 크고 양도 1.5배 정도 많다. 좀더 양을 많이 먹고 싶은 사람은 주저 하지 말고 곱빼기를 시켜라 <br/><br/></p>
-<p><a href="https://happy.infoepic.com/3">외국인에게 알려주는 - 짜장면 1편</a></p>
-<p>관련 글: <a href="https://happy.infoepic.com/3" rel="noopener" target="_blank">외국인에게 알려주는 - 짜장면 1편</a></p>
+<p><a href="https://happy.infoepic.com/entry/외국인에게-알려주는-짜장면-1편">외국인에게 알려주는 - 짜장면 1편</a></p>
+<p>관련 글: <a href="https://happy.infoepic.com/entry/외국인에게-알려주는-짜장면-1편" rel="noopener" target="_blank">외국인에게 알려주는 - 짜장면 1편</a></p>
 <p><a href="https://happy.infoepic.com/4">외국인에게 알려주는 짜장면 2편/ 짜장면이 좋아? 짬뽕이 좋아?</a></p>
 <p>관련 글: <a href="https://happy.infoepic.com/4" rel="noopener" target="_blank">외국인에게 알려주는 짜장면 2편/ 짜장면이 좋아? 짬뽕이 좋아?</a></p>
 <p><a href="https://happy.infoepic.com/5">외국인에게 알려주는 짜장면 3편/ 한국 사람들은 졸업식 날 짜장면을 먹어?</a></p>

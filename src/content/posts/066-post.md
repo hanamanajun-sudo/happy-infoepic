@@ -6,13 +6,13 @@ tags: ["근황", "핸슨보배"]
 slug: "예쁘면-다야-소녀-근황-사진-모음-인스타그램-주소"
 numericId: 66
 description: "두 아이가 귀엽게 툭탁 거리는 모습이 너무 귀엽고 사랑스러웠고"
-thumbnail: "/images/66/img.jpg"
+thumbnail: "/images/entry/예쁘면-다야-소녀-근황-사진-모음-인스타그램-주소/img.jpg"
 ---
 
 <div class="contents_style">
 <p><figure class="imageblock alignCenter" width="500">
 
-<img src="/images/66/img.jpg" width="500"/>
+<img src="/images/entry/예쁘면-다야-소녀-근황-사진-모음-인스타그램-주소/img.jpg" width="500"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -45,7 +45,7 @@ thumbnail: "/images/66/img.jpg"
 
 <p><figure class="imageblock floatRight" width="500">
 
-<img src="/images/66/img_1.jpg" width="500"/>
+<img src="/images/entry/예쁘면-다야-소녀-근황-사진-모음-인스타그램-주소/img_1.jpg" width="500"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -57,17 +57,17 @@ thumbnail: "/images/66/img.jpg"
 <h4><span style="background-color: #c1bef9;"><b><span style="color: #000000;">헨슨 보배 사진 모음</span></b></span></h4>
 <p><figure class="imageblock alignCenter" width="500">
 
-<img src="/images/66/img_2.jpg" width="500"/>
+<img src="/images/entry/예쁘면-다야-소녀-근황-사진-모음-인스타그램-주소/img_2.jpg" width="500"/>
 
 <figcaption></figcaption>
 </figure><figure class="imageblock alignCenter" width="500">
 
-<img src="/images/66/img_3.jpg" width="500"/>
+<img src="/images/entry/예쁘면-다야-소녀-근황-사진-모음-인스타그램-주소/img_3.jpg" width="500"/>
 
 <figcaption></figcaption>
 </figure><figure class="imageblock alignCenter" width="500">
 
-<img src="/images/66/img_4.jpg" width="500"/>
+<img src="/images/entry/예쁘면-다야-소녀-근황-사진-모음-인스타그램-주소/img_4.jpg" width="500"/>
 
 <figcaption></figcaption>
 </figure></p>

@@ -6,14 +6,14 @@ tags: ["코로나", "코로나19", "코로나그래프"]
 slug: "코로나-각종-데이터-그래프-모음-한국일본이탈리아이란중국-등"
 numericId: 195
 description: "중간에 크게 올라간 건 집계 할 때 한꺼번에 한것인지 밀렸다가 한것인지 모르겠네요"
-thumbnail: "/images/195/img.png"
+thumbnail: "/images/entry/코로나-각종-데이터-그래프-모음-한국일본이탈리아이란중국-등/img.png"
 ---
 
 <div class="contents_style">
 <h2><span style="background-color: #f6e199;"><b>중국 코로나19 일별 확진자 그래프</b></span></h2>
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/195/img.png"/>
+<img src="/images/entry/코로나-각종-데이터-그래프-모음-한국일본이탈리아이란중국-등/img.png"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -23,7 +23,7 @@ thumbnail: "/images/195/img.png"
 <h2><span style="color: #333333;"><b>중국<span style="color: #333333;"> 코로나19 </span>일별 사망자 그래프</b></span></h2>
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/195/img_1.png"/>
+<img src="/images/entry/코로나-각종-데이터-그래프-모음-한국일본이탈리아이란중국-등/img_1.png"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -31,7 +31,7 @@ thumbnail: "/images/195/img.png"
 <h2>중국 코로나19 확진자 누적</h2>
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/195/img_2.png"/>
+<img src="/images/entry/코로나-각종-데이터-그래프-모음-한국일본이탈리아이란중국-등/img_2.png"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -40,7 +40,7 @@ thumbnail: "/images/195/img.png"
 <h2><span style="background-color: #f6e199;"><b>한국, 이탈리아 이란 일별 확진자 누적 그래프</b></span></h2>
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/195/img_3.png"/>
+<img src="/images/entry/코로나-각종-데이터-그래프-모음-한국일본이탈리아이란중국-등/img_3.png"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -51,7 +51,7 @@ thumbnail: "/images/195/img.png"
 <p>(중국, 한국, 이탈리아, 이란 제외)</p>
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/195/img_4.png"/>
+<img src="/images/entry/코로나-각종-데이터-그래프-모음-한국일본이탈리아이란중국-등/img_4.png"/>
 
 <figcaption></figcaption>
 </figure></p>

@@ -6,14 +6,14 @@ tags: ["김치볶음밥", "레시피", "충격의김치볶음밥", "충김볶"]
 slug: "충격의-김치볶음밥-레시피-내가보려고-적은글"
 numericId: 202
 description: "워낙 커뮤니티에 많이 퍼질대로 퍼져서 유명해진 충격의 김치볶음밥 레시피예요."
-thumbnail: "/images/202/img.png"
+thumbnail: "/images/entry/충격의-김치볶음밥-레시피-내가보려고-적은글/img.png"
 ---
 
 <div class="contents_style">
 <p>워낙 커뮤니티에 많이 퍼질대로 퍼져서 유명해진 충격의 김치볶음밥 레시피예요.</p>
 <p><figure class="imageblock alignCenter" width="500">
 
-<img src="/images/202/img.png" width="500"/>
+<img src="/images/entry/충격의-김치볶음밥-레시피-내가보려고-적은글/img.png" width="500"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -65,7 +65,7 @@ thumbnail: "/images/202/img.png"
 <p>아래는 전설이 된 원문과 성은입은 어린양들</p>
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/202/b7e3ce7de80dafadfacced9eb82891a5.jpg"/>
+<img src="/images/entry/충격의-김치볶음밥-레시피-내가보려고-적은글/b7e3ce7de80dafadfacced9eb82891a5.jpg"/>
 
 <figcaption></figcaption>
 </figure></p>

@@ -5,8 +5,8 @@ category: "라이프 트렌드/음식&레시피 백과"
 tags: ["편스토랑", "편스토랑이경규", "앵그리크림쫄면", "앵그리크림파스타", "이경규크림파스타"]
 slug: "편스토랑-이경규앵그리크림쫄면레시피-맞습니다"
 numericId: 260
-description: "버터 15g,다진마늘 10g,"
-thumbnail: "/images/260/img.jpg"
+description: "편스토랑 이경규의 앵그리 크림 쫄면 레시피를 집에서도 완벽하게 재현하는 황금 레시피를 공개합니다. 버터와 마늘의 환상적인 조합으로 만드는 크림 파스타 스타일의 쫄면 요리, 단계별 상세 조리법과 성공 꿀팁을 알려드립니다."
+thumbnail: "/images/entry/편스토랑-이경규앵그리크림쫄면레시피-맞습니다/img.jpg"
 ---
 
 <div class="contents_style">
@@ -34,7 +34,7 @@ thumbnail: "/images/260/img.jpg"
 
 <p><figure class="imageblock floatLeft" width="200">
 
-<img src="/images/260/img.jpg" width="200"/>
+<img src="/images/entry/편스토랑-이경규앵그리크림쫄면레시피-맞습니다/img.jpg" width="200"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -73,7 +73,7 @@ thumbnail: "/images/260/img.jpg"
 <p><span style="background-color: #ffc1c8;">※휘핑기 없어도 괜찮아요</span></p>
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/260/img.png"/>
+<img src="/images/entry/편스토랑-이경규앵그리크림쫄면레시피-맞습니다/img.png"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -95,7 +95,7 @@ thumbnail: "/images/260/img.jpg"
 <p><span style="background-color: #ffc1c8;"><span style="color: #333333;">※ 고기고기 좋아하시면</span> 베이컨이나 스팸 소세지 환영</span></p>
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/260/img_1.png"/>
+<img src="/images/entry/편스토랑-이경규앵그리크림쫄면레시피-맞습니다/img_1.png"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -107,7 +107,7 @@ thumbnail: "/images/260/img.jpg"
 <p><span style="background-color: #ffc1c8;">마늘은 반스푼, 양파나 버섯은 대충 적당량</span></p>
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/260/img_2.png"/>
+<img src="/images/entry/편스토랑-이경규앵그리크림쫄면레시피-맞습니다/img_2.png"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -121,7 +121,7 @@ thumbnail: "/images/260/img.jpg"
 <p><span style="background-color: #ffc1c8;"> 만들어 먹으려면 고추장 1t , 간장 한스푼 , msg 톡톡, 설탕 한스푼, 고추가루 반스푼 (크림의 맛을 강조하려면 양을 줄여서 넣으세요)</span></p>
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/260/img_3.png"/>
+<img src="/images/entry/편스토랑-이경규앵그리크림쫄면레시피-맞습니다/img_3.png"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -131,7 +131,7 @@ thumbnail: "/images/260/img.jpg"
 <p>*매운 맛은 쥐똥고추 양을 조절하면 되요. </p>
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/260/img_4.png"/>
+<img src="/images/entry/편스토랑-이경규앵그리크림쫄면레시피-맞습니다/img_4.png"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -139,7 +139,7 @@ thumbnail: "/images/260/img.jpg"
 <p>페퍼론치노 이것도 없으면 청량고추를 잘게 잘라 대체 하세요)</p>
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/260/img_5.png"/>
+<img src="/images/entry/편스토랑-이경규앵그리크림쫄면레시피-맞습니다/img_5.png"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -147,14 +147,14 @@ thumbnail: "/images/260/img.jpg"
 
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/260/img_6.png"/>
+<img src="/images/entry/편스토랑-이경규앵그리크림쫄면레시피-맞습니다/img_6.png"/>
 
 <figcaption></figcaption>
 </figure></p>
 <p>9. 끓어오르기 시작하면 쫄면을 넣고 1~2분 정도 더 끓여줘요. </p>
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/260/img_7.png"/>
+<img src="/images/entry/편스토랑-이경규앵그리크림쫄면레시피-맞습니다/img_7.png"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -165,7 +165,7 @@ thumbnail: "/images/260/img.jpg"
 
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/260/이미지_41.png"/>
+<img src="/images/entry/편스토랑-이경규앵그리크림쫄면레시피-맞습니다/이미지_41.png"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -181,7 +181,7 @@ thumbnail: "/images/260/img.jpg"
 <h3><b>완성된 환상적 비쥬얼</b></h3>
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/260/이미지_44.png"/>
+<img src="/images/entry/편스토랑-이경규앵그리크림쫄면레시피-맞습니다/이미지_44.png"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -189,21 +189,21 @@ thumbnail: "/images/260/img.jpg"
 <p>분식 주제에 딱맞는 어린이 평가단</p>
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/260/img_8.png"/>
+<img src="/images/entry/편스토랑-이경규앵그리크림쫄면레시피-맞습니다/img_8.png"/>
 
 <figcaption>진실의 미간 - 이 짤 만으로 너무 먹고 싶어짐</figcaption>
 </figure></p>
 <p>어린이들 입맛에도 맞고 어른들 취향도 잡아낸 경규 아저씨 진짜 대단해요</p>
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/260/img_9.png"/>
+<img src="/images/entry/편스토랑-이경규앵그리크림쫄면레시피-맞습니다/img_9.png"/>
 
 <figcaption></figcaption>
 </figure></p>
 <p>요리쪽으로 진짜 비상하신 것 같아요. (꼬꼬면이 그냥 우연이 아니였어요.)</p>
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/260/img_10.png"/>
+<img src="/images/entry/편스토랑-이경규앵그리크림쫄면레시피-맞습니다/img_10.png"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -212,7 +212,7 @@ thumbnail: "/images/260/img.jpg"
 <p>그 두개가 막 버무러져 있으니.. (아 침나오네요.)</p>
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/260/img_11.png"/>
+<img src="/images/entry/편스토랑-이경규앵그리크림쫄면레시피-맞습니다/img_11.png"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -226,14 +226,14 @@ thumbnail: "/images/260/img.jpg"
 <p>이영자(몽떡)님과 이경규님이 대결을 하는 편에서 나왔어요. 결과는 이경규님의 승리</p>
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/260/img_12.png"/>
+<img src="/images/entry/편스토랑-이경규앵그리크림쫄면레시피-맞습니다/img_12.png"/>
 
 <figcaption></figcaption>
 </figure></p>
 <p>김강훈, 윌리엄, 벤틀리 어린이가 꼬고마 심사위원으로 함께하고</p>
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/260/img_13.png"/>
+<img src="/images/entry/편스토랑-이경규앵그리크림쫄면레시피-맞습니다/img_13.png"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -242,7 +242,7 @@ thumbnail: "/images/260/img.jpg"
 
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/260/img_14.png"/>
+<img src="/images/entry/편스토랑-이경규앵그리크림쫄면레시피-맞습니다/img_14.png"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -250,7 +250,7 @@ thumbnail: "/images/260/img.jpg"
 <h4> </h4>
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/260/img_15.png"/>
+<img src="/images/entry/편스토랑-이경규앵그리크림쫄면레시피-맞습니다/img_15.png"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -258,7 +258,7 @@ thumbnail: "/images/260/img.jpg"
 <p>가격 3,900원으로 방송에서 처럼 앵그리소스로 매운 맛을 맞출 수 있어요. </p>
 <p><figure class="imageblock floatLeft">
 
-<img src="/images/260/img_16.png"/>
+<img src="/images/entry/편스토랑-이경규앵그리크림쫄면레시피-맞습니다/img_16.png"/>
 
 <figcaption></figcaption>
 </figure></p>

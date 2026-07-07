@@ -6,7 +6,7 @@ tags: ["떡볶이"]
 slug: "외국인에게-알려주는-떡볶이-3편-인기-있는-떡볶이-가게들"
 numericId: 13
 description: "-신당동:떡볶이를 전파 시킨 원조 떡볶이집,즉석떡볶이가 유명"
-thumbnail: "/images/13/img.jpg"
+thumbnail: "/images/entry/외국인에게-알려주는-떡볶이-3편-인기-있는-떡볶이-가게들/img.jpg"
 ---
 
 <div class="contents_style">
@@ -42,12 +42,12 @@ thumbnail: "/images/13/img.jpg"
 
 <p><figure class="imageblock alignLeft" width="319">
 
-<img src="/images/13/img.jpg" width="319"/>
+<img src="/images/entry/외국인에게-알려주는-떡볶이-3편-인기-있는-떡볶이-가게들/img.jpg" width="319"/>
 
 <figcaption></figcaption>
 </figure></p>
-<blockquote><span style="color: #333333;"><span style="color: #333333;">[함께 보면 좋은 관련 글]<br/><a href="https://happy.infoepic.com/11">외국인에게 알려주는 떡볶이- 1편 '떡볶이의 과거와 현재'</a><br/></span></span>
-<p><a href="https://happy.infoepic.com/12">외국인에게 알려주는 떡볶이 - 2편 '떡볶이의 종류와 친구들'</a></p>
+<blockquote><span style="color: #333333;"><span style="color: #333333;">[함께 보면 좋은 관련 글]<br/><a href="https://happy.infoepic.com/entry/오미자-소개-그리고-효능-사람들이-찾는-이유1">외국인에게 알려주는 떡볶이- 1편 '떡볶이의 과거와 현재'</a><br/></span></span>
+<p><a href="https://happy.infoepic.com/entry/오미자-소개-그리고-효능-사람들이-찾는-이유2">외국인에게 알려주는 떡볶이 - 2편 '떡볶이의 종류와 친구들'</a></p>
 </blockquote>
 <h2><br/><span style="background-color: #f6e199;">필자의 20년 전 기억</span></h2>
 <p>내가 다니던 중학교 앞에는 떡볶이와 오뎅을 파는 포장마차가 항상 있었다. 한창 많이 먹던 때여서 학교가 끝나면 거의 매일 친구들과 모여 떡볶이와 오뎅을 파는 포장마차로 갔다.</p>

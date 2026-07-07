@@ -6,7 +6,7 @@ tags: ["대피소", "비상상황"]
 slug: "대피소-찾는-방법-어플-서버-다운-시-할수-있는-것-대피소에서-행동-요령"
 numericId: 459
 description: "갑작스럽게 경계경보 오발령 및 재난 문자가 발송되어 주변 분들을 포함해서 저도 놀랐는데요. 대피할 준비를 하라는 위급 재난 문자를 보고 역시 이럴 때에는 순간적으로 어떻게 해야할지 멍해지네요.서버가 먹통되기도 해서 비상 상황에 미리 미리 알아볼 수 있도록대피소 찾는 방법과 어떤 행동을"
-thumbnail: "/images/459/edited_1685484869718-naorm0n2ofl.jpg"
+thumbnail: "/images/entry/대피소-찾는-방법-어플-서버-다운-시-할수-있는-것-대피소에서-행동-요령/edited_1685484869718-naorm0n2ofl.jpg"
 ---
 
 <div class="contents_style">
@@ -19,7 +19,7 @@ thumbnail: "/images/459/edited_1685484869718-naorm0n2ofl.jpg"
 
 <p><figure class="imageblock alignCenter" height="812" width="400">
 
-<img height="812" src="/images/459/edited_1685484869718-naorm0n2ofl.jpg" width="400"/>
+<img height="812" src="/images/entry/대피소-찾는-방법-어플-서버-다운-시-할수-있는-것-대피소에서-행동-요령/edited_1685484869718-naorm0n2ofl.jpg" width="400"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -40,7 +40,7 @@ thumbnail: "/images/459/edited_1685484869718-naorm0n2ofl.jpg"
 <p><span style="background-color: #f6e199;"><b>민방위 마크가 있는 곳을 찾으세요.</b></span></p>
 <p><figure class="imageblock alignCenter" height="225" width="400">
 
-<img height="225" src="/images/459/edited_우리의_안전은_우리_손으로_생활안전_행동요령_대피소_찾기_편_0-42_screenshot.png" width="400"/>
+<img height="225" src="/images/entry/대피소-찾는-방법-어플-서버-다운-시-할수-있는-것-대피소에서-행동-요령/edited_우리의_안전은_우리_손으로_생활안전_행동요령_대피소_찾기_편_0-42_screenshot.png" width="400"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -52,7 +52,7 @@ thumbnail: "/images/459/edited_1685484869718-naorm0n2ofl.jpg"
 <p>기본적인 환기 시스템, 소화기, 마스크 등 비상상황에서의 기본적인 도구들이 배치되어 있습니다.</p>
 <p><figure class="imageblock alignCenter" height="527" width="400">
 
-<img height="527" src="/images/459/edited_1685485916006-0jimxlosmww.jpg" width="400"/>
+<img height="527" src="/images/entry/대피소-찾는-방법-어플-서버-다운-시-할수-있는-것-대피소에서-행동-요령/edited_1685485916006-0jimxlosmww.jpg" width="400"/>
 
 <figcaption></figcaption>
 </figure></p>

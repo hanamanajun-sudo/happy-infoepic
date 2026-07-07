@@ -6,7 +6,7 @@ tags: ["김민경", "운동뚱"]
 slug: "김민경운동뚱다시보기-모음헬스人-반응-본투비-근수저"
 numericId: 321
 description: "김민경이 헬스를 하는 컨텐츠로 사람들은 보통의 프로그램 기획처럼"
-thumbnail: "/images/321/0af91bdba36945e35ef4f2f1adcb5b15.jpeg"
+thumbnail: "/images/entry/김민경운동뚱다시보기-모음헬스人-반응-본투비-근수저/0af91bdba36945e35ef4f2f1adcb5b15.jpeg"
 ---
 
 <div class="contents_style">
@@ -31,19 +31,19 @@ thumbnail: "/images/321/0af91bdba36945e35ef4f2f1adcb5b15.jpeg"
 <p>평균 성인 남성이 1년 넘게 걸린다는 목표를 운동 10주차로 달성하는 김민경 클라스  </p>
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/321/0af91bdba36945e35ef4f2f1adcb5b15.jpeg"/>
+<img src="/images/entry/김민경운동뚱다시보기-모음헬스人-반응-본투비-근수저/0af91bdba36945e35ef4f2f1adcb5b15.jpeg"/>
 
 <figcaption>헤어숄더 프레스 40킬로</figcaption>
 </figure></p>
 
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/321/99b983892094b5c6d2fc3736e15da7d1.jpeg"/>
+<img src="/images/entry/김민경운동뚱다시보기-모음헬스人-반응-본투비-근수저/99b983892094b5c6d2fc3736e15da7d1.jpeg"/>
 
 <figcaption>레그 프레스 340킬로</figcaption>
 </figure><figure class="imageblock alignCenter">
 
-<img src="/images/321/b57898a0a97a04d2a2e50a840cbb9a4f.jpeg"/>
+<img src="/images/entry/김민경운동뚱다시보기-모음헬스人-반응-본투비-근수저/b57898a0a97a04d2a2e50a840cbb9a4f.jpeg"/>
 
 <figcaption>레그익스텐션 196킬로</figcaption>
 </figure></p>
@@ -52,12 +52,12 @@ thumbnail: "/images/321/0af91bdba36945e35ef4f2f1adcb5b15.jpeg"
 
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/321/c55d17c5713f706fbbb6270e464ce51a.jpeg"/>
+<img src="/images/entry/김민경운동뚱다시보기-모음헬스人-반응-본투비-근수저/c55d17c5713f706fbbb6270e464ce51a.jpeg"/>
 
 <figcaption>인클라인 프레스머신 60킬로</figcaption>
 </figure><figure class="imageblock alignCenter">
 
-<img src="/images/321/e3fb8cb463c3f7145beb1b6f9c594366.jpeg"/>
+<img src="/images/entry/김민경운동뚱다시보기-모음헬스人-반응-본투비-근수저/e3fb8cb463c3f7145beb1b6f9c594366.jpeg"/>
 
 <figcaption>헤머체스트 프레스 70킬로</figcaption>
 </figure></p>
@@ -73,7 +73,7 @@ thumbnail: "/images/321/0af91bdba36945e35ef4f2f1adcb5b15.jpeg"
 
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/321/img.png"/>
+<img src="/images/entry/김민경운동뚱다시보기-모음헬스人-반응-본투비-근수저/img.png"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -337,7 +337,7 @@ thumbnail: "/images/321/0af91bdba36945e35ef4f2f1adcb5b15.jpeg"
 <p>늘어가는 드립들</p>
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/321/32b03ae1695209.png"/>
+<img src="/images/entry/김민경운동뚱다시보기-모음헬스人-반응-본투비-근수저/32b03ae1695209.png"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -374,7 +374,7 @@ thumbnail: "/images/321/0af91bdba36945e35ef4f2f1adcb5b15.jpeg"
 <p><span style="color: #333333;">2015년 맛있는 녀석들에서 김준현, 유민상, 문세윤과 함께 출연 중이다. </span></p>
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/321/img.jpg"/>
+<img src="/images/entry/김민경운동뚱다시보기-모음헬스人-반응-본투비-근수저/img.jpg"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -385,7 +385,7 @@ thumbnail: "/images/321/0af91bdba36945e35ef4f2f1adcb5b15.jpeg"
 <p><span style="color: #333333;">두둥</span></p>
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/321/이미지_5_1.png"/>
+<img src="/images/entry/김민경운동뚱다시보기-모음헬스人-반응-본투비-근수저/이미지_5_1.png"/>
 
 <figcaption>고정된 아령을 중력을 무시하고 들어올리는 김민경 - 마블 히어로 아님 아직..</figcaption>
 </figure></p>

@@ -6,7 +6,7 @@ tags: []
 slug: "이충현-감독-몸값-다시보기-단편영화-추천작"
 numericId: 416
 description: "이충현 감독의 단편영화 몸값이 워낙 명작이라서 찾는 분들이 많이 있는데"
-thumbnail: "/images/416/img.png"
+thumbnail: "/images/entry/이충현-감독-몸값-다시보기-단편영화-추천작/img.png"
 ---
 
 <div class="contents_style">
@@ -17,7 +17,7 @@ thumbnail: "/images/416/img.png"
 
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/416/img.png"/>
+<img src="/images/entry/이충현-감독-몸값-다시보기-단편영화-추천작/img.png"/>
 
 <figcaption></figcaption>
 </figure></p>

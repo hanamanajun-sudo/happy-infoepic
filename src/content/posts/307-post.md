@@ -6,7 +6,7 @@ tags: ["라면레시피", "청와대", "대통령", "대통령라면"]
 slug: "청와대-라면-레시피대통령-라면-끓이는-방법"
 numericId: 307
 description: "MBC에서 하는 다큐멘터리 시리즈M에서 2020년 3월 5일에 방영한"
-thumbnail: "/images/307/pic_001.jpg"
+thumbnail: "/images/entry/청와대-라면-레시피대통령-라면-끓이는-방법/pic_001.jpg"
 ---
 
 <div class="contents_style">
@@ -19,7 +19,7 @@ thumbnail: "/images/307/pic_001.jpg"
 <h3><b>청와대 라면 끓이던 방법 </b></h3>
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/307/pic_001.jpg"/>
+<img src="/images/entry/청와대-라면-레시피대통령-라면-끓이는-방법/pic_001.jpg"/>
 
 <figcaption>대통령의 라면</figcaption>
 </figure></p>
@@ -34,7 +34,7 @@ thumbnail: "/images/307/pic_001.jpg"
 
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/307/pic_002.jpg"/>
+<img src="/images/entry/청와대-라면-레시피대통령-라면-끓이는-방법/pic_002.jpg"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -44,14 +44,14 @@ thumbnail: "/images/307/pic_001.jpg"
 
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/307/pic_003.jpg"/>
+<img src="/images/entry/청와대-라면-레시피대통령-라면-끓이는-방법/pic_003.jpg"/>
 
 <figcaption></figcaption>
 </figure></p>
 
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/307/pic_004.jpg"/>
+<img src="/images/entry/청와대-라면-레시피대통령-라면-끓이는-방법/pic_004.jpg"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -62,7 +62,7 @@ thumbnail: "/images/307/pic_001.jpg"
 
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/307/pic_005.jpg"/>
+<img src="/images/entry/청와대-라면-레시피대통령-라면-끓이는-방법/pic_005.jpg"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -70,7 +70,7 @@ thumbnail: "/images/307/pic_001.jpg"
 <p>라면 국물에 수란을 하기 위해서죠</p>
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/307/pic_006.jpg"/>
+<img src="/images/entry/청와대-라면-레시피대통령-라면-끓이는-방법/pic_006.jpg"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -84,7 +84,7 @@ thumbnail: "/images/307/pic_001.jpg"
 <p>여기서 달걀 반숙이 핵심이니 안깨지게 조심하세요. </p>
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/307/pic_007.jpg"/>
+<img src="/images/entry/청와대-라면-레시피대통령-라면-끓이는-방법/pic_007.jpg"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -92,7 +92,7 @@ thumbnail: "/images/307/pic_001.jpg"
 
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/307/pic_008.jpg"/>
+<img src="/images/entry/청와대-라면-레시피대통령-라면-끓이는-방법/pic_008.jpg"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -100,7 +100,7 @@ thumbnail: "/images/307/pic_001.jpg"
 
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/307/pic_009.jpg"/>
+<img src="/images/entry/청와대-라면-레시피대통령-라면-끓이는-방법/pic_009.jpg"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -108,17 +108,17 @@ thumbnail: "/images/307/pic_001.jpg"
 <p>방금 밥 먹었는데 아무래도 오늘 밤에도 라면 먹어야 겠네요.</p>
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/307/pic_010.jpg"/>
+<img src="/images/entry/청와대-라면-레시피대통령-라면-끓이는-방법/pic_010.jpg"/>
 
 <figcaption></figcaption>
 </figure><figure class="imageblock alignCenter">
 
-<img src="/images/307/pic_011.jpg"/>
+<img src="/images/entry/청와대-라면-레시피대통령-라면-끓이는-방법/pic_011.jpg"/>
 
 <figcaption></figcaption>
 </figure><figure class="imageblock alignCenter">
 
-<img src="/images/307/pic_012.jpg"/>
+<img src="/images/entry/청와대-라면-레시피대통령-라면-끓이는-방법/pic_012.jpg"/>
 
 <figcaption></figcaption>
 </figure></p>

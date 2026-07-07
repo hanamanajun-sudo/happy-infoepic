@@ -6,7 +6,7 @@ tags: ["bts", "방탄", "시아", "Sia", "방탄소년단"]
 slug: "방탄-콜라보-하는-시아Sia의-기구한-인생인스타-주소"
 numericId: 157
 description: "이름 - Sia kate isobelle furler"
-thumbnail: "/images/157/img.png"
+thumbnail: "/images/entry/방탄-콜라보-하는-시아Sia의-기구한-인생인스타-주소/img.png"
 ---
 
 <div class="contents_style">
@@ -72,7 +72,7 @@ thumbnail: "/images/157/img.png"
 <h3><span style="background-color: #f6e199; color: #006dd7;"><b>방탄소년단과 시아가 콜라보 하는 곡 정보</b></span></h3>
 <p><figure class="imageblock alignCenter" width="400">
 
-<img src="/images/157/img.png" width="400"/>
+<img src="/images/entry/방탄-콜라보-하는-시아Sia의-기구한-인생인스타-주소/img.png" width="400"/>
 
 <figcaption></figcaption>
 </figure></p>

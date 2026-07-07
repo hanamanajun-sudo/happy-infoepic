@@ -5,14 +5,14 @@ category: "꿀팁&정보 백과사전/건강 백과사전"
 tags: ["건강정보", "람부탄"]
 slug: "람부탄-알고-먹자-효능과-부작용"
 numericId: 2
-description: "방송에 출연한 람부탄"
-thumbnail: "/images/2/20191030215621.png"
+description: "람부탄의 효능과 부작용을 완벽하게 총정리했습니다. 비타민C와 항산화 성분이 풍부한 열대과일 람부탄의 놀라운 영양 정보와 다양한 건강 효과, 맛있게 먹는 여러 가지 방법, 그리고 섭취 시 반드시 주의해야 할 부작용과 알레르기 반응까지 상세히 알려드립니다."
+thumbnail: "/images/entry/람부탄-알고-먹자-효능과-부작용/20191030215621.png"
 ---
 
 <div class="contents_style">
 <p><figure class="imageblock alignLeft">
 
-<img src="/images/2/20191030215621.png"/>
+<img src="/images/entry/람부탄-알고-먹자-효능과-부작용/20191030215621.png"/>
 
 <figcaption>방송에 출연한 람부탄</figcaption>
 </figure></p>

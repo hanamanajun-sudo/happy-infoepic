@@ -6,7 +6,7 @@ tags: ["남양유없"]
 slug: "남양-제품-사고-싶어-개발한-어느-개발자-남양유없"
 numericId: 42
 description: "사고 싶어도 당최 뭔지를 알아야지라며 슬펐던 여러분"
-thumbnail: "/images/42/img.png"
+thumbnail: "/images/entry/남양-제품-사고-싶어-개발한-어느-개발자-남양유없/img.png"
 ---
 
 <div class="contents_style">
@@ -18,12 +18,12 @@ thumbnail: "/images/42/img.png"
 
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/42/img.png"/>
+<img src="/images/entry/남양-제품-사고-싶어-개발한-어느-개발자-남양유없/img.png"/>
 
 <figcaption></figcaption>
 </figure><figure class="imageblock alignCenter">
 
-<img src="/images/42/img_1.png"/>
+<img src="/images/entry/남양-제품-사고-싶어-개발한-어느-개발자-남양유없/img_1.png"/>
 
 <figcaption></figcaption>
 </figure></p>

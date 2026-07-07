@@ -6,7 +6,7 @@ tags: ["bts", "방탄소년단"]
 slug: "2020년-BTS-미국투어-정보스타디움-사진월드-투어-일정"
 numericId: 88
 description: "방탄소년단의 2020년 투어MAP OF THE SOUL TOUR에 대한 정보가 커뮤니티에서 화제예요."
-thumbnail: "/images/88/img.jpg"
+thumbnail: "/images/entry/2020년-BTS-미국투어-정보스타디움-사진월드-투어-일정/img.jpg"
 ---
 
 <div class="contents_style">
@@ -15,7 +15,7 @@ thumbnail: "/images/88/img.jpg"
 <p>추가로 월드 투어 정보를 모으고 공유 합니다. </p>
 <p><figure class="imageblock alignCenter" width="600">
 
-<img src="/images/88/img.jpg" width="600"/>
+<img src="/images/entry/2020년-BTS-미국투어-정보스타디움-사진월드-투어-일정/img.jpg" width="600"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -38,7 +38,7 @@ thumbnail: "/images/88/img.jpg"
 <p>(68,500석)</p>
 <p><figure class="imageblock alignCenter" width="600">
 
-<img src="/images/88/img_1.jpg" width="600"/>
+<img src="/images/entry/2020년-BTS-미국투어-정보스타디움-사진월드-투어-일정/img_1.jpg" width="600"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -50,7 +50,7 @@ thumbnail: "/images/88/img.jpg"
 <p style="text-align: center;">2019년 방탄 공연 움짤</p>
 <p><figure class="imageblock alignCenter" width="600">
 
-<img src="/images/88/img.gif" width="600"/>
+<img src="/images/entry/2020년-BTS-미국투어-정보스타디움-사진월드-투어-일정/img.gif" width="600"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -60,7 +60,7 @@ thumbnail: "/images/88/img.jpg"
 <p>(92,100석)</p>
 <p><figure class="imageblock alignCenter" width="600">
 
-<img src="/images/88/img_2.jpg" width="600"/>
+<img src="/images/entry/2020년-BTS-미국투어-정보스타디움-사진월드-투어-일정/img_2.jpg" width="600"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -71,7 +71,7 @@ thumbnail: "/images/88/img.jpg"
 <p>(65,000석)</p>
 <p><figure class="imageblock alignCenter" width="600">
 
-<img src="/images/88/img_3.jpg" width="600"/>
+<img src="/images/entry/2020년-BTS-미국투어-정보스타디움-사진월드-투어-일정/img_3.jpg" width="600"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -81,7 +81,7 @@ thumbnail: "/images/88/img.jpg"
 <p>(55,000석)<span style="color: #333333;"></span></p>
 <p><figure class="imageblock alignCenter" width="600">
 
-<img src="/images/88/img_4.jpg" width="600"/>
+<img src="/images/entry/2020년-BTS-미국투어-정보스타디움-사진월드-투어-일정/img_4.jpg" width="600"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -92,7 +92,7 @@ thumbnail: "/images/88/img.jpg"
 <p>2019년 방탄 공연 때 </p>
 <p><figure class="imageblock alignCenter" width="600">
 
-<img src="/images/88/img_5.jpg" width="600"/>
+<img src="/images/entry/2020년-BTS-미국투어-정보스타디움-사진월드-투어-일정/img_5.jpg" width="600"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -102,7 +102,7 @@ thumbnail: "/images/88/img.jpg"
 <p>(82,000석)</p>
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/88/img_6.jpg"/>
+<img src="/images/entry/2020년-BTS-미국투어-정보스타디움-사진월드-투어-일정/img_6.jpg"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -113,7 +113,7 @@ thumbnail: "/images/88/img.jpg"
 <p>류현진 선수 홈구장</p>
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/88/img_7.jpg"/>
+<img src="/images/entry/2020년-BTS-미국투어-정보스타디움-사진월드-투어-일정/img_7.jpg"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -123,7 +123,7 @@ thumbnail: "/images/88/img.jpg"
 <p>(61,000석)</p>
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/88/img_1.gif"/>
+<img src="/images/entry/2020년-BTS-미국투어-정보스타디움-사진월드-투어-일정/img_1.gif"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -135,7 +135,7 @@ thumbnail: "/images/88/img.jpg"
 <h2><span style="background-color: #99cefa;"><b>방탄 소년단 2020년 콘서트 날짜/도시/접수기간/투표일자</b></span></h2>
 <p><figure class="imageblock alignCenter" width="500">
 
-<img src="/images/88/img_8.jpg" width="500"/>
+<img src="/images/entry/2020년-BTS-미국투어-정보스타디움-사진월드-투어-일정/img_8.jpg" width="500"/>
 
 <figcaption></figcaption>
 </figure></p>

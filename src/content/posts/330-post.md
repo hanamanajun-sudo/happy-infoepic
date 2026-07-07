@@ -6,7 +6,7 @@ tags: ["바람", "불륜", "외도"]
 slug: "배우자의-바람-대응-방법-불륜-합법적-복수하기"
 numericId: 330
 description: "이번 포항 신혼 부부 바람 피운 사건에 달린 베플 정보가 한 커뮤니티에 올라가있어"
-thumbnail: "/images/330/img.png"
+thumbnail: "/images/entry/배우자의-바람-대응-방법-불륜-합법적-복수하기/img.png"
 ---
 
 <div class="contents_style">
@@ -17,7 +17,7 @@ thumbnail: "/images/330/img.png"
 
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/330/img.png"/>
+<img src="/images/entry/배우자의-바람-대응-방법-불륜-합법적-복수하기/img.png"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -63,14 +63,14 @@ thumbnail: "/images/330/img.png"
 
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/330/img.jpg"/>
+<img src="/images/entry/배우자의-바람-대응-방법-불륜-합법적-복수하기/img.jpg"/>
 
 <figcaption></figcaption>
 </figure></p>
 <h3><b>위자료 증거 관계</b></h3>
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/330/img_1.jpg"/>
+<img src="/images/entry/배우자의-바람-대응-방법-불륜-합법적-복수하기/img_1.jpg"/>
 
 <figcaption></figcaption>
 </figure></p>

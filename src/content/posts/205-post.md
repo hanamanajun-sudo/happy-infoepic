@@ -5,8 +5,8 @@ category: "문화&연예 트렌드/깜짝뉴스"
 tags: ["심은경", "신문기자", "일본아카데미"]
 slug: "심은경일본-아카데미상-수상소감신문기자일본반응"
 numericId: 205
-description: "일본 아카데미 시상식에서"
-thumbnail: "/images/205/img.png"
+description: "배우 심은경이 일본 아카데미상 수상작 영화 신문기자로 최우수 여자주연상을 수상한 소식과 일본 현지 언론의 반응을 상세히 정리했습니다. 쟁쟁한 일본 톱배우 5명을 제치고 거머쥔 값진 수상의 의미와 심은경의 눈부신 활약을 조명합니다."
+thumbnail: "/images/entry/심은경일본-아카데미상-수상소감신문기자일본반응/img.png"
 ---
 
 <div class="contents_style">
@@ -15,7 +15,7 @@ thumbnail: "/images/205/img.png"
 
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/205/img.png"/>
+<img src="/images/entry/심은경일본-아카데미상-수상소감신문기자일본반응/img.png"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -23,7 +23,7 @@ thumbnail: "/images/205/img.png"
 
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/205/img_1.png"/>
+<img src="/images/entry/심은경일본-아카데미상-수상소감신문기자일본반응/img_1.png"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -31,7 +31,7 @@ thumbnail: "/images/205/img.png"
 
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/205/img_2.png"/>
+<img src="/images/entry/심은경일본-아카데미상-수상소감신문기자일본반응/img_2.png"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -39,7 +39,7 @@ thumbnail: "/images/205/img.png"
 
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/205/img_3.png"/>
+<img src="/images/entry/심은경일본-아카데미상-수상소감신문기자일본반응/img_3.png"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -56,7 +56,7 @@ thumbnail: "/images/205/img.png"
 <p><span style="color: #333333;">수상소감 <span style="color: #333333;">번역문</span></span></p>
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/205/img_4.png"/>
+<img src="/images/entry/심은경일본-아카데미상-수상소감신문기자일본반응/img_4.png"/>
 
 <figcaption>수상 소감 말하는 심은경 배우</figcaption>
 </figure></p>
@@ -64,7 +64,7 @@ thumbnail: "/images/205/img.png"
 
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/205/img_5.png"/>
+<img src="/images/entry/심은경일본-아카데미상-수상소감신문기자일본반응/img_5.png"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -72,7 +72,7 @@ thumbnail: "/images/205/img.png"
 
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/205/img_6.png"/>
+<img src="/images/entry/심은경일본-아카데미상-수상소감신문기자일본반응/img_6.png"/>
 
 <figcaption>여우를 찾은 심은경 배우</figcaption>
 </figure></p>
@@ -98,7 +98,7 @@ thumbnail: "/images/205/img.png"
 <h2 style="box-sizing: border-box; font-family: Arial, 돋움, Dotum, AppleGothic, sans-serif; border-width: 0px 0px 2px 10px; word-spacing: 3px; border-bottom-style: solid; border-bottom-color: #707070; text-align: left; border-left-style: solid; border-left-color: #333333; margin: 5px 0px; letter-spacing: 1px; line-height: 1.5; border-image: initial; padding: 3px 5px;"><span style="font-size: 14pt; font-family: 맑은 고딕,sans-serif; color: #000000;"><b>일본영화 신문기자 어떤영화?</b></span></h2>
 <p><figure class="imageblock alignCenter" width="500">
 
-<img src="/images/205/img_7.png" width="500"/>
+<img src="/images/entry/심은경일본-아카데미상-수상소감신문기자일본반응/img_7.png" width="500"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -120,7 +120,7 @@ thumbnail: "/images/205/img.png"
 <p>아무래도 일본어가 완벽하지 않으니 어머니가 한국인이고 미국에서 자란 인물로 설정</p>
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/205/img_8.png"/>
+<img src="/images/entry/심은경일본-아카데미상-수상소감신문기자일본반응/img_8.png"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -132,7 +132,7 @@ thumbnail: "/images/205/img.png"
 
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/205/img_9.png"/>
+<img src="/images/entry/심은경일본-아카데미상-수상소감신문기자일본반응/img_9.png"/>
 
 <figcaption>참고로 이건 국회에서 기침하는 아베 총리 사진</figcaption>
 </figure></p>

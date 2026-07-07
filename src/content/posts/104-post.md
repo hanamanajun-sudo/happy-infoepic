@@ -6,13 +6,13 @@ tags: ["레시피", "엽기떡볶이", "떡볶이레시피"]
 slug: "엽기-떡볶이-초간단-레시피-3줄-요약"
 numericId: 104
 description: "엽기 떡볶이 쉽게 설명한 간단히 만드는 방법"
-thumbnail: "/images/104/img.jpg"
+thumbnail: "/images/entry/엽기-떡볶이-초간단-레시피-3줄-요약/img.jpg"
 ---
 
 <div class="contents_style">
 <p><figure class="imageblock alignLeft" width="600">
 
-<img src="/images/104/img.jpg" width="600"/>
+<img src="/images/entry/엽기-떡볶이-초간단-레시피-3줄-요약/img.jpg" width="600"/>
 
 <figcaption>엽기 떡볶이 쉽게 설명한 간단히 만드는 방법</figcaption>
 </figure></p>

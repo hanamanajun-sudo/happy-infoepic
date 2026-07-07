@@ -6,25 +6,25 @@ tags: ["우한"]
 slug: "3번째-우한-확진자-이동-경로가-너무-충격적이다"
 numericId: 97
 description: "이 사람이 거쳐간 주요 지역들이라고 합니다."
-thumbnail: "/images/97/img.jpg"
+thumbnail: "/images/entry/3번째-우한-확진자-이동-경로가-너무-충격적이다/img.jpg"
 ---
 
 <div class="contents_style">
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/97/img.jpg"/>
+<img src="/images/entry/3번째-우한-확진자-이동-경로가-너무-충격적이다/img.jpg"/>
 
 <figcaption></figcaption>
 </figure></p>
 
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/97/img_1.jpg"/>
+<img src="/images/entry/3번째-우한-확진자-이동-경로가-너무-충격적이다/img_1.jpg"/>
 
 <figcaption></figcaption>
 </figure><figure class="imageblock alignCenter">
 
-<img src="/images/97/img_2.jpg"/>
+<img src="/images/entry/3번째-우한-확진자-이동-경로가-너무-충격적이다/img_2.jpg"/>
 
 <figcaption></figcaption>
 </figure></p>

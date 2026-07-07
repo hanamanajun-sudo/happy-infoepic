@@ -6,7 +6,7 @@ tags: ["배우", "진서연", "독전", "아는형님", "마스크가격"]
 slug: "진서연-마스크-발언-내용-인스타그램-주소-사진"
 numericId: 179
 description: "배우 진서연 님이 인스타그램에서 마스크에 대한 발언을 했네요."
-thumbnail: "/images/179/img.png"
+thumbnail: "/images/entry/진서연-마스크-발언-내용-인스타그램-주소-사진/img.png"
 ---
 
 <div class="contents_style">
@@ -14,7 +14,7 @@ thumbnail: "/images/179/img.png"
 <p>현재 <u><span style="color: #ee2323;">마스크를 구하기 어려운 상황</span></u>에서 이 기회를 이용하여 <b><span style="color: #ee2323;">폭리를 취하는 사람</span></b>들이 있죠</p>
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/179/img.png"/>
+<img src="/images/entry/진서연-마스크-발언-내용-인스타그램-주소-사진/img.png"/>
 
 <figcaption>독전 영상 참조 - 진서연 배우</figcaption>
 </figure></p>
@@ -29,7 +29,7 @@ thumbnail: "/images/179/img.png"
 
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/179/img_1.png"/>
+<img src="/images/entry/진서연-마스크-발언-내용-인스타그램-주소-사진/img_1.png"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -40,7 +40,7 @@ thumbnail: "/images/179/img.png"
 
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/179/img_2.png"/>
+<img src="/images/entry/진서연-마스크-발언-내용-인스타그램-주소-사진/img_2.png"/>
 
 <figcaption></figcaption>
 </figure></p>

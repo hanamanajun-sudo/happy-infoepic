@@ -6,7 +6,7 @@ tags: ["제주도", "돈까스", "포방터", "연돈"]
 slug: "연돈-근황-가게-앞-텐트-대여-틈새-시장-미쳤다-ㅋ"
 numericId: 298
 description: "그걸 파고들어가서 사업으로 연결 시키는 우리나라 찐 장사의 민족"
-thumbnail: "/images/298/img.jpg"
+thumbnail: "/images/entry/연돈-근황-가게-앞-텐트-대여-틈새-시장-미쳤다-ㅋ/img.jpg"
 ---
 
 <div class="contents_style">
@@ -16,7 +16,7 @@ thumbnail: "/images/298/img.jpg"
 <p><span style="color: #333333;">유태인들도 우리나라와서 울고 갔다고 합니다. </span></p>
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/298/img.jpg"/>
+<img src="/images/entry/연돈-근황-가게-앞-텐트-대여-틈새-시장-미쳤다-ㅋ/img.jpg"/>
 
 <figcaption>연돈 텐트 대여</figcaption>
 </figure></p>

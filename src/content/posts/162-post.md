@@ -6,7 +6,7 @@ tags: ["대구", "이만희", "신천지", "신종코로나", "코로나19"]
 slug: "신천지-코로나19-관련-필수-정보-모음-대구-발생상황"
 numericId: 162
 description: "대구에 밤사이 10명의 확진자가 급증 했습니다."
-thumbnail: "/images/162/img.jpg"
+thumbnail: "/images/entry/신천지-코로나19-관련-필수-정보-모음-대구-발생상황/img.jpg"
 ---
 
 <div class="contents_style">
@@ -14,7 +14,7 @@ thumbnail: "/images/162/img.jpg"
 
 <p><figure class="imageblock alignCenter" width="500">
 
-<img src="/images/162/img.jpg" width="500"/>
+<img src="/images/entry/신천지-코로나19-관련-필수-정보-모음-대구-발생상황/img.jpg" width="500"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -90,7 +90,7 @@ thumbnail: "/images/162/img.jpg"
 <h4><b>관련 뉴스 댓글 반응</b></h4>
 <p><figure class="imageblock alignCenter" width="600">
 
-<img src="/images/162/img.png" width="600"/>
+<img src="/images/entry/신천지-코로나19-관련-필수-정보-모음-대구-발생상황/img.png" width="600"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -114,7 +114,7 @@ thumbnail: "/images/162/img.jpg"
 
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/162/img_1.jpg"/>
+<img src="/images/entry/신천지-코로나19-관련-필수-정보-모음-대구-발생상황/img_1.jpg"/>
 
 <figcaption></figcaption>
 </figure></p>

@@ -5,8 +5,8 @@ category: "문화&연예 트렌드/스타&인물"
 tags: ["이용대", "변수미"]
 slug: "배드민턴-이용대-부인-변수미-누구과거이혼"
 numericId: 339
-description: "이용대 나이 1988년 32살"
-thumbnail: "/images/339/img.jpg"
+description: "전 배드민턴 국가대표 이용대의 상세 프로필과 아내 변수미에 대한 모든 궁금증을 속 시원히 정리했습니다. 이용대의 나이, 키, 현역 시절의 화려한 활약상과 결혼 및 이혼 관련 이야기까지 알고 싶은 모든 정보를 상세하게 알려드립니다."
+thumbnail: "/images/entry/배드민턴-이용대-부인-변수미-누구과거이혼/img.jpg"
 ---
 
 <div class="contents_style">
@@ -62,7 +62,7 @@ thumbnail: "/images/339/img.jpg"
 <h4><b>변수미 방송 출연 사진</b></h4>
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/339/img.jpg"/>
+<img src="/images/entry/배드민턴-이용대-부인-변수미-누구과거이혼/img.jpg"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -70,7 +70,7 @@ thumbnail: "/images/339/img.jpg"
 <p>이용대도 잘생겼고 부인도 이쁜 훈남훈녀 커플이였다.</p>
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/339/img_1.jpg"/>
+<img src="/images/entry/배드민턴-이용대-부인-변수미-누구과거이혼/img_1.jpg"/>
 
 <figcaption></figcaption>
 </figure></p>

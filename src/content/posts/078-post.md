@@ -6,7 +6,7 @@ tags: ["유튜버", "아임뚜렛", "젠이뚜"]
 slug: "젠이뚜가-충격적인-이유-정리-아임뚜렛-복귀-반응-모음"
 numericId: 78
 description: "뚜렛 증후군이라는 컨셉으로 많은 사람들을 속이다가 주변 지인들의"
-thumbnail: "/images/78/img.png"
+thumbnail: "/images/entry/젠이뚜가-충격적인-이유-정리-아임뚜렛-복귀-반응-모음/img.png"
 ---
 
 <div class="contents_style">
@@ -30,7 +30,7 @@ thumbnail: "/images/78/img.png"
 
 <p><figure class="imageblock alignCenter" width="500">
 
-<img src="/images/78/img.png" width="500"/>
+<img src="/images/entry/젠이뚜가-충격적인-이유-정리-아임뚜렛-복귀-반응-모음/img.png" width="500"/>
 
 <figcaption>아임뚜렛 젠이뚜 정보 모음 / 출처 유튜브 캡쳐</figcaption>
 </figure></p>
@@ -47,14 +47,14 @@ thumbnail: "/images/78/img.png"
 
 <p><figure class="imageblock alignLeft" width="500">
 
-<img src="/images/78/img_1.png" width="500"/>
+<img src="/images/entry/젠이뚜가-충격적인-이유-정리-아임뚜렛-복귀-반응-모음/img_1.png" width="500"/>
 
 <figcaption>아임뚜렛 젠이뚜 정보 모음2 / 출처 구글</figcaption>
 </figure></p>
 <p>아래 이미지가 아임뚜렛, 젠이뚜의 '젠이츠'의 이미지 이다.</p>
 <p><figure class="imageblock alignCenter" width="500">
 
-<img src="/images/78/img_2.png" width="500"/>
+<img src="/images/entry/젠이뚜가-충격적인-이유-정리-아임뚜렛-복귀-반응-모음/img_2.png" width="500"/>
 
 <figcaption>아임뚜렛 젠이뚜 정보 모음3 / 출처 구글</figcaption>
 </figure></p>
@@ -101,7 +101,7 @@ thumbnail: "/images/78/img.png"
 
 <p><figure class="imageblock alignCenter" width="500">
 
-<img src="/images/78/img_3.png" width="500"/>
+<img src="/images/entry/젠이뚜가-충격적인-이유-정리-아임뚜렛-복귀-반응-모음/img_3.png" width="500"/>
 
 <figcaption>젠이뚜 관련 사람들의 반응 / 출처 아임뚜렛 젠이뚜 유튜브 캡쳐</figcaption>
 </figure></p>

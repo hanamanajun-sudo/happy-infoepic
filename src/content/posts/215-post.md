@@ -6,7 +6,7 @@ tags: ["이연복", "황금레시피", "이연복케찹", "케찹소스"]
 slug: "이연복-케찹-레시피매콤-달콤-초간단-소스"
 numericId: 215
 description: "이연복 셰프님이 한끼줍쇼에 나오셔서 신혼 부부 집 가게 되셨는데"
-thumbnail: "/images/215/img.jpg"
+thumbnail: "/images/entry/이연복-케찹-레시피매콤-달콤-초간단-소스/img.jpg"
 ---
 
 <div class="contents_style">
@@ -22,19 +22,19 @@ thumbnail: "/images/215/img.jpg"
 
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/215/img.jpg"/>
+<img src="/images/entry/이연복-케찹-레시피매콤-달콤-초간단-소스/img.jpg"/>
 
 <figcaption></figcaption>
 </figure></p>
 
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/215/img_1.jpg"/>
+<img src="/images/entry/이연복-케찹-레시피매콤-달콤-초간단-소스/img_1.jpg"/>
 
 <figcaption></figcaption>
 </figure><figure class="imageblock alignCenter">
 
-<img src="/images/215/img_2.jpg"/>
+<img src="/images/entry/이연복-케찹-레시피매콤-달콤-초간단-소스/img_2.jpg"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -42,7 +42,7 @@ thumbnail: "/images/215/img.jpg"
 <p>1. 케첩, 마늘, 요리당을 넣는다. </p>
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/215/img_3.jpg"/>
+<img src="/images/entry/이연복-케찹-레시피매콤-달콤-초간단-소스/img_3.jpg"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -52,17 +52,17 @@ thumbnail: "/images/215/img.jpg"
 <p>(매콤함 더해주는거지 메인은 아니니까 너무 많이 넣지 않는다.)</p>
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/215/img_4.jpg"/>
+<img src="/images/entry/이연복-케찹-레시피매콤-달콤-초간단-소스/img_4.jpg"/>
 
 <figcaption></figcaption>
 </figure><figure class="imageblock alignCenter">
 
-<img src="/images/215/img_5.jpg"/>
+<img src="/images/entry/이연복-케찹-레시피매콤-달콤-초간단-소스/img_5.jpg"/>
 
 <figcaption></figcaption>
 </figure><figure class="imageblock alignCenter">
 
-<img src="/images/215/img_6.jpg"/>
+<img src="/images/entry/이연복-케찹-레시피매콤-달콤-초간단-소스/img_6.jpg"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -70,7 +70,7 @@ thumbnail: "/images/215/img.jpg"
 
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/215/img_7.jpg"/>
+<img src="/images/entry/이연복-케찹-레시피매콤-달콤-초간단-소스/img_7.jpg"/>
 
 <figcaption></figcaption>
 </figure></p>

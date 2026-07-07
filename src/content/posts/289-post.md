@@ -5,15 +5,15 @@ category: "문화&연예 트렌드/깜짝뉴스"
 tags: ["박소현", "오마이걸", "살짝설렜어", "살짝설랬어"]
 slug: "오마이걸-1위-소식에-박소현ㅠ쇼케이스-눈물의-현장멜론-살짝설렜어-1위"
 numericId: 289
-description: "쇼케이스 중 오마이걸 1위"
-thumbnail: "/images/289/img.png"
+description: "오마이걸이 멜론 실시간 차트에서 살짝 설렜어로 당당히 1위를 달성한 감동적인 순간을 생생하게 전달합니다. 쇼케이스 진행 도중 전해진 1위 소식에 눈물을 참지 못한 박소현과 멤버들의 진심 어린 현장 스토리를 지금 확인하세요."
+thumbnail: "/images/entry/오마이걸-1위-소식에-박소현ㅠ쇼케이스-눈물의-현장멜론-살짝설렜어-1위/img.png"
 ---
 
 <div class="contents_style">
 <h2>오마이걸 쇼케이스 중에 멜론 실시간 차트 살짝 설렜어 1위 달성 </h2>
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/289/img.png"/>
+<img src="/images/entry/오마이걸-1위-소식에-박소현ㅠ쇼케이스-눈물의-현장멜론-살짝설렜어-1위/img.png"/>
 
 <figcaption>쇼케이스 중 오마이걸 1위</figcaption>
 </figure></p>

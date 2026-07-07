@@ -5,14 +5,14 @@ category: "재난 백과"
 tags: ["아이돌봄서비스"]
 slug: "아이돌봄서비스-코로나19-대응변경-정보-요금절차"
 numericId: 193
-description: "코로나19 바이러스의 확산으로"
-thumbnail: "/images/193/img.png"
+description: "코로나19 확산으로 인해 변경된 아이돌봄서비스의 운영 정보와 요금, 신청 절차를 상세하게 안내합니다. 개학 연기와 휴원으로 인해 돌봄 공백이 생긴 맞벌이 가정과 긴급 상황에 처한 부모님들을 위해 꼭 필요한 필수 정보만 모아 제공합니다."
+thumbnail: "/images/entry/아이돌봄서비스-코로나19-대응변경-정보-요금절차/img.png"
 ---
 
 <div class="contents_style">
 <p><figure class="imageblock alignCenter" width="500">
 
-<img src="/images/193/img.png" width="500"/>
+<img src="/images/entry/아이돌봄서비스-코로나19-대응변경-정보-요금절차/img.png" width="500"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -68,7 +68,7 @@ thumbnail: "/images/193/img.png"
 <p>이번코로나 19 관련해서 정부에서 지원한 내용이 적용 된 서비스 요금 표 입니다. </p>
 <p><figure class="imageblock alignCenter" width="500">
 
-<img src="/images/193/img_1.png" width="500"/>
+<img src="/images/entry/아이돌봄서비스-코로나19-대응변경-정보-요금절차/img_1.png" width="500"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -79,7 +79,7 @@ thumbnail: "/images/193/img.png"
 <p>이번 코로나19관련 정부지원금 및 본인 부담금 비교 (시간제 미취학 아동 기준)</p>
 <p><figure class="imageblock alignCenter" width="700">
 
-<img src="/images/193/img_2.png" width="700"/>
+<img src="/images/entry/아이돌봄서비스-코로나19-대응변경-정보-요금절차/img_2.png" width="700"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -108,7 +108,7 @@ thumbnail: "/images/193/img.png"
 
 <p><figure class="imageblock alignCenter" width="500">
 
-<img src="/images/193/img_3.png" width="500"/>
+<img src="/images/entry/아이돌봄서비스-코로나19-대응변경-정보-요금절차/img_3.png" width="500"/>
 
 <figcaption></figcaption>
 </figure></p>

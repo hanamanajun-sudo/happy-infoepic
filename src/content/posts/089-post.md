@@ -6,7 +6,7 @@ tags: ["최우식", "박형식", "박서준", "뷔"]
 slug: "뷔-최우식-우정-사진-모음-최우식-인스타-주소"
 numericId: 89
 description: "방탄소년단 뷔와 최근 미국에서 엄청난 반향을 일으키고 있는 영화 기생충의 최우식 배우의 우정 사진이에요."
-thumbnail: "/images/89/img.jpg"
+thumbnail: "/images/entry/뷔-최우식-우정-사진-모음-최우식-인스타-주소/img.jpg"
 ---
 
 <div class="contents_style">
@@ -21,7 +21,7 @@ thumbnail: "/images/89/img.jpg"
 
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/89/img.jpg"/>
+<img src="/images/entry/뷔-최우식-우정-사진-모음-최우식-인스타-주소/img.jpg"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -31,7 +31,7 @@ thumbnail: "/images/89/img.jpg"
 
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/89/img_1.jpg"/>
+<img src="/images/entry/뷔-최우식-우정-사진-모음-최우식-인스타-주소/img_1.jpg"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -41,7 +41,7 @@ thumbnail: "/images/89/img.jpg"
 
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/89/img_2.jpg"/>
+<img src="/images/entry/뷔-최우식-우정-사진-모음-최우식-인스타-주소/img_2.jpg"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -54,7 +54,7 @@ thumbnail: "/images/89/img.jpg"
 
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/89/img_3.jpg"/>
+<img src="/images/entry/뷔-최우식-우정-사진-모음-최우식-인스타-주소/img_3.jpg"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -64,7 +64,7 @@ thumbnail: "/images/89/img.jpg"
 
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/89/img_4.jpg"/>
+<img src="/images/entry/뷔-최우식-우정-사진-모음-최우식-인스타-주소/img_4.jpg"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -72,7 +72,7 @@ thumbnail: "/images/89/img.jpg"
 
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/89/img_5.jpg"/>
+<img src="/images/entry/뷔-최우식-우정-사진-모음-최우식-인스타-주소/img_5.jpg"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -81,12 +81,12 @@ thumbnail: "/images/89/img.jpg"
 <p>참고로 머리가 짧은 박형식 님은 군복무 중이라고 합니다. </p>
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/89/img_6.jpg"/>
+<img src="/images/entry/뷔-최우식-우정-사진-모음-최우식-인스타-주소/img_6.jpg"/>
 
 <figcaption></figcaption>
 </figure><figure class="imageblock alignCenter">
 
-<img src="/images/89/img_7.jpg"/>
+<img src="/images/entry/뷔-최우식-우정-사진-모음-최우식-인스타-주소/img_7.jpg"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -96,7 +96,7 @@ thumbnail: "/images/89/img.jpg"
 
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/89/img_8.jpg"/>
+<img src="/images/entry/뷔-최우식-우정-사진-모음-최우식-인스타-주소/img_8.jpg"/>
 
 <figcaption></figcaption>
 </figure></p>

@@ -6,7 +6,7 @@ tags: ["서동요"]
 slug: "서동요-뜻-커뮤니티-용어"
 numericId: 437
 description: "이용하는 커뮤니티 중에 더쿠에서 본건데"
-thumbnail: "/images/437/제목을_입력해주세요_-001_17_1.png"
+thumbnail: "/images/entry/서동요-뜻-커뮤니티-용어/제목을_입력해주세요_-001_17_1.png"
 ---
 
 <div class="contents_style">
@@ -18,7 +18,7 @@ thumbnail: "/images/437/제목을_입력해주세요_-001_17_1.png"
 
 <p><figure class="imageblock alignCenter" height="451" width="450">
 
-<img height="451" src="/images/437/제목을_입력해주세요_-001_17_1.png" width="450"/>
+<img height="451" src="/images/entry/서동요-뜻-커뮤니티-용어/제목을_입력해주세요_-001_17_1.png" width="450"/>
 
 <figcaption></figcaption>
 </figure></p>

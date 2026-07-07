@@ -6,7 +6,7 @@ tags: ["읽을만한"]
 slug: "20대-30대-책-추천-출처-더쿠-필독서34"
 numericId: 439
 description: "20대 30대에 읽으면 좋은책이 나와있어서 정리겸 작성합니다."
-thumbnail: "/images/439/제목을_입력해주세요_-001_3_2.png"
+thumbnail: "/images/entry/20대-30대-책-추천-출처-더쿠-필독서34/제목을_입력해주세요_-001_3_2.png"
 ---
 
 <div class="contents_style">
@@ -14,7 +14,7 @@ thumbnail: "/images/439/제목을_입력해주세요_-001_3_2.png"
 
 <p><figure class="imageblock alignCenter" height="400" width="400">
 
-<img height="400" src="/images/439/제목을_입력해주세요_-001_3_2.png" width="400"/>
+<img height="400" src="/images/entry/20대-30대-책-추천-출처-더쿠-필독서34/제목을_입력해주세요_-001_3_2.png" width="400"/>
 
 <figcaption></figcaption>
 </figure></p>

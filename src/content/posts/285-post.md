@@ -6,7 +6,7 @@ tags: ["다큐멘터리", "다큐", "넷플릭스", "추천다큐"]
 slug: "추천넷플릭스-다큐-무료-공개-29개-리스트유튜브한국어-자막"
 numericId: 285
 description: "넷플릭스에서 인기있고 교육용으로 사용하는 다큐멘터리 영화 20편을 무료로"
-thumbnail: "/images/285/img.jpg"
+thumbnail: "/images/entry/추천넷플릭스-다큐-무료-공개-29개-리스트유튜브한국어-자막/img.jpg"
 ---
 
 <div class="contents_style">
@@ -125,7 +125,7 @@ thumbnail: "/images/285/img.jpg"
 <blockquote>《미국 수정헌법 제13조》는 마틴 루터 킹의 이야기를 담은 영화 《셀마》로 알려진 흑인 여성 감독 에이바 듀버네이의 다큐멘터리다. 매우 뛰어나면서도 충격적인 이 다큐멘터리의 제목 ‘미국 수정헌법 제13조’는 "어떠한 노예제도 또는 강제 노역도, 당사자가 정식으로 기소되어 판결로서 확정된 형벌이 아닌 이상, 미합중국 또는 관할 영역 내에 존재할 수 없다"고 명시한다. 그러나 미국은 이 조항에서 “당사자가 정식으로 기소되어 판결로서 확정된 형벌이 아닌 이상”이라는 부분을 빌미 삼아 수많은 흑인을 범죄자로 만드는 만행을 저질렀다. 그리고 이는 교도소 산업의 무분별한 팽창으로 이어졌다. 에이바 듀버네이는 그 치욕의 역사를 날카로운 시선으로 해부한다. 엄청난 양의 자료와 함께 인권운동가, 정치인, 역사학자, 투옥 경험이 있는 이들의 증언을 촘촘히 엮어내 호소력 또한 높다. 미국 흑인 인권사에 대한 종합적인 해석과 날카로운 통찰이 돋보이는 대작이다. </blockquote>
 <p><figure class="imageblock alignCenter" width="500">
 
-<img src="/images/285/img.jpg" width="500"/>
+<img src="/images/entry/추천넷플릭스-다큐-무료-공개-29개-리스트유튜브한국어-자막/img.jpg" width="500"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -141,7 +141,7 @@ thumbnail: "/images/285/img.jpg"
 <blockquote>《세상을 바꾸는 여성들》은 현직 정치인들의 막강한 권력에 맞서 풀뿌리 선거운동을 주도한 여성들의 이야기다. 결과를 예측하기 어려웠던 2018년 중간선거, 네 명의 비범한 여성이 그 판에 뛰어들어 세상에 충격과 영감을 준다. 브롱크스 출신의 알렉산드리아 오카시오코르테스는 경제 위기로 가족에게 비극이 닥치자, 집이 압류당하는 것을 막으려고 바텐더로 일하며 두 배의 초과근무를 감당해야 했다. 에이미 빌렐라는 충분히 치료가 가능한 상황에서, 사랑하는 사람을 병으로 잃었다. 그녀는 무너진 미국 의료 제도에 분노를 참을 수 없었다. 간호사이자 목사인 코리 부시는 비무장 상태인 흑인 남성이 경찰의 총격을 당한 데 항의하는 시위를 목격했다. 그녀가 사는 동네로 탱크가 진입하는 사태까지 일어나자, 그녀는 거리로 나섰다. 광부의 딸로 태어난 폴라 진 스웨어런진은 석탄 산업으로 망가지고 오염된 환경에서 고통에 시달리는 가족과 친구들을 그저 지켜볼 수만은 없었다. </blockquote>
 <p><figure class="imageblock alignCenter" width="500">
 
-<img src="/images/285/img_1.jpg" width="500"/>
+<img src="/images/entry/추천넷플릭스-다큐-무료-공개-29개-리스트유튜브한국어-자막/img_1.jpg" width="500"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -157,7 +157,7 @@ thumbnail: "/images/285/img.jpg"
 <blockquote>뉴델리 외곽 하푸르 지역의 농촌 마을. 이곳 여성들이 조용한 혁명을 이끌고 있다. 라이카 제탑치 감독의 단편 다큐멘터리 《피리어드: 더 패드 프로젝트》는 생리에 대한 뿌리 깊은 낙인과 맞서 싸우는 인도 여성들에 주목한다. 오랫동안 생리대 없이 사는 건 생활의 불편을 넘어 건강에도 해를 끼쳤다. 학생들은 학교를 빠지거나 그만두기까지 했다. 그러나 무지와 편견에 사로잡힌 마을에 저가 생리대 기계가 설치되고, 여성들이 직접 생리대를 만들어 팔면서, 놀라운 변화가 일어났다. 용기와 의지로 일궈낸 삶의 기적. 그들은 더 많은 인도 여성이 세상을 훨훨 날기를 바라는 마음으로, 자신들이 생산하는 생리대에 ‘플라이(FLY)’라는 이름을 붙였다. 이 혁명에는 지구 반대편, 미국 캘리포니아의 고등학교 여학생들이 함께했다. 그들은 생리대 기계를 구입하는 데 필요한 초기 자금을 모으고, 비영리단체 <a href="https://thepadproject.org/educate/"><u>'더 패드 프로젝트'</u></a>를 만들었다.</blockquote>
 <p><figure class="imageblock alignCenter" width="500">
 
-<img src="/images/285/img_2.jpg" width="500"/>
+<img src="/images/entry/추천넷플릭스-다큐-무료-공개-29개-리스트유튜브한국어-자막/img_2.jpg" width="500"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -173,7 +173,7 @@ thumbnail: "/images/285/img.jpg"
 <blockquote>넷플릭스 오리지널 단편 다큐멘터리로, 2016년 시리아 알레포와 터키에서 활동한 자원봉사 구조대(시리아 민간방위대)의 모습을 담고 있다. 내전 현장은 폭탄이 숫제 비처럼 쏟아진다. 민간인들은 물론이고 대원들 가족의 안위조차 장담할 수 없는 상황에서도 대원들은 주저하지 않고 위험 속으로 향한다. 영화 내내 시리아인들의 처참한 일상이 이어지고, 대원들은 민간인들의 생명을 구하기 위해 죽음마저 기꺼이 무릅쓴다. 2014년 《비룽가(Virunga)》로 아카데미상 후보에 올랐던 감독 올랜도 폰 아인지델과 제작자 조애나 나타세가라가 다시 의기투합해 만든 작품이다. 2017년 제89회 아카데미 시상식에서 최우수 단편 다큐멘터리상을 수상했다.</blockquote>
 <p><figure class="imageblock alignCenter" width="500">
 
-<img src="/images/285/img_3.jpg" width="500"/>
+<img src="/images/entry/추천넷플릭스-다큐-무료-공개-29개-리스트유튜브한국어-자막/img_3.jpg" width="500"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -187,7 +187,7 @@ thumbnail: "/images/285/img.jpg"
 <blockquote>다리가 없는 불구의 몸으로 태어났지만, 굳건하고 강인한 레슬링 선수로 거듭난 청년 자이언 클라크의 감동적인 이야기를 담고 있다. 초등학교 2학년 때 처음 레슬링을 시작한 자이언은 오직 두 팔만 가지고서 정상인 또래 선수들과 맞서야 했다. 그가 선택한 육체적 도전은 또 다른 치료의 수단이었고, 그와 함께한 동료들은 소중한 가족의 의미를 일깨워줬다. 여러 위탁가정을 전전하던 유년 시절, 자이언의 곁을 변함없이 지켰던 것은 레슬링뿐이었다. 플로이드 러스가 연출한, 넷플릭스 오리지널 단편 다큐멘터리.</blockquote>
 <p><figure class="imageblock alignCenter" width="500">
 
-<img src="/images/285/img_4.jpg" width="500"/>
+<img src="/images/entry/추천넷플릭스-다큐-무료-공개-29개-리스트유튜브한국어-자막/img_4.jpg" width="500"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -200,37 +200,37 @@ thumbnail: "/images/285/img.jpg"
 
 <p><figure class="imageblock alignCenter" width="500">
 
-<img src="/images/285/img_5.jpg" width="500"/>
+<img src="/images/entry/추천넷플릭스-다큐-무료-공개-29개-리스트유튜브한국어-자막/img_5.jpg" width="500"/>
 
 <figcaption>넷플릭스 성인 대상 다큐 </figcaption>
 </figure><figure class="imageblock alignCenter" width="500">
 
-<img src="/images/285/img_6.jpg" width="500"/>
+<img src="/images/entry/추천넷플릭스-다큐-무료-공개-29개-리스트유튜브한국어-자막/img_6.jpg" width="500"/>
 
 <figcaption>넷플릭스 성인 대상 다큐 </figcaption>
 </figure><figure class="imageblock alignCenter" width="500">
 
-<img src="/images/285/img_7.jpg" width="500"/>
+<img src="/images/entry/추천넷플릭스-다큐-무료-공개-29개-리스트유튜브한국어-자막/img_7.jpg" width="500"/>
 
 <figcaption>넷플릭스 성인 대상 다큐 </figcaption>
 </figure><figure class="imageblock alignCenter" width="500">
 
-<img src="/images/285/img_8.jpg" width="500"/>
+<img src="/images/entry/추천넷플릭스-다큐-무료-공개-29개-리스트유튜브한국어-자막/img_8.jpg" width="500"/>
 
 <figcaption>넷플릭스 성인 대상 다큐 </figcaption>
 </figure><figure class="imageblock alignCenter" width="500">
 
-<img src="/images/285/img_9.jpg" width="500"/>
+<img src="/images/entry/추천넷플릭스-다큐-무료-공개-29개-리스트유튜브한국어-자막/img_9.jpg" width="500"/>
 
 <figcaption>넷플릭스 성인 대상 다큐 </figcaption>
 </figure><figure class="imageblock alignCenter" width="500">
 
-<img src="/images/285/img_10.jpg" width="500"/>
+<img src="/images/entry/추천넷플릭스-다큐-무료-공개-29개-리스트유튜브한국어-자막/img_10.jpg" width="500"/>
 
 <figcaption>넷플릭스 성인 대상 다큐 </figcaption>
 </figure><figure class="imageblock alignCenter" width="500">
 
-<img src="/images/285/img_11.jpg" width="500"/>
+<img src="/images/entry/추천넷플릭스-다큐-무료-공개-29개-리스트유튜브한국어-자막/img_11.jpg" width="500"/>
 
 <figcaption>넷플릭스 성인 대상 다큐 </figcaption>
 </figure></p>
@@ -266,42 +266,42 @@ thumbnail: "/images/285/img.jpg"
 <p><b><b><b><b>상영등급: </b></b></b>14세 미만의 어린이 혹은 청소년이 시청하려면 보호자 지도가 필요한 프로그램</b></p>
 <p><figure class="imageblock alignCenter" width="500">
 
-<img src="/images/285/img_12.jpg" width="500"/>
+<img src="/images/entry/추천넷플릭스-다큐-무료-공개-29개-리스트유튜브한국어-자막/img_12.jpg" width="500"/>
 
 <figcaption>넷플릭스 청소년 용 다큐</figcaption>
 </figure><figure class="imageblock alignCenter" width="500">
 
-<img src="/images/285/img_13.jpg" width="500"/>
+<img src="/images/entry/추천넷플릭스-다큐-무료-공개-29개-리스트유튜브한국어-자막/img_13.jpg" width="500"/>
 
 <figcaption>넷플릭스 청소년 용 다큐</figcaption>
 </figure><figure class="imageblock alignCenter" width="500">
 
-<img src="/images/285/img_14.jpg" width="500"/>
+<img src="/images/entry/추천넷플릭스-다큐-무료-공개-29개-리스트유튜브한국어-자막/img_14.jpg" width="500"/>
 
 <figcaption>넷플릭스 청소년 용 다큐</figcaption>
 </figure><figure class="imageblock alignCenter" width="500">
 
-<img src="/images/285/img_15.jpg" width="500"/>
+<img src="/images/entry/추천넷플릭스-다큐-무료-공개-29개-리스트유튜브한국어-자막/img_15.jpg" width="500"/>
 
 <figcaption>넷플릭스 청소년 용 다큐</figcaption>
 </figure><figure class="imageblock alignCenter" width="500">
 
-<img src="/images/285/img_16.jpg" width="500"/>
+<img src="/images/entry/추천넷플릭스-다큐-무료-공개-29개-리스트유튜브한국어-자막/img_16.jpg" width="500"/>
 
 <figcaption>넷플릭스 청소년 용 다큐</figcaption>
 </figure><figure class="imageblock alignCenter" width="500">
 
-<img src="/images/285/img_17.jpg" width="500"/>
+<img src="/images/entry/추천넷플릭스-다큐-무료-공개-29개-리스트유튜브한국어-자막/img_17.jpg" width="500"/>
 
 <figcaption>넷플릭스 청소년 용 다큐</figcaption>
 </figure><figure class="imageblock alignCenter" width="500">
 
-<img src="/images/285/img_18.jpg" width="500"/>
+<img src="/images/entry/추천넷플릭스-다큐-무료-공개-29개-리스트유튜브한국어-자막/img_18.jpg" width="500"/>
 
 <figcaption>넷플릭스 청소년 용 다큐</figcaption>
 </figure><figure class="imageblock alignCenter" width="500">
 
-<img src="/images/285/img_19.jpg" width="500"/>
+<img src="/images/entry/추천넷플릭스-다큐-무료-공개-29개-리스트유튜브한국어-자막/img_19.jpg" width="500"/>
 
 <figcaption>넷플릭스 청소년 용 다큐</figcaption>
 </figure></p>
@@ -338,27 +338,27 @@ thumbnail: "/images/285/img.jpg"
 <p><b><span style="color: #333333;"></span><b><b>상영등급: 어린이가 시청하려면 보호자 지도가 권장되는 프로그램</b></b></b></p>
 <p><figure class="imageblock alignCenter" width="500">
 
-<img src="/images/285/img_20.jpg" width="500"/>
+<img src="/images/entry/추천넷플릭스-다큐-무료-공개-29개-리스트유튜브한국어-자막/img_20.jpg" width="500"/>
 
 <figcaption>넷플릭스 교육용 다큐</figcaption>
 </figure><figure class="imageblock alignCenter" width="500">
 
-<img src="/images/285/img_21.jpg" width="500"/>
+<img src="/images/entry/추천넷플릭스-다큐-무료-공개-29개-리스트유튜브한국어-자막/img_21.jpg" width="500"/>
 
 <figcaption>넷플릭스 교육용 다큐</figcaption>
 </figure><figure class="imageblock alignCenter" width="500">
 
-<img src="/images/285/img_22.jpg" width="500"/>
+<img src="/images/entry/추천넷플릭스-다큐-무료-공개-29개-리스트유튜브한국어-자막/img_22.jpg" width="500"/>
 
 <figcaption>넷플릭스 교육용 다큐</figcaption>
 </figure><figure class="imageblock alignCenter" width="500">
 
-<img src="/images/285/img_23.jpg" width="500"/>
+<img src="/images/entry/추천넷플릭스-다큐-무료-공개-29개-리스트유튜브한국어-자막/img_23.jpg" width="500"/>
 
 <figcaption>넷플릭스 교육용 다큐</figcaption>
 </figure><figure class="imageblock alignCenter" width="500">
 
-<img src="/images/285/img_24.jpg" width="500"/>
+<img src="/images/entry/추천넷플릭스-다큐-무료-공개-29개-리스트유튜브한국어-자막/img_24.jpg" width="500"/>
 
 <figcaption>넷플릭스 교육용 다큐</figcaption>
 </figure></p>

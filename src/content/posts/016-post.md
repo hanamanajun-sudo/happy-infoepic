@@ -6,13 +6,13 @@ tags: ["김밥"]
 slug: "외국인들에게-알려주는-김밥-이야기-1탄"
 numericId: 16
 description: "한국에서 김밥은 분식집에서 싸게 맛있게 간단하게 먹을 수 있는 음식이다."
-thumbnail: "/images/16/img.jpg"
+thumbnail: "/images/entry/외국인들에게-알려주는-김밥-이야기-1탄/img.jpg"
 ---
 
 <div class="contents_style">
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/16/img.jpg"/>
+<img src="/images/entry/외국인들에게-알려주는-김밥-이야기-1탄/img.jpg"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -44,9 +44,9 @@ thumbnail: "/images/16/img.jpg"
 <h2><span style="background-color: #f6e199;">기타 TMI</span></h2>
 <p>한국의 아이돌들은 공연 또는 방송을 위해 시간이 없어 자동차로 이동하는 중간에</p>
 <p>차 안에서 김밥을 먹는다는 이야기를 방송에서 할 때가 많이 있다.</p>
-<blockquote><span style="color: #333333;">[함께 보면 좋은 관련 글]<br/><br/><a href="https://happy.infoepic.com/17">외국인들에게 알려주는 김밥 -2탄 - 김밥의 기원/ 김밥의 종류</a></span></blockquote>
-<p>관련 글: <a href="https://happy.infoepic.com/17" rel="noopener" target="_blank">외국인들에게 알려주는 김밥 -2탄 - 김밥의 기원/ 김밥의 종류</a></p>
-<p><a href="https://happy.infoepic.com/13" rel="noopener" target="_blank">2019/11/11 - [음식 백과사전] - 외국인에게 알려주는 떡볶이- 3편 '인기 있는 떡볶이 가게들'</a></p>
-<p>관련 글: <a href="https://happy.infoepic.com/13" rel="noopener" target="_blank">외국인에게 알려주는 떡볶이- 3편 '인기 있는 떡볶이 가게들'</a></p>
+<blockquote><span style="color: #333333;">[함께 보면 좋은 관련 글]<br/><br/><a href="https://happy.infoepic.com/entry/오미자-소개-그리고-효능-사람들이-찾는-이유7">외국인들에게 알려주는 김밥 -2탄 - 김밥의 기원/ 김밥의 종류</a></span></blockquote>
+<p>관련 글: <a href="https://happy.infoepic.com/entry/오미자-소개-그리고-효능-사람들이-찾는-이유7" rel="noopener" target="_blank">외국인들에게 알려주는 김밥 -2탄 - 김밥의 기원/ 김밥의 종류</a></p>
+<p><a href="https://happy.infoepic.com/entry/오미자-소개-그리고-효능-사람들이-찾는-이유3" rel="noopener" target="_blank">2019/entry/외국인에게-알려주는-떡볶이-1편-떡볶이의-과거와-현재/11 - [음식 백과사전] - 외국인에게 알려주는 떡볶이- 3편 '인기 있는 떡볶이 가게들'</a></p>
+<p>관련 글: <a href="https://happy.infoepic.com/entry/오미자-소개-그리고-효능-사람들이-찾는-이유3" rel="noopener" target="_blank">외국인에게 알려주는 떡볶이- 3편 '인기 있는 떡볶이 가게들'</a></p>
 
 </div>

@@ -6,7 +6,7 @@ tags: []
 slug: "한서희-놀라운-근황간단-과거-정리인스타-주소"
 numericId: 84
 description: "한서희 인스타그램을 통해서 악플 댓글에 대한 대응을 시사 하는 글을 올렸어요."
-thumbnail: "/images/84/img.png"
+thumbnail: "/images/entry/한서희-놀라운-근황간단-과거-정리인스타-주소/img.png"
 ---
 
 <div class="contents_style">
@@ -16,7 +16,7 @@ thumbnail: "/images/84/img.png"
 <h3><span style="background-color: #dddddd;"><b>한서희 프로필 간략 소개</b></span></h3>
 <p><figure class="imageblock alignCenter" width="400">
 
-<img src="/images/84/img.png" width="400"/>
+<img src="/images/entry/한서희-놀라운-근황간단-과거-정리인스타-주소/img.png" width="400"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -47,7 +47,7 @@ thumbnail: "/images/84/img.png"
 <p>악플 보신 분들 아래 주소로 제보 하세요</p>
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/84/img.jpg"/>
+<img src="/images/entry/한서희-놀라운-근황간단-과거-정리인스타-주소/img.jpg"/>
 
 <figcaption> </figcaption>
 </figure></p>

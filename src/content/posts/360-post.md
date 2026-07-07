@@ -6,7 +6,7 @@ tags: ["서울"]
 slug: "서울-청년-월세지원-사업-신청방법대상선발-기준"
 numericId: 360
 description: "서울시가 청년의 공정한 주거 출발을 위해  서울 청년 월세 지원 사업을 시행 한다고 합니다."
-thumbnail: "/images/360/img.jpg"
+thumbnail: "/images/entry/서울-청년-월세지원-사업-신청방법대상선발-기준/img.jpg"
 ---
 
 <div class="contents_style">
@@ -22,7 +22,7 @@ thumbnail: "/images/360/img.jpg"
 
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/360/img.jpg"/>
+<img src="/images/entry/서울-청년-월세지원-사업-신청방법대상선발-기준/img.jpg"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -57,7 +57,7 @@ thumbnail: "/images/360/img.jpg"
 <h3><b>지원대상 선정 기준</b></h3>
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/360/img.png"/>
+<img src="/images/entry/서울-청년-월세지원-사업-신청방법대상선발-기준/img.png"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -73,7 +73,7 @@ thumbnail: "/images/360/img.jpg"
 <p>※ 지원 제외 대상<br/>– 주택소유자 및 분양권 또는 조합원 입주권 소지자<br/>– 일반재산(토지과세표준액+건축물과세표준액+임차보증금+차량시가표준액) 1억원 초과자<br/>– 국민기초생활수급자(생계, 의료, 주거급여 대상자) ※ 교육급여대상자는 가능<br/>– 차량시가표준액 2,500만원 이상 자동차 소유자<br/>– 서울시 청년수당을 받고 있는 사람<br/>– 정부 및 서울시 공공주거사업* 지원을 받고 있는 사람 (*서울형주택바우처, 공공임대주택, 전월세자금 금융지원)<br/>– 임대인이 ‘가족관계부’에 등재된 신청인의 ‘부모’인 경우</p>
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/360/img_1.jpg"/>
+<img src="/images/entry/서울-청년-월세지원-사업-신청방법대상선발-기준/img_1.jpg"/>
 
 <figcaption></figcaption>
 </figure></p>

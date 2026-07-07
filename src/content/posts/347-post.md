@@ -6,7 +6,7 @@ tags: ["웰킵스마스크", "웰킵스몰", "비말차단마스크"]
 slug: "웰킵스-마스크-구입-정보-웰킵스몰-인스타"
 numericId: 347
 description: "웰킵스는국내 미세먼지 마스크 브랜드로보건용 마스크를 주력으로 생산 판매하고 회사이다."
-thumbnail: "/images/347/img.png"
+thumbnail: "/images/entry/웰킵스-마스크-구입-정보-웰킵스몰-인스타/img.png"
 ---
 
 <div class="contents_style">
@@ -17,7 +17,7 @@ thumbnail: "/images/347/img.png"
 
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/347/img.png"/>
+<img src="/images/entry/웰킵스-마스크-구입-정보-웰킵스몰-인스타/img.png"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -59,7 +59,7 @@ thumbnail: "/images/347/img.png"
 
 <p><figure class="imageblock alignCenter" width="400">
 
-<img src="/images/347/img.jpg" width="400"/>
+<img src="/images/entry/웰킵스-마스크-구입-정보-웰킵스몰-인스타/img.jpg" width="400"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -91,7 +91,7 @@ thumbnail: "/images/347/img.png"
 
 <p><figure class="imageblock alignCenter" width="500">
 
-<img src="/images/347/img_1.png" width="500"/>
+<img src="/images/entry/웰킵스-마스크-구입-정보-웰킵스몰-인스타/img_1.png" width="500"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -104,7 +104,7 @@ thumbnail: "/images/347/img.png"
 <p><b><span style="color: #333333;"><span style="color: #333333;">☞ </span>세균 여과효율 95%로 박테리아 효율테스트가 완료된 식약처 검증 마스크 </span></b></p>
 <p><figure class="imageblock alignCenter" width="500">
 
-<img src="/images/347/img_2.png" width="500"/>
+<img src="/images/entry/웰킵스-마스크-구입-정보-웰킵스몰-인스타/img_2.png" width="500"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -115,7 +115,7 @@ thumbnail: "/images/347/img.png"
 
 <p><figure class="imageblock alignCenter" width="500">
 
-<img src="/images/347/img_3.png" width="500"/>
+<img src="/images/entry/웰킵스-마스크-구입-정보-웰킵스몰-인스타/img_3.png" width="500"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -126,7 +126,7 @@ thumbnail: "/images/347/img.png"
 
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/347/img_4.png"/>
+<img src="/images/entry/웰킵스-마스크-구입-정보-웰킵스몰-인스타/img_4.png"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -137,7 +137,7 @@ thumbnail: "/images/347/img.png"
 <h3> </h3>
 <p><figure class="imageblock alignCenter" width="500">
 
-<img src="/images/347/img_5.png" width="500"/>
+<img src="/images/entry/웰킵스-마스크-구입-정보-웰킵스몰-인스타/img_5.png" width="500"/>
 
 <figcaption></figcaption>
 </figure></p>

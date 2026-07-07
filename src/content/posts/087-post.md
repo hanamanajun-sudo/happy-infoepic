@@ -6,7 +6,7 @@ tags: ["건강", "여행팁", "우한폐렴"]
 slug: "우한-폐렴-알아야-할-증상-5가지예방법-3가지"
 numericId: 87
 description: "우한 폐렴은 신종 코로나 바이러스 감염증으로"
-thumbnail: "/images/87/img.jpg"
+thumbnail: "/images/entry/우한-폐렴-알아야-할-증상-5가지예방법-3가지/img.jpg"
 ---
 
 <div class="contents_style">
@@ -16,7 +16,7 @@ thumbnail: "/images/87/img.jpg"
 
 <p><figure class="imageblock alignCenter" width="500">
 
-<img src="/images/87/img.jpg" width="500"/>
+<img src="/images/entry/우한-폐렴-알아야-할-증상-5가지예방법-3가지/img.jpg" width="500"/>
 
 <figcaption></figcaption>
 </figure></p>

@@ -6,7 +6,7 @@ tags: ["폐스", "폐가전제품수거", "폐가전제품버리기"]
 slug: "가전제품-무료로-버리는-방법폐가전-방문-수거-냉장고에어컨세탁기"
 numericId: 342
 description: "이사 준비를 하다보면 오래되고 낡아서 새로운 집으로 갖고 가고 싶지 않거나"
-thumbnail: "/images/342/img.png"
+thumbnail: "/images/entry/가전제품-무료로-버리는-방법폐가전-방문-수거-냉장고에어컨세탁기/img.png"
 ---
 
 <div class="contents_style">
@@ -29,7 +29,7 @@ thumbnail: "/images/342/img.png"
 <p><span style="color: #ee2323;"><b>수수료 없이 무료로 수거해 갑니다.</b></span></p>
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/342/img.png"/>
+<img src="/images/entry/가전제품-무료로-버리는-방법폐가전-방문-수거-냉장고에어컨세탁기/img.png"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -40,7 +40,7 @@ thumbnail: "/images/342/img.png"
 <p><span style="color: #333333;">수거전담팀이 직접 방문하여 무료 수거하는 서비스</span><br/><span style="color: #333333;">전화나 인터넷, 카카오톡을 통해 폐가전제품 배출 예약</span></p>
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/342/img_1.png"/>
+<img src="/images/entry/가전제품-무료로-버리는-방법폐가전-방문-수거-냉장고에어컨세탁기/img_1.png"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -53,24 +53,24 @@ thumbnail: "/images/342/img.png"
 
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/342/img_2.png"/>
+<img src="/images/entry/가전제품-무료로-버리는-방법폐가전-방문-수거-냉장고에어컨세탁기/img_2.png"/>
 
 <figcaption></figcaption>
 </figure><figure class="imageblock alignCenter">
 
-<img src="/images/342/img_3.png"/>
+<img src="/images/entry/가전제품-무료로-버리는-방법폐가전-방문-수거-냉장고에어컨세탁기/img_3.png"/>
 
 <figcaption></figcaption>
 </figure><figure class="imageblock alignCenter">
 
-<img src="/images/342/img_4.png"/>
+<img src="/images/entry/가전제품-무료로-버리는-방법폐가전-방문-수거-냉장고에어컨세탁기/img_4.png"/>
 
 <figcaption></figcaption>
 </figure></p>
 <h3><b>카톡으로 폐가전제품 무상 수거 서비스 신청하는 방법</b></h3>
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/342/img_5.png"/>
+<img src="/images/entry/가전제품-무료로-버리는-방법폐가전-방문-수거-냉장고에어컨세탁기/img_5.png"/>
 
 <figcaption></figcaption>
 </figure></p>

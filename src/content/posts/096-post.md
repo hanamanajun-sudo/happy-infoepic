@@ -6,7 +6,7 @@ tags: ["우한", "우한폐렴"]
 slug: "우한-폐렴-확진자-증가-현재-상황"
 numericId: 96
 description: "확진자가 갑자기 2배가 되었네요. 중국은 춘제 이후 사람들의 왕복이 있었고 잠복기로 인해"
-thumbnail: "/images/96/img.png"
+thumbnail: "/images/entry/우한-폐렴-확진자-증가-현재-상황/img.png"
 ---
 
 <div class="contents_style">
@@ -24,7 +24,7 @@ thumbnail: "/images/96/img.png"
 <h2><span style="background-color: #dddddd;"><b>1월 28일 우한 폐렴 확진자 수</b></span></h2>
 <p><figure class="imageblock alignCenter" width="700">
 
-<img src="/images/96/img.png" width="700"/>
+<img src="/images/entry/우한-폐렴-확진자-증가-현재-상황/img.png" width="700"/>
 
 <figcaption></figcaption>
 </figure></p>

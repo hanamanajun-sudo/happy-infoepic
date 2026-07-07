@@ -6,21 +6,21 @@ tags: ["광고", "CF", "사랑의블랙홀"]
 slug: "아직도-고통받는-빌-머레이-사랑의-블랙홀-CF광고"
 numericId: 121
 description: "미국에서 급상승한 인기 영상이 있다고 친구가 보여줬는데 너무 친숙한 화면 ㅋㅋ"
-thumbnail: "/images/121/img.png"
+thumbnail: "/images/entry/아직도-고통받는-빌-머레이-사랑의-블랙홀-CF광고/img.png"
 ---
 
 <div class="contents_style">
 <p>미국에서 급상승한 인기 영상이 있다고 친구가 보여줬는데 너무 친숙한 화면 ㅋㅋ</p>
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/121/img.png"/>
+<img src="/images/entry/아직도-고통받는-빌-머레이-사랑의-블랙홀-CF광고/img.png"/>
 
 <figcaption></figcaption>
 </figure></p>
 <p>아직도 고통받는 빌 머레이 옹</p>
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/121/img_1.png"/>
+<img src="/images/entry/아직도-고통받는-빌-머레이-사랑의-블랙홀-CF광고/img_1.png"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -29,7 +29,7 @@ thumbnail: "/images/121/img.png"
 <p>꾸준히 인사해 주시고 ㅋ</p>
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/121/img_2.png"/>
+<img src="/images/entry/아직도-고통받는-빌-머레이-사랑의-블랙홀-CF광고/img_2.png"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -67,7 +67,7 @@ thumbnail: "/images/121/img.png"
 <blockquote>그라운드호그 데이를 취재하러 간 성격 안 좋은 기상 캐스터가 계속 같은 날에 깨어난다는 <b>로맨틱 코미디</b> 이야기</blockquote>
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/121/img.jpg"/>
+<img src="/images/entry/아직도-고통받는-빌-머레이-사랑의-블랙홀-CF광고/img.jpg"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -109,7 +109,7 @@ thumbnail: "/images/121/img.png"
 
 <p><figure class="imageblock alignCenter" width="600">
 
-<img src="/images/121/img_1.jpg" width="600"/>
+<img src="/images/entry/아직도-고통받는-빌-머레이-사랑의-블랙홀-CF광고/img_1.jpg" width="600"/>
 
 <figcaption></figcaption>
 </figure></p>

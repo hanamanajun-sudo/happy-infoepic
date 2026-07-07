@@ -6,7 +6,7 @@ tags: []
 slug: "애플티비-플러스-드라마-추천-오리지널-영화-컨텐츠-2022년"
 numericId: 434
 description: "애플티비 플러스에서 많은 사람들이 추천하 드라마 정보를 모아보았습니다."
-thumbnail: "/images/434/62914e5e9adda1a4d9475a927818dc2aac71130489c090bf68_761ea5cb.jfif"
+thumbnail: "/images/entry/애플티비-플러스-드라마-추천-오리지널-영화-컨텐츠-2022년/62914e5e9adda1a4d9475a927818dc2aac71130489c090bf68_761ea5cb.jfif"
 ---
 
 <div class="contents_style">
@@ -85,7 +85,7 @@ thumbnail: "/images/434/62914e5e9adda1a4d9475a927818dc2aac71130489c090bf68_761ea
 <h3><span style="background-color: #dddddd;"><b>핀치</b></span></h3>
 <p><figure class="imageblock alignCenter" height="444" width="300">
 
-<img height="444" src="/images/434/62914e5e9adda1a4d9475a927818dc2aac71130489c090bf68_761ea5cb.jfif" width="300"/>
+<img height="444" src="/images/entry/애플티비-플러스-드라마-추천-오리지널-영화-컨텐츠-2022년/62914e5e9adda1a4d9475a927818dc2aac71130489c090bf68_761ea5cb.jfif" width="300"/>
 
 <figcaption></figcaption>
 </figure></p>

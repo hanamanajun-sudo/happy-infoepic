@@ -5,8 +5,8 @@ category: "문화&연예 트렌드/스타&인물"
 tags: ["유튜브", "고은아", "미르", "미르방", "숲속티셔츠"]
 slug: "고은아과거나이근황-총정리HM-숲속-티셔츠-정보"
 numericId: 287
-description: "요즘 관심 갖고 보는 유튜브 채널"
-thumbnail: "/images/287/0a426d29a361f01f7a3bf8e9e05178c7949bb8aaa3728eda91_c53dbcdf.jpg"
+description: "배우 고은아의 모든 것! 과거 프로필부터 나이, 근황까지 완벽하게 총정리하고 고은아의 유튜브 채널 미르방의 인기 비결도 함께 소개합니다. 엠블랙 미르와 함께하는 남매의 유쾌한 케미와 H&M 숲속 티셔츠 논란까지 모두 담았습니다."
+thumbnail: "/images/entry/고은아과거나이근황-총정리HM-숲속-티셔츠-정보/0a426d29a361f01f7a3bf8e9e05178c7949bb8aaa3728eda91_c53dbcdf.jpg"
 ---
 
 <div class="contents_style">
@@ -20,7 +20,7 @@ thumbnail: "/images/287/0a426d29a361f01f7a3bf8e9e05178c7949bb8aaa3728eda91_c53db
 <h3><b>고은아 프로필 (과거 사진)</b></h3>
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/287/0a426d29a361f01f7a3bf8e9e05178c7949bb8aaa3728eda91_c53dbcdf.jpg"/>
+<img src="/images/entry/고은아과거나이근황-총정리HM-숲속-티셔츠-정보/0a426d29a361f01f7a3bf8e9e05178c7949bb8aaa3728eda91_c53dbcdf.jpg"/>
 
 <figcaption>고은아 과거 썰</figcaption>
 </figure></p>
@@ -57,12 +57,12 @@ thumbnail: "/images/287/0a426d29a361f01f7a3bf8e9e05178c7949bb8aaa3728eda91_c53db
 <p><b>정준영은 방송에서 여러차례 절친으로 소개했었고 방송(남사친 여사친)에도 함께 출연했었다.</b></p>
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/287/이미지_001.png"/>
+<img src="/images/entry/고은아과거나이근황-총정리HM-숲속-티셔츠-정보/이미지_001.png"/>
 
 <figcaption></figcaption>
 </figure><figure class="imageblock alignCenter">
 
-<img src="/images/287/이미지_002.png"/>
+<img src="/images/entry/고은아과거나이근황-총정리HM-숲속-티셔츠-정보/이미지_002.png"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -70,17 +70,17 @@ thumbnail: "/images/287/0a426d29a361f01f7a3bf8e9e05178c7949bb8aaa3728eda91_c53db
 
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/287/이미지_003.png"/>
+<img src="/images/entry/고은아과거나이근황-총정리HM-숲속-티셔츠-정보/이미지_003.png"/>
 
 <figcaption></figcaption>
 </figure><figure class="imageblock alignCenter">
 
-<img src="/images/287/이미지_004.png"/>
+<img src="/images/entry/고은아과거나이근황-총정리HM-숲속-티셔츠-정보/이미지_004.png"/>
 
 <figcaption></figcaption>
 </figure><figure class="imageblock alignCenter">
 
-<img src="/images/287/이미지_005.png"/>
+<img src="/images/entry/고은아과거나이근황-총정리HM-숲속-티셔츠-정보/이미지_005.png"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -116,17 +116,17 @@ thumbnail: "/images/287/0a426d29a361f01f7a3bf8e9e05178c7949bb8aaa3728eda91_c53db
 <p>영상 보다보면 항상 입고 나오는 숲속 티셔츠가 있는데</p>
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/287/이미지_001_1.png"/>
+<img src="/images/entry/고은아과거나이근황-총정리HM-숲속-티셔츠-정보/이미지_001_1.png"/>
 
 <figcaption></figcaption>
 </figure><figure class="imageblock alignCenter">
 
-<img src="/images/287/이미지_002_1.png"/>
+<img src="/images/entry/고은아과거나이근황-총정리HM-숲속-티셔츠-정보/이미지_002_1.png"/>
 
 <figcaption></figcaption>
 </figure><figure class="imageblock alignCenter">
 
-<img src="/images/287/이미지_003_1.png"/>
+<img src="/images/entry/고은아과거나이근황-총정리HM-숲속-티셔츠-정보/이미지_003_1.png"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -135,19 +135,19 @@ thumbnail: "/images/287/0a426d29a361f01f7a3bf8e9e05178c7949bb8aaa3728eda91_c53db
 
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/287/이미지_004_1.png"/>
+<img src="/images/entry/고은아과거나이근황-총정리HM-숲속-티셔츠-정보/이미지_004_1.png"/>
 
 <figcaption></figcaption>
 </figure></p>
 
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/287/이미지_005_1.png"/>
+<img src="/images/entry/고은아과거나이근황-총정리HM-숲속-티셔츠-정보/이미지_005_1.png"/>
 
 <figcaption></figcaption>
 </figure><figure class="imageblock alignCenter">
 
-<img src="/images/287/이미지_006.png"/>
+<img src="/images/entry/고은아과거나이근황-총정리HM-숲속-티셔츠-정보/이미지_006.png"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -155,27 +155,27 @@ thumbnail: "/images/287/0a426d29a361f01f7a3bf8e9e05178c7949bb8aaa3728eda91_c53db
 
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/287/이미지_007.png"/>
+<img src="/images/entry/고은아과거나이근황-총정리HM-숲속-티셔츠-정보/이미지_007.png"/>
 
 <figcaption></figcaption>
 </figure><figure class="imageblock alignCenter">
 
-<img src="/images/287/이미지_008.png"/>
+<img src="/images/entry/고은아과거나이근황-총정리HM-숲속-티셔츠-정보/이미지_008.png"/>
 
 <figcaption></figcaption>
 </figure><figure class="imageblock alignCenter">
 
-<img src="/images/287/이미지_009.png"/>
+<img src="/images/entry/고은아과거나이근황-총정리HM-숲속-티셔츠-정보/이미지_009.png"/>
 
 <figcaption></figcaption>
 </figure><figure class="imageblock alignCenter">
 
-<img src="/images/287/이미지_010.png"/>
+<img src="/images/entry/고은아과거나이근황-총정리HM-숲속-티셔츠-정보/이미지_010.png"/>
 
 <figcaption></figcaption>
 </figure><figure class="imageblock alignCenter">
 
-<img src="/images/287/이미지_011.png"/>
+<img src="/images/entry/고은아과거나이근황-총정리HM-숲속-티셔츠-정보/이미지_011.png"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -186,7 +186,7 @@ thumbnail: "/images/287/0a426d29a361f01f7a3bf8e9e05178c7949bb8aaa3728eda91_c53db
 
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/287/이미지_15.png"/>
+<img src="/images/entry/고은아과거나이근황-총정리HM-숲속-티셔츠-정보/이미지_15.png"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -199,44 +199,44 @@ thumbnail: "/images/287/0a426d29a361f01f7a3bf8e9e05178c7949bb8aaa3728eda91_c53db
 <h3><b>고은아 근황</b></h3>
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/287/우리집에_야인이_산다_mp4_20200426_224918_027.jpg"/>
+<img src="/images/entry/고은아과거나이근황-총정리HM-숲속-티셔츠-정보/우리집에_야인이_산다_mp4_20200426_224918_027.jpg"/>
 
 <figcaption></figcaption>
 </figure></p>
 <p>시선강탈 꿀벌 잠옷 ㅋ</p>
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/287/우리집에_야인이_산다_mp4_20200426_224929_186.jpg"/>
+<img src="/images/entry/고은아과거나이근황-총정리HM-숲속-티셔츠-정보/우리집에_야인이_산다_mp4_20200426_224929_186.jpg"/>
 
 <figcaption></figcaption>
 </figure><figure class="imageblock alignCenter">
 
-<img src="/images/287/우리집에_야인이_산다_mp4_20200426_224932_315.jpg"/>
+<img src="/images/entry/고은아과거나이근황-총정리HM-숲속-티셔츠-정보/우리집에_야인이_산다_mp4_20200426_224932_315.jpg"/>
 
 <figcaption></figcaption>
 </figure><figure class="imageblock alignCenter">
 
-<img src="/images/287/우리집에_야인이_산다_mp4_20200426_224936_698.jpg"/>
+<img src="/images/entry/고은아과거나이근황-총정리HM-숲속-티셔츠-정보/우리집에_야인이_산다_mp4_20200426_224936_698.jpg"/>
 
 <figcaption></figcaption>
 </figure><figure class="imageblock alignCenter">
 
-<img src="/images/287/우리집에_야인이_산다_mp4_20200426_224940_746.jpg"/>
+<img src="/images/entry/고은아과거나이근황-총정리HM-숲속-티셔츠-정보/우리집에_야인이_산다_mp4_20200426_224940_746.jpg"/>
 
 <figcaption></figcaption>
 </figure><figure class="imageblock alignCenter">
 
-<img src="/images/287/우리집에_야인이_산다_mp4_20200426_224944_826.jpg"/>
+<img src="/images/entry/고은아과거나이근황-총정리HM-숲속-티셔츠-정보/우리집에_야인이_산다_mp4_20200426_224944_826.jpg"/>
 
 <figcaption></figcaption>
 </figure><figure class="imageblock alignCenter">
 
-<img src="/images/287/우리집에_야인이_산다_mp4_20200426_224951_078.jpg"/>
+<img src="/images/entry/고은아과거나이근황-총정리HM-숲속-티셔츠-정보/우리집에_야인이_산다_mp4_20200426_224951_078.jpg"/>
 
 <figcaption></figcaption>
 </figure><figure class="imageblock alignCenter">
 
-<img src="/images/287/우리집에_야인이_산다_mp4_20200426_224956_154.jpg"/>
+<img src="/images/entry/고은아과거나이근황-총정리HM-숲속-티셔츠-정보/우리집에_야인이_산다_mp4_20200426_224956_154.jpg"/>
 
 <figcaption></figcaption>
 </figure></p>

@@ -6,13 +6,13 @@ tags: ["DVF", "다이앤", "랩드레스"]
 slug: "다이앤-본-퍼스텐버그-브랜드-소개-스타벅스-콜라보-그녀는-누구-DIANE-VON-FURSTENBERG"
 numericId: 52
 description: "다이앤 본 퍼스텐버그 DVF 그녀는 누구?"
-thumbnail: "/images/52/img.png"
+thumbnail: "/images/entry/다이앤-본-퍼스텐버그-브랜드-소개-스타벅스-콜라보-그녀는-누구-DIANE-VON-FURSTENBERG/img.png"
 ---
 
 <div class="contents_style">
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/52/img.png"/>
+<img src="/images/entry/다이앤-본-퍼스텐버그-브랜드-소개-스타벅스-콜라보-그녀는-누구-DIANE-VON-FURSTENBERG/img.png"/>
 
 <figcaption>다이앤 본 퍼스텐버그 DVF 그녀는 누구?</figcaption>
 </figure></p>
@@ -90,8 +90,8 @@ thumbnail: "/images/52/img.png"
 <p><a href="https://www.elle.co.kr/article/9786">https://www.elle.co.kr/article/9786</a></p>
 <p>관련 글: <a href="https://www.elle.co.kr/article/9786" rel="noopener" target="_blank">랩 드레스 퀸의 40년 | 엘르코리아 (ELLE KOREA)</a></p>
 
-<p><a href="https://happy.infoepic.com/51" rel="noopener" target="_blank">2019/12/11 - [트렌드 백과사전/스타벅스] - 스타벅스-다이앤 본 퍼스텐버그 콜라보 소식/매장 정보</a></p>
-<p>관련 글: <a href="https://happy.infoepic.com/51" rel="noopener" target="_blank">스타벅스-다이앤 본 퍼스텐버그 콜라보 소식/매장 정보</a></p>
+<p><a href="https://happy.infoepic.com/entry/스타벅스-다이앤-본-퍼스텐버그-콜라보-소식매장-정보" rel="noopener" target="_blank">2019/entry/외국인에게-알려주는-떡볶이-2편-떡볶이의-종류와-친구들/11 - [트렌드 백과사전/스타벅스] - 스타벅스-다이앤 본 퍼스텐버그 콜라보 소식/매장 정보</a></p>
+<p>관련 글: <a href="https://happy.infoepic.com/entry/스타벅스-다이앤-본-퍼스텐버그-콜라보-소식매장-정보" rel="noopener" target="_blank">스타벅스-다이앤 본 퍼스텐버그 콜라보 소식/매장 정보</a></p>
 <p>오피셜 트위터</p>
 <p><a href="https://twitter.com/dvf?lang=ko" rel="noopener" target="_blank">https://twitter.com/dvf?lang=ko</a></p>
 <p>오피셜 인스타그램</p>

@@ -6,7 +6,7 @@ tags: ["확진자", "신종코로나", "코로나19"]
 slug: "코로나19-국내-확진자-수-일별-그래프확진자-이동경로-주소"
 numericId: 171
 description: "2020/03/04 - [재난 백과] - 코로나19 일별 확진자수 (국내+해외 그래프)-3월4일"
-thumbnail: "/images/171/img.png"
+thumbnail: "/images/entry/코로나19-국내-확진자-수-일별-그래프확진자-이동경로-주소/img.png"
 ---
 
 <div class="contents_style">
@@ -29,7 +29,7 @@ thumbnail: "/images/171/img.png"
 <h2><span style="color: #000000;"><b><span style="color: #000000;"><b><span style="color: #000000;"><b>2월 22일 코로나19 한국 확진자 그래프</b></span></b></span></b></span></h2>
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/171/img.png"/>
+<img src="/images/entry/코로나19-국내-확진자-수-일별-그래프확진자-이동경로-주소/img.png"/>
 
 <figcaption></figcaption>
 </figure></p>
@@ -39,7 +39,7 @@ thumbnail: "/images/171/img.png"
 <p>해외 발생 국가 32개국</p>
 <p><figure class="imageblock alignCenter">
 
-<img src="/images/171/img.jpg"/>
+<img src="/images/entry/코로나19-국내-확진자-수-일별-그래프확진자-이동경로-주소/img.jpg"/>
 
 <figcaption></figcaption>
 </figure></p>
