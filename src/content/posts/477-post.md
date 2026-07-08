@@ -5,7 +5,7 @@ category: "문화&연예 트렌드/영화&드라마&TV"
 tags: ["드라마"]
 slug: "브래이킹배드-베더콜사울-오자크-좋아하는-사람에게-드라마-추천"
 numericId: 477
-description: "브레이킹배드를 먼저 보고 그다음 베더콜 사울을 보고 비슷한 류를 찾다가 오자크를 발견하고 다 보고 나니 뭘 봐야 할지 몰라서 헛헛함에 시간 보내다가 AI에게 추천해 달라고 말해 보았습니다."
+description: "브래이킹배드, 베더콜사울, 오자크 좋아하는 사람에게 드라마 추천에 대한 모든 정보를 한곳에 모았습니다. 관람 포인트와 작품의 매력, 시청 전 알아두면 좋은 정보까지 꼼꼼하게 알려드리는 완벽 가이드입니다 자세한 정보와 꿀팁을 지금 바로 확인해보세요."
 thumbnail: "/images/477/r69cY9bHh2D1pr0fyfpWJwB_1pS2IXiPdfB4B36CFtKTetVzzcMB3ZsfeZpTiVvAd5zuefoOj2PgeEmtFwAS9Q.webp"
 ---
 

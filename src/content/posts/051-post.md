@@ -5,7 +5,7 @@ category: "라이프 트렌드/스타벅스"
 tags: ["스타벅스", "콜라보"]
 slug: "스타벅스-다이앤-본-퍼스텐버그-콜라보-소식매장-정보"
 numericId: 51
-description: "DIANE VON FURSTENBERG + STARBUCKS"
+description: "스타벅스-다이앤 본 퍼스텐버그 콜라보 소식/매장 정보에 대해 알아야 할 모든 것을 상세하게 정리했습니다. 꼭 필요한 핵심 정보만 쏙쏙 골라 알기 쉽게 알려드립니다. 관련 키워드: 스타벅스, 콜라보. 자세한 정보와 꿀팁을 지금 바로 확인해보세요."
 thumbnail: "/images/51/img.png"
 ---
 

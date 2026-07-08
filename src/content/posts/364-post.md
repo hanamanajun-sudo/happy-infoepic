@@ -5,7 +5,7 @@ category: "꿀팁&정보 백과사전/생활팁 백과"
 tags: []
 slug: "방구할-때-체크-리스트"
 numericId: 364
-description: "https://theqoo.net/index.php?mid=hot&filter_mode=normal&document_srl=1478674756"
+description: "방을 구할 때 반드시 확인해야 할 체크리스트를 총정리했습니다. 방 보기 전 예산과 위치 확인부터 계약 시 확인 사항, 등기부 등본 확인까지 첫 자취와 전월세 계약 전에 꼭 알아야 할 모든 필수 정보를 상세하게 알려드립니다."
 thumbnail: ""
 ---
 

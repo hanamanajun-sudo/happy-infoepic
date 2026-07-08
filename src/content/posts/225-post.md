@@ -5,7 +5,7 @@ category: "꿀팁&정보 백과사전/생활팁 백과"
 tags: []
 slug: "전자렌지-활용-법-꿀팁"
 numericId: 225
-description: "https://theqoo.net/index.php?mid=hot&filter_mode=normal&document_srl=1346780494"
+description: "전자레인지를 단순히 데우는 용도로만 사용하고 계신가요? 양파 손질, 마늘 껍질 벗기기, 스펀지 살균부터 빵 촉촉하게 데우기까지 전자레인지의 숨은 활용 꿀팁 15가지를 상세하게 소개합니다. 생활의 지혜를 지금 바로 확인해보세요."
 thumbnail: ""
 ---
 

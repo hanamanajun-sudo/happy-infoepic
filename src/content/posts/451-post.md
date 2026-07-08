@@ -5,7 +5,7 @@ category: "문화&연예 트렌드/영화&드라마&TV"
 tags: []
 slug: "리턴투-서울Return-to-Seoul-정보-배우-감독-어느나라-영화"
 numericId: 451
-description: "리턴투 서울은 칸 영화제에서 주목할 만한 시선에 진출한 작품"
+description: "리턴투 서울(Return to Seoul) 정보-배우, 감독, 어느나라 영화?에 대한 모든 정보를 한곳에 모았습니다. 관람 포인트와 작품의 매력, 시청 전 알아두면 좋은 정보까지 꼼꼼하게 알려드리는 완벽 가이드입니다."
 thumbnail: "/images/451/이미지_061.png"
 ---
 

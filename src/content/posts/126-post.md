@@ -5,7 +5,7 @@ category: "문화&연예 트렌드/깜짝뉴스"
 tags: ["bts", "방탄"]
 slug: "방탄-한국어-교육-컨텐츠-대단한-빅히트Learn-Korean-with-BTS"
 numericId: 126
-description: "방탄소년단이 미국 일본 외에 전세계적인 인기를 얻고 있고 BTS를 동경하는 많은 팬들은"
+description: "방탄 한국어 교육 컨텐츠?? 대단한 빅히트!!(Learn Korean with BTS)에 대한 최신 소식과 상세 정보를 모두 정리했습니다. 프로필부터 근황까지 알고 싶은 모든 것을 한눈에 확인하세요 자세한 정보와 꿀팁을 지금 바로 확인해보세요."
 thumbnail: "/images/126/img.png"
 ---
 

@@ -5,7 +5,7 @@ category: "미분류"
 tags: []
 slug: "제주-맛집-리스트"
 numericId: 323
-description: "https://theqoo.net/index.php?mid=hot&filter_mode=normal&document_srl=1432488537#top"
+description: "제주 맛집 리스트 정보를 상세하게 정리했습니다. 실제 후기와 맛, 분위기, 위치 정보까지 알차게 담아낸 완벽한 맛집 가이드입니다. 관련 글: HOT - 불펜에서 추천하는 제주도 맛집 리스트.jpg 지금 바로 확인해보세요."
 thumbnail: ""
 ---
 
