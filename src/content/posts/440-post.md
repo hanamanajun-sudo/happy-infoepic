@@ -10,78 +10,50 @@ thumbnail: "/images/440/다운로드_10.jfif"
 ---
 
 <div class="contents_style">
-<p><span style="background-color: #ffffff; color: #000000;">전직 영양사 아내가 해주는 아침밥이라는 제목으로 올라왔던 아침 식단 메뉴</span></p>
-<p><span style="background-color: #ffffff; color: #000000;">사실 일반 사람들이 볼 때에는 비현실적인 메뉴이긴 하지만 구성이나 때깔은 배울수 있는 부분이 있을것 같아서 기록용으로 저장해 둡니다.</span></p>
+<p><span style="background-color: #ffffff; color: #000000;">아침 식사는 하루를 시작하는 첫 에너지원이다. 하지만 바쁜 현대인들은 아침을 거르거나 간단히 때우는 경우가 많다. 전직 영양사 아내가 해주는 아침밥이라는 제목으로 올라왔던 아침 식단 메뉴를 보고 기록용으로 저장해두려고 한다. 일반 사람들이 보기에는 비현실적으로 정성들인 메뉴일 수 있지만 구성이나 영양 밸런스는 배울 점이 많다.</span></p>
 
-<p><span style="background-color: #ffffff; color: #000000;">아침 식단 메뉴</span></p>
-<p><span style="background-color: #ffffff; color: #000000;">  </span></p>
-<p><figure class="imageblock alignCenter">
+<h2><b>아침 식사가 중요한 이유</b></h2>
+<p>밤새 공복 상태였던 몸에 아침 식사는 첫 연료를 공급하는 역할을 한다. 아침을 먹으면 혈당이 안정적으로 유지되고, 뇌에 포도당이 공급되어 집중력과 기억력이 향상된다. 여러 연구에 따르면 규칙적으로 아침을 먹는 사람이 그렇지 않은 사람보다 비만율이 낮고, 하루 전체 식사량 조절도 더 잘된다고 한다. 아침을 거르면 점심에 폭식하게 될 가능성이 높아져서 오히려 총 칼로리 섭취량이 늘어나기도 한다.</p>
 
-<img src="/images/440/다운로드_10.jfif"/>
+<h2><b>이상적인 아침 식단 구성 — 3대 영소소 균형</b></h2>
+<p>좋은 아침 식단은 탄수화물, 단백질, 지방이 골고루 들어가는 게 핵심이다. 탄수화물은 뇌와 몸에 빠른 에너지를 주고, 단백질은 포만감을 오래 유지시켜 주며, 적당한 지방은 호르몬 균형과 영양소 흡수를 돕는다. 여기에 비타민과 미네랄이 풍부한 채소나 과일이 곁들여지면 더할나위 없다.</p>
 
-<figcaption></figcaption>
-</figure><figure class="imageblock alignCenter">
+<h2><b>추천 아침 메뉴 7가지</b></h2>
 
-<img src="/images/440/다운로드_11.jfif"/>
+<h3><b>1. 두부 샐러드 + 잡곡밥</b></h3>
+<p>전날 밥을 지어두거나 밥을 지을 시간이 있다면 가장 간단하면서도 영양가 높은 조합이다. 두부는 식물성 단백질이 풍부하고 소화도 잘된다. 샐러드에 방울토마토, 오이, 양상추를 넣고 올리브오일과 발사믹 식초로 간단히 드레싱하면 아침에 부담 없이 먹을 수 있다. 두부는 기름에 살짝 구워서 간장 양념을 발라도 맛있다.</p>
 
-<figcaption></figcaption>
-</figure><figure class="imageblock alignCenter">
+<h3><b>2. 삶은 달걀 + 고구마 + 우유</b></h3>
+<p>가장 만들기 쉬운 아침 메뉴 중 하나다. 삶은 달걀 2개는 완전 단백질 공급원이고, 고구마는 복합 탄수화물로 혈당을 천천히 올려준다. 우유 한 잔으로 칼슘과 단백질을 보충하면 한 끼 식사로 손색이 없다. 고구마는 전날 구워두거나 찌워두면 아침에 전자레인지로 데워서 바로 먹을 수 있다.</p>
 
-<img src="/images/440/다운로드_12.jfif"/>
+<h3><b>3. 요거트 그래놀라 볼</b></h3>
+<p>플레인 요거트에 그래놀라, 견과류, 신선한 과일을 토핑한 메뉴다. 준비 시간이 3분밖에 안 걸려서 가장 빠른 아침 메뉴로 꼽힌다. 플레인 요거트는 당 함량이 적은 걸 고르는 게 좋고, 그래놀라는 시중 제품 중 당류가 적은 제품을 고르거나 직접 만들어 먹어도 된다. 과일은 블루베리, 바나나, 딸기 같은 계절 과일을 넣으면 비타민 섭취도 보충된다.</p>
 
-<figcaption></figcaption>
-</figure><figure class="imageblock alignCenter">
+<h3><b>4. 달걀 토스트 + 아보카도</b></h3>
+<p>식빵 한 조각에 구운 달걀과 아보카도를 얹은 메뉴로 일명 '아보카도 토스트'다. 아보카도는 불포화 지방산이 풍부해서 심혈관 건강에 좋고, 달걀의 단백질과 더해지면 완벽한 아침 한 끼가 된다. 토스트를 구울 때 통밀빵이나 호밀빵을 쓰면 식이섬유 섭취도 늘어난다. 취향에 따라 체리토마토나 치즈를 추가해도 좋다.</p>
 
-<img src="/images/440/다운로드_13.jfif"/>
+<h3><b>5. 닭가슴살 야채죽</b></h3>
+<p>아침에 속이 더부룩하거나 소화가 잘 안 되는 날에는 죽만 한 게 없다. 닭가슴살을 잘게 찢어 넣고 당근, 애호박, 양파 같은 채소를 다져서 함께 끓이면 영양 밸런스가 좋은 아침 죽이 완성된다. 밥을 미리 냉동해두거나 오트밀을 베이스로 쓰면 조리 시간이 훨씬 짧아진다.</p>
 
-<figcaption></figcaption>
-</figure><figure class="imageblock alignCenter">
+<h3><b>6. 오트밀(귀리죽) + 견과류</b></h3>
+<p>오트밀은 베타글루칸이라는 식이섬유가 풍부해서 콜레스테롤 수치 개선에 도움을 주고 포만감도 오래간다. 오트밀을 물이나 우유에 끓인 후 호두, 아몬드, 건크랜베리, 바나나를 올리면 간단하면서도 든든한 아침이 된다. 계피 가루를 살짝 뿌리면 맛과 향이 한층 살아난다. 오트밀은 전자레인지로 2~3분이면 조리가 가능해서 시간이 없을 때 특히 유용하다.</p>
 
-<img src="/images/440/다운로드_14.jfif"/>
+<h3><b>7. 김치찌개 + 밥 — 한국형 아침</b></h3>
+<p>한국인에게 아침에 뜨끈한 국물은 속을 편하게 해준다. 전날 만들어둔 김치찌개에 밥 한 그릇, 그리고 김치나 나물 반찬 하나만 있어도 훌륭한 아침 식단이 완성된다. 국물 요리에 두부나 고기를 넣으면 단백질도 충분히 섭취할 수 있다. 다만 국물의 나트륨 함량이 높을 수 있으니 싱겁게 끓이는 게 좋다.</p>
 
-<figcaption></figcaption>
-</figure><figure class="imageblock alignCenter">
+<h2><b>5분 초간단 아침 식단 팁</b></h2>
+<p>시간이 너무 없어서 아침을 챙겨 먹기 어렵다면 아래 방법을 활용해보자.</p>
+<ul style="list-style-type: disc;">
+<li><b>전날 준비</b>: 귀리나 고구마를 전날 삶아두고, 과일은 씻어서 냉장고에 넣어둔다. 샐러드 재료도 전날 씻어서 보관하면 아침에 5분 만에 식사 준비가 끝난다.</li>
+<li><b>냉동식품 활용</b>: 닭가슴살이나 잡곡밥을 소분해서 냉동해두고, 아침에 전자레인지에 돌리기만 하면 바로 먹을 수 있다.</li>
+<li><b>간편 대용식</b>: 바쁘면 스무디 한 잔이라도 챙기는 게 아예 안 먹는 것보다 낫다. 바나나, 우유(또는 두유), 견과류를 믹서에 갈면 단백질과 탄수화물을 한 번에 보충할 수 있다.</li>
+<li><b>미리 만들어두는 메뉴</b>: 주말에 계란찜이나 두부조림 같은 반찬을 만들어두고 평일 아침에 꺼내 먹으면 훨씬 수월하다.</li>
+</ul>
 
-<img src="/images/440/다운로드_15.jfif"/>
+<h2><b>아침밥의 심리적 효과</b></h2>
+<p>아침 식사는 영양 보충 이상의 의미가 있다. 아침을 챙겨 먹는 습관은 하루를 규칙적으로 시작하는 데 도움을 주고, 스스로를 돌보고 있다는 긍정적인 메시지를 뇌에 전달한다. 여러 연구에서 규칙적인 아침 식사가 우울감 완화와 정서 안정에도 긍정적인 영향을 미친다고 보고된 바 있다. 매일 아침 10분만 투자해서 밥을 챙겨 먹는 것만으로도 삶의 질이 달라질 수 있다.</p>
 
-<figcaption></figcaption>
-</figure><figure class="imageblock alignCenter">
-
-<img src="/images/440/다운로드_16.jfif"/>
-
-<figcaption></figcaption>
-</figure><figure class="imageblock alignCenter">
-
-<img src="/images/440/다운로드_6.jfif"/>
-
-<figcaption></figcaption>
-</figure><figure class="imageblock alignCenter">
-
-<img src="/images/440/다운로드_7.jfif"/>
-
-<figcaption></figcaption>
-</figure><figure class="imageblock alignCenter">
-
-<img src="/images/440/다운로드_8.jfif"/>
-
-<figcaption></figcaption>
-</figure><figure class="imageblock alignCenter">
-
-<img src="/images/440/다운로드_9.jfif"/>
-
-<figcaption></figcaption>
-</figure><figure class="imageblock alignCenter">
-
-<img src="/images/440/다운로드_5.jfif"/>
-
-<figcaption></figcaption>
-</figure><figure class="imageblock alignCenter">
-
-<img src="/images/440/다운로드_17.jfif"/>
-
-<figcaption></figcaption>
-</figure></p>
-<p>사진 글 출처: <a href="https://blog.naver.com/catitude" rel="noopener" target="_blank">https://blog.naver.com/catitude</a></p>
-<p>관련 글: <a href="https://blog.naver.com/catitude" rel="noopener" target="_blank">전직영양사 아내의 아침밥 : 네이버 블로그</a></p>
+<p><span style="background-color: #ffffff; color: #000000;">사진 글 출처: <a href="https://blog.naver.com/catitude" rel="noopener" target="_blank">https://blog.naver.com/catitude</a></span></p>
+<p><span style="background-color: #ffffff; color: #000000;">관련 글: <a href="https://blog.naver.com/catitude" rel="noopener" target="_blank">전직영양사 아내의 아침밥 : 네이버 블로그</a></span></p>
 
 </div>
