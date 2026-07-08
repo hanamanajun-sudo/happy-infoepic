@@ -6,7 +6,7 @@ tags: ["양키캔들"]
 slug: "양키캔들-향-추천-한국-일본-미국-인기-순위"
 numericId: 468
 description: "양키캔들 향 추천 (한국, 일본, 미국 인기 순위)에 대한 모든 정보를 한곳에 모았습니다. 관람 포인트와 작품의 매력, 시청 전 알아두면 좋은 정보까지 꼼꼼하게 알려드리는 완벽 가이드입니다 자세한 정보와 꿀팁을 지금 바로 확인해보세요."
-thumbnail: "/images/468/thumbnail.jpg"
+thumbnail: "/images/468/400x400.jpg"
 ---
 
 <div class="contents_style">

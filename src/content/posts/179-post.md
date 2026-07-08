@@ -6,7 +6,7 @@ tags: ["배우", "진서연", "독전", "아는형님", "마스크가격"]
 slug: "진서연-마스크-발언-내용-인스타그램-주소-사진"
 numericId: 179
 description: "진서연 마스크 발언 내용 (인스타그램 주소, 사진) 관련 최신 정보와 상황을 상세하게 정리했습니다. 알아야 할 핵심 내용과 실생활에 도움이 되는 정보를 한곳에 모아 알려드립니다 자세한 정보를 지금 바로 확인해보세요."
-thumbnail: "/images/179/thumbnail.jpg"
+thumbnail: "/images/179/img.png"
 ---
 
 <div class="contents_style">

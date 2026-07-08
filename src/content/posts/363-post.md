@@ -6,7 +6,7 @@ tags: ["MBTI", "무료MBTI"]
 slug: "MBTI-무료-성격검사-유형별-궁합-보기"
 numericId: 363
 description: "MBTI 무료 성격검사/ 유형별 궁합 보기. MBTI 무료 성격 검사 보는 방법 관련 자세한 내용과 유용한 정보를 확인해보세요. 관련 키워드: MBTI, 무료MBTI. 자세한 정보와 꿀팁을 지금 바로 확인해보세요 자세한 정보를 지금 바로 확인해보세요."
-thumbnail: "/images/363/thumbnail.jpg"
+thumbnail: "/images/363/img.png"
 ---
 
 <div class="contents_style">

@@ -6,7 +6,7 @@ tags: ["봉준호", "기생충"]
 slug: "골든-글로브-기생충-수상역대-외국어-영화상-수상작"
 numericId: 69
 description: "골든 글로브 기생충 수상/역대 외국어 영화상 수상작에 대한 모든 정보를 한곳에 모았습니다. 관람 포인트와 작품의 매력, 시청 전 알아두면 좋은 정보까지 꼼꼼하게 알려드리는 완벽 가이드입니다 자세한 정보와 꿀팁을 지금 바로 확인해보세요."
-thumbnail: "/images/69/thumbnail.jpg"
+thumbnail: "/images/69/img.png"
 ---
 
 <div class="contents_style">

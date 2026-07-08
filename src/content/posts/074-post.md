@@ -6,7 +6,7 @@ tags: ["주진모", "해킹피해"]
 slug: "주진모-해킹-피해-내용-인스타그램-주소"
 numericId: 74
 description: "주진모 해킹 피해 내용/ 인스타그램 주소. 연예인 주진모 그리고 많은 연예인들의 휴대폰이 해킹을 당했다는 관련 자세한 내용과 유용한 정보를 확인해보세요. 관련 키워드: 주진모, 해킹피해. 자세한 정보와 꿀팁을 지금 바로 확인해보세요."
-thumbnail: "/images/74/thumbnail.jpg"
+thumbnail: "/images/74/이미지_3.png"
 ---
 
 <div class="contents_style">

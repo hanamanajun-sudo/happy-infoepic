@@ -7,7 +7,7 @@ tags: []
 slug: "새가구-냄새-안나는-가구-브랜드-추천-국내-구입-가능-제품"
 numericId: 408
 description: "새 가구 특유의 유해한 냄새 걱정 없이 안전하고 건강하게 사용할 수 있는 E0 등급 친환경 가구 브랜드를 엄선하여 추천합니다. 국내에서 실제로 구입 가능한 제품과 새집증후군 걱정 없는 현명한 가구 선택 가이드를 제공합니다."
-thumbnail: "/images/408/thumbnail.jpg"
+thumbnail: "/images/408/img.png"
 ---
 
 <div class="contents_style">

@@ -6,7 +6,7 @@ tags: []
 slug: "이민정-골프-치는데-이병헌-한숨ㅋ한번다녀왔습니다-인물관계도"
 numericId: 351
 description: "이민정 배우가 작년에 하와이에서 골프쳤던 영상을 올렸는데. 이민정 배우가 작년에 하와이에서 골프쳤던 영상을 올렸는데 지금 바로 확인해보세요. 관련 상세 정보를 지금 바로 확인해보세요. 지금 바로 확인해보세요. 지금 바로 확인해보세요."
-thumbnail: "/images/351/thumbnail.jpg"
+thumbnail: "/images/351/img.jpg"
 ---
 
 <div class="contents_style">

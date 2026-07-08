@@ -6,7 +6,7 @@ tags: ["기생충", "피자박스"]
 slug: "기생충-피자박스녀-근황오스카-이후-원본-영상"
 numericId: 150
 description: "기생충 피자박스녀 근황(오스카 이후 + 원본 영상) 정보를 상세하게 정리했습니다. 실제 후기와 함께 맛과 분위기, 위치 정보까지 알차게 담아낸 완벽 가이드입니다. 관련 키워드: 기생충, 피자박스. 자세한 정보와 꿀팁을 지금 바로 확인해보세요."
-thumbnail: "/images/150/thumbnail.jpg"
+thumbnail: "/images/150/img.gif"
 ---
 
 <div class="contents_style">

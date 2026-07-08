@@ -7,7 +7,7 @@ tags: []
 slug: "만원2만원-대-선물-추천"
 numericId: 368
 description: "만원~2만원 대 선물 추천에 대한 모든 정보를 한곳에 모았습니다. 관람 포인트와 작품의 매력, 시청 전 알아두면 좋은 정보까지 꼼꼼하게 알려드리는 완벽 가이드입니다 자세한 정보와 꿀팁을 지금 바로 확인해보세요 자세한 정보를 지금 바로 확인해보세요."
-thumbnail: "/images/368/thumbnail.jpg"
+thumbnail: "/images/368/img.jpg"
 ---
 
 <div class="contents_style">

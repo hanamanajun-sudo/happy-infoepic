@@ -6,7 +6,7 @@ tags: ["일본", "성시경"]
 slug: "성시경-악플-심경-일본음식-사진-악플-쏟아져인스타-주소"
 numericId: 62
 description: "성시경 악플 심경/ 일본음식 사진, 악플 쏟아져(인스타 주소) 정보를 상세하게 정리했습니다. 실제 후기와 함께 맛과 분위기, 위치 정보까지 알차게 담아낸 완벽 가이드입니다. 관련 키워드: 일본, 성시경. 자세한 정보와 꿀팁을 지금 바로 확인해보세요."
-thumbnail: "/images/62/thumbnail.jpg"
+thumbnail: "/images/62/img.png"
 ---
 
 <div class="contents_style">

@@ -6,7 +6,7 @@ tags: ["선물추천"]
 slug: "5만원대-선물-추천-집들이-중요한날-남자-여자"
 numericId: 461
 description: "5만원대 선물 추천 (집들이, 중요한날, 남자, 여자)에 대한 모든 정보를 한곳에 모았습니다. 관람 포인트와 작품의 매력, 시청 전 알아두면 좋은 정보까지 꼼꼼하게 알려드리는 완벽 가이드입니다 자세한 정보와 꿀팁을 지금 바로 확인해보세요."
-thumbnail: "/images/461/thumbnail.jpg"
+thumbnail: "/images/461/KFoidU.webp"
 ---
 
 <div class="contents_style">

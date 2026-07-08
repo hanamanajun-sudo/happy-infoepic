@@ -6,7 +6,7 @@ tags: ["아이돌봄서비스"]
 slug: "아이돌봄서비스-코로나19-대응변경-정보-요금절차"
 numericId: 193
 description: "코로나19 확산으로 인해 변경된 아이돌봄서비스의 운영 정보와 요금, 신청 절차를 상세하게 안내합니다. 개학 연기와 휴원으로 인해 돌봄 공백이 생긴 맞벌이 가정과 긴급 상황에 처한 부모님들을 위해 꼭 필요한 필수 정보만 모아 제공합니다."
-thumbnail: "/images/193/thumbnail.jpg"
+thumbnail: "/images/193/img.png"
 ---
 
 <div class="contents_style">

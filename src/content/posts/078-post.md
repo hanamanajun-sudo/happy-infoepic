@@ -6,7 +6,7 @@ tags: ["유튜버", "아임뚜렛", "젠이뚜"]
 slug: "젠이뚜가-충격적인-이유-정리-아임뚜렛-복귀-반응-모음"
 numericId: 78
 description: "아임뚜렛이 뚜렛 증후군 컨셉으로 사람들을 속이다 적발된 이후 '젠이뚜'라는 새 채널로 복귀한 사건을 총정리합니다. 젠이뚜 뜻과 충격적인 채널명의 의미, 유튜버의 논란과 복귀 반응까지 상세하게 알려드리는 정보 포스팅입니다."
-thumbnail: "/images/78/thumbnail.jpg"
+thumbnail: "/images/78/img.png"
 ---
 
 <div class="contents_style">

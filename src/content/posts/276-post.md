@@ -6,7 +6,7 @@ tags: ["닥터포스터", "부부의세계"]
 slug: "부부의세계-원작-닥터포스터-보는곳줄거리-넷플리스x"
 numericId: 276
 description: "부부의세계 원작 닥터포스터 보는곳/줄거리 (넷플리스x). 화제의 인기드라마 부부의 세계 너무 재미있게 보고 있고 관련 자세한 내용과 유용한 정보를 확인해보세요. 관련 키워드: 닥터포스터, 부부의세계. 자세한 정보와 꿀팁을 지금 바로 확인해보세요."
-thumbnail: "/images/276/thumbnail.jpg"
+thumbnail: "/images/276/이미지_33.png"
 ---
 
 <div class="contents_style">

@@ -7,7 +7,7 @@ tags: ["바다포도"]
 slug: "바다-포도-로션-후기-모음-추천-이유"
 numericId: 443
 description: "바다 포도 로션 후기 모음 (추천 이유)에 대한 모든 정보를 한곳에 모았습니다. 관람 포인트와 작품의 매력, 시청 전 알아두면 좋은 정보까지 꼼꼼하게 알려드리는 완벽 가이드입니다. 관련 키워드: 바다포도. 자세한 정보와 꿀팁을 지금 바로 확인해보세요."
-thumbnail: "/images/443/thumbnail.jpg"
+thumbnail: "/images/443/1baa518f3c62ee335271130ae9c1538f72fa3b16ddcd977f49_b6ce627f.jfif"
 ---
 
 <div class="contents_style">

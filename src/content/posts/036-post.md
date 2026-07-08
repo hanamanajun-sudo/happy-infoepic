@@ -6,7 +6,7 @@ tags: ["다이어리", "펭수", "펭수다이어리"]
 slug: "펭수-다이어리-살수-있는-4곳-모음"
 numericId: 36
 description: "펭수 인기가 하늘을 찌르고 있는 가운데 다이어리가 나와서 그것이 대박이 났습니다. 펭수 인기가 하늘을 찌르고 있는 가운데 다이어리가 나와서 그것이 대박이 났습니다. 지금 바로 확인해보세요. 관련 상세 정보를 지금 바로 확인해보세요."
-thumbnail: "/images/36/thumbnail.jpg"
+thumbnail: "/images/36/img.png"
 ---
 
 <div class="contents_style">

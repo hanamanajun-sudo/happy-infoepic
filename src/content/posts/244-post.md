@@ -6,7 +6,7 @@ tags: []
 slug: "EgirlEboy-뜻-유래-스타일-트랜드-소개"
 numericId: 244
 description: "Egirl/Eboy (뜻 유래)-스타일 트랜드 소개에 대한 유용한 정보를 모아 정리했습니다. 반려동물과 함께하는 건강하고 행복한 생활을 위한 실용 가이드를 제공합니다. 현재 인터넷을 중심으로 서양에서 유행하고 있는 새로운 서브컬처 지금 바로 확인해보세요."
-thumbnail: "/images/244/thumbnail.jpg"
+thumbnail: "/images/244/blob.jpg"
 ---
 
 <div class="contents_style">

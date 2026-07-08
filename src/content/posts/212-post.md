@@ -6,7 +6,7 @@ tags: ["구하라", "구하라오빠", "구하라다큐"]
 slug: "구하라-어릴적-다큐메모오빠-인스타구하라-인스타그램-주소"
 numericId: 212
 description: "구하라 어릴적 다큐/메모(오빠 인스타)+구하라 인스타그램 주소. 디스패치를 통해서 구하라 유족간의 상속재산을 두고 법적 분쟁에 돌입했다는 관련 자세한 내용과 유용한 정보를 확인해보세요 자세한 정보를 지금 바로 확인해보세요."
-thumbnail: "/images/212/thumbnail.jpg"
+thumbnail: "/images/212/videoplayback_mp4_20200309_130653_837.jpg"
 ---
 
 <div class="contents_style">

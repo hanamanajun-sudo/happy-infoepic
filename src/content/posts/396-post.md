@@ -7,7 +7,7 @@ tags: ["추석선물세트"]
 slug: "올해-마스크-추석선물세트-인기-3만원-대-추천"
 numericId: 396
 description: "이시국에 선물세트로 이것만큼 실용적인것 없고 이것만큼 반가운것 없을듯 하다. 2020년 추석은 코로나19로 인해 다들 힘들었던 시기라서, 받는 사람의 건강을 진심으로 걱정하는 마음을 전할 수 있는 선물이 가장 좋았어요."
-thumbnail: "/images/396/thumbnail.jpg"
+thumbnail: "/images/396/img.png"
 ---
 
 <div class="contents_style">

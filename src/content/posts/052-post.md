@@ -6,7 +6,7 @@ tags: ["DVF", "다이앤", "랩드레스"]
 slug: "다이앤-본-퍼스텐버그-브랜드-소개-스타벅스-콜라보-그녀는-누구-DIANE-VON-FURSTENBERG"
 numericId: 52
 description: "다이앤 본 퍼스텐버그 브랜드 소개 (스타벅스 콜라보? 그녀는 누구)-DIANE VON FURSTENBERG에 대한 유용한 정보를 모아 정리했습니다. 반려동물과 함께하는 건강하고 행복한 생활을 위한 실용 가이드를 제공합니다."
-thumbnail: "/images/52/thumbnail.jpg"
+thumbnail: "/images/52/img.png"
 ---
 
 <div class="contents_style">

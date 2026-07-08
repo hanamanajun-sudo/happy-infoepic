@@ -6,7 +6,7 @@ tags: ["넷플릭스"]
 slug: "넷플릭스-장르-별-보기-방법내가-필요해-만든-주소-모음"
 numericId: 177
 description: "넷플릭스 장르 별 보기 방법(내가 필요해 만든 주소 모음)에 대한 모든 정보를 한곳에 모았습니다. 관람 포인트와 작품의 매력, 시청 전 알아두면 좋은 정보까지 꼼꼼하게 알려드리는 완벽 가이드입니다 자세한 정보와 꿀팁을 지금 바로 확인해보세요."
-thumbnail: "/images/177/thumbnail.jpg"
+thumbnail: "/images/177/img.jpg"
 ---
 
 <div class="contents_style">

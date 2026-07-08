@@ -6,7 +6,7 @@ tags: ["봉준호", "기생충", "통역", "샤론최"]
 slug: "샤론최-통역-지옥훈련-시절-샤론최의-오스카-지분"
 numericId: 144
 description: "샤론최 통역 지옥훈련 시절 (샤론최의 오스카 지분). 아카데미에서 주요부문 4관왕을 해버린 기생충의 봉준호 감독님은 관련 자세한 내용과 유용한 정보를 확인해보세요. 관련 키워드: 봉준호, 기생충, 통역. 자세한 정보와 꿀팁을 지금 바로 확인해보세요."
-thumbnail: "/images/144/thumbnail.jpg"
+thumbnail: "/images/144/img.png"
 ---
 
 <div class="contents_style">

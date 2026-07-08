@@ -6,7 +6,7 @@ tags: ["철분"]
 slug: "철분-최강-음식-10가지-그리고-비-추천-음식"
 numericId: 22
 description: "철분 최강 음식 10가지 / 그리고 비 추천 음식에 대한 모든 것을 총정리했습니다. 효능과 영양 성분부터 섭취 방법, 주의할 점까지 꼼꼼하게 알려드립니다. 건강 정보가 궁금하다면 지금 바로 확인해보세요 자세한 정보를 지금 바로 확인해보세요."
-thumbnail: "/images/22/thumbnail.jpg"
+thumbnail: "/images/22/img.jpg"
 ---
 
 <div class="contents_style">

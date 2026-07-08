@@ -6,7 +6,7 @@ tags: ["기생충", "SAG"]
 slug: "기생충-SAG-앙상블-캐스트-영상수상자-인터뷰"
 numericId: 83
 description: "기생충 SAG 앙상블 캐스트 영상(+수상자 인터뷰). 기생충이 1월 19일 로스엔젤리스에서 열린 2020 SAG어워드에서 관련 자세한 내용과 유용한 정보를 확인해보세요. 관련 키워드: 기생충, SAG. 자세한 정보와 꿀팁을 지금 바로 확인해보세요."
-thumbnail: "/images/83/thumbnail.jpg"
+thumbnail: "/images/83/img.png"
 ---
 
 <div class="contents_style">

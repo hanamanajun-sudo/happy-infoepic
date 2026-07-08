@@ -6,7 +6,7 @@ tags: ["건강", "여행팁", "우한폐렴"]
 slug: "우한-폐렴-알아야-할-증상-5가지예방법-3가지"
 numericId: 87
 description: "우한 폐렴 알아야 할 증상 5가지/예방법 3가지 관련 최신 정보와 상황을 상세하게 정리했습니다. 알아야 할 핵심 내용과 실생활에 도움이 되는 유용한 정보를 알려드립니다. 필요한 모든 정보를 지금 바로 확인하고 활용해보세요."
-thumbnail: "/images/87/thumbnail.jpg"
+thumbnail: "/images/87/img.jpg"
 ---
 
 <div class="contents_style">

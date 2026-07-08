@@ -6,7 +6,7 @@ tags: ["재난영화", "그린란드"]
 slug: "영화-그린란드-GreenLand-운석-충돌-재난-영화-소개-예고편"
 numericId: 389
 description: "[영화] 그린란드 (GreenLand) 운석 충돌 재난 영화-소개/ 예고편에 대한 모든 정보를 한곳에 모았습니다. 관람 포인트와 작품의 매력, 시청 전 알아두면 좋은 정보까지 꼼꼼하게 알려드리는 완벽 가이드입니다 자세한 정보와 꿀팁을 지금 바로 확인해보세요."
-thumbnail: "/images/389/thumbnail.jpg"
+thumbnail: "/images/389/img.jpg"
 ---
 
 <div class="contents_style">

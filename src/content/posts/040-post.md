@@ -6,7 +6,7 @@ tags: []
 slug: "노니-섭취-전-반드시-알아야-할-부작용-정보"
 numericId: 40
 description: "노니 섭취 전 반드시 알아야 할 부작용 정보의 효능과 함께 반드시 알아야 할 부작용 및 주의사항을 상세히 정리했습니다. 건강 정보를 안전하게 확인하고 현명하게 활용하는 방법을 알려드립니다 자세한 정보를 지금 바로 확인해보세요."
-thumbnail: "/images/40/thumbnail.jpg"
+thumbnail: "/images/40/img.jpg"
 ---
 
 <div class="contents_style">

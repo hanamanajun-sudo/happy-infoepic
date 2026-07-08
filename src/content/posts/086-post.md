@@ -6,7 +6,7 @@ tags: ["광화문", "블루보틀"]
 slug: "블루보틀-5호점-광화문-위치-오픈일-정보-모음"
 numericId: 86
 description: "블루보틀 5호점 광화문 위치/ 오픈일 (정보 모음)에 대해 알아야 할 모든 것을 상세하게 정리했습니다. 꼭 필요한 핵심 정보만 쏙쏙 골라 알기 쉽게 알려드립니다. 관련 키워드: 광화문, 블루보틀. 자세한 정보와 꿀팁을 지금 바로 확인해보세요."
-thumbnail: "/images/86/thumbnail.jpg"
+thumbnail: "/images/86/img.jpg"
 ---
 
 <div class="contents_style">

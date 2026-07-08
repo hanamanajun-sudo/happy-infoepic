@@ -7,7 +7,7 @@ tags: ["간장비빔국수", "간장국수", "박말례", "박말례간장국수
 slug: "박말례-할머니-간장국수-레시피-맞습니다"
 numericId: 311
 description: "박말례 할머니 간장국수 레시피 맞습니다을(를) 집에서도 간단하게 따라할 수 있는 초간단 레시피를 공개합니다. 재료 준비부터 완성까지 단계별로 상세히 알려드리니 요리 초보도 성공할 수 있어요 자세한 정보와 꿀팁을 지금 바로 확인해보세요."
-thumbnail: "/images/311/thumbnail.jpg"
+thumbnail: "/images/311/img.gif"
 ---
 
 <div class="contents_style">

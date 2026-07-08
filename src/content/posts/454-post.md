@@ -6,7 +6,7 @@ tags: []
 slug: "강아지와-사람-나이-계산-쉽고-간단한-비교표"
 numericId: 454
 description: "강아지와 사람 나이 계산 (쉽고 간단한 비교표)에 대한 유용한 정보를 모아 정리했습니다. 반려동물과 함께하는 건강하고 행복한 생활을 위한 실용 가이드를 제공합니다. 개를 키우고 있다면 지금 우리 개가 사람과 비교하여 몇살인지 궁금하실 거에요. 지금 바로 확인해보세요."
-thumbnail: "/images/454/thumbnail.jpg"
+thumbnail: "/images/454/003.png"
 ---
 
 <div class="contents_style">

@@ -6,7 +6,7 @@ tags: ["bts", "방탄", "시아", "Sia", "방탄소년단"]
 slug: "방탄-콜라보-하는-시아Sia의-기구한-인생인스타-주소"
 numericId: 157
 description: "방탄 콜라보 하는 시아(Sia)의 기구한 인생/인스타 주소에 대한 최신 소식과 상세 정보를 모두 정리했습니다. 프로필부터 근황까지 알고 싶은 모든 것을 한눈에 확인하세요. 관련 키워드: bts, 방탄, 시아. 자세한 정보와 꿀팁을 지금 바로 확인해보세요."
-thumbnail: "/images/157/thumbnail.jpg"
+thumbnail: "/images/157/img.png"
 ---
 
 <div class="contents_style">

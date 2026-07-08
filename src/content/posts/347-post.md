@@ -6,7 +6,7 @@ tags: ["웰킵스마스크", "웰킵스몰", "비말차단마스크"]
 slug: "웰킵스-마스크-구입-정보-웰킵스몰-인스타"
 numericId: 347
 description: "웰킵스 마스크 구입 정보 (웰킵스몰 인스타) 관련 최신 정보와 상황을 상세하게 정리했습니다. 알아야 할 핵심 내용과 실생활에 도움이 되는 유용한 정보를 알려드립니다. 필요한 모든 정보를 지금 바로 확인하고 활용해보세요."
-thumbnail: "/images/347/thumbnail.jpg"
+thumbnail: "/images/347/img.png"
 ---
 
 <div class="contents_style">

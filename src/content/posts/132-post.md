@@ -6,7 +6,7 @@ tags: ["스타벅스", "발렌타인데이", "한정판", "선물추천"]
 slug: "발렌타인-선물-추천-2020년-스타벅스-MD"
 numericId: 132
 description: "발렌타인 선물 추천 - 2020년 스타벅스 MD에 대한 모든 정보를 한곳에 모았습니다. 관람 포인트와 작품의 매력, 시청 전 알아두면 좋은 정보까지 꼼꼼하게 알려드리는 완벽 가이드입니다 자세한 정보와 꿀팁을 지금 바로 확인해보세요."
-thumbnail: "/images/132/thumbnail.jpg"
+thumbnail: "/images/132/img.png"
 ---
 
 <div class="contents_style">

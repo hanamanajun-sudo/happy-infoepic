@@ -6,7 +6,7 @@ tags: ["고기"]
 slug: "고기-레어-미디움-웰던-익힘-정도-알아보자고기-중안-부분-온도"
 numericId: 452
 description: "고기 레어-미디움-웰던 익힘 정도 알아보자(+고기 중안 부분 온도). 고기 굽기 할 때 혹은 레스토랑에서 주문 할 때 고기를 어느정도 익힐지 물어보는 경우가 있습니다. 관련 자세한 내용과 유용한 정보를 확인해보세요."
-thumbnail: "/images/452/thumbnail.jpg"
+thumbnail: "/images/452/다운로드_7.jfif"
 ---
 
 <div class="contents_style">

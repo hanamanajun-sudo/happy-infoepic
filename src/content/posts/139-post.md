@@ -6,7 +6,7 @@ tags: ["봉준호", "기생충", "아카데미"]
 slug: "아카데미-기생충-수상-영상사진-모음-소감각본상국제-영화상감독상작품상"
 numericId: 139
 description: "아카데미 기생충 수상 영상,사진 모음 (소감)/각본상,국제 영화상,감독상,작품상에 대한 모든 정보를 한곳에 모았습니다. 관람 포인트와 작품의 매력, 시청 전 알아두면 좋은 정보까지 꼼꼼하게 알려드리는 완벽 가이드입니다."
-thumbnail: "/images/139/thumbnail.jpg"
+thumbnail: "/images/139/img.jpg"
 ---
 
 <div class="contents_style">

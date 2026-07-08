@@ -6,7 +6,7 @@ tags: []
 slug: "유통기한"
 numericId: 340
 description: "식품 구입 시, 유통기한과 보관방법을 꼭 확인하세요. 2018.11.26 조회수2,144 --> 식품의약품안전처 식품안전정보원 NATIONAL FOOD SAFETY INFORMATION SERVICE 식품에 표시되어 있는 유통기한, 얼마나 정확히."
-thumbnail: "/images/340/thumbnail.jpg"
+thumbnail: "/images/340/img.gif"
 ---
 
 <div class="contents_style">

@@ -6,7 +6,7 @@ tags: ["우한병원"]
 slug: "우한-확진자-병원-정보-병원-리스트-이름-위치"
 numericId: 100
 description: "우한 확진자 병원 정보 (병원 리스트: 이름, 위치) 관련 최신 정보와 상황을 상세하게 정리했습니다. 알아야 할 핵심 내용과 실생활에 도움이 되는 정보를 한곳에 모아 알려드립니다. 관련 키워드: 우한병원. 자세한 정보와 꿀팁을 지금 바로 확인해보세요."
-thumbnail: "/images/100/thumbnail.jpg"
+thumbnail: "/images/100/img.jpg"
 ---
 
 <div class="contents_style">

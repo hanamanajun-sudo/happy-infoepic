@@ -6,7 +6,7 @@ tags: ["좋은", "나쁜"]
 slug: "절대-사귀면-안되는-사람-구별-방법-좋은-남자-좋은-여자-구별법"
 numericId: 464
 description: "처음 만나서 이야기를 나누고 만나면서 썸을 타고 사귀게 되는데 이러한 단계를 거쳐 만나는 시간이 늘어나면 그 사람의 단점이나 이상하다는 포인트가 있어도 처음에는 잘 안보이거나 장점에 가려서 지나치는 경우가 있습니다."
-thumbnail: "/images/464/thumbnail.jpg"
+thumbnail: "/images/464/제목을_입력해주세요_-001_19_1.png"
 ---
 
 <div class="contents_style">

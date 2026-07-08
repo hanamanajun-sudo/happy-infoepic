@@ -6,7 +6,7 @@ tags: ["침착맨"]
 slug: "삼성-갤럭시-S20-BTS에디션-사진-보기가격판매-정보"
 numericId: 365
 description: "삼성 갤럭시 S20+ BTS에디션 (사진 보기/가격/판매 정보)에 대한 최신 소식과 상세 정보를 모두 정리했습니다. 프로필부터 근황까지 알고 싶은 모든 것을 한눈에 확인하세요. 관련 키워드: 침착맨. 자세한 정보와 꿀팁을 지금 바로 확인해보세요."
-thumbnail: "/images/365/thumbnail.jpg"
+thumbnail: "/images/365/img.png"
 ---
 
 <div class="contents_style">

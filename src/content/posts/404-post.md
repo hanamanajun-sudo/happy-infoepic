@@ -6,7 +6,7 @@ tags: []
 slug: "근로장려금-반기-신청-방법2020년-상반기분하반기분"
 numericId: 404
 description: "근로장려금 반기 신청 방법(2020년 상반기분/하반기분)에 대해 알아야 할 모든 것을 상세하게 정리했습니다. 핵심 정보만 쏙쏙 골라 알기 쉽게 설명해드리는 실용 가이드입니다. 필요한 모든 정보를 지금 바로 확인하고 활용해보세요."
-thumbnail: "/images/404/thumbnail.jpg"
+thumbnail: "/images/404/img.png"
 ---
 
 <div class="contents_style">

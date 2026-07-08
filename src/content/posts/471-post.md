@@ -7,7 +7,7 @@ tags: ["목도리"]
 slug: "목도리-따뜻하게-매는-방법-영상-있음-추가-영상"
 numericId: 471
 description: "겨울철 필수 아이템인 목도리. 그냥 대충 두르면 바람이 들어와서 소용이 없다. 따뜻하게 매는 방법을 제대로 익혀두면 목도리 하나로 체감 온도가 확 달라진다. 목도리 따뜻하게 묶는 방법을 찾다가 찾아낸 영상을 보고 정리해뒀다. 어렵지 않고 아주 간단해서 앞으로 이렇게 묶고 다닐 것 같다."
-thumbnail: "/images/471/thumbnail.jpg"
+thumbnail: "/images/471/d7d7b19da2a9390a8e178568d043825455a2c82d.gif"
 ---
 
 <div class="contents_style">

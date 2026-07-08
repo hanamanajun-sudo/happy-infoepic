@@ -6,7 +6,7 @@ tags: ["애도", "설리", "구하라", "인스타"]
 slug: "구하라-사망-소식-그리고-30분의-슬픈-마지막-인스타-라이브"
 numericId: 30
 description: "구하라 사망 소식 / 그리고 30분의 슬픈 마지막 인스타 라이브. 오늘은 참 슬픈 날이네요. 여기 들어오신 분들도 무거운 마음일거라 생각됩니다. 설리씨의 안타까운 사건에 이어 연달아 벌어진 일이라 더욱 슬픈 마 관련 자세한 내용과 유용한 정보를 확인해보세요."
-thumbnail: "/images/30/thumbnail.jpg"
+thumbnail: "/images/30/e1487c6f1cec1a02c4b5b366d4dcbcc3.jpg"
 ---
 
 <div class="contents_style">

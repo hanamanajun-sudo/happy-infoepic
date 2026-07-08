@@ -6,7 +6,7 @@ tags: ["서울"]
 slug: "서울-청년-월세지원-사업-신청방법대상선발-기준"
 numericId: 360
 description: "서울 청년 월세지원 사업 (신청방법/대상/선발 기준)에 대해 알아야 할 모든 것을 상세하게 정리했습니다. 꼭 필요한 핵심 정보만 쏙쏙 골라 알기 쉽게 알려드립니다. 관련 키워드: 서울. 자세한 정보와 꿀팁을 지금 바로 확인해보세요."
-thumbnail: "/images/360/thumbnail.jpg"
+thumbnail: "/images/360/img.jpg"
 ---
 
 <div class="contents_style">

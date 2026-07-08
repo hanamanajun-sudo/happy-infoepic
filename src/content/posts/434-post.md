@@ -6,7 +6,7 @@ tags: []
 slug: "애플티비-플러스-드라마-추천-오리지널-영화-컨텐츠-2022년"
 numericId: 434
 description: "애플티비 플러스 드라마 추천 (+ 오리지널 영화 컨텐츠)-2022년에 대한 모든 정보를 한곳에 모았습니다. 관람 포인트와 작품의 매력, 시청 전 알아두면 좋은 정보까지 꼼꼼하게 알려드리는 완벽 가이드입니다. 자세한 정보와 꿀팁을 지금 바로 확인해보세요."
-thumbnail: "/images/434/thumbnail.jpg"
+thumbnail: "/images/434/62914e5e9adda1a4d9475a927818dc2aac71130489c090bf68_761ea5cb.jfif"
 ---
 
 <div class="contents_style">

@@ -6,7 +6,7 @@ tags: ["철분", "철분결핍"]
 slug: "철분-부족-증상-그리고-눈으로-확인-가능한-증상들"
 numericId: 20
 description: "철분 부족 증상 / 그리고 눈으로 확인 가능한 증상들에 대한 모든 것을 총정리했습니다. 효능과 영양 성분부터 섭취 방법, 주의할 점까지 꼼꼼하게 알려드립니다. 건강 정보가 궁금하다면 지금 바로 확인해보세요 자세한 정보를 지금 바로 확인해보세요."
-thumbnail: "/images/20/thumbnail.jpg"
+thumbnail: "/images/20/img.jpg"
 ---
 
 <div class="contents_style">

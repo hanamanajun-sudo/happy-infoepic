@@ -6,7 +6,7 @@ tags: ["프로듀스", "아이즈원"]
 slug: "아이즈원-트위터-업뎃-2달-만에-올라온-이유"
 numericId: 76
 description: "아이즈원 트위터 업뎃 (2달 만에 올라온 이유)에 대한 최신 소식과 상세 정보를 모두 정리했습니다. 프로필부터 근황까지 알고 싶은 모든 것을 한눈에 확인하세요. 관련 키워드: 프로듀스, 아이즈원. 자세한 정보와 꿀팁을 지금 바로 확인해보세요."
-thumbnail: "/images/76/thumbnail.jpg"
+thumbnail: "/images/76/img.png"
 ---
 
 <div class="contents_style">

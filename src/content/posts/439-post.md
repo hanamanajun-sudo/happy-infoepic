@@ -7,7 +7,7 @@ tags: ["읽을만한"]
 slug: "20대-30대-책-추천-출처-더쿠-필독서34"
 numericId: 439
 description: "20대 30대 책 추천 (출처- 더쿠) - 필독서34에 대한 모든 정보를 한곳에 모았습니다. 관람 포인트와 작품의 매력, 시청 전 알아두면 좋은 정보까지 꼼꼼하게 알려드리는 완벽 가이드입니다 자세한 정보와 꿀팁을 지금 바로 확인해보세요."
-thumbnail: "/images/439/thumbnail.jpg"
+thumbnail: "/images/439/제목을_입력해주세요_-001_3_2.png"
 ---
 
 <div class="contents_style">

@@ -6,7 +6,7 @@ tags: ["MBTI", "글램", "연애능력치테스트", "mbti연애유형"]
 slug: "나의-연애-유형-MBTI-테스트-하기"
 numericId: 362
 description: "나의 연애 유형 MBTI 테스트 하기. 현재 실검 1위에 머무르며 인기를 얻고 있는 관련 자세한 내용과 유용한 정보를 확인해보세요. 관련 키워드: MBTI, 글램, 연애능력치테스트. 자세한 정보와 꿀팁을 지금 바로 확인해보세요."
-thumbnail: "/images/362/thumbnail.jpg"
+thumbnail: "/images/362/이미지_008.png"
 ---
 
 <div class="contents_style">

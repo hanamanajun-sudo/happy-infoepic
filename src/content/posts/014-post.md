@@ -6,7 +6,7 @@ tags: ["마늘"]
 slug: "마늘에-대한-모든것-전-세계-마늘-소비량-순위"
 numericId: 14
 description: "마늘에 대한 모든것 - 전 세계 마늘 소비량 순위에 대한 모든 것을 총정리했습니다. 효능과 영양 성분부터 섭취 방법, 주의할 점까지 꼼꼼하게 알려드립니다. 건강 정보가 궁금하다면 지금 바로 확인해보세요 자세한 정보를 지금 바로 확인해보세요."
-thumbnail: "/images/14/thumbnail.jpg"
+thumbnail: "/images/14/photo-1501420193726-1f65acd36cda.jpg"
 ---
 
 <div class="contents_style">

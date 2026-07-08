@@ -7,7 +7,7 @@ tags: ["긴급재난지원금"]
 slug: "긴급재난-지원금핵심-정보대상금액지급-수단"
 numericId: 291
 description: "[긴급재난 지원금]핵심 정보(대상/금액/지급 수단)에 대해 알아야 할 모든 것을 상세하게 정리했습니다. 꼭 필요한 핵심 정보만 쏙쏙 골라 알기 쉽게 알려드립니다. 관련 키워드: 긴급재난지원금. 자세한 정보와 꿀팁을 지금 바로 확인해보세요."
-thumbnail: "/images/291/thumbnail.jpg"
+thumbnail: "/images/291/img.png"
 ---
 
 <div class="contents_style">

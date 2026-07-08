@@ -7,7 +7,7 @@ tags: ["냉파스타"]
 slug: "냉파스타-만들기-초간단-인생-냉파스타-황금-레시피"
 numericId: 367
 description: "냉파스타 만들기 (초간단 인생 냉파스타 황금 레시피)을(를) 집에서도 간단하게 따라할 수 있는 초간단 레시피를 공개합니다. 재료 준비부터 완성까지 단계별로 상세히 알려드리니 요리 초보도 성공할 수 있어요 자세한 정보와 꿀팁을 지금 바로 확인해보세요."
-thumbnail: "/images/367/thumbnail.jpg"
+thumbnail: "/images/367/img.png"
 ---
 
 <div class="contents_style">

@@ -6,7 +6,7 @@ tags: ["배꼽", "배꼽냄새"]
 slug: "배꼽-냄새-원인과-없애는-방법-5가지"
 numericId: 39
 description: "배꼽 냄새 원인과 없애는 방법 5가지에 대해 알아야 할 모든 것을 상세하게 정리했습니다. 꼭 필요한 핵심 정보만 쏙쏙 골라 알기 쉽게 알려드립니다. 관련 키워드: 배꼽, 배꼽냄새. 자세한 정보와 꿀팁을 지금 바로 확인해보세요."
-thumbnail: "/images/39/thumbnail.jpg"
+thumbnail: "/images/39/clifford-photography-CyiAeXXPH2A-unsplash_2.jpg"
 ---
 
 <div class="contents_style">

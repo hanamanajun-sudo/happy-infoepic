@@ -6,7 +6,7 @@ tags: ["리뷰", "스타벅스", "가격", "맛평가", "홀리데이"]
 slug: "홀리데이-민트-초콜릿후기-모음스타벅스2019"
 numericId: 32
 description: "2019년에 크리스마스 e-프리퀀시 이벤트 음료 중 하나 지만 맛이 어떨까 좀 걱정도 되고모험을 하자니 다른 마시고 싶은 메뉴도 많이 있어서 망설이고 있나요? (저는 망설이는 중)인터넷에 퍼져있는 여러 사람들의 맛 평가를 모아 보았어요."
-thumbnail: "/images/32/thumbnail.jpg"
+thumbnail: "/images/32/이미지_011.png"
 ---
 
 <div class="contents_style">

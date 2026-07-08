@@ -6,7 +6,7 @@ tags: ["마케팅", "지코", "꽃게랑", "빙그레", "꼬뜨게랑", "CotesGu
 slug: "빙그레-꽃게랑-X-지코-고뜨게랑명품-브랜드-탄생-이유"
 numericId: 369
 description: "빙그레 꽃게랑 X 지코 = 고뜨게랑(명품 브랜드 탄생 이유). 빙그레 마케팅 팀에 무슨일이 벌어지고 있나요? 관련 자세한 내용과 유용한 정보를 확인해보세요. 관련 키워드: 마케팅, 지코, 꽃게랑. 자세한 정보와 꿀팁을 지금 바로 확인해보세요."
-thumbnail: "/images/369/thumbnail.jpg"
+thumbnail: "/images/369/img.jpg"
 ---
 
 <div class="contents_style">

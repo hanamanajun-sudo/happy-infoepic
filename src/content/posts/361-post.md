@@ -6,7 +6,7 @@ tags: ["미세먼지"]
 slug: "미세먼지-실시간-위성사진-추천4곳초미세먼지-예보지도-사이트"
 numericId: 361
 description: "미세먼지 실시간 위성사진 추천4곳(초미세먼지 예보/지도 사이트)에 대한 모든 정보를 한곳에 모았습니다. 관람 포인트와 작품의 매력, 시청 전 알아두면 좋은 정보까지 꼼꼼하게 알려드리는 완벽 가이드입니다 자세한 정보와 꿀팁을 지금 바로 확인해보세요."
-thumbnail: "/images/361/thumbnail.jpg"
+thumbnail: "/images/361/img.png"
 ---
 
 <div class="contents_style">

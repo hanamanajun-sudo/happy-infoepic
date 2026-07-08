@@ -6,7 +6,7 @@ tags: ["편스토랑", "편스토랑이경규", "앵그리크림쫄면", "앵그
 slug: "편스토랑-이경규앵그리크림쫄면레시피-맞습니다"
 numericId: 260
 description: "편스토랑 이경규의 앵그리 크림 쫄면 레시피를 집에서도 완벽하게 재현하는 황금 레시피를 공개합니다. 버터와 마늘의 환상적인 조합으로 만드는 크림 파스타 스타일의 쫄면 요리, 단계별 상세 조리법과 성공 꿀팁을 알려드립니다."
-thumbnail: "/images/260/thumbnail.jpg"
+thumbnail: "/images/260/img.jpg"
 ---
 
 <div class="contents_style">

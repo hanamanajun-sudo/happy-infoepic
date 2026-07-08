@@ -7,7 +7,7 @@ tags: []
 slug: "랑종-티저-예고편-보기-랑종-정보-모음-나홍진-제작"
 numericId: 420
 description: "랑종 티저 예고편 보기 (랑종 정보 모음)-나홍진 제작에 대해 알아야 할 모든 것을 상세하게 정리했습니다. 꼭 필요한 핵심 정보만 쏙쏙 골라 알기 쉽게 알려드립니다 자세한 정보를 지금 바로 확인해보세요. 자세한 정보를 지금 바로 확인해보세요."
-thumbnail: "/images/420/thumbnail.jpg"
+thumbnail: "/images/420/img.jpg"
 ---
 
 <div class="contents_style">

@@ -6,7 +6,7 @@ tags: ["기생충", "아카데미"]
 slug: "아카데미-시상식-다시-보기-2020년-기생충-오스카-국뽕-주의"
 numericId: 138
 description: "2020년 아카데미 시상식에서 기생충이 이룬 위대한 성과를 생생하게 다시 돌아보며 정리했습니다. 오스카 작품상, 감독상, 각본상, 국제영화상 4관왕의 감동적인 순간과 봉준호 감독의 수상 소감을 현장 분위기와 함께 생생하게 전달합니다."
-thumbnail: "/images/138/thumbnail.jpg"
+thumbnail: "/images/138/img.jpg"
 ---
 
 <div class="contents_style">

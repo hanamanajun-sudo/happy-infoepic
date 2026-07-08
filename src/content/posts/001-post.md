@@ -6,7 +6,7 @@ tags: ["건강정보", "오미자"]
 slug: "오미자-소개-그리고-효능-사람들이-찾는-이유"
 numericId: 1
 description: "오미자 소개 그리고 효능 - 사람들이 찾는 이유에 대한 모든 것을 총정리했습니다. 효능과 영양 성분부터 섭취 방법, 주의할 점까지 꼼꼼하게 알려드립니다. 건강 정보가 궁금하다면 지금 바로 확인해보세요 자세한 정보를 지금 바로 확인해보세요."
-thumbnail: "/images/1/thumbnail.jpg"
+thumbnail: "/images/1/img.jpg"
 ---
 
 <div class="contents_style">
