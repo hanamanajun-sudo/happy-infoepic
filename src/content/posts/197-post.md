@@ -6,7 +6,7 @@ tags: ["부작용", "멀미약", "키미테", "키미테부작용"]
 slug: "붙이는-멀미약-키미테-효능-그리고-부작용주의사항"
 numericId: 197
 description: "붙이는 멀미약 키미테 효능 그리고 부작용(주의사항)의 효능과 함께 반드시 알아야 할 부작용 및 주의사항을 상세히 정리했습니다. 건강 정보를 안전하게 확인하고 현명하게 활용하는 방법을 알려드립니다 자세한 정보를 지금 바로 확인해보세요."
-thumbnail: "/images/197/img.png"
+thumbnail: "/images/197/thumbnail.jpg"
 ---
 
 <div class="contents_style">

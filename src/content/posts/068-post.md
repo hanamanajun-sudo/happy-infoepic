@@ -6,7 +6,7 @@ tags: ["남산의부장들"]
 slug: "남산의-부장들-주요-인물-관계-요약-개봉일"
 numericId: 68
 description: "남산의 부장들 주요 인물 관계 요약/ 개봉일에 대한 유용한 정보를 모아 정리했습니다. 반려동물과 함께하는 건강하고 행복한 생활을 위한 실용 가이드를 제공합니다. 관련 키워드: 남산의부장들. 자세한 정보와 꿀팁을 지금 바로 확인해보세요."
-thumbnail: "/images/68/110ec328f6a01dcded7ae84b19696fab.jpg"
+thumbnail: "/images/68/thumbnail.jpg"
 ---
 
 <div class="contents_style">

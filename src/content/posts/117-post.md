@@ -6,7 +6,7 @@ tags: ["VR", "다큐"]
 slug: "MBC-휴먼-다큐멘터리-너를-만났다-방송-다시보기내용후기"
 numericId: 117
 description: "MBC 휴먼 다큐멘터리 너를 만났다 (방송 다시보기/내용/후기)에 대한 모든 정보를 한곳에 모았습니다. 관람 포인트와 작품의 매력, 시청 전 알아두면 좋은 정보까지 꼼꼼하게 알려드리는 완벽 가이드입니다 자세한 정보와 꿀팁을 지금 바로 확인해보세요."
-thumbnail: "/images/117/img.png"
+thumbnail: "/images/117/thumbnail.jpg"
 ---
 
 <div class="contents_style">

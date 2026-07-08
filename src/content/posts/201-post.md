@@ -6,7 +6,7 @@ tags: ["이두희", "지숙", "마스크재고", "마스크알리미"]
 slug: "마스크-알리미-마스크-재고-확인-이두희"
 numericId: 201
 description: "마스크 알리미 마스크 재고 확인 (이두희) 관련 최신 정보와 상황을 상세하게 정리했습니다. 알아야 할 핵심 내용과 실생활에 도움이 되는 정보를 한곳에 모아 알려드립니다 자세한 정보를 지금 바로 확인해보세요. 자세한 정보를 지금 바로 확인해보세요."
-thumbnail: "/images/201/img.jpg"
+thumbnail: "/images/201/thumbnail.jpg"
 ---
 
 <div class="contents_style">

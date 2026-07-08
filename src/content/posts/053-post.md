@@ -6,7 +6,7 @@ tags: ["리스테린", "박동근"]
 slug: "리스테린-소독-진짜-뜻-박동근-막말-영상-충격이네요"
 numericId: 53
 description: "리스테린 소독 진짜 뜻 / 박동근 막말 영상 충격이네요. 지금 현재 인터넷에 퍼지고 있는 리스테린 소독 뜻, 은어에 대한 기사와 사이트 글들이 많이 있어요. 관련 자세한 내용과 유용한 정보를 확인해보세요 자세한 정보를 지금 바로 확인해보세요."
-thumbnail: "/images/53/videoplayback_mp4_20191212_112209_899.jpg"
+thumbnail: "/images/53/thumbnail.jpg"
 ---
 
 <div class="contents_style">

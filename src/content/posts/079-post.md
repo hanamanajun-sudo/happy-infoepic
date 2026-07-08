@@ -6,7 +6,7 @@ tags: ["유튜버", "아임뚜렛", "젠이뚜"]
 slug: "젠이뚜아임뚜렛가-상표-출원-한-이유-분석"
 numericId: 79
 description: "젠이뚜(아임뚜렛)가 상표 출원 한 이유/ 분석. 젠이뚜(아임뚜렛)가 채널 개설 이후 했던 기가 막힌 행동 관련 자세한 내용과 유용한 정보를 확인해보세요. 관련 키워드: 유튜버, 아임뚜렛, 젠이뚜. 자세한 정보와 꿀팁을 지금 바로 확인해보세요."
-thumbnail: "/images/79/img.png"
+thumbnail: "/images/79/thumbnail.jpg"
 ---
 
 <div class="contents_style">

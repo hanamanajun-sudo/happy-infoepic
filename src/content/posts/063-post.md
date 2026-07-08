@@ -6,7 +6,7 @@ tags: ["넷플릭스", "미드추천", "너의모든것"]
 slug: "너의-모든-것-1시즌-줄거리-간단-정리-개인적-후기"
 numericId: 63
 description: "너의 모든 것 1시즌 줄거리 간단 정리 / 개인적 후기에 대한 유용한 정보를 모아 정리했습니다. 반려동물과 함께하는 건강하고 행복한 생활을 위한 실용 가이드를 제공합니다 자세한 정보와 꿀팁을 지금 바로 확인해보세요."
-thumbnail: "/images/63/img.png"
+thumbnail: "/images/63/thumbnail.jpg"
 ---
 
 <div class="contents_style">

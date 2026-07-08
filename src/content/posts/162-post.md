@@ -6,7 +6,7 @@ tags: ["대구", "이만희", "신천지", "신종코로나", "코로나19"]
 slug: "신천지-코로나19-관련-필수-정보-모음-대구-발생상황"
 numericId: 162
 description: "신천지, 코로나19 관련 필수 정보 모음 (대구 발생상황) 관련 최신 정보와 상황을 상세하게 정리했습니다. 알아야 할 핵심 내용과 실생활에 도움이 되는 정보를 한곳에 모아 알려드립니다 자세한 정보를 지금 바로 확인해보세요."
-thumbnail: "/images/162/img.jpg"
+thumbnail: "/images/162/thumbnail.jpg"
 ---
 
 <div class="contents_style">

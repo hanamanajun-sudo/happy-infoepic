@@ -6,7 +6,7 @@ tags: ["이태원맛집", "데이트코스추천", "도자기공방", "해방촌
 slug: "달고나-커피-파는-카페해방촌-드도트-위치-분위기"
 numericId: 254
 description: "달고나 커피 파는 카페(해방촌)-드도트 위치, 분위기 정보를 상세하게 정리했습니다. 실제 후기와 함께 맛과 분위기, 위치 정보까지 알차게 담아낸 완벽 가이드입니다 자세한 정보와 꿀팁을 지금 바로 확인해보세요 자세한 정보를 지금 바로 확인해보세요."
-thumbnail: "/images/254/img.jpg"
+thumbnail: "/images/254/thumbnail.jpg"
 ---
 
 <div class="contents_style">

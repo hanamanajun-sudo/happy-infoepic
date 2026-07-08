@@ -6,7 +6,7 @@ tags: ["단편영화", "몸값", "이충현"]
 slug: "이충현-감독-몸값-내용-줄거리-결말"
 numericId: 155
 description: "이충현 감독의 단편 영화 몸값의 전체 줄거리와 결말까지 상세하게 분석하고 리뷰합니다. 단편 영화임에도 불구하고 사람들의 높은 관심과 뜨거운 극찬을 동시에 받은 독특한 작품의 매력 포인트와 숨은 의미, 캐릭터 분석까지 꼼꼼하게 알려드립니다."
-thumbnail: "/images/155/img.jpg"
+thumbnail: "/images/155/thumbnail.jpg"
 ---
 
 <div class="contents_style">

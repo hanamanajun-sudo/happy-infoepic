@@ -6,7 +6,7 @@ tags: ["유튜브", "고은아", "미르", "미르방", "숲속티셔츠"]
 slug: "고은아과거나이근황-총정리HM-숲속-티셔츠-정보"
 numericId: 287
 description: "배우 고은아의 모든 것! 과거 프로필부터 나이, 근황까지 완벽하게 총정리하고 고은아의 유튜브 채널 미르방의 인기 비결도 함께 소개합니다. 엠블랙 미르와 함께하는 남매의 유쾌한 케미와 H&M 숲속 티셔츠 논란까지 모두 담았습니다."
-thumbnail: "/images/287/0a426d29a361f01f7a3bf8e9e05178c7949bb8aaa3728eda91_c53dbcdf.jpg"
+thumbnail: "/images/287/thumbnail.jpg"
 ---
 
 <div class="contents_style">

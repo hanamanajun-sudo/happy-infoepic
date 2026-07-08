@@ -6,7 +6,7 @@ tags: ["유튜버", "비슷해보이즈", "우한관련뉴스"]
 slug: "비슷해보이즈우한-폐렴몰카-사과문시민-반응"
 numericId: 114
 description: "비슷해보이즈우한 폐렴몰카 사과문/시민 반응 관련 최신 정보와 상황을 상세하게 정리했습니다. 알아야 할 핵심 내용과 실생활에 도움이 되는 정보를 한곳에 모아 알려드립니다 자세한 정보를 지금 바로 확인해보세요. 자세한 정보를 지금 바로 확인해보세요."
-thumbnail: "/images/114/img.png"
+thumbnail: "/images/114/thumbnail.jpg"
 ---
 
 <div class="contents_style">

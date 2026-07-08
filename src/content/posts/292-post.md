@@ -6,7 +6,7 @@ tags: ["긴급재난지원금", "긴급재난지원금신청"]
 slug: "긴급재난-지원금핵심-정보신청방법신청기간온라인오프라인"
 numericId: 292
 description: "긴급재난지원금의 정확한 신청 방법과 신청 기간, 온라인과 오프라인 신청 절차를 핵심 정보만 모아 한눈에 쏙 정리했습니다. 긴급재난지원금.kr에서 본인의 지원 금액을 조회하는 방법부터 실제 수령까지 알아야 할 모든 정보를 제공합니다."
-thumbnail: "/images/292/DSe0V.jpg"
+thumbnail: "/images/292/thumbnail.jpg"
 ---
 
 <div class="contents_style">

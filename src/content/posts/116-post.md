@@ -6,7 +6,7 @@ tags: ["넷플릭스", "미드추천"]
 slug: "넷플릭스-미드-SF-추천-입문자용-2020년"
 numericId: 116
 description: "넷플릭스 미드 SF 추천 (입문자용 - 2020년)에 대한 모든 정보를 한곳에 모았습니다. 관람 포인트와 작품의 매력, 시청 전 알아두면 좋은 정보까지 꼼꼼하게 알려드리는 완벽 가이드입니다 자세한 정보와 꿀팁을 지금 바로 확인해보세요."
-thumbnail: "/images/116/img.jpg"
+thumbnail: "/images/116/thumbnail.jpg"
 ---
 
 <div class="contents_style">

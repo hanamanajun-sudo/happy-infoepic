@@ -6,7 +6,7 @@ tags: ["폐스", "폐가전제품수거", "폐가전제품버리기"]
 slug: "가전제품-무료로-버리는-방법폐가전-방문-수거-냉장고에어컨세탁기"
 numericId: 342
 description: "가전제품 무료로 버리는 방법(폐가전 방문 수거) - 냉장고,에어컨,세탁기에 대해 알아야 할 모든 것을 상세하게 정리했습니다. 꼭 필요한 핵심 정보만 쏙쏙 골라 알기 쉽게 알려드립니다 자세한 정보를 지금 바로 확인해보세요."
-thumbnail: "/images/342/img.png"
+thumbnail: "/images/342/thumbnail.jpg"
 ---
 
 <div class="contents_style">

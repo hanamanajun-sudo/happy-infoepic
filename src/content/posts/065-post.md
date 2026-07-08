@@ -6,7 +6,7 @@ tags: ["맛집", "제주도맛집", "연돈", "연돈제주도"]
 slug: "제주도-연돈-위치-영업시간-가격-인상-관련-후기-모음"
 numericId: 65
 description: "제주도 연돈 위치, 영업시간 (가격 인상 관련 후기 모음) 추천 정보를 상세하게 소개합니다. 위치와 분위기, 실제 방문자 후기까지 꼼꼼하게 담아낸 국내 여행 필독 가이드입니다 자세한 정보와 꿀팁을 지금 바로 확인해보세요."
-thumbnail: "/images/65/img.png"
+thumbnail: "/images/65/thumbnail.jpg"
 ---
 
 <div class="contents_style">

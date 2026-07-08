@@ -7,7 +7,7 @@ tags: ["bts", "방탄소년단"]
 slug: "BTS-코든쇼-무대-보는-방법-시간-주소-방탄-블랙스완-최초-무대"
 numericId: 102
 description: "BTS 코든쇼 무대 보는 방법 (시간, 주소) /방탄 블랙스완 최초 무대에 대한 최신 소식과 상세 정보를 모두 정리했습니다. 프로필부터 근황까지 알고 싶은 모든 것을 한눈에 확인하세요 자세한 정보와 꿀팁을 지금 바로 확인해보세요."
-thumbnail: "/images/102/이미지_2.png"
+thumbnail: "/images/102/thumbnail.jpg"
 ---
 
 <div class="contents_style">

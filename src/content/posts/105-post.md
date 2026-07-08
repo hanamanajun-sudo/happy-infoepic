@@ -6,7 +6,7 @@ tags: ["몰카", "우한", "유튜버", "비슷해보이즈"]
 slug: "동대구역-우한-몰카-유튜버-정체-놀라운-6분의-해명"
 numericId: 105
 description: "동대구역 우한 몰카 유튜버 정체 (놀라운 6분의 해명) 관련 최신 정보와 상황을 상세하게 정리했습니다. 알아야 할 핵심 내용과 실생활에 도움이 되는 정보를 한곳에 모아 알려드립니다 자세한 정보를 지금 바로 확인해보세요."
-thumbnail: "/images/105/img.jpg"
+thumbnail: "/images/105/thumbnail.jpg"
 ---
 
 <div class="contents_style">

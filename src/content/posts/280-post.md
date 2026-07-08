@@ -6,7 +6,7 @@ tags: ["차준환", "남자피켜스케이팅"]
 slug: "차준환-선수-정보-모음과거-광고나이키인스타그램"
 numericId: 280
 description: "피겨스케이팅 국가대표 차준환 선수의 상세 프로필과 나이, 키, 과거 광고 출연 이력, 인스타그램 정보를 모두 한곳에 총정리했습니다. 비디오스타 출연으로 더욱 화제가 된 차준환 선수의 모든 것이 궁금하다면 지금 바로 확인하세요."
-thumbnail: "/images/280/img.gif"
+thumbnail: "/images/280/thumbnail.jpg"
 ---
 
 <div class="contents_style">

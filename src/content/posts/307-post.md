@@ -6,7 +6,7 @@ tags: ["라면레시피", "청와대", "대통령", "대통령라면"]
 slug: "청와대-라면-레시피대통령-라면-끓이는-방법"
 numericId: 307
 description: "청와대 라면 레시피(대통령 라면 끓이는 방법)을(를) 집에서도 간단하게 따라할 수 있는 초간단 레시피를 공개합니다. 재료 준비부터 완성까지 단계별로 상세히 알려드리니 요리 초보도 성공할 수 있어요 자세한 정보와 꿀팁을 지금 바로 확인해보세요."
-thumbnail: "/images/307/pic_001.jpg"
+thumbnail: "/images/307/thumbnail.jpg"
 ---
 
 <div class="contents_style">

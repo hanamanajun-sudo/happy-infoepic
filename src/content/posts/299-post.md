@@ -6,7 +6,7 @@ tags: ["이케아", "현대백화점", "이케아천호점"]
 slug: "이케아-천호점-추천비추천실내-사진-위치-영업시간-예약"
 numericId: 299
 description: "이케아 천호점 추천/비추천(실내 사진, 위치, 영업시간, 예약)에 대한 모든 정보를 한곳에 모았습니다. 관람 포인트와 작품의 매력, 시청 전 알아두면 좋은 정보까지 꼼꼼하게 알려드리는 완벽 가이드입니다 자세한 정보와 꿀팁을 지금 바로 확인해보세요."
-thumbnail: "/images/299/img.png"
+thumbnail: "/images/299/thumbnail.jpg"
 ---
 
 <div class="contents_style">

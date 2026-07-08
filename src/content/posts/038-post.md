@@ -6,7 +6,7 @@ tags: ["스타벅스"]
 slug: "홀리데이-카라멜-돌체-라떼후기-모음스타벅스-2019"
 numericId: 38
 description: "홀리데이 카라멜 돌체 라떼/후기 모음/스타벅스 2019. 홀리데이 카라멜 돌체 라떼 메뉴 소개: 관련 자세한 내용과 유용한 정보를 확인해보세요. 관련 키워드: 스타벅스. 자세한 정보와 꿀팁을 지금 바로 확인해보세요."
-thumbnail: "/images/38/img.png"
+thumbnail: "/images/38/thumbnail.jpg"
 ---
 
 <div class="contents_style">

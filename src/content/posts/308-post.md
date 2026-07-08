@@ -6,7 +6,7 @@ tags: ["인테리어", "오뚜기", "함연지", "햄연지"]
 slug: "오뚜기-함연지-아파트-집-공개-재벌-회장-딸-유튜브"
 numericId: 308
 description: "오뚜기 함연지 아파트 집 공개 (재벌 회장 딸 유튜브)에 대한 유용한 정보를 모아 정리했습니다. 반려동물과 함께하는 건강하고 행복한 생활을 위한 실용 가이드를 제공합니다 자세한 정보와 꿀팁을 지금 바로 확인해보세요."
-thumbnail: "/images/308/1.jpg"
+thumbnail: "/images/308/thumbnail.jpg"
 ---
 
 <div class="contents_style">

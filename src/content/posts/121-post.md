@@ -6,7 +6,7 @@ tags: ["광고", "CF", "사랑의블랙홀"]
 slug: "아직도-고통받는-빌-머레이-사랑의-블랙홀-CF광고"
 numericId: 121
 description: "아직도 고통받는 빌 머레이 (사랑의 블랙홀 CF광고). 미국에서 급상승한 인기 영상이 있다고 친구가 보여줬는데 너무 친숙한 화면 ㅋㅋ 관련 자세한 내용과 유용한 정보를 확인해보세요 자세한 정보를 지금 바로 확인해보세요."
-thumbnail: "/images/121/img.png"
+thumbnail: "/images/121/thumbnail.jpg"
 ---
 
 <div class="contents_style">

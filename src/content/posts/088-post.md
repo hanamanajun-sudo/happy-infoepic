@@ -6,7 +6,7 @@ tags: ["bts", "방탄소년단"]
 slug: "2020년-BTS-미국투어-정보스타디움-사진월드-투어-일정"
 numericId: 88
 description: "2020년 BTS 미국투어 정보(스타디움 사진)+월드 투어 일정에 대한 최신 소식과 상세 정보를 모두 정리했습니다. 프로필부터 근황까지 알고 싶은 모든 것을 한눈에 확인하세요 자세한 정보와 꿀팁을 지금 바로 확인해보세요."
-thumbnail: "/images/88/img.jpg"
+thumbnail: "/images/88/thumbnail.jpg"
 ---
 
 <div class="contents_style">

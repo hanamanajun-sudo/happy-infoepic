@@ -6,7 +6,7 @@ tags: ["심은경", "신문기자", "일본아카데미"]
 slug: "심은경일본-아카데미상-수상소감신문기자일본반응"
 numericId: 205
 description: "배우 심은경이 일본 아카데미상 수상작 영화 신문기자로 최우수 여자주연상을 수상한 소식과 일본 현지 언론의 반응을 상세히 정리했습니다. 쟁쟁한 일본 톱배우 5명을 제치고 거머쥔 값진 수상의 의미와 심은경의 눈부신 활약을 조명합니다."
-thumbnail: "/images/205/img.png"
+thumbnail: "/images/205/thumbnail.jpg"
 ---
 
 <div class="contents_style">

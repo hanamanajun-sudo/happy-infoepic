@@ -6,7 +6,7 @@ tags: ["신상공개", "텔레그램", "n번방", "박사방"]
 slug: "박사방-운영자-조주빈-나이-학교-어디전공"
 numericId: 242
 description: "박사방 운영자 조주빈 나이 /학교 어디/전공. 내일 박사방 운영자의 신상 공개에 대한 심의 위원회가 열린다고 했어요. 관련 자세한 내용과 유용한 정보를 확인해보세요. 관련 키워드: 신상공개, 텔레그램, n번방. 자세한 정보와 꿀팁을 지금 바로 확인해보세요."
-thumbnail: "/images/242/이미지_1.png"
+thumbnail: "/images/242/thumbnail.jpg"
 ---
 
 <div class="contents_style">

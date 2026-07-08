@@ -6,7 +6,7 @@ tags: ["이용대", "변수미"]
 slug: "배드민턴-이용대-부인-변수미-누구과거이혼"
 numericId: 339
 description: "전 배드민턴 국가대표 이용대의 상세 프로필과 아내 변수미에 대한 모든 궁금증을 속 시원히 정리했습니다. 이용대의 나이, 키, 현역 시절의 화려한 활약상과 결혼 및 이혼 관련 이야기까지 알고 싶은 모든 정보를 상세하게 알려드립니다."
-thumbnail: "/images/339/img.jpg"
+thumbnail: "/images/339/thumbnail.jpg"
 ---
 
 <div class="contents_style">

@@ -7,7 +7,7 @@ tags: ["이연복", "황금레시피", "이연복케찹", "케찹소스"]
 slug: "이연복-케찹-레시피매콤-달콤-초간단-소스"
 numericId: 215
 description: "이연복 케찹 레시피(매콤 달콤 초간단 소스)을(를) 집에서도 간단하게 따라할 수 있는 초간단 레시피를 공개합니다. 재료 준비부터 완성까지 단계별로 상세히 알려드리니 요리 초보도 성공할 수 있어요 자세한 정보와 꿀팁을 지금 바로 확인해보세요."
-thumbnail: "/images/215/img.jpg"
+thumbnail: "/images/215/thumbnail.jpg"
 ---
 
 <div class="contents_style">
