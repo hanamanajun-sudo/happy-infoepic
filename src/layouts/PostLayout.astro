@@ -71,7 +71,7 @@ const jsonLd = JSON.stringify([
 >
   <script type="application/ld+json" set:html={jsonLd} slot="head" />
 
-  <article class="post-container" data-pagefind-body>
+  <article class="post-container">
     <div class="container">
       <!-- Breadcrumb -->
       <nav class="breadcrumb" aria-label="경로">
@@ -119,7 +119,7 @@ const jsonLd = JSON.stringify([
       <TOC />
 
       <!-- Content -->
-      <div class="post-content">
+      <div class="post-content" data-pagefind-body>
         <slot />
       </div>
 
