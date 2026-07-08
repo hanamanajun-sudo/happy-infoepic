@@ -6,7 +6,7 @@ tags: []
 slug: "2020년-전국-벚꽃-축제-정보-개화시기"
 numericId: 168
 description: "2020년 전국 벚꽃 개화시기와 유명한 벚꽃 축제 정보를 지역별 대표 명소와 함께 완벽하게 정리했습니다. 여의도 윤중로 벚꽃길, 진해 군항제, 경주 등 한국의 대표 벚꽃 명소들의 개화 예상 시기와 꼭 알아야 할 알찬 방문 팁을 제공합니다."
-thumbnail: ""
+thumbnail: "/images/168/thumbnail.jpg"
 ---
 
 <div class="contents_style">

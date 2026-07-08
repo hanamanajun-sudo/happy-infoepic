@@ -6,7 +6,7 @@ tags: ["철분"]
 slug: "철분이-부족한-원인-5가지-이유-해결-방법"
 numericId: 21
 description: "안녕하세요. 저는 일본에 살고 있는 평범한 가장입니다.포포킹 대백과는 새롭고 도움이 되는 정보를 제가 필요해서 모으고 정리하는사이트입니다. 음식, 건강, 웃음, 새로운 뉴스들로 꽉꽉 채워 제 지식 대백과로 사용할 예정입니다. 혹시 오시는 분들에게도 도움이 될 수 있었으면 합니다."
-thumbnail: ""
+thumbnail: "/images/21/thumbnail.jpg"
 ---
 
 <div class="contents_style">

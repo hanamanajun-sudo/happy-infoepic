@@ -6,7 +6,7 @@ tags: []
 slug: "충남대학교-수의과-전국-대학-순위경쟁률커트라인동급대학-비교"
 numericId: 302
 description: "충남대학교 수의과 (전국 대학 순위/경쟁률/커트라인/동급대학 비교) 관련 다양한 정보와 유용한 내용을 한곳에 모아 정리했습니다. 궁금한 점을 해결하고 알찬 정보를 얻어가세요. 필요한 모든 정보를 지금 바로 확인하고 활용해보세요."
-thumbnail: ""
+thumbnail: "/images/302/thumbnail.jpg"
 ---
 
 <div class="contents_style">

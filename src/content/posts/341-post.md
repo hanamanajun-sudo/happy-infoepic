@@ -1,12 +1,13 @@
 ---
 title: "오이 효능/영향소 정리 (+주의사항 부작용)"
 date: "2020-05-31"
+updated: "2026-07-08"
 category: "미분류"
 tags: []
 slug: "오이-효능영향소-정리-주의사항-부작용"
 numericId: 341
 description: "오이는 여름철 대표 채소로 시원하고 아삭한 식감이 매력입니다. 95% 이상이 수분으로 이루어져 있어 수분 보충에 좋고, 칼로리가 낮아 다이어트 식품으로도 인기가 많아요. 오이의 효능과 영양소, 부작용까지 꼼꼼하게 정리해보았습니다."
-thumbnail: ""
+thumbnail: "/images/341/thumbnail.jpg"
 ---
 
 <div class="contents_style">

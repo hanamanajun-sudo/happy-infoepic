@@ -6,7 +6,7 @@ tags: []
 slug: "금연에-실패하는-이유-하루-안에-담배-끊는-방법-1편"
 numericId: 7
 description: "금연에 실패하는 이유 -하루 안에 담배 끊는 방법 1편에 대해 알아야 할 모든 것을 상세하게 정리했습니다. 꼭 필요한 핵심 정보만 쏙쏙 골라 알기 쉽게 알려드립니다 자세한 정보를 지금 바로 확인해보세요. 자세한 정보를 지금 바로 확인해보세요."
-thumbnail: ""
+thumbnail: "/images/7/thumbnail.jpg"
 ---
 
 <div class="contents_style">

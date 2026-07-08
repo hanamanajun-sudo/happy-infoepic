@@ -6,7 +6,7 @@ tags: ["코로나", "코로나19"]
 slug: "코로나-정보-사이트앱-추천Best11"
 numericId: 200
 description: "코로나 정보 사이트/앱 추천(Best11)에 대한 모든 정보를 한곳에 모았습니다. 관람 포인트와 작품의 매력, 시청 전 알아두면 좋은 정보까지 꼼꼼하게 알려드리는 완벽 가이드입니다 자세한 정보와 꿀팁을 지금 바로 확인해보세요."
-thumbnail: ""
+thumbnail: "/images/200/thumbnail.jpg"
 ---
 
 <div class="contents_style">

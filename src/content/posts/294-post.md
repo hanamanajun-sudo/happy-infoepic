@@ -6,7 +6,7 @@ tags: []
 slug: "2020년-이마트-5월-휴무일간단-정리"
 numericId: 294
 description: "2020년 이마트 5월 휴무일(간단 정리) 관련 다양한 정보와 유용한 내용을 한곳에 모아 정리했습니다. 궁금한 점을 해결하고 알찬 정보를 얻어가세요. 필요한 모든 정보를 지금 바로 확인하고 활용해보세요. 관련 상세 정보를 지금 바로 확인해보세요."
-thumbnail: ""
+thumbnail: "/images/294/thumbnail.jpg"
 ---
 
 <div class="contents_style">

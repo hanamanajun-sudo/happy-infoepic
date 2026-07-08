@@ -1,12 +1,13 @@
 ---
 title: "넷플릭스 공포 추천 미드 BEST5"
 date: "2020-01-30"
+updated: "2026-07-08"
 category: "미분류"
 tags: []
 slug: "넷플릭스-공포-추천-미드-BEST5"
 numericId: 113
 description: "넷플릭스에서 지금 바로 볼 수 있는 공포 호러 드라마 추천 BEST5를 엄선해서 소개합니다. 킹덤, 워킹데드 등 긴장감 넘치는 스토리와 몰입도 높은 연출이 돋보이는 작품들을 장르별 특징과 함께 자세하게 소개하는 호러 덕후들을 위한 필독 리스트입니다."
-thumbnail: ""
+thumbnail: "/images/113/thumbnail.jpg"
 ---
 
 <div class="contents_style">

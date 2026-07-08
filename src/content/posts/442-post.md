@@ -6,7 +6,7 @@ tags: []
 slug: "추석선물-추천-순위-2022"
 numericId: 442
 description: "추석선물 추천 순위 - 2022에 대한 모든 정보를 한곳에 모았습니다. 작품의 매력과 관람 포인트, 시청 전 알아두면 좋은 정보까지 알차게 담아낸 완벽 가이드입니다. 추석이 오면 매년 지인 또는 가족에게 어떤 추석 선물을 하면 좋을까 고민하게 된다. 지금 바로 확인해보세요."
-thumbnail: ""
+thumbnail: "/images/442/thumbnail.jpg"
 ---
 
 <div class="contents_style">

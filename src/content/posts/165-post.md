@@ -6,7 +6,7 @@ tags: ["확진자", "31번", "코로나19", "신천지위치"]
 slug: "31번-확진자-대구-이동-동선-정확한-위치-정보"
 numericId: 165
 description: "31번 확진자 대구 이동 동선 (정확한 위치 정보) 관련 최신 정보와 상황을 상세하게 정리했습니다. 알아야 할 핵심 내용과 실생활에 도움이 되는 정보를 한곳에 모아 알려드립니다 자세한 정보를 지금 바로 확인해보세요."
-thumbnail: ""
+thumbnail: "/images/165/thumbnail.jpg"
 ---
 
 <div class="contents_style">

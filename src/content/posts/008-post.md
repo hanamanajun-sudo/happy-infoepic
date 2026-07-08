@@ -6,7 +6,7 @@ tags: ["금연방법"]
 slug: "금연-할-때-준비해야-할-것-하루-안에-담배-끊는-방법-2편"
 numericId: 8
 description: "금연을 진지하게 결심했다면 오늘부터 바로 실천할 수 있는 가장 현실적인 금연 방법을 소개합니다. 담배를 끊기 전에 꼭 알아야 할 필수 준비 사항과 본인의 흡연 습관을 분석하고 극복하는 전략, 금단 증상을 이겨내는 실전 노하우를 담은 금연 성공 가이드입니다."
-thumbnail: ""
+thumbnail: "/images/8/thumbnail.jpg"
 ---
 
 <div class="contents_style">

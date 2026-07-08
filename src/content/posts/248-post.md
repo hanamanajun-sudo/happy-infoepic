@@ -6,7 +6,7 @@ tags: []
 slug: "mask"
 numericId: 248
 description: "이머징 국가, 마켓페드기준금리의 실효하한---------------19일 ▲아에르마스크 ▲뉴네퓨어 ▲강블리라이프 ▲걸리버 인쇄 ▲무신사 ▲위메프 ▲아이에뜨 ▲숨프리 웰퓨어 ▲위케어 ▲닥터퓨리 ▲웰킵스 등 11곳이 KF94 마스크 판매를 진행한다.이 중 이날 불특정 시간에 게릴라 방."
-thumbnail: ""
+thumbnail: "/images/248/thumbnail.jpg"
 ---
 
 <div class="contents_style">
