@@ -6,7 +6,7 @@ tags: ["에일리언", "오블완", "티스토리챌린지"]
 slug: "에일리언-시리즈-시간-순서-봐야하는-순서"
 numericId: 482
 description: "에일리언 시리즈 시간 순서 (봐야하는 순서). 먼저 영화가 나온 개봉 순서 그리고 영화 속 시간대(연대기) 순서로 소개를 하려고 합니다. 관련 자세한 내용과 유용한 정보를 확인해보세요 자세한 정보를 지금 바로 확인해보세요."
-thumbnail: "/images/482/에이리언_어스_티저_예고편_디즈니_0-8_screenshot_1.png"
+thumbnail: "/images/482/thumbnail.jpg"
 ---
 
 <div class="contents_style">

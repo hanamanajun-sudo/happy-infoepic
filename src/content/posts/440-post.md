@@ -7,7 +7,7 @@ tags: ["아침밥", "아침메뉴"]
 slug: "아침-식단-추천-메뉴-이상적인-아침밥"
 numericId: 440
 description: "아침 식단 추천 메뉴 (이상적인 아침밥)에 대한 모든 정보를 한곳에 모았습니다. 관람 포인트와 작품의 매력, 시청 전 알아두면 좋은 정보까지 꼼꼼하게 알려드리는 완벽 가이드입니다 자세한 정보와 꿀팁을 지금 바로 확인해보세요."
-thumbnail: "/images/440/다운로드_10.jfif"
+thumbnail: "/images/440/thumbnail.jpg"
 ---
 
 <div class="contents_style">

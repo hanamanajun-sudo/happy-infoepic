@@ -6,7 +6,7 @@ tags: ["빈스길리건", "브레이킹배드"]
 slug: "빈스-길리건-브레이킹-배드의-차기작-드라마-소식"
 numericId: 476
 description: "빈스 길리건 (브레이킹 배드)의 차기작 드라마 소식에 대한 모든 정보를 한곳에 모았습니다. 관람 포인트와 작품의 매력, 시청 전 알아두면 좋은 정보까지 꼼꼼하게 알려드리는 완벽 가이드입니다 자세한 정보와 꿀팁을 지금 바로 확인해보세요."
-thumbnail: "/images/476/breakingBad-se000.jpg"
+thumbnail: "/images/476/thumbnail.jpg"
 ---
 
 <div class="contents_style">

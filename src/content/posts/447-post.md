@@ -6,7 +6,7 @@ tags: ["박수홍"]
 slug: "박수홍-미담-모음-과거-부터-현재까지"
 numericId: 447
 description: "박수홍 미담 모음 (과거 부터 현재까지). 최근 박수홍님에게 안좋은 일이 마무리 되지 않고 계속되고 있는 와중인데요. 관련 자세한 내용과 유용한 정보를 확인해보세요. 관련 키워드: 박수홍. 자세한 정보와 꿀팁을 지금 바로 확인해보세요."
-thumbnail: "/images/447/PS21040200005.jpg"
+thumbnail: "/images/447/thumbnail.jpg"
 ---
 
 <div class="contents_style">

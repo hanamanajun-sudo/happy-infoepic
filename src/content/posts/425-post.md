@@ -7,7 +7,7 @@ tags: ["군고구마잘굽는방법"]
 slug: "군고구마-에어프라이기-레시피-황금-꿀고구마-만드는-전설의-황금비율"
 numericId: 425
 description: "에어프라이어로 군고구마를 꿀고구마처럼 겉은 바삭 속은 쫀득하게 굽는 전설의 황금 비율 레시피를 대공개합니다. 완벽한 식감을 만들어내는 온도와 시간의 비밀 조합을 단계별 상세 가이드로 알려드리니 레시피를 꼭 저장하세요."
-thumbnail: "/images/425/img.jpg"
+thumbnail: "/images/425/thumbnail.jpg"
 ---
 
 <div class="contents_style">

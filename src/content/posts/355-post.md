@@ -6,7 +6,7 @@ tags: ["김민경", "필라테스", "심으뜸", "운동뚱"]
 slug: "김민경운동뚱다시보기필라테스-편-본투비-근수저"
 numericId: 355
 description: "김민경운동뚱다시보기(필라테스 편)-본투비 근수저. 이제까지 웨이트 트레이닝, 근육을 위한 무산소 헬스 운동이였다면 관련 자세한 내용과 유용한 정보를 확인해보세요. 관련 키워드: 김민경, 필라테스, 심으뜸. 자세한 정보와 꿀팁을 지금 바로 확인해보세요."
-thumbnail: "/images/355/img.jpg"
+thumbnail: "/images/355/thumbnail.jpg"
 ---
 
 <div class="contents_style">

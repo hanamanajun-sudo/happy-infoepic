@@ -6,7 +6,7 @@ tags: []
 slug: "2020년-넷플릭스-인기영화-BEST10"
 numericId: 394
 description: "2020년 넷플릭스 인기영화 BEST10에 대한 모든 정보를 한곳에 모았습니다. 작품의 매력과 관람 포인트, 시청 전 알아두면 좋은 정보까지 알차게 담아낸 완벽 가이드입니다. 필요한 모든 정보를 지금 바로 확인하고 활용해보세요."
-thumbnail: "/images/394/img.jpg"
+thumbnail: "/images/394/thumbnail.jpg"
 ---
 
 <div class="contents_style">

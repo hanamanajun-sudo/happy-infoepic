@@ -7,7 +7,7 @@ tags: ["치즈소스", "디핑소스", "치즈디핑", "간단레시피"]
 slug: "전설의-치즈디핑소스-만드는법-초간단-트위터-레시피"
 numericId: 383
 description: "전설의 치즈디핑소스 만드는법 (초간단 트위터 레시피)을(를) 집에서도 간단하게 따라할 수 있는 초간단 레시피를 공개합니다. 재료 준비부터 완성까지 단계별로 상세히 알려드리니 요리 초보도 성공할 수 있어요 자세한 정보와 꿀팁을 지금 바로 확인해보세요."
-thumbnail: "/images/383/img.png"
+thumbnail: "/images/383/thumbnail.jpg"
 ---
 
 <div class="contents_style">

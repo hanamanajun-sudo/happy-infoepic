@@ -7,7 +7,7 @@ tags: ["프렌치토스트", "프렌치토스트레시피"]
 slug: "NHK-프렌치-토스트-인생-꿀팁"
 numericId: 390
 description: "NHK 프렌치 토스트 (인생 꿀팁)에 대해 알아야 할 모든 것을 상세하게 정리했습니다. 꼭 필요한 핵심 정보만 쏙쏙 골라 알기 쉽게 알려드립니다. 관련 키워드: 프렌치토스트, 프렌치토스트레시피. 자세한 정보와 꿀팁을 지금 바로 확인해보세요."
-thumbnail: "/images/390/img.png"
+thumbnail: "/images/390/thumbnail.jpg"
 ---
 
 <div class="contents_style">

@@ -6,7 +6,7 @@ tags: ["냉동만두", "냉동만두추천"]
 slug: "냉동만두-추천만두-10종-맛순위-비교가성비-랭킹"
 numericId: 348
 description: "냉동만두 추천/만두 10종 맛순위 비교+(가성비 랭킹)에 대한 모든 정보를 한곳에 모았습니다. 관람 포인트와 작품의 매력, 시청 전 알아두면 좋은 정보까지 꼼꼼하게 알려드리는 완벽 가이드입니다 자세한 정보와 꿀팁을 지금 바로 확인해보세요."
-thumbnail: "/images/348/img.jpg"
+thumbnail: "/images/348/thumbnail.jpg"
 ---
 
 <div class="contents_style">

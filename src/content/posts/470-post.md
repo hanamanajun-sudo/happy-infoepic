@@ -6,7 +6,7 @@ tags: ["건강"]
 slug: "위에-부담없는-먹어도-되는-야식-야밤의-나에게-추천하는-리스트"
 numericId: 470
 description: "위에 부담없는 먹어도 되는 야식 (야밤의 나에게 추천하는 리스트)에 대한 모든 정보를 한곳에 모았습니다. 관람 포인트와 작품의 매력, 시청 전 알아두면 좋은 정보까지 꼼꼼하게 알려드리는 완벽 가이드입니다 자세한 정보와 꿀팁을 지금 바로 확인해보세요."
-thumbnail: "/images/470/제목을-입력해주세요_-001_1.png"
+thumbnail: "/images/470/thumbnail.jpg"
 ---
 
 <div class="contents_style">

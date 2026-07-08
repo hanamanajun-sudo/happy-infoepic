@@ -6,7 +6,7 @@ tags: ["AI영상", "ai영상"]
 slug: "AI로-동영상-만드는-사이트-사진-움직이게-하는-ai-추천"
 numericId: 480
 description: "AI가 빠르게 발전하고 있고 유튜브나 인스타 등에서도 쉽게 볼수 있을 정도로 많은 사람들이 AI를 활용하여 컨텐츠를 만들고 있다. 쳇지피티가 그렇고 최근에 핸드폰 등을 통해서도 쉽게 이미지를 생성하거나 수정하는 기술도 많이 발전하고 있다."
-thumbnail: "/images/480/dd캡처.png"
+thumbnail: "/images/480/thumbnail.jpg"
 ---
 
 <div class="contents_style">

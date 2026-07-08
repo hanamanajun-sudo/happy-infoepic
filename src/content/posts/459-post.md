@@ -6,7 +6,7 @@ tags: ["대피소", "비상상황"]
 slug: "대피소-찾는-방법-어플-서버-다운-시-할수-있는-것-대피소에서-행동-요령"
 numericId: 459
 description: "갑작스럽게 경계경보 오발령 및 재난 문자가 발송되어 주변 분들을 포함해서 저도 놀랐는데요. 대피할 준비를 하라는 위급 재난 문자를 보고 역시 이럴 때에는 순간적으로 어떻게 해야할지 멍해지네요.서버가 먹통되기도 해서 비상 상황에 미리 미리 알아볼 수 있도록대피소 찾는 방법과 어떤 행동을."
-thumbnail: "/images/459/edited_1685484869718-naorm0n2ofl.jpg"
+thumbnail: "/images/459/thumbnail.jpg"
 ---
 
 <div class="contents_style">

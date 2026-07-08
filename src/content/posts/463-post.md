@@ -7,7 +7,7 @@ tags: ["마스크걸"]
 slug: "마스크걸-드라마-vs-원작-웹툰-배역-비교-등장인물-싱크로율"
 numericId: 463
 description: "넷플릭스에서 공개되어 반응 좋은 마스크걸을 어제 다 봤다. 처음에는 자극적인 예고편에 기대반으로 봤는데 점점 갈수록 배우들의 연기력과 이야기에 빠져들어 정신없이 보다가 단숨에 다 보았고 지금은 아쉬움에 마스크걸 이것저것 찾아보고 있는 중이다."
-thumbnail: "/images/463/eb217ce5635e60685484594642225525fd7450bc.jpg"
+thumbnail: "/images/463/thumbnail.jpg"
 ---
 
 <div class="contents_style">

@@ -7,7 +7,7 @@ tags: ["픽사"]
 slug: "픽사-역대-애니-영화-리스트20242025년"
 numericId: 478
 description: "애들과 함께 보려고 픽사 애니메이션 리스트를 작성합니다. 저도 재미있게 볼 수 있는 작품들이 많이 있고 어린이들에게도 웃음과 감동을 줄 수 있는 작품이 많이 있는 픽사를 좋아합니다. 픽사는 디즈니 픽사라는 이름으로 불리며, 전세계에서 가장 사랑받는 애니메이션 스튜디오 중 하나입니다."
-thumbnail: "/images/478/c27ea481-3d61-433d-9aed-8b3136c14926.jpg"
+thumbnail: "/images/478/thumbnail.jpg"
 ---
 
 <div class="contents_style">

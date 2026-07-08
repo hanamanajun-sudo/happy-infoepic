@@ -7,7 +7,7 @@ tags: []
 slug: "향-좋은-바디워시-추천-순위-Best9"
 numericId: 419
 description: "향 좋은 바디워시 추천 (순위 Best9)에 대한 모든 정보를 한곳에 모았습니다. 작품의 매력과 관람 포인트, 시청 전 알아두면 좋은 정보까지 알차게 담아낸 완벽 가이드입니다. 필요한 모든 정보를 지금 바로 확인하고 활용해보세요."
-thumbnail: "/images/419/img.png"
+thumbnail: "/images/419/thumbnail.jpg"
 ---
 
 <div class="contents_style">

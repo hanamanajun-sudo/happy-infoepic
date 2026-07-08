@@ -6,7 +6,7 @@ tags: ["부산폭우", "부산상황", "부산"]
 slug: "부산-폭우로-물난리-상황-홍수-피해-영상-모음"
 numericId: 384
 description: "부산 폭우로 물난리 상황 (홍수 피해 영상 모음). 현재 부산이 폭우로 인해 물난리가 각 지역에서 나고 있어 제보가 올라오고 있는 상황이에요. 관련 자세한 내용과 유용한 정보를 확인해보세요 자세한 정보를 지금 바로 확인해보세요."
-thumbnail: "/images/384/img.png"
+thumbnail: "/images/384/thumbnail.jpg"
 ---
 
 <div class="contents_style">

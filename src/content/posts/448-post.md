@@ -6,7 +6,7 @@ tags: ["서울"]
 slug: "서울-시티뷰-카페-전망-좋은-최고-카페-9곳-추천"
 numericId: 448
 description: "서울 시티뷰 카페 (전망 좋은 최고 카페 9곳 추천)에 대한 모든 정보를 한곳에 모았습니다. 관람 포인트와 작품의 매력, 시청 전 알아두면 좋은 정보까지 꼼꼼하게 알려드리는 완벽 가이드입니다 자세한 정보와 꿀팁을 지금 바로 확인해보세요."
-thumbnail: "/images/448/edited_9F8ADF32-7615-45F0-A2CA-75AE44D28190.jpeg"
+thumbnail: "/images/448/thumbnail.jpg"
 ---
 
 <div class="contents_style">
