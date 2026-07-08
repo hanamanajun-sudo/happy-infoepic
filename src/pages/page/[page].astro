@@ -19,7 +19,7 @@ export async function getStaticPaths() {
     props: {
       page: i + 2,
       totalPages,
-      posts: posts.slice(i * PER_PAGE, (i + 1) * PER_PAGE),
+      posts: posts.slice((i + 1) * PER_PAGE, (i + 2) * PER_PAGE),
     },
   }));
 }
